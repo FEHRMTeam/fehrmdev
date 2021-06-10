@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: 18f/federalist-uswds-gatsby
+  repo: FEHRMTeam/fehrmdev
   base_url: https://federalistapp.18f.gov
   auth_endpoint: external/auth/github
   branch: main
