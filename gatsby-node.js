@@ -67,7 +67,7 @@ async function createBlogPages(createPage, graphql) {
 
 async function createMarkdownPages(createPage, graphql) {
   const pageTemplate = path.resolve('./src/templates/documentation-page.js');
-  const pages = await markdownQuery(graphql, 'documentation-pages');
+  const pages = await markdownQuery(graphql, 'content-pages');
 
   pages.forEach(({ node }) => {
     createPage({
