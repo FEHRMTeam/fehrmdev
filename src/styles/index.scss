@@ -53,9 +53,24 @@ $theme-hero-image: '#{$site-image-path}/home-hero.png';
   align-items: center;
 }
 
+// Hero Callout
+.usa-hero__callout {
+ background-color: #054C78;
+}
+
 // CTA section
 .usa-graphic-list .usa-media-block__img {
   width: 124px;
 }
 
+.usa-section--dark {
+  background-color: #054C78;
+}
+
 /* End Home Page */
+
+/* Footer */
+.usa-footer .footer-logo img {
+  width: 100%;
+}
+/* End Footer */
