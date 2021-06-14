@@ -11,7 +11,7 @@ module.exports = {
       {
         title: 'About',
         items: [
-          { text: 'What is FEHRM?', link: '/about-fehrm' },
+          { text: 'What Is The FEHRM?', link: '/about-fehrm' },
           { text: 'Mission', link: '/mission' },
           { text: 'Leadership', link: '/leadership' },
           { text: 'History', link: '/history' },
