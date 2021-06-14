@@ -1,5 +1,8 @@
 import React from 'react';
-import circle from '../../node_modules/uswds/dist/img/circle-124.png';
+import topLeftCTAImage from '../images/cta-icon1.png';
+import topRightCTAImage from '../images/cta-icon2.png';
+import bottomLeftCTAImage from '../images/cta-icon3.png';
+import bottomRightCTAImage from '../images/cta-icon4.png';
 
 /*
   Use this section to highlight key elements of your site. Some sites will only have two while others may have six to eight. 
@@ -10,7 +13,7 @@ const Highlights = () => (
     <div className="grid-container">
       <div className="usa-graphic-list__row grid-row grid-gap">
         <div className="usa-media-block tablet:grid-col">
-          <img className="usa-media-block__img" src={circle} alt="Alt text" />
+          <img className="usa-media-block__img" src={topLeftCTAImage} alt="Alt text" />
           <div className="usa-media-block__body">
             <h3 className="usa-graphic-list__heading">
               Graphic headings can vary.
@@ -23,7 +26,7 @@ const Highlights = () => (
           </div>
         </div>
         <div className="usa-media-block tablet:grid-col">
-          <img className="usa-media-block__img" src={circle} alt="Alt text" />
+          <img className="usa-media-block__img" src={topRightCTAImage} alt="Alt text" />
           <div className="usa-media-block__body">
             <h3 className="usa-graphic-list__heading">
               Stick to 6 or fewer words.
@@ -38,7 +41,7 @@ const Highlights = () => (
       </div>
       <div className="usa-graphic-list__row grid-row grid-gap">
         <div className="usa-media-block tablet:grid-col">
-          <img className="usa-media-block__img" src={circle} alt="Alt text" />
+          <img className="usa-media-block__img" src={bottomLeftCTAImage} alt="Alt text" width="124px" />
           <div className="usa-media-block__body">
             <h3 className="usa-graphic-list__heading">
               Never highlight anything without a goal.
@@ -51,7 +54,7 @@ const Highlights = () => (
           </div>
         </div>
         <div className="usa-media-block tablet:grid-col">
-          <img className="usa-media-block__img" src={circle} alt="Alt text" />
+          <img className="usa-media-block__img" src={bottomRightCTAImage} alt="Alt text" />
           <div className="usa-media-block__body">
             <h3 className="usa-graphic-list__heading">
               Could also have 2 or 6.
