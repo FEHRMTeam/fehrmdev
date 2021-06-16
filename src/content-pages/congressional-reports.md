@@ -4,18 +4,12 @@ sidenav: false
 ---
 # Congressional Reports
 
-There are multiple committees in the Senate and the House of Representatives with oversight of the FEHRM. They include, but are not limited to, the following:
+The Federal Electronic Health Record Modernization (FEHRM) program office submits several reports to Congress as mandated by legislation. Submitted reports are listed below.
 
-**Senate**
-
-* [Senate Committee on Veterans’ Affairs](https://www.veterans.senate.gov/)
-* [Senate Committee on Appropriations](https://www.appropriations.senate.gov/)
-* [Senate Committee on Armed Services](https://www.armed-services.senate.gov/)
-* [Senate Committee on Homeland Security and Governmental Affairs](https://www.hsgac.senate.gov/)
-
-**House of Representatives**
-
-* [House Committee on Veterans’ Affairs](https://veterans.house.gov/)
-* [House Committee on Appropriations](https://appropriations.house.gov/)  
-* [House Committee on Armed Services](https://armedservices.house.gov/)
-* [House Committee on Homeland Security](https://homeland.house.gov/)
+* 2019 FEHRM Annual Report
+* Quarter Two, Fiscal Year 2020 Interoperability Progress Quarterly Report
+* Quarter Two, Fiscal Year 2020 Interoperability Progress Quarterly Report
+* Quarter Three, Fiscal Year 2020 Interoperability Progress Quarterly Report
+* Quarter Four, Fiscal Year 2020 Interoperability Progress Quarterly Report
+* Quarter One, Fiscal Year 2021 Interoperability Progress Quarterly Report
+* FEHRM DOD/VA Interoperability Modernization Strategy
