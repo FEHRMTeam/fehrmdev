@@ -2,8 +2,9 @@
 title: Senate Testimony
 sidenav: false
 ---
-
 # Senate Testimony
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus bibendum ligula quis nunc consequat blandit. Donec imperdiet tempus lacinia. Cras posuere massa nec consequat volutpat. Nam a lectus elit. Maecenas malesuada lacus libero, et ornare tellus porta non. Mauris porta risus id ultrices venenatis. Sed finibus elit eu porta gravida.
 
-Fusce congue, lorem eget vestibulum tristique, sapien neque gravida erat, ac dictum enim elit vel elit. Nullam venenatis pulvinar mi, nec consequat nibh sollicitudin sit amet. Integer maximus mollis semper. Sed mi ligula, dapibus at tristique non, iaculis at lectus. Cras sed massa quis nibh finibus faucibus. Praesent elementum turpis eleifend lectus facilisis, ut eleifend libero luctus. Sed ac mauris sit amet nisi volutpat efficitur sed sit amet sapien. Vestibulum sodales semper risus, vitae consequat lacus convallis quis. Duis convallis eget quam at rutrum. Morbi sed ipsum gravida dui gravida pulvinar ac at diam. Donec ut augue justo. Proin sit amet mi sem. Suspendisse at turpis a ante pretium pulvinar quis a tortor.
+Recent Senate testimony related to the FEHRM are listed below.
+
+* [Prepared Statement of Dr. Terry Adirim, M.D., MPH, MBA Acting Assistant Secretary of Defense (Health Affairs) regarding the Military Health System](https://www.appropriations.senate.gov/imo/media/doc/STATEMENT%20Dr.%20Adirim%20AASD%20Health%20Affairs%20(4.20.21).pdf) – Senate Committee on Appropriations, Subcommittee on Defense, hearing (April 20, 2021) 
+* [Review of the VA's Electronic Health Record Modernization](https://www.appropriations.senate.gov/hearings/review-of-the-vas-electronic-health-record-modernization) – Senate Committee on Appropriations, Subcommittee on Military Construction, Veterans Affairs, and Related Agencies hearing (February 5, 2019)
