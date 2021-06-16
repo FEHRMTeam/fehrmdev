@@ -2,8 +2,16 @@
 title: History
 sidenav: false
 ---
-
 # History
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus bibendum ligula quis nunc consequat blandit. Donec imperdiet tempus lacinia. Cras posuere massa nec consequat volutpat. Nam a lectus elit. Maecenas malesuada lacus libero, et ornare tellus porta non. Mauris porta risus id ultrices venenatis. Sed finibus elit eu porta gravida.
 
-Fusce congue, lorem eget vestibulum tristique, sapien neque gravida erat, ac dictum enim elit vel elit. Nullam venenatis pulvinar mi, nec consequat nibh sollicitudin sit amet. Integer maximus mollis semper. Sed mi ligula, dapibus at tristique non, iaculis at lectus. Cras sed massa quis nibh finibus faucibus. Praesent elementum turpis eleifend lectus facilisis, ut eleifend libero luctus. Sed ac mauris sit amet nisi volutpat efficitur sed sit amet sapien. Vestibulum sodales semper risus, vitae consequat lacus convallis quis. Duis convallis eget quam at rutrum. Morbi sed ipsum gravida dui gravida pulvinar ac at diam. Donec ut augue justo. Proin sit amet mi sem. Suspendisse at turpis a ante pretium pulvinar quis a tortor.
+The creation of the Federal Electronic Health Record Modernization (FEHRM) program office is a result of a concerted, joint effort between the Department of Defense (DOD) and the Department of Veterans Affairs (VA). In 2018, the Secretary of Defense and Secretary of Veterans Affairs issued a joint commitment to implement a “single, seamlessly integrated electronic health record (EHR) that will accurately and efficiently share health data between our two agencies and ensure health record interoperability with our supporting community healthcare providers.” The letter emphasized “it is imperative that the DOD and VA work together to promote the best use of resources in pursuit of our common EHR modernization goals and objectives.”
+
+In response, DOD and VA leaders chartered the Joint Electronic Health Record Modernization Working Group (JEHRM) to develop recommendations for an organizational construct that would enable an agile, decision-making authority to efficiently adjudicate functional, technical and programmatic interoperability issues while advancing unity, synergy and efficiencies.
+
+The JEHRM’s efforts culminated in Department approval on March 2, 2019 for a joint office construct. Subsequently, the Departments committed to implementation planning and identified interim leadership to stand up the organization until completion of the executive recruiting process. The FEHRM Interim Director, Dr. Neil Evans, and Interim Deputy Director, Ms. Holly Joers, were appointed on September 16, 2019. The Deputy Secretary of Defense and Deputy Secretary of Veterans Affairs signed the FEHRM Charter on December 4, 2019.
+
+Most recently, DOD and VA selected Mr. Bill Tinston as the FEHRM Director and Mr. Ed Reyelts as the FEHRM Deputy Director. They started in August 2020.
+
+At inception, the FEHRM focused on the following priorities: determining organizational funding and resource alignment; developing a communications strategy and tools; consolidating joint issue lists and establishing a framework to manage risks, issues and opportunities; and establishing a formal decision forum to reconcile issues. From this foundation, the FEHRM’s focus areas evolved to delivering common capabilities within the federal space that enhanced the care experience for all.
+
+![FEHRM Timeline](/images/timeline.png "FEHRM Timeline")
