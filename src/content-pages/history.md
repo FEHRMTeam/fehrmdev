@@ -13,5 +13,3 @@ The JEHRM’s efforts culminated in Department approval on March 2, 2019 for a j
 Most recently, DOD and VA selected Mr. Bill Tinston as the FEHRM Director and Mr. Ed Reyelts as the FEHRM Deputy Director. They started in August 2020.
 
 At inception, the FEHRM focused on the following priorities: determining organizational funding and resource alignment; developing a communications strategy and tools; consolidating joint issue lists and establishing a framework to manage risks, issues and opportunities; and establishing a formal decision forum to reconcile issues. From this foundation, the FEHRM’s focus areas evolved to delivering common capabilities within the federal space that enhanced the care experience for all.
-
-![FEHRM Timeline](/images/timeline.png "FEHRM Timeline")
