@@ -2,8 +2,8 @@
 title: FEHRM Industry Interoperability Roundtable
 sidenav: false
 ---
-
 # FEHRM Industry Interoperability Roundtable
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus bibendum ligula quis nunc consequat blandit. Donec imperdiet tempus lacinia. Cras posuere massa nec consequat volutpat. Nam a lectus elit. Maecenas malesuada lacus libero, et ornare tellus porta non. Mauris porta risus id ultrices venenatis. Sed finibus elit eu porta gravida.
 
-Fusce congue, lorem eget vestibulum tristique, sapien neque gravida erat, ac dictum enim elit vel elit. Nullam venenatis pulvinar mi, nec consequat nibh sollicitudin sit amet. Integer maximus mollis semper. Sed mi ligula, dapibus at tristique non, iaculis at lectus. Cras sed massa quis nibh finibus faucibus. Praesent elementum turpis eleifend lectus facilisis, ut eleifend libero luctus. Sed ac mauris sit amet nisi volutpat efficitur sed sit amet sapien. Vestibulum sodales semper risus, vitae consequat lacus convallis quis. Duis convallis eget quam at rutrum. Morbi sed ipsum gravida dui gravida pulvinar ac at diam. Donec ut augue justo. Proin sit amet mi sem. Suspendisse at turpis a ante pretium pulvinar quis a tortor.
+The FEHRM hosts the Industry Interoperability Roundtable semi-annually to provide a forum for discussion on the current and future state of health information technology (IT) and health information exchange. The roundtable features senior leaders from DOD, VA and USCG, along with other federal partners, including the Office of the National Coordinator for Health Information Technology and the Centers for Medicare and Medicaid Services, and subject matter experts from the private sector, who participate in panel discussions and provide updates. The purpose of the roundtable is for participants to share interoperability initiatives, challenges, and successes.
+
+The latest FEHRM Industry Interoperability Roundtable was hosted on May 19, 2021 and featured panel discussions on Government Transformation and Leveraging Health IT during the COVID-19 pandemic. Check back for more details on future sessions.
