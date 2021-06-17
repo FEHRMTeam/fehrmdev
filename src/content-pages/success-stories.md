@@ -4,8 +4,7 @@ sidenav: false
 ---
 # Federal EHR Success Stories
 
-As of April 2021, there are more than 42,000 federal EHR users (doctors, nurses, etc.) at\
-42 Military Medical Treatment Facility Commands, two VA sites and four USCG sites across 16 states.
+As of April 2021, there are more than 42,000 federal EHR users (doctors, nurses, etc.) at 42 Military Medical Treatment Facility Commands, two VA sites and four USCG sites across 16 states.
 
 **Standardizing Care**
 
