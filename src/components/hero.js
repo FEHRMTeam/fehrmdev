@@ -9,15 +9,13 @@ const Hero = () => (
     <div className="grid-container">
       <div className="usa-hero__callout">
         <h2 className="usa-hero__heading">
-          <span className="usa-hero__heading--alt">Hero callout:</span>Bring
-          attention to a project priority
+          <span className="usa-hero__heading--alt">Enhancing the Care Experience</span>
         </h2>
         <p>
-          Support the callout with some short explanatory text. You don’t need
-          more than a couple of sentences.
+          The FEHRM is implementing a single, common federal electronic health record that enhances patient care and provider effectiveness.
         </p>
-        <a className="usa-button" href="/">
-          Call to action
+        <a className="usa-button" href="/about-fehrm">
+          Learn more
         </a>
       </div>
     </div>

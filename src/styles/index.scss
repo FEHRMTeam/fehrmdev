@@ -48,6 +48,11 @@ $theme-hero-image: '#{$site-image-path}/home-hero.png';
 }
 
 /* Home Page */
+// Header
+.usa-nav__secondary-links a {
+  color: #585859;
+}
+
 // Navigation
 .usa-nav .usa-accordion {
   align-items: center;
