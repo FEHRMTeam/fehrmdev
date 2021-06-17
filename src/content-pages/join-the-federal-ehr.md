@@ -2,8 +2,27 @@
 title: Join the Federal EHR
 sidenav: false
 ---
-
 # Join The Federal EHR
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus bibendum ligula quis nunc consequat blandit. Donec imperdiet tempus lacinia. Cras posuere massa nec consequat volutpat. Nam a lectus elit. Maecenas malesuada lacus libero, et ornare tellus porta non. Mauris porta risus id ultrices venenatis. Sed finibus elit eu porta gravida.
 
-Fusce congue, lorem eget vestibulum tristique, sapien neque gravida erat, ac dictum enim elit vel elit. Nullam venenatis pulvinar mi, nec consequat nibh sollicitudin sit amet. Integer maximus mollis semper. Sed mi ligula, dapibus at tristique non, iaculis at lectus. Cras sed massa quis nibh finibus faucibus. Praesent elementum turpis eleifend lectus facilisis, ut eleifend libero luctus. Sed ac mauris sit amet nisi volutpat efficitur sed sit amet sapien. Vestibulum sodales semper risus, vitae consequat lacus convallis quis. Duis convallis eget quam at rutrum. Morbi sed ipsum gravida dui gravida pulvinar ac at diam. Donec ut augue justo. Proin sit amet mi sem. Suspendisse at turpis a ante pretium pulvinar quis a tortor.
+*“The foundation that the FEHRM, DOD, VA and USCG is building with the common EHR gives us the potential to do things I cannot even envision yet.”*
+
+– FEHRM Director
+
+Across the federal government, agencies are modernizing their health information technology (IT) infrastructure to transform the delivery of health care. For any health system, the EHR is the foundation for integrated health care and advanced data sharing. The EHR is software used to securely document, store, retrieve, share and analyze information about individual patient care. It enables a digital version of a patient’s health record. A complete and accurate health record in a single common system is crucial to providing high-quality, care and maintaining patient safety.
+
+Partnering with the Federal Electronic Health Record Modernization (FEHRM) program office, which delivers capabilities enabling the Department of Defense (DOD), Department of Veterans Affairs (VA), Department of Homeland Security’s U.S. Coast Guard (USCG) and other federal agencies to deploy a single, common federal electronic health record (EHR)—can help you with your modernization goals.
+
+**Benefits of Joining the Federal EHR**
+
+The FEHRM brings together the best of health care IT investments, centralized delivery and a secure operating environment. The FEHRM coordinates and standardizes delivery of health care IT for federal agencies to manage their own programs through a shared IT infrastructure.
+
+Federal agencies who join the federal EHR will benefit from:
+
+* **Enhanced Patient-Centered Care:** Providers have access to patient data wherever care is provided to drive patient and population health initiatives.
+* **Standardization:** Congress is interested in federal standardization. The federal EHR supports the vision of a single, common federal electronic health record for federal beneficiaries. It standardizes business processes and uses technology to increase clinician time with patients.
+* **Interoperability:** Partners join the broadest interoperability network and most comprehensive interoperability implementation within the federal sector and benefit from ongoing enhancement efforts.
+* **Latest Industry Standards:** Partners benefit from FEHRM, DOD and VA involvement in developing industry standards, access to the latest updates and implementation of standards to the EHR.
+* **Cost Savings:** Partners avoid one-off start-up costs of numerous separate acquisition initiatives by building on the existing EHR platform. They will be able to leverage the investment to date by DOD and VA for a comprehensive EHR solution that includes a strong cyber posture. The federal EHR provides economies of scale for lower user cost across the government.
+* **Improved Capability:** Partners have access to all EHR capability improvements of DOD and VA and increased speed to EHR modernization. Joining the federal EHR offers access to continued innovation and process improvement. The federal EHR provides a scalable solution based on required workflows and capability to align with unique agency missions and focus areas.
+* **Experienced Network:** Partners have access to colleagues from other agencies who can share lessons learned.
+* **Cybersecurity:** Partners join a secure environment that meets DOD cybersecurity standards.
