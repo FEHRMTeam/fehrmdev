@@ -4,7 +4,7 @@ sidenav: false
 ---
 # Enhancing Your Care
 
-“Continuity of care helps us better know our patients right away. The faces may change for our patients every summer as they move to a new base or our doctors move to a new base, but the record system is continuous.”
+*“Continuity of care helps us better know our patients right away. The faces may change for our patients every summer as they move to a new base or our doctors move to a new base, but the record system is continuous.”*
 
 \- Pediatrician
 
