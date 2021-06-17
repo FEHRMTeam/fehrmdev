@@ -14,7 +14,7 @@ import Footer from './footer';
 import Header from './header';
 import Nav from './nav';
 
-const Layout = ({ children }) => {
+const Layout = ({ children, headerTitle }) => {
   const data = useStaticQuery(graphql`
     query SiteTitleQuery {
       site {
@@ -45,7 +45,7 @@ const Layout = ({ children }) => {
       </a>
       <Banner />
       <div className="usa-overlay" />
-      <Header siteTitle={title}>
+      <Header siteTitle={headerTitle}>
         <Nav {...{ navigation, secondaryLinks }} />
       </Header>
         {children}

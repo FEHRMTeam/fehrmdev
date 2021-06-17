@@ -4,20 +4,22 @@ import React from 'react';
   This will be displayed on the homepage. Ideally, you want to highlight key goals of the website
 */
 
-const Hero = () => (
+const Hero = ({ heroCallout }) => (
   <section className="usa-hero">
     <div className="grid-container">
       <div className="usa-hero__callout">
-        <h2 className="usa-hero__heading">
-          <span className="usa-hero__heading--alt">Hero callout:</span>Bring
-          attention to a project priority
+        <h2 className="usa-hero__heading"
+            dangerouslySetInnerHTML={{ __html: heroCallout.calloutHeaderText }}>
+          {/* <span className="usa-hero__heading--alt">Hero callout:</span>Bring
+          attention to a project priority */}
         </h2>
-        <p>
-          Support the callout with some short explanatory text. You don’t need
-          more than a couple of sentences.
+        <p dangerouslySetInnerHTML={{ __html: heroCallout.calloutSupportText }}>
+          {/* Support the callout with some short explanatory text. You don’t need
+          more than a couple of sentences. */}
         </p>
-        <a className="usa-button" href="/">
-          Call to action
+        <a className="usa-button" href={heroCallout.callToActionUrl}>
+          {heroCallout.callToActionBtnText}
+          {/* Call to action */}
         </a>
       </div>
     </div>

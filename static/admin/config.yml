@@ -30,9 +30,31 @@ collections:
     file: src/homepage/index.md    
     fields:
       - { label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'home-page' }
-      - { label: 'Title', name: 'title', required: true, widget: 'string' }
-      - { label: 'Secondary link', name: 'secondaryLink', widget: 'string' }
-      - { label: 'Another secondary link', name: 'anotherSecondaryLink', widget: 'string' }
+      - { label: 'Header Title', name: 'headerTitle', required: true, widget: 'string' }
+      - { label: 'Secondary links',
+          name: 'secondaryLinks',
+          widget: 'object',
+          fields: [
+            {
+              label: 'Left Secondary Link',
+              name: 'leftSecondaryLink',
+              widget: 'object',
+              fields: [
+                { label: 'Label', name: 'label', widget: 'string' },
+                { label: 'URL', name: 'url', widget: 'string' },
+              ],
+            },
+            {
+              label: 'Right secondary link',
+              name: 'rightSecondaryLink',
+              widget: 'object',
+              fields: [
+                { label: 'Label', name: 'label', widget: 'string' },
+                { label: 'URL', name: 'url', widget: 'string' },
+              ],
+            }
+          ],
+        }
       - { 
           label: 'Hero Image',
           name: 'heroImage',
@@ -49,7 +71,7 @@ collections:
           fields: [
             { label: 'Callout Header Text', name: 'calloutHeaderText', widget: 'string' },
             { label: 'Callout Support Text', name: 'calloutSupportText', widget: 'string' },
-            { label: 'Hero Call To Action Button Text', name: 'callToActionBtn', widget: 'string' }
+            { label: 'Hero Call To Action Button Text', name: 'callToActionBtnText', widget: 'string' }
             { label: 'Hero Call To Action Button URL', name: 'callToActionUrl', widget: 'string' }
           ],
         }
