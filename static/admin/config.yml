@@ -172,9 +172,9 @@ collections:
   - name: 'navbarAndFooter'
     label: 'Navbar & Footer'
     files:
-      - file: 'src/content-components/navbar.md'
-        label: 'Navbar'
-        name: 'navbar'
+      - file: 'src/content-components/navbar.md',
+        label: 'Navbar',
+        name: 'navbar',
         fields:
           - {
               label: 'Menu Items',
@@ -198,7 +198,7 @@ collections:
                 }
               ],
             }
-      - file: 'src/content-components/footer.md'
+      - file: 'src/content-components/footer.md',
         label: 'Footer',
         name: 'footer',
         fields:
