@@ -13,38 +13,46 @@ heroImage:
   image: /images/home-hero.png
   imageAlt: Federal Electronic Health Record Modernization
 heroCallout:
-  calloutHeaderText: '<span class="usa-hero__heading--alt">Hero callout:</span>Bring attention to a project priority'
-  calloutSupportText: "Support the callout with some short explanatory text. You don't need more than a couple of sentences."
-  callToActionBtnText: Call to action
-  callToActionUrl: /
+  calloutHeaderText: '<span class="usa-hero__heading--alt">Enhancing the Care Experience</span>'
+  calloutSupportText: "The FEHRM is implementing a single, common federal electronic health record that enhances patient care and provider effectiveness."
+  callToActionBtnText: Learn more
+  callToActionUrl: /about-fehrm
 tagline:
-  taglineHeadingText: 'A tagline highlights your approach'
-  taglineDescription: '<p>The tagline should inspire confidence and interest, focusing on the value that your overall approach offers to your audience. Use a heading typeface and keep your tagline to just a few words, and don’t confuse or mystify.</p><p>Use the right side of the grid to explain the tagline a bit more. What are your goals? How do you do your work? Write in the present tense, and stay brief here. People who are interested can find details on internal pages.</p>'
+  taglineHeadingText: '<p class="font-heading-xs margin-top-0 tablet:margin-bottom-0 text-italic" style="color: #585859">
+          “At the heart of health care are relationships between health care professionals and the patients they serve. Health information technology done right enhances those relationships —when it delivers the right data and the right digital experience at the right time—improving health, quality and the care experience for all.”
+        </p><p class="font-heading-xs tablet:margin-bottom-0">– FEHRM Senior Advisor and Clinician</p>'
+  taglineDescription: '<p>
+          The Federal Electronic Health Record Modernization (FEHRM) program office works within the federal space to implement a single, common federal electronic health record (EHR) that enhances patient care and provider effectiveness. The FEHRM <a href="/about-fehrm">unites efforts and delivers common capabilities</a> that enable the Department of Defense (DOD), Department of Veterans Affairs (VA), Department of Homeland Security’s U.S. Coast Guard (USCG) and other federal agencies to deploy the federal EHR. Common capabilities refer to common solutions, tools and activities needed to effectively implement the federal EHR and ensure meaningful data sharing between the federal EHR and community providers.
+        </p>
+        <p>
+          The federal EHR helps health care systems within the federal space and beyond effectively deliver health care and benefits by bringing a common record to their patients and providers. 
+        </p>
+        <p>
+          As of April 2021, there are more than 42,000 federal EHR users (doctors, nurses, etc.) at 42 Military Medical Treatment Facility Commands, two VA sites and four USCG sites across 16 states. There is recognition across the board that the federal EHR <a href="/success-stories">saves providers time and enables more standard workflows to support enhanced clinical decision-making and patient safety.</a>
+        </p>'
 callToActions:
   topLeftCTA:
-    heading: 'Graphic headings can vary.'
-    subHeading: 'Graphic headings can be used a few different ways, depending on what your landing page is for. Highlight your values, specific program areas, or results.'
+    heading: 'Mission-Driven'
+    subHeading: 'The FEHRM’s primary mission is to implement a single, common federal EHR to enhance patient care and provider effectiveness. <a href="/about-fehrm">Learn more about the FEHRM.</a>'
     CTAImage:
       image: /images/cta-icon1.png
       imageAlt: 'Call to action 1'
   topRightCTA:
-    heading: 'Stick to 6 or fewer words.'
-    subHeading: 'Keep body text to about 30 words. They can be shorter, but try to be somewhat balanced across all four. It creates a clean appearance with good spacing.'
+    heading: 'Partnering for Success'
+    subHeading: 'The federal EHR saves providers time and enables more standard workflows to support enhanced clinical decision-making and patient safety. <a href="/success-stories">Learn more about how the federal EHR is driving success in health care delivery.</a>'
     CTAImage:
       image: /images/cta-icon2.png
       imageAlt: 'Call to action 2'
   bottomLeftCTA:
-    heading: 'Never highlight anything without a goal.'
-    subHeading: 'For anything you want to highlight here, understand what your users know now, and what activity or impression you want from them after they see it.'
+    heading: 'A Commitment to Patients'
+    subHeading: 'The FEHRM is driving federal solutions to support effective health care delivery within the federal space that puts patients in the center. <a href="/enhancing-your-care">Learn more about the benefits of the federal EHR to patients.</a>'
     CTAImage:
       image: /images/cta-icon3.png
       imageAlt: 'Call to action 3'
   bottomRightCTA:
-    heading: 'Could also have 2 or 6'
-    subHeading: 'In addition to your goal, find out your users\’ goals. What do they want to know or do that supports your mission? Use these headings to show those.'
+    heading: 'Collaborating with the Private Sector'
+    subHeading: 'Enhancing the ability of DOD and VA providers to quickly and securely access patient electronic health information from participating private sector providers, the joint health information exchange (HIE) significantly expands interoperability capabilities. <a href="improving-care-delivery">Learn more how the joint HIE is transforming care.</a>'
     CTAImage:
       image: /images/cta-icon4.png
       imageAlt: 'Call to action 4'
 ---
-
-hello there this is an update

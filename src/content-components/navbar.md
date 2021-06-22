@@ -80,6 +80,22 @@ navMenu:
         - label: House Testimony
           linkType: internal
           linkUrl: /house-testimony
+    - label: Congressional Information
+      linkType: internal
+      linkUrl: /
+      subMenuItems:
+        - label: Congressional Reports
+          linkType: internal
+          linkUrl: /congressional-reports
+        - label: Congressional Committees
+          linkType: internal
+          linkUrl: /congressional-committees
+        - label: Senate Testimony
+          linkType: internal
+          linkUrl: /senate-testimony
+        - label: House Testimony
+          linkType: internal
+          linkUrl: /house-testimony
     - label: Media
       linkType: internal
       linkUrl: /
