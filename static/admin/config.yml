@@ -29,8 +29,10 @@ collections:
     label: Homepage
     files:
       - name: homepage
-        label: Homepage
-        file: /scr/homepage/index.md  
+        label: Homepage Content
+        file: /src/homepage/index.md
+        editor:
+          preview: false
         fields:
           - { label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'home-page' }
           - { label: 'Header Title', name: 'headerTitle', required: true, widget: 'string' }
