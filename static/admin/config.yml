@@ -28,149 +28,149 @@ collections:
   - name: home
     label: Homepage
     files:
-      name: homepage
-      label: Homepage
-      file: /scr/homepage/index.md  
-      fields:
-        - { label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'home-page' }
-        - { label: 'Header Title', name: 'headerTitle', required: true, widget: 'string' }
-        - { label: 'Secondary links',
-            name: 'secondaryLinks',
-            widget: 'object',
-            fields: [
-              {
-                label: 'Left Secondary Link',
-                name: 'leftSecondaryLink',
-                widget: 'object',
-                fields: [
-                  { label: 'Label', name: 'label', widget: 'string' },
-                  { label: 'URL', name: 'url', widget: 'string' },
-                ],
-              },
-              {
-                label: 'Right secondary link',
-                name: 'rightSecondaryLink',
-                widget: 'object',
-                fields: [
-                  { label: 'Label', name: 'label', widget: 'string' },
-                  { label: 'URL', name: 'url', widget: 'string' },
-                ],
-              }
-            ],
+      - name: homepage
+        label: Homepage
+        file: /scr/homepage/index.md  
+        fields:
+          - { label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'home-page' }
+          - { label: 'Header Title', name: 'headerTitle', required: true, widget: 'string' }
+          - { label: 'Secondary links',
+              name: 'secondaryLinks',
+              widget: 'object',
+              fields: [
+                {
+                  label: 'Left Secondary Link',
+                  name: 'leftSecondaryLink',
+                  widget: 'object',
+                  fields: [
+                    { label: 'Label', name: 'label', widget: 'string' },
+                    { label: 'URL', name: 'url', widget: 'string' },
+                  ],
+                },
+                {
+                  label: 'Right secondary link',
+                  name: 'rightSecondaryLink',
+                  widget: 'object',
+                  fields: [
+                    { label: 'Label', name: 'label', widget: 'string' },
+                    { label: 'URL', name: 'url', widget: 'string' },
+                  ],
+                }
+              ],
+            }
+          - { 
+              label: 'Hero Image',
+              name: 'heroImage',
+              widget: 'object',
+              fields: [
+                { label: 'Image', name: 'image', widget: 'image' },
+                { label: 'Image Description', name: 'imageAlt', widget: 'string' },
+              ],
+            }
+          - {
+              label: 'Hero Callout',
+              name: 'heroCallout',
+              widget: 'object',
+              fields: [
+                { label: 'Callout Header Text', name: 'calloutHeaderText', widget: 'string' },
+                { label: 'Callout Support Text', name: 'calloutSupportText', widget: 'string' },
+                { label: 'Hero Call To Action Button Text', name: 'callToActionBtnText', widget: 'string' },
+                { label: 'Hero Call To Action Button URL', name: 'callToActionUrl', widget: 'string' },
+              ],
+            }
+          - {
+              label: 'Tagline',
+              name: 'tagline',
+              widget: 'object',
+              fields: [
+                { label: 'Tagline Heading Text', name: 'taglineHeadingText', widget: 'string' },
+                { label: 'Tagline Description', name: 'taglineDescription', widget: 'string' },
+              ],
           }
-        - { 
-            label: 'Hero Image',
-            name: 'heroImage',
-            widget: 'object',
-            fields: [
-              { label: 'Image', name: 'image', widget: 'image' },
-              { label: 'Image Description', name: 'imageAlt', widget: 'string' },
-            ],
+          - {
+              label: 'Call To Actions',
+              name: 'callToActions',
+              required: true,
+              widget: 'object',
+              fields: [
+                {
+                  label: 'Top Left CTA',
+                  name: 'topLeftCTA',
+                  required: true,
+                  widget: 'object',
+                  fields: [
+                    { label: 'Heading', name: 'heading', widget: 'string' },
+                    { label: 'Sub Heading', name: 'subHeading', widget: 'string' },
+                    { 
+                      label: 'CTA Image',
+                      name: 'CTAImage',
+                      widget: 'object',
+                      fields: [
+                        { label: 'Image', name: 'image', widget: 'image' },
+                        { label: 'Image Description', name: 'imageAlt', widget: 'string' }
+                      ],
+                    },
+                  ],
+                },
+                {
+                  label: 'Top Right CTA',
+                  name: 'topRightCTA',
+                  required: true,
+                  widget: 'object',
+                  fields: [
+                    { label: 'Heading', name: 'heading', widget: 'string' },
+                    { label: 'Sub Heading', name: 'subHeading', widget: 'string' },
+                    { 
+                      label: 'CTA Image',
+                      name: 'CTAImage',
+                      widget: 'object',
+                      fields: [
+                        { label: 'Image', name: 'image', widget: 'image' },
+                        { label: 'Image Description', name: 'imageAlt', widget: 'string' }
+                      ],
+                    },
+                  ],
+                },
+                {
+                  label: 'Bottom Left CTA',
+                  name: 'bottomLeftCTA',
+                  required: true,
+                  widget: 'object',
+                  fields: [
+                    { label: 'Heading', name: 'heading', widget: 'string' },
+                    { label: 'Sub Heading', name: 'subHeading', widget: 'string' },
+                    { 
+                      label: 'CTA Image',
+                      name: 'CTAImage',
+                      widget: 'object',
+                      fields: [
+                        { label: 'Image', name: 'image', widget: 'image' },
+                        { label: 'Image Description', name: 'imageAlt', widget: 'string' },
+                      ],
+                    },
+                  ],
+                },
+                {
+                  label: 'Bottom Right CTA',
+                  name: 'bottomRightCTA',
+                  required: true,
+                  widget: 'object',
+                  fields: [
+                    { label: 'Heading', name: 'heading', widget: 'string' },
+                    { label: 'Sub Heading', name: 'subHeading', widget: 'string' },
+                    { 
+                      label: 'CTA Image',
+                      name: 'CTAImage',
+                      widget: 'object',
+                      fields: [
+                        { label: 'Image', name: 'image', widget: 'image' },
+                        { label: 'Image Description', name: 'imageAlt', widget: 'string' },
+                      ],
+                    },
+                  ],
+                }
+              ],
           }
-        - {
-            label: 'Hero Callout',
-            name: 'heroCallout',
-            widget: 'object',
-            fields: [
-              { label: 'Callout Header Text', name: 'calloutHeaderText', widget: 'string' },
-              { label: 'Callout Support Text', name: 'calloutSupportText', widget: 'string' },
-              { label: 'Hero Call To Action Button Text', name: 'callToActionBtnText', widget: 'string' },
-              { label: 'Hero Call To Action Button URL', name: 'callToActionUrl', widget: 'string' },
-            ],
-          }
-        - {
-            label: 'Tagline',
-            name: 'tagline',
-            widget: 'object',
-            fields: [
-              { label: 'Tagline Heading Text', name: 'taglineHeadingText', widget: 'string' },
-              { label: 'Tagline Description', name: 'taglineDescription', widget: 'string' },
-            ],
-        }
-        - {
-            label: 'Call To Actions',
-            name: 'callToActions',
-            required: true,
-            widget: 'object',
-            fields: [
-              {
-                label: 'Top Left CTA',
-                name: 'topLeftCTA',
-                required: true,
-                widget: 'object',
-                fields: [
-                  { label: 'Heading', name: 'heading', widget: 'string' },
-                  { label: 'Sub Heading', name: 'subHeading', widget: 'string' },
-                  { 
-                    label: 'CTA Image',
-                    name: 'CTAImage',
-                    widget: 'object',
-                    fields: [
-                      { label: 'Image', name: 'image', widget: 'image' },
-                      { label: 'Image Description', name: 'imageAlt', widget: 'string' }
-                    ],
-                  },
-                ],
-              },
-              {
-                label: 'Top Right CTA',
-                name: 'topRightCTA',
-                required: true,
-                widget: 'object',
-                fields: [
-                  { label: 'Heading', name: 'heading', widget: 'string' },
-                  { label: 'Sub Heading', name: 'subHeading', widget: 'string' },
-                  { 
-                    label: 'CTA Image',
-                    name: 'CTAImage',
-                    widget: 'object',
-                    fields: [
-                      { label: 'Image', name: 'image', widget: 'image' },
-                      { label: 'Image Description', name: 'imageAlt', widget: 'string' }
-                    ],
-                  },
-                ],
-              },
-              {
-                label: 'Bottom Left CTA',
-                name: 'bottomLeftCTA',
-                required: true,
-                widget: 'object',
-                fields: [
-                  { label: 'Heading', name: 'heading', widget: 'string' },
-                  { label: 'Sub Heading', name: 'subHeading', widget: 'string' },
-                  { 
-                    label: 'CTA Image',
-                    name: 'CTAImage',
-                    widget: 'object',
-                    fields: [
-                      { label: 'Image', name: 'image', widget: 'image' },
-                      { label: 'Image Description', name: 'imageAlt', widget: 'string' },
-                    ],
-                  },
-                ],
-              },
-              {
-                label: 'Bottom Right CTA',
-                name: 'bottomRightCTA',
-                required: true,
-                widget: 'object',
-                fields: [
-                  { label: 'Heading', name: 'heading', widget: 'string' },
-                  { label: 'Sub Heading', name: 'subHeading', widget: 'string' },
-                  { 
-                    label: 'CTA Image',
-                    name: 'CTAImage',
-                    widget: 'object',
-                    fields: [
-                      { label: 'Image', name: 'image', widget: 'image' },
-                      { label: 'Image Description', name: 'imageAlt', widget: 'string' },
-                    ],
-                  },
-                ],
-              }
-            ],
-        }
 
   - name: navbarAndFooter
     label: Navbar & Footer
