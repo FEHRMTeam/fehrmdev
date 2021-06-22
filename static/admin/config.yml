@@ -172,15 +172,15 @@ collections:
   - name: navbarAndFooter,
     label: Navbar & Footer,
     files:
-      - file: 'src/content-components/navbar.md',
-        label: 'Navbar',
-        name: 'navbar',
+      - file: src/content-components/navbar.md,
+        label: Navbar,
+        name: navbar,
         fields:
           - {
-              label: 'Menu Items',
-              name: 'menuItems',
+              label: Menu Items,
+              name: menuItems,
               allow_add: true,
-              widget: 'list',
+              widget: list,
               fields: [
                 { label: 'Label', name: 'label', widget: 'string' },
                 { label: 'Link Type', name: 'linkType', widget: 'select', options: ['internal', 'external'] },
