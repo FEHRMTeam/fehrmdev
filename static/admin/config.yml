@@ -195,7 +195,7 @@ collections:
                     { label: 'Link Type', name: 'linkType', widget: 'select', options: ['internal', 'external'] },
                     { label: 'Link URL', name: 'linkUrl', widget: 'string', hint: 'User a relative URL (e.g. /about) if the link is an internal link.' },
                   ],
-                }
+                },
               ],
             }
       - file: 'src/content-components/footer.md',
@@ -216,7 +216,7 @@ collections:
                 widget: 'object',
                 fields: [
                   { label: 'Label', name: 'label', widget: 'string' },
-                  { label: 'Link URL', name: 'linkUrl', widget: 'string' }
+                  { label: 'Link URL', name: 'linkUrl', widget: 'string' },
                 ],
               },
               {
@@ -225,7 +225,7 @@ collections:
                 widget: 'object',
                 fields: [
                   { label: 'Label', name: 'label', widget: 'string' },
-                  { label: 'Link URL', name: 'linkUrl', widget: 'string' }
+                  { label: 'Link URL', name: 'linkUrl', widget: 'string' },
                 ],
               },
               {
@@ -234,7 +234,7 @@ collections:
                 widget: 'object',
                 fields: [
                   { label: 'Label', name: 'label', widget: 'string' },
-                  { label: 'Link URL', name: 'linkUrl', widget: 'string' }
+                  { label: 'Link URL', name: 'linkUrl', widget: 'string' },
                 ],
               },
               {
@@ -243,7 +243,7 @@ collections:
                 widget: 'object',
                 fields: [
                   { label: 'Label', name: 'label', widget: 'string' },
-                  { label: 'Link URL', name: 'linkUrl', widget: 'string' }
+                  { label: 'Link URL', name: 'linkUrl', widget: 'string' },
                 ],
               },
               {
@@ -252,7 +252,7 @@ collections:
                 widget: 'object',
                 fields: [
                   { label: 'Label', name: 'label', widget: 'string' },
-                  { label: 'Link URL', name: 'linkUrl', widget: 'string' }
+                  { label: 'Link URL', name: 'linkUrl', widget: 'string' },
                 ],
               },
               {
@@ -261,7 +261,7 @@ collections:
                 widget: 'object',
                 fields: [
                   { label: 'Label', name: 'label', widget: 'string' },
-                  { label: 'Link URL', name: 'linkUrl', widget: 'string' }
+                  { label: 'Link URL', name: 'linkUrl', widget: 'string' },
                 ],
               },
             ],
