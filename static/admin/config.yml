@@ -61,7 +61,7 @@ collections:
           widget: 'object',
           fields: [
             { label: 'Image', name: 'image', widget: 'image' },
-            { label: 'Image Description', name: 'imageAlt', widget: 'string' }
+            { label: 'Image Description', name: 'imageAlt', widget: 'string' },
           ],
         }
       - {
@@ -71,8 +71,8 @@ collections:
           fields: [
             { label: 'Callout Header Text', name: 'calloutHeaderText', widget: 'string' },
             { label: 'Callout Support Text', name: 'calloutSupportText', widget: 'string' },
-            { label: 'Hero Call To Action Button Text', name: 'callToActionBtnText', widget: 'string' }
-            { label: 'Hero Call To Action Button URL', name: 'callToActionUrl', widget: 'string' }
+            { label: 'Hero Call To Action Button Text', name: 'callToActionBtnText', widget: 'string' },
+            { label: 'Hero Call To Action Button URL', name: 'callToActionUrl', widget: 'string' },
           ],
         }
       - {
@@ -81,7 +81,7 @@ collections:
           widget: 'object',
           fields: [
             { label: 'Tagline Heading Text', name: 'taglineHeadingText', widget: 'string' },
-            { label: 'Tagline Description', name: 'taglineDescription', widget: 'string' }
+            { label: 'Tagline Description', name: 'taglineDescription', widget: 'string' },
           ],
       }
       - {
@@ -105,9 +105,9 @@ collections:
                   fields: [
                     { label: 'Image', name: 'image', widget: 'image' },
                     { label: 'Image Description', name: 'imageAlt', widget: 'string' }
-                  ]
-                }
-              ]
+                  ],
+                },
+              ],
             },
             {
               label: 'Top Right CTA',
@@ -124,9 +124,9 @@ collections:
                   fields: [
                     { label: 'Image', name: 'image', widget: 'image' },
                     { label: 'Image Description', name: 'imageAlt', widget: 'string' }
-                  ]
-                }
-              ]
+                  ],
+                },
+              ],
             },
             {
               label: 'Bottom Left CTA',
@@ -142,10 +142,10 @@ collections:
                   widget: 'object',
                   fields: [
                     { label: 'Image', name: 'image', widget: 'image' },
-                    { label: 'Image Description', name: 'imageAlt', widget: 'string' }
-                  ]
-                }
-              ]
+                    { label: 'Image Description', name: 'imageAlt', widget: 'string' },
+                  ],
+                },
+              ],
             },
             {
               label: 'Bottom Right CTA',
@@ -161,10 +161,10 @@ collections:
                   widget: 'object',
                   fields: [
                     { label: 'Image', name: 'image', widget: 'image' },
-                    { label: 'Image Description', name: 'imageAlt', widget: 'string' }
-                  ]
-                }
-              ]
+                    { label: 'Image Description', name: 'imageAlt', widget: 'string' },
+                  ],
+                },
+              ],
             }
           ],
       }
