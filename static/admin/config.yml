@@ -27,7 +27,7 @@ collections:
   
   - name: home
     label: Home page
-    file: src/homepage/index.md    
+    folder: src/homepage    
     fields:
       - { label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'home-page' }
       - { label: 'Header Title', name: 'headerTitle', required: true, widget: 'string' }
