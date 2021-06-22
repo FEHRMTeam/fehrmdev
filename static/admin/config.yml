@@ -169,8 +169,8 @@ collections:
           ],
       }
 
-  - name: 'navbarAndFooter',
-    label: 'Navbar & Footer',
+  - name: navbarAndFooter,
+    label: Navbar & Footer,
     files:
       - file: 'src/content-components/navbar.md',
         label: 'Navbar',
