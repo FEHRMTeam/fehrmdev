@@ -208,7 +208,7 @@ collections:
             name: 'footerImage',
             widget: 'object',
             fields: [
-              { label: 'Image', name: 'image' widget: 'image' },
+              { label: 'Image', name: 'image', widget: 'image' },
               { label: 'Image Description', name: 'imageAlt', widget: 'string'},
               {
                 label: 'Footer Link',
