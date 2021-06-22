@@ -12,7 +12,6 @@ import Highlights from '../components/highlights';
 */
 
 const IndexPage = ({ data }) => {
-  console.log(data);
   const { markdownRemark } = data;
   const { frontmatter, html } = markdownRemark;
 
@@ -26,22 +25,6 @@ const IndexPage = ({ data }) => {
   );
 };
 
-// export const indexQuery = graphql`
-//   query IndexPage {
-//     markdownRemark(frontmatter: { templateKey: { eq: "home-page" } }) {
-//       frontmatter {
-//         title
-//       }
-//     }`;
-// export const indexQuery = graphql`
-//   query {
-//     markdownRemark(frontmatter: { templateKey: { eq: "home-page" } }) {
-//       frontmatter {
-//         title
-//       }
-//     }
-//   }
-// `
 export const indexQuery = graphql`
   query {
     markdownRemark(

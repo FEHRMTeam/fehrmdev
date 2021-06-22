@@ -11,9 +11,10 @@ const Nav = ({ navigation, secondaryLinks }) => (
         <img src={close} alt="close" />
       </button>
       <ul className="usa-accordion usa-nav__primary">
-        {navigation.map((navGroup, idx) => (
+        {navigation.map((navGroup, idx) => {
+        return (
           <li key={idx} className="usa-nav__primary-item">
-            {navGroup.items.length > 1 ? (
+            {navGroup.subMenuItems && navGroup.subMenuItems.length > 1 ? (
               <>
                 <button
                   className={`usa-accordion__button usa-nav__link ${
@@ -22,16 +23,16 @@ const Nav = ({ navigation, secondaryLinks }) => (
                   aria-controls={`extended-nav-section-${idx}`}
                   aria-expanded={false}
                 >
-                  <span>{navGroup.title}</span>
+                  <span>{navGroup.label}</span>
                 </button>
                 <ul
                   id={`extended-nav-section-${idx}`}
                   className="usa-accordion__content usa-nav__submenu"
                   hidden
                 >
-                  {navGroup.items.map((navItem, idx) => (
+                  {navGroup.subMenuItems.map((navItem, idx) => (
                     <li key={idx} className="usa-nav__submenu-item">
-                      <Link to={navItem.link}>{navItem.text}</Link>
+                      <Link to={navItem.linkUrl}>{navItem.label}</Link>
                     </li>
                   ))}
                 </ul>
@@ -40,13 +41,13 @@ const Nav = ({ navigation, secondaryLinks }) => (
               <Link
                 className="usa-nav__link"
                 activeClassName="usa-current"
-                to={navGroup.items[0].link}
+                to={navGroup.linkUrl}
               >
-                <span>{navGroup.items[0].text}</span>
+                <span>{navGroup.label}</span>
               </Link>
             )}
           </li>
-        ))}
+        )})}
       </ul>
       <div className="usa-nav__secondary">
         <ul className="usa-nav__secondary-links">

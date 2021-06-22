@@ -172,21 +172,33 @@ collections:
   - name: 'navbarAndFooter'
     label: 'Navbar & Footer'
     files:
-      - file: 'src/content-components/navbar/index.md'
+      - file: 'src/content-components/navbar.md'
         label: 'Navbar'
         name: 'navbar'
         fields:
           - {
               label: 'Menu Items',
               name: 'menuItems',
+              allow_add: true,
               widget: 'list',
               fields: [
                 { label: 'Label', name: 'label', widget: 'string' },
                 { label: 'Link Type', name: 'linkType', widget: 'select', options: ['internal', 'external'] },
                 { label: 'Link URL', name: 'linkUrl', widget: 'string', hint: 'User a relative URL (e.g. /about) if the link is an internal link.' },
+                {
+                  label: 'Submenu Items',
+                  name: 'subMenuItems',
+                  allow_add: true,
+                  widget: 'list',
+                  fields: [
+                    { label: 'Label', name: 'label', widget: 'string' },
+                    { label: 'Link Type', name: 'linkType', widget: 'select', options: ['internal', 'external'] },
+                    { label: 'Link URL', name: 'linkUrl', widget: 'string', hint: 'User a relative URL (e.g. /about) if the link is an internal link.' },
+                  ],
+                }
               ],
             }
-      - file: 'src/content-components/footer/index.md'
+      - file: 'src/content-components/footer.md'
         label: 'Footer',
         name: 'footer',
         fields:

@@ -37,7 +37,6 @@ exports.createPages = async ({ actions, graphql }) => {
 
   await createBlogPages(createPage, graphql);
   await createMarkdownPages(createPage, graphql);
-  // await createHomePage(createPage, graphql);
 };
 
 async function createBlogPages(createPage, graphql) {
@@ -69,9 +68,8 @@ async function createBlogPages(createPage, graphql) {
 async function createMarkdownPages(createPage, graphql) {
   const pageTemplate = path.resolve('./src/templates/documentation-page.js');
   const pages = await markdownQuery(graphql, 'content-pages');
-console.log("Hello")
+
   pages.forEach(({ node }) => {
-    console.log(node);
     createPage({
       path: node.fields.name,
       component: pageTemplate,
@@ -81,21 +79,6 @@ console.log("Hello")
     });
   });
 }
-
-// async function createHomePage(createPage, graphql) {
-//   const pageTemplate = path.resolve('./src/templates/index-page.js');
-//   const home = await markdownQuery(graphql, 'homepage');
-
-//   home.forEach(({ node }) => {
-//     createPage({
-//       path: node.fields.name,
-//       component: pageTemplate,
-//       context: {
-//         name: node.fields.name
-//       },
-//     });
-//   });
-// }
 
 async function markdownQuery(graphql, source) {
   const result = await graphql(`

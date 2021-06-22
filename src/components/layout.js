@@ -17,6 +17,26 @@ import Nav from './nav';
 const Layout = ({ children, headerTitle }) => {
   const data = useStaticQuery(graphql`
     query SiteTitleQuery {
+      markdownRemark(
+        fields: {
+          name: { eq: "navbar" }
+        }
+      ) {
+        frontmatter {
+          navMenu {
+            menuItems {
+              label
+              linkType
+              linkUrl
+              subMenuItems {
+                label
+                linkType
+                linkUrl
+              }
+            }
+          }
+        }
+      }
       site {
         siteMetadata {
           title
@@ -36,7 +56,15 @@ const Layout = ({ children, headerTitle }) => {
     }
   `);
 
-  const { title, navigation, secondaryLinks } = data.site.siteMetadata;
+  // const navData = useStaticQuery(graphql`
+  //   query NavItemsQuery {
+      
+  //   }
+  // `);
+
+  const { title, secondaryLinks } = data.site.siteMetadata;
+  const { navMenu } = data.markdownRemark.frontmatter;
+  const navigation = navMenu.menuItems;
 
   return (
     <>
