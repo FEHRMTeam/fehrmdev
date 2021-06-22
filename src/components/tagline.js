@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'gatsby';
 
 /*
   This tagline will appear in your homepage
