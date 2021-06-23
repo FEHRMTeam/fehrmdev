@@ -4,8 +4,6 @@ sidenav: false
 ---
 # History
 
-![FEHRM timeline of events ](images/timeline.png "FEHRM Timeline")
-
 The creation of the Federal Electronic Health Record Modernization (FEHRM) program office is a result of a concerted, joint effort between the Department of Defense (DOD) and the Department of Veterans Affairs (VA). In 2018, the Secretary of Defense and Secretary of Veterans Affairs issued a joint commitment to implement a “single, seamlessly integrated electronic health record (EHR) that will accurately and efficiently share health data between our two agencies and ensure health record interoperability with our supporting community healthcare providers.” The letter emphasized “it is imperative that the DOD and VA work together to promote the best use of resources in pursuit of our common EHR modernization goals and objectives.”
 
 In response, DOD and VA leaders chartered the Joint Electronic Health Record Modernization Working Group (JEHRM) to develop recommendations for an organizational construct that would enable an agile, decision-making authority to efficiently adjudicate functional, technical and programmatic interoperability issues while advancing unity, synergy and efficiencies.
@@ -15,3 +13,7 @@ The JEHRM’s efforts culminated in Department approval on March 2, 2019 for a j
 Most recently, DOD and VA selected Mr. Bill Tinston as the FEHRM Director and Mr. Ed Reyelts as the FEHRM Deputy Director. They started in August 2020.
 
 At inception, the FEHRM focused on the following priorities: determining organizational funding and resource alignment; developing a communications strategy and tools; consolidating joint issue lists and establishing a framework to manage risks, issues and opportunities; and establishing a formal decision forum to reconcile issues. From this foundation, the FEHRM’s focus areas evolved to delivering common capabilities within the federal space that enhanced the care experience for all.
+
+**FEHRM Timeline** 
+
+![FEHRM timeline of events](images/timeline.png "FEHRM Timeline")
