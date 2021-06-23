@@ -10,11 +10,11 @@ import Sidenav from '../components/sidenav';
 */
 
 const DocumentationPage = ({ data }) => {
-  const { markdownRemark } = data;
-  const { frontmatter, html } = markdownRemark;
+  const { pageContent, headerContent } = data;
+  const { frontmatter, html } = pageContent;
 
   return (
-    <Layout>
+    <Layout headerTitle={headerContent.frontmatter.headerTitle}>
       <SEO title={frontmatter.title} />
       <div className="usa-layout-docs usa-section">
         <div className="grid-container">
@@ -33,7 +33,7 @@ const DocumentationPage = ({ data }) => {
 
 export const pageQuery = graphql`
   query($name: String!) {
-    markdownRemark(
+    pageContent: markdownRemark(
       fields: {
         sourceName: { eq: "content-pages" }
         name: { eq: $name }
@@ -43,6 +43,15 @@ export const pageQuery = graphql`
       frontmatter {
         title
         sidenav
+      }
+    }
+    headerContent: markdownRemark(
+      fields: {
+        sourceName: { eq: "homepage" }
+      }
+    ) {
+      frontmatter {
+        headerTitle
       }
     }
   }
