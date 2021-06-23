@@ -23,7 +23,7 @@ const Layout = ({ children, headerTitle }) => {
         }
       ) {
         frontmatter {
-          navMenu {
+          navbar {
             menuItems {
               label
               linkType
@@ -63,8 +63,8 @@ const Layout = ({ children, headerTitle }) => {
   // `);
 
   const { title, secondaryLinks } = data.site.siteMetadata;
-  const { navMenu } = data.markdownRemark.frontmatter;
-  const navigation = navMenu.menuItems;
+  const { navbar } = data.markdownRemark.frontmatter;
+  const navigation = navbar.menuItems;
 
   return (
     <>
