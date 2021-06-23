@@ -1,7 +1,7 @@
 ---
 title: Navbar
 templateKey: navbar
-navMenu:
+navbar:
   menuItems:
     - label: Home
       linkType: internal
@@ -65,21 +65,9 @@ navMenu:
         - label: Join The Federal EHR
           linkType: internal
           linkUrl: /join-the-federal-ehr
-        - label: Congressional Information
-          linkType: internal
+        - label:
+          linkType:
           linkUrl: /
-        - label: Congressional Reports
-          linkType: internal
-          linkUrl: /congressional-reports
-        - label: Congressional Committees
-          linkType: internal
-          linkUrl: /congressional-committees
-        - label: Senate Testimony
-          linkType: internal
-          linkUrl: /senate-testimony
-        - label: House Testimony
-          linkType: internal
-          linkUrl: /house-testimony
     - label: Congressional Information
       linkType: internal
       linkUrl: /
@@ -109,9 +97,9 @@ navMenu:
         - label: Press Releases
           linkType: internal
           linkUrl: /press-releases
-        - label: Media Toolkit and Inquiries
+        - label: Media Inquiries
           linkType: internal
-          linkUrl: /media-toolkit-and-inquiries
+          linkUrl: /media-inquiries
     - label: Events/Conferences
       linkType: internal
       linkUrl: /
