@@ -6,7 +6,7 @@ backend:
   branch: main
   preview_context: federalist/build
 
-media_folder: static/images
+media_folder: static
 public_folder: /images
 publish_mode: editorial_workflow
 logo_url: https://federalist.18f.gov/assets/images/federalist-logo.png
@@ -18,8 +18,6 @@ collections:
     folder: src/content-pages
     create: true
     preview_path: '{{slug}}'
-    media_folder: ''
-    public_folder: ''
     editor:
       preview: false
     fields:
@@ -29,8 +27,6 @@ collections:
   
   - name: home
     label: Homepage
-    media_folder: ''
-    public_folder: ''
     files:
       - name: homepage
         label: Homepage Content
@@ -180,8 +176,6 @@ collections:
 
   - name: navbarAndFooter
     label: Navbar & Footer
-    media_folder: ''
-    public_folder: ''
     files:
       - file: src/content-components/navbar.md
         label: Navbar
