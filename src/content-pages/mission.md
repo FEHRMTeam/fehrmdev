@@ -2,7 +2,7 @@
 title: Mission
 sidenav: false
 ---
-![](/images/footer-logo-test.png)
+![](/static/footer-logo-test.png)
 
 # Mission
 
