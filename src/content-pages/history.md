@@ -4,6 +4,8 @@ sidenav: false
 ---
 # History
 
+![FEHRM timeline of events ](images/timeline.png "FEHRM Timeline")
+
 The creation of the Federal Electronic Health Record Modernization (FEHRM) program office is a result of a concerted, joint effort between the Department of Defense (DOD) and the Department of Veterans Affairs (VA). In 2018, the Secretary of Defense and Secretary of Veterans Affairs issued a joint commitment to implement a “single, seamlessly integrated electronic health record (EHR) that will accurately and efficiently share health data between our two agencies and ensure health record interoperability with our supporting community healthcare providers.” The letter emphasized “it is imperative that the DOD and VA work together to promote the best use of resources in pursuit of our common EHR modernization goals and objectives.”
 
 In response, DOD and VA leaders chartered the Joint Electronic Health Record Modernization Working Group (JEHRM) to develop recommendations for an organizational construct that would enable an agile, decision-making authority to efficiently adjudicate functional, technical and programmatic interoperability issues while advancing unity, synergy and efficiencies.
