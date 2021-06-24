@@ -45,16 +45,8 @@ collections:
               min: 0,
               widget: 'list',
               fields: [
-                {
-                  label: 'Secondary Link',
-                  name: 'secondaryLink',
-                  required: false,
-                  widget: 'object',
-                  fields: [
-                    { label: 'Label', name: 'label', required: false, widget: 'string' },
-                    { label: 'URL', name: 'linkUrl', required: false, widget: 'string' },
-                  ],
-                },
+                { label: 'Label', name: 'label', required: false, widget: 'string' },
+                { label: 'URL', name: 'linkUrl', required: false, widget: 'string' },
               ],
             }
           - { 
