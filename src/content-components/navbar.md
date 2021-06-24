@@ -37,6 +37,8 @@ navMenuItems:
       - label: Contact Us
         linkType: internal
         linkUrl: /contact-us
+    linkType: internal
+    linkUrl: /
   - label: For Patients
     linkType: internal
     linkUrl: /
@@ -64,8 +66,11 @@ navMenuItems:
       - label: Join The Federal EHR
         linkType: internal
         linkUrl: /join-the-federal-ehr
-      - label:
-        linkType:
+      - label: " "
+        linkType: internal
+        linkUrl: /
+      - label: Just a test
+        linkType: internal
         linkUrl: /
   - label: Congressional Information
     linkType: internal
