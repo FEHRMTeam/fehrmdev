@@ -65,8 +65,8 @@ navbar:
         - label: Join The Federal EHR
           linkType: internal
           linkUrl: /join-the-federal-ehr
-        - label:
-          linkType:
+        - label: null
+          linkType: null
           linkUrl: /
     - label: Congressional Information
       linkType: internal
@@ -113,4 +113,11 @@ navbar:
         - label: FEHRM Town Hall
           linkType: internal
           linkUrl: /fehrm-town-hall
+menuItems:
+  - label: Test
+    linkUrl: /
+    linkType: internal
+  - label: Test 1
+    linkType: internal
+    linkUrl: /about-fehrm
 ---
