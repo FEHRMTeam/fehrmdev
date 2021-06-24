@@ -16,7 +16,9 @@ const IndexPage = ({ data }) => {
   const { frontmatter, html } = markdownRemark;
 
   return(
-    <Layout headerTitle={frontmatter.headerTitle}>
+    <Layout
+      headerTitle={frontmatter.headerTitle}
+      secondaryLinks={frontmatter.secondaryLinks}>
       <SEO title={frontmatter.title} />
       <Hero heroCallout={frontmatter.heroCallout} />
       <Tagline taglineContent={frontmatter.tagline} />
@@ -37,14 +39,8 @@ export const indexQuery = graphql`
         title
         headerTitle
         secondaryLinks {
-          leftSecondaryLink {
-            label
-            url
-          }
-          rightSecondaryLink {
-            label
-            url
-          }
+          label
+          linkUrl
         }
         heroImage {
           image

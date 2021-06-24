@@ -14,7 +14,7 @@ import Footer from './footer';
 import Header from './header';
 import Nav from './nav';
 
-const Layout = ({ children, headerTitle }) => {
+const Layout = ({ children, headerTitle, secondaryLinks }) => {
   const data = useStaticQuery(graphql`
     query SiteTitleQuery {
       navigation: markdownRemark(
@@ -75,7 +75,6 @@ const Layout = ({ children, headerTitle }) => {
   `);
  
   const { navigation, footer } = data;
-  const secondaryLinks = [];
   const { navMenuItems } = navigation.frontmatter;
 
   return (

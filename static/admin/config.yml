@@ -40,28 +40,21 @@ collections:
               label: 'Secondary links',
               name: 'secondaryLinks',
               required: false,
-              widget: 'object',
+              allow_add: true,
+              max: 2,
+              min: 0,
+              widget: 'list',
               fields: [
                 {
-                  label: 'Left Secondary Link',
-                  name: 'leftSecondaryLink',
+                  label: 'Secondary Link',
+                  name: 'secondaryLink',
                   required: false,
                   widget: 'object',
                   fields: [
                     { label: 'Label', name: 'label', required: false, widget: 'string' },
-                    { label: 'URL', name: 'url', required: false, widget: 'string' },
+                    { label: 'URL', name: 'linkUrl', required: false, widget: 'string' },
                   ],
                 },
-                {
-                  label: 'Right secondary link',
-                  name: 'rightSecondaryLink',
-                  required: false,
-                  widget: 'object',
-                  fields: [
-                    { label: 'Label', name: 'label', required: false, widget: 'string' },
-                    { label: 'URL', name: 'url', required: false, widget: 'string' },
-                  ],
-                }
               ],
             }
           - { 
