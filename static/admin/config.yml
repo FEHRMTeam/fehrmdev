@@ -206,9 +206,9 @@ collections:
                 },
               ],
             }
-      - name: 'footer'
-        label: 'Footer'
-        file: 'src/content-components/footer.md'
+      - name: footer
+        label: Footer
+        file: src/content-components/footer.md
         fields:
           - { label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'footer' }
           - {
@@ -228,7 +228,7 @@ collections:
                 { label: 'Label', name: 'label', widget: 'string' },
                 { label: 'Link URL', name: 'linkUrl', widget: 'string' },
               ],
-            },
+            }
           - {
               label: 'Footer Link',
               name: 'footerLink2',
@@ -237,7 +237,7 @@ collections:
                 { label: 'Label', name: 'label', widget: 'string' },
                 { label: 'Link URL', name: 'linkUrl', widget: 'string' },
               ],
-            },
+            }
           - {
               label: 'Footer Link',
               name: 'footerLink3',
@@ -246,7 +246,7 @@ collections:
                 { label: 'Label', name: 'label', widget: 'string' },
                 { label: 'Link URL', name: 'linkUrl', widget: 'string' },
               ],
-            },
+            }
           - {
               label: 'Footer Link',
               name: 'footerLink4',
@@ -255,7 +255,7 @@ collections:
                 { label: 'Label', name: 'label', widget: 'string' },
                 { label: 'Link URL', name: 'linkUrl', widget: 'string' },
               ],
-            },
+            }
           - {
               label: 'Footer Link',
               name: 'footerLink5',
@@ -264,7 +264,7 @@ collections:
                 { label: 'Label', name: 'label', widget: 'string' },
                 { label: 'Link URL', name: 'linkUrl', widget: 'string' },
               ],
-            },
+            }
           - {
               label: 'Footer Link',
               name: 'footerLink6',
@@ -273,4 +273,4 @@ collections:
                 { label: 'Label', name: 'label', widget: 'string' },
                 { label: 'Link URL', name: 'linkUrl', widget: 'string' },
               ],
-            },
+            }
