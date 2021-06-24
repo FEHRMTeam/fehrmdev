@@ -206,9 +206,9 @@ collections:
                 },
               ],
             }
-      - file: src/content-components/footer.md
+      - name: footer
         label: Footer
-        name: footer
+        file: src/content-components/footer.md
         fields:
           - { label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'footer' }
           - {
