@@ -17,7 +17,7 @@ import Nav from './nav';
 const Layout = ({ children, headerTitle }) => {
   const data = useStaticQuery(graphql`
     query SiteTitleQuery {
-      markdownRemark(
+      navigation: markdownRemark(
         fields: {
           name: { eq: "navbar" }
         }
@@ -35,36 +35,48 @@ const Layout = ({ children, headerTitle }) => {
           }          
         }
       }
+      footer: markdownRemark(
+        fields: {
+          name: { eq: "footer" }
+        }
+      ) {
+        frontmatter {
+          footerImage {
+            image
+            imageAlt
+          }
+          footerLink1 {
+            label
+            linkUrl
+          }
+          footerLink2 {
+            label
+            linkUrl
+          }
+          footerLink3 {
+            label
+            linkUrl
+          }
+          footerLink4 {
+            label
+            linkUrl
+          }
+          footerLink5 {
+            label
+            linkUrl
+          }
+          footerLink6 {
+            label
+            linkUrl
+          }
+        }
+      }
     }
   `);
-      // site {
-      //   siteMetadata {
-      //     title
-      //     navigation {
-      //       title
-      //       items {
-      //         text
-      //         link
-      //       }
-      //     }
-      //     secondaryLinks {
-      //       text
-      //       link
-      //     }
-      //   }
-      // }
-  //   }
-  // `);
-
-  // const navData = useStaticQuery(graphql`
-  //   query NavItemsQuery {
-      
-  //   }
-  // `);
-
-  // const { title, secondaryLinks } = data.site.siteMetadata;
+ 
+  const { navigation, footer } = data;
   const secondaryLinks = [];
-  const { navMenuItems } = data.markdownRemark.frontmatter;
+  const { navMenuItems } = navigation.frontmatter;
 
   return (
     <>
@@ -77,7 +89,7 @@ const Layout = ({ children, headerTitle }) => {
         <Nav {...{ navMenuItems, secondaryLinks }} />
       </Header>
         {children}
-      <Footer />
+      <Footer footerContent={footer.frontmatter} />
     </>
   );
 };

@@ -98,16 +98,5 @@ export const indexQuery = graphql`
     }
   }
 `
-      //   fields: {
-    //     sourceName: { eq: "homepage" }
-    //     name: { eq: $name }
-    //   }
-    // ) {
-    //   html
-    //   frontmatter {
-    //     title
-    //   }
-    // }
-  // }`;
 
 export default IndexPage;
