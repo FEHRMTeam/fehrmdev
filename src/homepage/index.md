@@ -3,12 +3,10 @@ title: Home
 templateKey: home-page
 headerTitle: Federal Electronic Health Record Modernization
 secondaryLinks:
-  leftSecondaryLink:
-    label: Secondary Link
-    url: /
-  rightSecondaryLink:
-    label: Another Secondary Link
-    url: /
+  - label: Secondary Link
+    linkUrl: /
+  - label: Another Secondary Link
+    linkUrl: /
 heroImage:
   image: /images/home-hero.png
   imageAlt: Federal Electronic Health Record Modernization
