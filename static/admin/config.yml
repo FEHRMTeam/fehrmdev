@@ -36,13 +36,15 @@ collections:
         fields:
           - { label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'home-page' }
           - { label: 'Header Title', name: 'headerTitle', required: true, widget: 'string' }
-          - { label: 'Secondary links',
+          - { 
+              label: 'Secondary links',
               name: 'secondaryLinks',
               widget: 'object',
               fields: [
                 {
                   label: 'Left Secondary Link',
                   name: 'leftSecondaryLink',
+                  required: false,
                   widget: 'object',
                   fields: [
                     { label: 'Label', name: 'label', widget: 'string' },
@@ -52,6 +54,7 @@ collections:
                 {
                   label: 'Right secondary link',
                   name: 'rightSecondaryLink',
+                  required: false,
                   widget: 'object',
                   fields: [
                     { label: 'Label', name: 'label', widget: 'string' },
@@ -209,86 +212,65 @@ collections:
         fields:
           - { label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'footer' }
           - {
-            label: 'Footer Image',
-            name: 'footerImage',
-            widget: 'object',
-            fields: [
-              { label: 'Image', name: 'image', widget: 'image' },
-              { label: 'Image Description', name: 'imageAlt', widget: 'string'},
-              {
-                label: 'Footer Link',
-                name: 'footerLink1',
-                widget: 'object',
-                fields: [
-                  { label: 'Label', name: 'label', widget: 'string' },
-                  { label: 'Link URL', name: 'linkUrl', widget: 'string' },
-                ],
-              },
-              {
-                label: 'Footer Link',
-                name: 'footerLink2',
-                widget: 'object',
-                fields: [
-                  { label: 'Label', name: 'label', widget: 'string' },
-                  { label: 'Link URL', name: 'linkUrl', widget: 'string' },
-                ],
-              },
-              {
-                label: 'Footer Link',
-                name: 'footerLink3',
-                widget: 'object',
-                fields: [
-                  { label: 'Label', name: 'label', widget: 'string' },
-                  { label: 'Link URL', name: 'linkUrl', widget: 'string' },
-                ],
-              },
-              {
-                label: 'Footer Link',
-                name: 'footerLink4',
-                widget: 'object',
-                fields: [
-                  { label: 'Label', name: 'label', widget: 'string' },
-                  { label: 'Link URL', name: 'linkUrl', widget: 'string' },
-                ],
-              },
-              {
-                label: 'Footer Link',
-                name: 'footerLink5',
-                widget: 'object',
-                fields: [
-                  { label: 'Label', name: 'label', widget: 'string' },
-                  { label: 'Link URL', name: 'linkUrl', widget: 'string' },
-                ],
-              },
-              {
-                label: 'Footer Link',
-                name: 'footerLink6',
-                widget: 'object',
-                fields: [
-                  { label: 'Label', name: 'label', widget: 'string' },
-                  { label: 'Link URL', name: 'linkUrl', widget: 'string' },
-                ],
-              },
-            ],
-          }
-
-  - name: blog
-    label: Blog Posts
-    label_singular: Blog Post
-    folder: src/blog-posts
-    create: true
-    preview_path: 'blog/{{slug}}'
-    editor:
-      preview: false
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - {
-          label: 'Date',
-          name: 'date',
-          widget: 'datetime',
-          format: 'MMMM D, YYYY',
-          dateFormat: 'MMMM D, YYYY',
-          timeFormat: false
-        }
-      - { label: 'Author', name: 'author', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+              label: 'Footer Image',
+              name: 'footerImage',
+              widget: 'object',
+              fields: [
+                { label: 'Image', name: 'image', widget: 'image' },
+                { label: 'Image Description', name: 'imageAlt', widget: 'string'},
+              ],
+            }
+          - {
+              label: 'Footer Link',
+              name: 'footerLink1',
+              widget: 'object',
+              fields: [
+                { label: 'Label', name: 'label', widget: 'string' },
+                { label: 'Link URL', name: 'linkUrl', widget: 'string' },
+              ],
+            },
+          - {
+              label: 'Footer Link',
+              name: 'footerLink2',
+              widget: 'object',
+              fields: [
+                { label: 'Label', name: 'label', widget: 'string' },
+                { label: 'Link URL', name: 'linkUrl', widget: 'string' },
+              ],
+            },
+          - {
+              label: 'Footer Link',
+              name: 'footerLink3',
+              widget: 'object',
+              fields: [
+                { label: 'Label', name: 'label', widget: 'string' },
+                { label: 'Link URL', name: 'linkUrl', widget: 'string' },
+              ],
+            },
+          - {
+              label: 'Footer Link',
+              name: 'footerLink4',
+              widget: 'object',
+              fields: [
+                { label: 'Label', name: 'label', widget: 'string' },
+                { label: 'Link URL', name: 'linkUrl', widget: 'string' },
+              ],
+            },
+          - {
+              label: 'Footer Link',
+              name: 'footerLink5',
+              widget: 'object',
+              fields: [
+                { label: 'Label', name: 'label', widget: 'string' },
+                { label: 'Link URL', name: 'linkUrl', widget: 'string' },
+              ],
+            },
+          - {
+              label: 'Footer Link',
+              name: 'footerLink6',
+              widget: 'object',
+              fields: [
+                { label: 'Label', name: 'label', widget: 'string' },
+                { label: 'Link URL', name: 'linkUrl', widget: 'string' },
+              ],
+            },

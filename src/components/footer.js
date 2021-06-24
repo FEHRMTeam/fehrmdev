@@ -1,8 +1,18 @@
 import React from 'react';
-import logo from '../images/fehrmlogo.png';
 import { Link } from 'gatsby';
 
-const Footer = () => (
+const Footer = ({ footerContent }) => { 
+  const {
+    footerImage,
+    footerLink1,
+    footerLink2,
+    footerLink3,
+    footerLink4,
+    footerLink5,
+    footerLink6
+  } = footerContent;
+
+  return (
   <footer className="usa-footer site-footer" role="contentinfo">
     <div className="footer-section-bottom bg-base-lighter">
       <div className="grid-container">
@@ -10,29 +20,29 @@ const Footer = () => (
           <div className="tablet:grid-col">
             <div className="logo-links">
               <a className="footer-logo media_link" href="https://18f.gsa.gov">
-                <img src={logo} width="50" alt="Agency logo" />
+                <img src={footerImage.image} width="50" alt={footerImage.imageAlt}/>
               </a>
             </div>
           </div>
           <div className="tablet:grid-col"></div>
           <div className="tablet:grid-col">
             <ul className="add-list-reset">
-              <li><Link to="/about-fehrm">About Us</Link></li>
-              <li><Link to="/contact-us">Contact Us</Link></li>
-              <li><Link to="/faq"> Frequently Asked Questions</Link></li>
+              <li><Link to={footerLink1.linkUrl}>{footerLink1.label}</Link></li>
+              <li><Link to={footerLink2.linkUrl}>{footerLink2.label}</Link></li>
+              <li><Link to={footerLink3.linkUrl}>{footerLink3.label}</Link></li>
             </ul>
           </div>
           <div className="tablet:grid-col">
             <ul className="add-list-reset">
-              <li><Link to="https://www.linkedin.com/company/fehrm/">FEHRM LinkedIn Page</Link></li>
-              <li><Link to="https://www.ehrm.va.gov/">Office of Electronic health Record Modernization</Link></li>
-              <li><Link to="https://www.health.mil/About-MHS/OASDHA/Defense-Health-Agency/Defense-Healthcare-Management-Systems">Defense Healthcare Management Systems</Link></li>
+              <li><Link to={footerLink4.linkUrl}>{footerLink4.label}</Link></li>
+              <li><Link to={footerLink5.linkUrl}>{footerLink5.label}</Link></li>
+              <li><Link to={footerLink6.linkUrl}>{footerLink6.label}</Link></li>
             </ul>
           </div>
         </div>
       </div>
     </div>
   </footer>
-);
+)};
 
 export default Footer;

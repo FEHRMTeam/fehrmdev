@@ -6,6 +6,8 @@ navMenuItems:
     linkType: internal
     linkUrl: /
   - label: About
+    linkType: internal
+    linkUrl: /
     subMenuItems:
       - label: What Is The FEHRM?
         linkType: internal
@@ -64,8 +66,8 @@ navMenuItems:
       - label: Join The Federal EHR
         linkType: internal
         linkUrl: /join-the-federal-ehr
-      - label:
-        linkType:
+      - label: " "
+        linkType: internal
         linkUrl: /
   - label: Congressional Information
     linkType: internal
