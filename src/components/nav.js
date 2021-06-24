@@ -51,7 +51,7 @@ const Nav = ({ navMenuItems, secondaryLinks }) => (
       </ul>
       <div className="usa-nav__secondary">
         <ul className="usa-nav__secondary-links">
-          {secondaryLinks.length > 0 && secondaryLinks.map((secondaryLink, idx) => (
+          {secondaryLinks && secondaryLinks.length > 0 && secondaryLinks.map((secondaryLink, idx) => (
             <li key={idx} className="usa-nav__secondary-item">
               <Link to={secondaryLink.linkUrl}>{secondaryLink.label}</Link>
             </li>
