@@ -4,14 +4,14 @@ import React from 'react';
 import close from '../../node_modules/uswds/dist/img/close.svg';
 import SearchForm from './search-form';
 
-const Nav = ({ navigation, secondaryLinks }) => (
+const Nav = ({ navMenuItems, secondaryLinks }) => (
   <nav role="navigation" className="usa-nav">
     <div className="usa-nav__inner">
       <button className="usa-nav__close">
         <img src={close} alt="close" />
       </button>
       <ul className="usa-accordion usa-nav__primary">
-        {navigation.map((navGroup, idx) => {
+        {navMenuItems.map((navGroup, idx) => {
         return (
           <li key={idx} className="usa-nav__primary-item">
             {navGroup.subMenuItems && navGroup.subMenuItems.length > 1 ? (

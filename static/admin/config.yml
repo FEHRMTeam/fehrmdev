@@ -183,7 +183,7 @@ collections:
         fields:
           - {
               label: Menu Items,
-              name: menuItems,
+              name: navMenuItems,
               allow_add: true,
               widget: list,
               fields: [

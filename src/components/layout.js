@@ -23,38 +23,38 @@ const Layout = ({ children, headerTitle }) => {
         }
       ) {
         frontmatter {
-          navbar {
-            menuItems {
+          navMenuItems {
+            label
+            linkType
+            linkUrl
+            subMenuItems {
               label
               linkType
               linkUrl
-              subMenuItems {
-                label
-                linkType
-                linkUrl
-              }
             }
-          }
-        }
-      }
-      site {
-        siteMetadata {
-          title
-          navigation {
-            title
-            items {
-              text
-              link
-            }
-          }
-          secondaryLinks {
-            text
-            link
-          }
+          }          
         }
       }
     }
   `);
+      // site {
+      //   siteMetadata {
+      //     title
+      //     navigation {
+      //       title
+      //       items {
+      //         text
+      //         link
+      //       }
+      //     }
+      //     secondaryLinks {
+      //       text
+      //       link
+      //     }
+      //   }
+      // }
+  //   }
+  // `);
 
   // const navData = useStaticQuery(graphql`
   //   query NavItemsQuery {
@@ -62,9 +62,9 @@ const Layout = ({ children, headerTitle }) => {
   //   }
   // `);
 
-  const { title, secondaryLinks } = data.site.siteMetadata;
-  const { navbar } = data.markdownRemark.frontmatter;
-  const navigation = navbar.menuItems;
+  // const { title, secondaryLinks } = data.site.siteMetadata;
+  const secondaryLinks = [];
+  const { navMenuItems } = data.markdownRemark.frontmatter;
 
   return (
     <>
@@ -74,7 +74,7 @@ const Layout = ({ children, headerTitle }) => {
       <Banner />
       <div className="usa-overlay" />
       <Header siteTitle={headerTitle}>
-        <Nav {...{ navigation, secondaryLinks }} />
+        <Nav {...{ navMenuItems, secondaryLinks }} />
       </Header>
         {children}
       <Footer />
