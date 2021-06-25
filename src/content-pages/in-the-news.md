@@ -1,13 +1,13 @@
 ---
-title: In The News
+title: In the News
 sidenav: false
 ---
-# In The News
+# In the News
 
 Recent articles related to the Federal Electronic Health Record Modernization (FEHRM) program office are provided below.
 
-* [VA Sees Trust Improve by 24% in Five Years, Thanks to Veterans Experience Effort](file:///C:/Users/572538/Downloads/https:/federalnewsnetwork.com/veterans-affairs/2021/06/va-sees-trust-improve-by-24-in-five-years-thanks-to-veterans-experience-effort) –Federal News Network (June 4, 2021)
-* [Veteran Community Reflects on Tech Impact of Pandemic, Memorialization](file:///C:/Users/572538/Downloads/https:/governmentciomedia.com/veteran-community-reflects-tech-impact-pandemic-memorialization) –GovernmentCIO (May 28, 2021)
+* [VA Sees Trust Improve by 24% in Five Years, Thanks to Veterans Experience Effort](https://federalnewsnetwork.com/veterans-affairs/2021/06/va-sees-trust-improve-by-24-in-five-years-thanks-to-veterans-experience-effort/#:~:text=Veterans%20Affairs-,VA%20sees%20trust%20improve%20by%2024%25%20in%20five%20years,thanks%20to%20veterans%20experience%20effort&text=Best%20listening%20experience%20is%20on%20Chrome%2C%20Firefox%20or%20Safari.)[](https://federalnewsnetwork.com/veterans-affairs/2021/06/va-sees-trust-improve-by-24-in-five-years-thanks-to-veterans-experience-effort/#:~:text=Veterans%20Affairs-,VA%20sees%20trust%20improve%20by%2024%25%20in%20five%20years,thanks%20to%20veterans%20experience%20effort&text=Best%20listening%20experience%20is%20on%20Chrome%2C%20Firefox%20or%20Safari.) – Federal News Network (June 4, 2021)
+* [Veteran Community Reflects on Tech Impact of Pandemic, Memorialization](file:///C:/Users/572538/Downloads/https:/governmentciomedia.com/veteran-community-reflects-tech-impact-pandemic-memorialization) – GovernmentCIO (May 28, 2021)
 * [Industry’s Role for Interoperability in Common Health Record ](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgovernmentciomedia.com%2Findustrys-role-interoperability-common-health-record)– GovernmentCIO (May 25, 2021) 
 * [Eielson Nurse Says Technology, Readiness Integral to Military Nursing](https://www.health.mil/News/Articles/2021/05/10/Eielson-nurse-says-technology-readiness-integral-to-military-nursing?page=7#pagingAnchor) – Health.mil (May 10, 2021)
 * [MHS GENESIS Has Successful Launch at Naval Medical Center San Diego](https://health.mil/News/Articles/2021/04/08/MHS-GENESIS-has-successful-launch-at-Naval-Medical-Center-San-Diego) – Health.mil (April 8, 2021)
