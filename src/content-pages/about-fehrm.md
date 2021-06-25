@@ -1,8 +1,8 @@
 ---
-title: What Is The FEHRM?
+title: What Is the FEHRM?
 sidenav: false
 ---
-# What Is The FEHRM?
+# What Is the FEHRM?
 
 The Federal Electronic Health Record Modernization (FEHRM) program office works within the federal space to implement a single, common federal electronic health record (EHR) that enhances patient care and provider effectiveness. The FEHRM unites efforts and delivers common capabilities that enable the Department of Defense (DOD), Department of Veterans Affairs (VA), Department of Homeland Security’s U.S. Coast Guard (USCG) and other federal agencies to deploy the federal EHR.
 
