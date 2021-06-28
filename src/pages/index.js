@@ -17,8 +17,7 @@ const IndexPage = ({ data }) => {
 
   return(
     <Layout
-      headerTitle={frontmatter.headerTitle}
-      secondaryLinks={frontmatter.secondaryLinks}>
+      headerTitle={frontmatter.headerTitle}>
       <SEO title={frontmatter.title} />
       <Hero heroCallout={frontmatter.heroCallout} />
       <Tagline taglineContent={frontmatter.tagline} />
@@ -38,10 +37,6 @@ export const indexQuery = graphql`
       frontmatter {
         title
         headerTitle
-        secondaryLinks {
-          label
-          linkUrl
-        }
         heroImage {
           image
           imageAlt

@@ -15,8 +15,7 @@ const DocumentationPage = ({ data }) => {
 
   return (
     <Layout
-      headerTitle={headerContent.frontmatter.headerTitle}
-      secondaryLinks={headerContent.frontmatter.secondaryLinks}>
+      headerTitle={headerContent.frontmatter.headerTitle}>
       <SEO title={frontmatter.title} />
       <div className="usa-layout-docs usa-section">
         <div className="grid-container">
@@ -54,10 +53,6 @@ export const pageQuery = graphql`
     ) {
       frontmatter {
         headerTitle
-        secondaryLinks {
-          label
-          linkUrl
-        }
       }
     }
   }
