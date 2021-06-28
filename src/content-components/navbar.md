@@ -116,7 +116,7 @@ navMenuItems:
     linkUrl: /
     newTab: false
     subMenuItems:
-      - label: In The News
+      - label: In the News
         linkType: internal
         linkUrl: /in-the-news
         newTab: false
