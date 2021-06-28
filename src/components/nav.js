@@ -32,7 +32,20 @@ const Nav = ({ navMenuItems, secondaryLinks }) => (
                 >
                   {navGroup.subMenuItems.map((navItem, idx) => (
                     <li key={idx} className="usa-nav__submenu-item">
-                      <Link to={navItem.linkUrl}>{navItem.label}</Link>
+                      {(navItem.linkType === "internal" ? (
+                        <Link to={navItem.linkUrl}>{navItem.label}</Link>
+                        ) : (
+                          navItem.newTab ? (
+                            <a
+                              href={navItem.linkUrl}
+                              target="_blank"
+                              rel="noreferrer noopener">{navItem.label}</a>
+                          ) : (
+                            <a href={navItem.linkUrl}>{navItem.label}</a>
+                          )
+                        )
+                      )}
+                      
                     </li>
                   ))}
                 </ul>

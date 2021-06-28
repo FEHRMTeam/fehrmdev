@@ -12,6 +12,21 @@ const Footer = ({ footerContent }) => {
     footerLink6
   } = footerContent;
 
+  const getLink = (footerLink) => (
+      (footerLink.linkType === 'internal' ? (
+        <Link to={footerLink.linkUrl}>{footerLink.label}</Link>
+      ) : (
+        (footerLink.newTab ? (
+          <a
+            href={footerLink.linkUrl}
+            target="_blank"
+            rel="noreferrer noopener">{footerLink.label}</a>
+        ) : (
+          <a href={footerLink.linkUrl}>{footerLink.label}</a>
+        ))
+      ))
+    )
+
   return (
   <footer className="usa-footer site-footer" role="contentinfo">
     <div className="footer-section-bottom bg-base-lighter">
@@ -27,16 +42,16 @@ const Footer = ({ footerContent }) => {
           <div className="tablet:grid-col"></div>
           <div className="tablet:grid-col">
             <ul className="add-list-reset">
-              <li><Link to={footerLink1.linkUrl}>{footerLink1.label}</Link></li>
-              <li><Link to={footerLink2.linkUrl}>{footerLink2.label}</Link></li>
-              <li><Link to={footerLink3.linkUrl}>{footerLink3.label}</Link></li>
+              <li>{getLink(footerLink1)}</li>
+              <li>{getLink(footerLink2)}</li>
+              <li>{getLink(footerLink3)}</li>
             </ul>
           </div>
           <div className="tablet:grid-col">
             <ul className="add-list-reset">
-              <li><Link to={footerLink4.linkUrl}>{footerLink4.label}</Link></li>
-              <li><Link to={footerLink5.linkUrl}>{footerLink5.label}</Link></li>
-              <li><Link to={footerLink6.linkUrl}>{footerLink6.label}</Link></li>
+              <li>{getLink(footerLink4)}</li>
+              <li>{getLink(footerLink5)}</li>
+              <li>{getLink(footerLink6)}</li>
             </ul>
           </div>
         </div>

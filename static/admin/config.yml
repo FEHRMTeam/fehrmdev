@@ -37,19 +37,6 @@ collections:
           - { label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'home-page' }
           - { label: 'Header Title', name: 'headerTitle', required: true, widget: 'string' }
           - { 
-              label: 'Secondary links',
-              name: 'secondaryLinks',
-              required: false,
-              allow_add: true,
-              max: 2,
-              min: 0,
-              widget: 'list',
-              fields: [
-                { label: 'Label', name: 'label', required: false, widget: 'string' },
-                { label: 'URL', name: 'linkUrl', required: false, widget: 'string' },
-              ],
-            }
-          - { 
               label: 'Hero Image',
               name: 'heroImage',
               widget: 'object',
@@ -169,6 +156,8 @@ collections:
       - file: src/content-components/navbar.md
         label: Navbar
         name: navbar
+        editor:
+          preview: false
         fields:
           - {
               label: Menu Items,
@@ -179,6 +168,7 @@ collections:
                 { label: 'Label', name: 'label', widget: 'string' },
                 { label: 'Link Type', name: 'linkType', widget: 'select', options: ['internal', 'external'] },
                 { label: 'Link URL', name: 'linkUrl', widget: 'string', hint: 'User a relative URL (e.g. /about) if the link is an internal link.' },
+                { label: 'Open in new tab?', name: 'newTab', widget: 'boolean'},
                 {
                   label: 'Submenu Items',
                   name: 'subMenuItems',
@@ -188,6 +178,7 @@ collections:
                     { label: 'Label', name: 'label', widget: 'string' },
                     { label: 'Link Type', name: 'linkType', widget: 'select', options: ['internal', 'external'] },
                     { label: 'Link URL', name: 'linkUrl', widget: 'string', hint: 'User a relative URL (e.g. /about) if the link is an internal link.' },
+                    { label: 'Open in new tab?', name: 'newTab', widget: 'boolean'},
                   ],
                 },
               ],
@@ -195,6 +186,8 @@ collections:
       - name: footer
         label: Footer
         file: src/content-components/footer.md
+        editor:
+          preview: false
         fields:
           - { label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'footer' }
           - {
@@ -213,6 +206,8 @@ collections:
               fields: [
                 { label: 'Label', name: 'label', widget: 'string' },
                 { label: 'Link URL', name: 'linkUrl', widget: 'string' },
+                { label: 'Link Type', name: 'linkType', widget: 'select', options: ['internal', 'external'] },
+                { label: 'Open in new tab?', name: 'newTab', widget: 'boolean', hint: 'Internal links cannot open in a new tab. Setting the Link Type to internal will override this setting'}
               ],
             }
           - {
@@ -222,6 +217,8 @@ collections:
               fields: [
                 { label: 'Label', name: 'label', widget: 'string' },
                 { label: 'Link URL', name: 'linkUrl', widget: 'string' },
+                { label: 'Link Type', name: 'linkType', widget: 'select', options: ['internal', 'external'] },
+                { label: 'Open in new tab?', name: 'newTab', widget: 'boolean', hint: 'Internal links cannot open in a new tab. Setting the Link Type to internal will override this setting'}
               ],
             }
           - {
@@ -231,6 +228,8 @@ collections:
               fields: [
                 { label: 'Label', name: 'label', widget: 'string' },
                 { label: 'Link URL', name: 'linkUrl', widget: 'string' },
+                { label: 'Link Type', name: 'linkType', widget: 'select', options: ['internal', 'external'] },
+                { label: 'Open in new tab?', name: 'newTab', widget: 'boolean', hint: 'Internal links cannot open in a new tab. Setting the Link Type to internal will override this setting'}
               ],
             }
           - {
@@ -240,6 +239,8 @@ collections:
               fields: [
                 { label: 'Label', name: 'label', widget: 'string' },
                 { label: 'Link URL', name: 'linkUrl', widget: 'string' },
+                { label: 'Link Type', name: 'linkType', widget: 'select', options: ['internal', 'external'] },
+                { label: 'Open in new tab?', name: 'newTab', widget: 'boolean', hint: 'Internal links cannot open in a new tab. Setting the Link Type to internal will override this setting'}
               ],
             }
           - {
@@ -249,6 +250,8 @@ collections:
               fields: [
                 { label: 'Label', name: 'label', widget: 'string' },
                 { label: 'Link URL', name: 'linkUrl', widget: 'string' },
+                { label: 'Link Type', name: 'linkType', widget: 'select', options: ['internal', 'external'] },
+                { label: 'Open in new tab?', name: 'newTab', widget: 'boolean', hint: 'Internal links cannot open in a new tab. Setting the Link Type to internal will override this setting'}
               ],
             }
           - {
@@ -258,5 +261,7 @@ collections:
               fields: [
                 { label: 'Label', name: 'label', widget: 'string' },
                 { label: 'Link URL', name: 'linkUrl', widget: 'string' },
+                { label: 'Link Type', name: 'linkType', widget: 'select', options: ['internal', 'external'] },
+                { label: 'Open in new tab?', name: 'newTab', widget: 'boolean', hint: 'Internal links cannot open in a new tab. Setting the Link Type to internal will override this setting'}
               ],
             }

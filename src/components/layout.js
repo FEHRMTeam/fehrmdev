@@ -14,7 +14,7 @@ import Footer from './footer';
 import Header from './header';
 import Nav from './nav';
 
-const Layout = ({ children, headerTitle, secondaryLinks }) => {
+const Layout = ({ children, headerTitle }) => {
   const data = useStaticQuery(graphql`
     query SiteTitleQuery {
       navigation: markdownRemark(
@@ -27,10 +27,12 @@ const Layout = ({ children, headerTitle, secondaryLinks }) => {
             label
             linkType
             linkUrl
+            newTab
             subMenuItems {
               label
               linkType
               linkUrl
+              newTab
             }
           }          
         }
@@ -48,26 +50,38 @@ const Layout = ({ children, headerTitle, secondaryLinks }) => {
           footerLink1 {
             label
             linkUrl
+            linkType
+            newTab
           }
           footerLink2 {
             label
             linkUrl
+            linkType
+            newTab
           }
           footerLink3 {
             label
             linkUrl
+            linkType
+            newTab
           }
           footerLink4 {
             label
             linkUrl
+            linkType
+            newTab
           }
           footerLink5 {
             label
             linkUrl
+            linkType
+            newTab
           }
           footerLink6 {
             label
             linkUrl
+            linkType
+            newTab
           }
         }
       }
@@ -85,7 +99,7 @@ const Layout = ({ children, headerTitle, secondaryLinks }) => {
       <Banner />
       <div className="usa-overlay" />
       <Header siteTitle={headerTitle}>
-        <Nav {...{ navMenuItems, secondaryLinks }} />
+        <Nav {...{ navMenuItems }} />
       </Header>
         {children}
       <Footer footerContent={footer.frontmatter} />

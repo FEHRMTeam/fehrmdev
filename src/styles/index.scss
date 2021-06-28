@@ -49,18 +49,49 @@ $theme-hero-image: '#{$site-image-path}/home-hero.png';
 
 /* Home Page */
 // Header
-.usa-nav__secondary-links a {
-  color: #585859;
+.usa-header {
+  background-color: #35034E;
+
+  .usa-logo a {
+    color: #ffffff;
+  }
 }
 
 // Navigation
-.usa-nav .usa-accordion {
-  align-items: center;
+.usa-nav {
+  background-color: #ffffff;
+
+  .usa-nav__secondary-links a {
+    color: #585859;
+  }
+
+  .usa-accordion {
+    align-items: center;
+  }
+
+  .usa-nav__submenu, .usa-nav__primary button[aria-expanded="true"],
+  .usa-nav__primary-item .usa-current::after, .usa-nav__primary-item .usa-nav__link:hover::after {
+    background-color: #35034E;
+    color: #fff;
+  }
+
+  .usa-nav__primary button[aria-expanded="false"]:hover,
+  .usa-nav__primary .usa-nav__primary-item a.usa-nav__link:hover {
+    color: #35034E;
+  }
+
+  .usa-search .usa-button {
+    background-color: #7A4383;
+  }
 }
 
 // Hero Callout
 .usa-hero__callout {
- background-color: #054C78;
+ background-color: #35034E;
+
+ .usa-button {
+   background-color: #7A4383;
+ }
 }
 
 // CTA section
@@ -69,7 +100,11 @@ $theme-hero-image: '#{$site-image-path}/home-hero.png';
 }
 
 .usa-section--dark {
-  background-color: #054C78;
+  background-color: #35034E;
+
+  .usa-graphic-list__heading {
+    color: #ffffff;
+  }
 }
 
 /* End Home Page */
