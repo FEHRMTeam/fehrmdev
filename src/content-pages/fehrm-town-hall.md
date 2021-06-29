@@ -1,7 +1,7 @@
 ---
 title: FEHRM Town Hall
 sidenav: true
-parent: FEHRM Town Hall
+parent: Events/Conferences
 ---
 # FEHRM Town Hall
 
