@@ -1,6 +1,7 @@
 ---
 title: Enhancing Care Delivery
-sidenav: false
+sidenav: true
+parent: For Providers
 ---
 # Enhancing Care Delivery
 

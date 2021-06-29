@@ -1,6 +1,7 @@
 ---
 title: FEHRM Town Hall
-sidenav: false
+sidenav: true
+parent: FEHRM Town Hall
 ---
 # FEHRM Town Hall
 

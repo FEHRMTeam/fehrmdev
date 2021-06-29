@@ -1,6 +1,7 @@
 ---
 title: House Testimony
-sidenav: false
+sidenav: true
+parent: Congressional Information
 ---
 # House Testimony
 

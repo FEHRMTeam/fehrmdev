@@ -1,6 +1,7 @@
 ---
 title: Congressional Reports
-sidenav: false
+sidenav: true
+parent: Congressional Information
 ---
 # Congressional Reports
 

@@ -109,6 +109,31 @@ $theme-hero-image: '#{$site-image-path}/home-hero.png';
 
 /* End Home Page */
 
+/* Page Template */
+.usa-sidenav {
+  .sidenav-parent {
+    color: #565c65;
+    padding: 0.5rem 0rem;
+  }
+
+  .usa-current {
+    color: #35034E;
+  }
+
+  .usa-sidenav__sublist .usa-current::after {
+    background-color: #35034E;
+    border-radius: 99rem;
+    content: "";
+    display: block;
+    position: absolute;
+    bottom: 0.25rem;
+    top: 0.25rem;
+    width: 0.25rem;
+    left: 0;
+  }
+}
+/* End Page Template */
+
 /* Footer */
 .usa-footer .footer-logo img {
   width: 100%;

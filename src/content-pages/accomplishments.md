@@ -1,6 +1,7 @@
 ---
 title: FEHRM Accomplishments
-sidenav: false
+sidenav: true
+parent: About
 ---
 # FEHRM Accomplishments
 

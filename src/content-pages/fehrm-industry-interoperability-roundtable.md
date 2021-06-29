@@ -1,6 +1,7 @@
 ---
 title: FEHRM Industry Interoperability Roundtable
-sidenav: false
+sidenav: true
+parent: Events/Conferences
 ---
 # FEHRM Industry Interoperability Roundtable
 

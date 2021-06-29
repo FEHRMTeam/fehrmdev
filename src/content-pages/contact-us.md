@@ -1,6 +1,7 @@
 ---
 title: Contact Us
-sidenav: false
+sidenav: true
+parent: About
 ---
 # Contact Us
 

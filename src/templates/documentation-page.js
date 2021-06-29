@@ -10,8 +10,13 @@ import Sidenav from '../components/sidenav';
 */
 
 const DocumentationPage = ({ data }) => {
-  const { pageContent, headerContent } = data;
+  const { pageContent, headerContent, navigation } = data;
   const { frontmatter, html } = pageContent;
+  const { navMenuItems } = navigation.frontmatter;
+
+  const currPageSideNav = (pageParentName) => {
+    return navMenuItems.filter(navMenuItem => navMenuItem.label === pageParentName)[0];
+  };
 
   return (
     <Layout
@@ -20,7 +25,10 @@ const DocumentationPage = ({ data }) => {
       <div className="usa-layout-docs usa-section">
         <div className="grid-container">
           <div className="grid-row grid-gap">
-            {frontmatter.sidenav && <Sidenav />}
+            {frontmatter.sidenav &&
+              <Sidenav
+                content={currPageSideNav(frontmatter.parent)}
+                currentPage={frontmatter.title} />}
 
             <main id="main-content" className="usa-layout-docs__main desktop:grid-col-9 usa-prose"
               dangerouslySetInnerHTML={{ __html: html }}>
@@ -44,6 +52,7 @@ export const pageQuery = graphql`
       frontmatter {
         title
         sidenav
+        parent
       }
     }
     headerContent: markdownRemark(
@@ -53,6 +62,26 @@ export const pageQuery = graphql`
     ) {
       frontmatter {
         headerTitle
+      }
+    }
+    navigation: markdownRemark(
+      fields: {
+        name: { eq: "navbar" }
+      }
+    ) {
+      frontmatter {
+        navMenuItems {
+          label
+          linkType
+          linkUrl
+          newTab
+          subMenuItems {
+            label
+            linkType
+            linkUrl
+            newTab
+          }
+        }          
       }
     }
   }

@@ -1,6 +1,7 @@
 ---
 title: Enhancing Your Care
-sidenav: false
+sidenav: true
+parent: For Patients
 ---
 # Enhancing Your Care
 

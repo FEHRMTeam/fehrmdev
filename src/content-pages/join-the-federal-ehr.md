@@ -1,6 +1,7 @@
 ---
 title: Join the Federal EHR
-sidenav: false
+sidenav: true
+parent: For Federal Agencies
 ---
 # Join The Federal EHR
 
