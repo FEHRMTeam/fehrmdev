@@ -1,6 +1,7 @@
 ---
 title: Publications
-sidenav: false
+sidenav: true
+parent: About
 ---
 # Publications
 

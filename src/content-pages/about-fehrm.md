@@ -1,6 +1,7 @@
 ---
 title: What Is the FEHRM?
-sidenav: false
+sidenav: true
+parent: About
 ---
 # What Is the FEHRM?
 

@@ -1,6 +1,7 @@
 ---
 title: Congressional Committees
-sidenav: false
+sidenav: true
+parent: Congressional Information
 ---
 # Congressional Committees
 

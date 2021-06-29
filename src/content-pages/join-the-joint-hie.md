@@ -1,6 +1,7 @@
 ---
 title: Join the Joint HIE
-sidenav: false
+sidenav: true
+parent: For Providers
 ---
 # Join the Joint HIE
 

@@ -1,6 +1,7 @@
 ---
 title: Mission
-sidenav: false
+sidenav: true
+parent: About
 ---
 # Mission
 

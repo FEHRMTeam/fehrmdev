@@ -1,6 +1,7 @@
 ---
 title: Learn About the Joint HIE
-sidenav: false
+sidenav: true
+parent: For Patients
 ---
 # Learn About the Joint HIE
 

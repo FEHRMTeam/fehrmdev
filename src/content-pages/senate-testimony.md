@@ -1,6 +1,7 @@
 ---
 title: Senate Testimony
-sidenav: false
+sidenav: true
+parent: Congressional Information
 ---
 # Senate Testimony
 

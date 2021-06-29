@@ -1,6 +1,7 @@
 ---
 title: Frequently Asked Questions
-sidenav: false
+sidenav: true
+parent: About
 ---
 # Frequently Asked Questions
 

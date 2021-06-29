@@ -1,6 +1,7 @@
 ---
 title: Federal EHR Success Stories
-sidenav: false
+sidenav: true
+parent: About
 ---
 # Federal EHR Success Stories
 

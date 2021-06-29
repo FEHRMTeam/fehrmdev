@@ -1,6 +1,7 @@
 ---
 title: Media Inquiries
-sidenav: false
+sidenav: true
+parent: Media
 ---
 # Media Inquiries
 

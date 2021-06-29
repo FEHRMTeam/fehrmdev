@@ -1,6 +1,7 @@
 ---
 title: Site Map
-sidenav: false
+sidenav: true
+parent: About
 ---
 # Site Map
 

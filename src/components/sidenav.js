@@ -6,55 +6,31 @@ import { Link } from 'gatsby';
   add "sidenav: true" in the front-matter of your markdown pages
 */
 
-const Sidenav = () => (
+const Sidenav = ({ content, currentPage }) => (
   <aside className="usa-layout-docs-sidenav desktop:grid-col-3 padding-bottom-4">
     <nav>
       <ul className="usa-sidenav">
         <li className="usa-sidenav__item">
-          <Link to="/">Parent link</Link>
-        </li>
-        <li className="usa-sidenav__item">
-          <Link to="/" className="usa-current">
-            Current page
-          </Link>
+          <div className="sidenav-parent">{content.label}</div>
           <ul className="usa-sidenav__sublist">
-            <li className="usa-sidenav__item">
-              <Link to="/">Child link</Link>
-            </li>
-            <li className="usa-sidenav__item">
-              <Link to="/" className="usa-current">
-                Child link
-              </Link>
-              <ul className="usa-sidenav__sublist">
-                <li className="usa-sidenav__item">
-                  <Link to="/">Grandchild link</Link>
-                </li>
-                <li className="usa-sidenav__item">
-                  <Link to="/">Grandchild link</Link>
-                </li>
-                <li className="usa-sidenav__item">
-                  <Link to="/" className="usa-current">
-                    Grandchild link
-                  </Link>
-                </li>
-                <li className="usa-sidenav__item">
-                  <Link to="/">Grandchild link</Link>
-                </li>
-              </ul>
-            </li>
-            <li className="usa-sidenav__item">
-              <Link to="/">Child link</Link>
-            </li>
-            <li className="usa-sidenav__item">
-              <Link to="/">Child link</Link>
-            </li>
-            <li className="usa-sidenav__item">
-              <Link to="/">Child link</Link>
-            </li>
+            {content.subMenuItems &&
+              content.subMenuItems.length > 0 &&
+              content.subMenuItems.map (
+                (subMenuItem, idx) => (
+                  <>
+                    {subMenuItem.label !== " " && (
+                      <li className="usa-sidenav__item" key={subMenuItem.label + idx}>
+                        <Link
+                          to={subMenuItem.linkUrl}
+                          className={subMenuItem.label === currentPage ? "usa-current" : ""}>
+                            {subMenuItem.label}
+                        </Link>
+                      </li>
+                    )}
+                  </>
+                )
+              )}
           </ul>
-        </li>
-        <li className="usa-sidenav__item">
-          <Link to="/">Parent link</Link>
         </li>
       </ul>
     </nav>

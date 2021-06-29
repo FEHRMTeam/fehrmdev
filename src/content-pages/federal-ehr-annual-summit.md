@@ -1,6 +1,7 @@
 ---
 title: Federal EHR Annual Summit
-sidenav: false
+sidenav: true
+parent: Events/Conferences
 ---
 # Federal EHR Annual Summit
 

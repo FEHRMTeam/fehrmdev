@@ -1,6 +1,7 @@
 ---
 title: In the News
-sidenav: false
+sidenav: true
+parent: Media
 ---
 # In the News
 

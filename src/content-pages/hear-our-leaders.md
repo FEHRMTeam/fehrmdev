@@ -1,6 +1,7 @@
 ---
 title: Hear Our Leaders
-sidenav: false
+sidenav: true
+parent: Media
 ---
 # Hear Our Leaders
 

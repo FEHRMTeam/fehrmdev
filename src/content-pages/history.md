@@ -1,6 +1,7 @@
 ---
 title: History
-sidenav: false
+sidenav: true
+parent: About
 ---
 # History
 
