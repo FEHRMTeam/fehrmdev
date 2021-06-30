@@ -41,6 +41,15 @@ export const indexQuery = graphql`
           image
           imageAlt
         }
+        heroCarousel {
+          initialDelay
+          transition
+          duration
+          heroCarouselImages {
+            image
+            imageAlt
+          }
+        }
         heroCallout {
           calloutHeaderText
           calloutSupportText

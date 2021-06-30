@@ -5,6 +5,13 @@ headerTitle: Federal Electronic Health Record Modernization
 heroImage:
   image: /images/home-hero.png
   imageAlt: Federal Electronic Health Record Modernization
+heroCarousel:
+  initialDelay: 2
+  transition: 4
+  duration: 8
+  heroCarouselImages:
+    - image: /images/home-hero.png
+      imageAlt: Federal Electronic Health Record Modernization
 heroCallout:
   calloutHeaderText: '<span class="usa-hero__heading--alt">Enhancing the Care Experience</span>'
   calloutSupportText: "The FEHRM is implementing a single, common federal electronic health record that enhances patient care and provider effectiveness."
