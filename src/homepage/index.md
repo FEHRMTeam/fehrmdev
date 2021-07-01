@@ -26,9 +26,7 @@ tagline:
     common federal electronic health record (EHR) that enhances patient care and
     provider effectiveness. An EHR is software that's used to securely document,
     store, retrieve, share and analyze information about individual patient
-    care. It enables a digital version of a patient record. The federal EHR
-    means care patients receive within federal health care systems and other
-    systems will be documented in one, complete patient record. <p>The FEHRM <a
+    care. It enables a digital version of a patient record. <p>The FEHRM <a
     href="/about-fehrm">unites efforts and delivers common capabilities</a> that
     enable the Department of Defense (DOD), Department of Veterans Affairs (VA),
     Department of Homeland Security’s U.S. Coast Guard (USCG) and other federal
@@ -37,13 +35,13 @@ tagline:
     EHR and ensure meaningful data sharing between the federal EHR and community
     providers. </p> <p> The federal EHR helps health care systems within the
     federal space and beyond effectively deliver health care and benefits by
-    bringing a common record to patients and providers. There is recognition
-    across the board that the federal EHR <a href="/success-stories">saves
-    providers time and enables more standard workflows to support enhanced
-    clinical decision-making and patient safety.</p> <p> As of April 2021, there
-    are more than 42,000 federal EHR users (doctors, nurses, etc.) at 42
-    Military Medical Treatment Facility Commands, two VA sites and four USCG
-    sites across 16 states. </a> </p>
+    bringing a common record to patients and providers. There is <a
+    href="/success-stories"> recognition across the board </a> that the federal
+    EHR saves providers time and enables more standard workflows to support
+    enhanced clinical decision-making and patient safety.</p> <p> As of April
+    2021, there are more than 42,000 federal EHR users (doctors, nurses, etc.)
+    at 42 Military Medical Treatment Facility Commands, two VA sites and four
+    USCG sites across 16 states.</p>
 callToActions:
   topLeftCTA:
     heading: Mission-Driven
