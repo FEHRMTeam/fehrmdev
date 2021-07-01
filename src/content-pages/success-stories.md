@@ -1,9 +1,9 @@
 ---
-title: Federal EHR Success Stories
+title: Success Stories
 sidenav: true
 parent: About
 ---
-# Federal EHR Success Stories
+# Success Stories
 
 ![Photo of military health care providers using the EHR to provide care](images/1000w_q95.jpg "Military Health Care Providers Using the EHR to Provide Care")
 
@@ -13,7 +13,7 @@ As of April 2021, there are more than 42,000 federal EHR users (doctors, nurses,
 
 **Standardizing Care**
 
-***"**Processes have been streamlined. \[It] provides a wealth of information and aides in tracking all patients throughout our emergency department, urgent care and waiting area. Easy-to-identify icons notify staff of actions to take and clicking allows for easy documenting."* - Emergency Room Nurse
+*"Processes have been streamlined. \[It] provides a wealth of information and aides in tracking all patients throughout our emergency department, urgent care and waiting area. Easy-to-identify icons notify staff of actions to take and clicking allows for easy documenting."* - Emergency Room Nurse
 
 The federal EHR enables more standard workflows and standard practices to support enhanced clinical decision-making. For example, DOD and VA’s joint data management and analysis efforts led to the ability to improve the process for prescribing opioids. Patients at risk of an opioid overdose who receive opioid pain medication will also receive a life-saving drug that counteracts the opioid prescribed along with education.
 
