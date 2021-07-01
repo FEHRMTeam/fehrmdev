@@ -7,9 +7,7 @@ parent: For Providers
 
 ![Photo of health care provider](images/1000w_q95-3-.jpg "Health Care Provider")
 
- *“As a provider, I am looking forward to using a modern EHR that enables better clinical information support tools and better ways for providers to view information, including standard size order sets, and allowing for more intuitive ways to document patient care.”*
-
-Chief Medical Informatics Officer for DHMSM and American Academy of Pediatrics Fellow
+ *“As a provider, I am looking forward to using a modern EHR that enables better clinical information support tools and better ways for providers to view information, including standard size order sets, and allowing for more intuitive ways to document patient care.” -* Chief Medical Informatics Officer for DHMSM and American Academy of Pediatrics Fellow
 
 An electronic health record (EHR) is software that's used to securely document, store, retrieve, share and analyze information about individual patient care. It enables a digital version of your health record. The Federal Electronic Health Record Modernization (FEHRM) program office, along with other federal agencies, is implementing a single, common federal EHR to enhance patient care and provider effectiveness.
 
