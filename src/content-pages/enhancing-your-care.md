@@ -5,9 +5,11 @@ parent: For Patients
 ---
 # Enhancing Your Care
 
-*“Continuity of care helps us better know our patients right away. The faces may change for our patients every summer as they move to a new base or our doctors move to a new base, but the record system is continuous.”*
+![Photo of a military family](images/1000w_q95-2-.jpg "Military Family")
 
-\- Pediatrician
+> ##### *“Continuity of care helps us better know our patients right away. The faces may change for our patients every summer as they move to a new base or our doctors move to a new base, but the record system is continuous.”*
+>
+> ##### Pediatrician
 
 An electronic health record (EHR) is software that's used to securely document, store, retrieve, share and analyze information about individual patient care.[](#_ftn1) It enables a digital version of your health record. The Federal Electronic Health Record Modernization (FEHRM) program office, along with other federal agencies, is implementing a single, common federal EHR to enhance patient care and provider effectiveness.
 
