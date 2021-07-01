@@ -1,9 +1,9 @@
 ---
-title: FEHRM Accomplishments
+title: Accomplishments
 sidenav: true
 parent: About
 ---
-# FEHRM Accomplishments
+# Accomplishments
 
 The Federal Electronic Health Record Modernization (FEHRM) program office achieved much in its first year and continues to progress today. See below a snapshot of notable accomplishments.
 
