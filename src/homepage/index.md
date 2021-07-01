@@ -30,7 +30,7 @@ tagline:
     href="/about-fehrm">unites efforts and delivers common capabilities</a> that
     enable the Department of Defense (DOD), Department of Veterans Affairs (VA),
     Department of Homeland Security’s U.S. Coast Guard (USCG) and other federal
-    agencies to deploy the federal EHR. Common capabilities refer to common
+    agencies to deploy the same federal EHR. Common capabilities refer to common
     solutions, tools and activities needed to effectively implement the federal
     EHR and ensure meaningful data sharing between the federal EHR and community
     providers. </p> <p> The federal EHR helps health care systems within the
