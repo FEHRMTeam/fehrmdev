@@ -5,7 +5,7 @@ parent: For Federal Agencies
 ---
 # Join The Federal EHR
 
-![Photo of a Veteran](images/1000w_q95-4-.jpg "Veteran")
+![Photo of the flag](images/1000w_q95-5-.jpg "Flag")
 
 *“The foundation that the FEHRM, DOD, VA and USCG is building with the common EHR gives us the potential to do things I cannot even envision yet.”* – FEHRM Director
 
