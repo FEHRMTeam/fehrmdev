@@ -5,6 +5,8 @@ parent: For Providers
 ---
 # Enhancing Care Delivery
 
+![Provider Looking at Data](images/5707226-1-.jpg "Provider Looking at Data")
+
  *“As a provider, I am looking forward to using a modern EHR that enables better clinical information support tools and better ways for providers to view information, including standard size order sets, and allowing for more intuitive ways to document patient care.”*
 
 \- Chief Medical Informatics Officer for DHMSM and American Academy of Pediatrics Fellow
