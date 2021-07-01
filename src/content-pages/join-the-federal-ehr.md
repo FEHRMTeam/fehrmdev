@@ -5,9 +5,9 @@ parent: For Federal Agencies
 ---
 # Join The Federal EHR
 
-*“The foundation that the FEHRM, DOD, VA and USCG is building with the common EHR gives us the potential to do things I cannot even envision yet.”*
+![Photo of a Veteran](images/1000w_q95-4-.jpg "Veteran")
 
-– FEHRM Director
+*“The foundation that the FEHRM, DOD, VA and USCG is building with the common EHR gives us the potential to do things I cannot even envision yet.”* – FEHRM Director
 
 Across the federal government, agencies are modernizing their health information technology (IT) infrastructure to transform the delivery of health care. For any health system, the EHR is the foundation for integrated health care and advanced data sharing. The EHR is software used to securely document, store, retrieve, share and analyze information about individual patient care. It enables a digital version of a patient’s health record. A complete and accurate health record in a single common system is crucial to providing high-quality, care and maintaining patient safety.
 
