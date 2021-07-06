@@ -7,7 +7,7 @@ parent: About
 
 ![Photo of military health care providers using the EHR to provide care](images/1000w_q95.jpg "Military Health Care Providers Using the EHR to Provide Care")
 
-> *"As a Flight Surgeon, being able to customize the interface the way it works for me and review patient records easily in one location improves the quality of care I can provide."* - Flight Surgeon 
+> *"As a Flight Surgeon, being able to customize the interface the way it works for me and review patient records easily in one location improves the quality of care I can provide."*  - Flight Surgeon 
 
 As of April 2021, there are more than 42,000 federal EHR users (doctors, nurses, etc.) at 42 Military Medical Treatment Facility Commands, two VA sites and four USCG sites across 16 states.
 
