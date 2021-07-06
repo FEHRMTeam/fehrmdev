@@ -30,7 +30,8 @@ const DocumentationPage = ({ data }) => {
                 content={currPageSideNav(frontmatter.parent)}
                 currentPage={frontmatter.title} />}
 
-            <main id="main-content" className="usa-layout-docs__main desktop:grid-col-9 usa-prose"
+            <main id="main-content"
+              className={"usa-layout-docs__main desktop:grid-col-9 usa-prose " + (frontmatter.title === "Leadership" ? "profile-images" : "test")}
               dangerouslySetInnerHTML={{ __html: html }}>
             </main>
           </div>
