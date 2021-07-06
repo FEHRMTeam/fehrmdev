@@ -132,6 +132,18 @@ $theme-hero-image: '#{$site-image-path}/home-hero.png';
     left: 0;
   }
 }
+
+// Blanket styling for quotes on any content page
+#main-content blockquote {
+  color: #585859;
+  font-style: italic;
+}
+
+.profile-images img {
+  width: 150px;
+  float: left;
+  margin-right: 25px;
+}
 /* End Page Template */
 
 /* Footer */
