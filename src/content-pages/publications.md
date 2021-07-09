@@ -7,4 +7,4 @@ parent: About
 
 * [FEHRM Fact Sheet](<>)
 
-For publications submitted to Congress, visit the Reports to Congress section of the FEHRM.gov website.
+For publications submitted to Congress, visit the [Congressional Reports](/congressional-reports) section of the [FEHRM website](www.FEHRM.gov).
