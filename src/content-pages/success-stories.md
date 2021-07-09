@@ -39,7 +39,7 @@ The federal EHR puts patients at the center. Patients benefit from:
 * Their providers having access to their data such as service treatment records, Service medals and honors, housing status and other information to ensure they receive all the benefits they earned when they transition to civilian life in a seamless, timely fashion.
 * Conversations with their providers starting more productively since providers already have a more comprehensive picture of their health before their appointment.
 * Their providers being able to make more informed decisions about their care as they have access to more relevant data.
-* A seamless care experience. Regardless of whether they get care from DOD, VA, USCG or another health care system participating in the [joint health information exchange (HIE)](<>), their providers will be able to easily exchange and access their health information to enhance their quality of care and ratification. 
+* A seamless care experience. Regardless of whether they get care from DOD, VA, USCG or another health care system participating in the [joint health information exchange (HIE)](/learn-about-the-joint-hie), their providers will be able to easily exchange and access their health information to enhance their quality of care and ratification. 
 
 **Responding to the Pandemic**
 
