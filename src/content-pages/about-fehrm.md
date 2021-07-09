@@ -10,7 +10,7 @@ The Federal Electronic Health Record Modernization (FEHRM) program office works 
 The common capabilities the FEHRM delivers in support of the federal EHR refer to common solutions, tools and activities needed to effectively implement the federal EHR and ensure meaningful data sharing between the federal EHR and community providers. Common capabilities include:
 
 * Managing the Federal Enclave, which is a shared environment to contain the federal EHR and supporting systems;
-* Managing the [joint health information exchange (HIE)](/Learn-About-the-Joint-HIE), an enhanced network of community providers who agree to quickly and securely share patient electronic health information with federal EHR users and vice versa;
+* Managing the [joint health information exchange (HIE)](https://fehrmdev.netlify.app/learn-about-the-joint-hie), an enhanced network of community providers who agree to quickly and securely share patient electronic health information with federal EHR users and vice versa;
 * Leading analysis and integration of deployment activities at joint sharing sites where DOD and VA resources are shared;
 * Overseeing configuration and content changes to the EHR that are agreed on by the Departments through a joint decision-making process facilitated by the FEHRM;
 * Providing software upgrades and solutions to optimize EHR performance;
