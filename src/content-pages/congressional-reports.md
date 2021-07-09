@@ -13,7 +13,7 @@ The FEHRM is a Congressionally-mandated organization subject to legislation such
 
 The Federal Electronic Health Record Modernization (FEHRM) program office submits several reports to Congress as mandated by legislation. Submitted reports are listed below.
 
-* 2019 FEHRM Annual Report
+* [2019 FEHRM Annual Report](/images/fehrm-annual-report_2019.pdf)
 * Quarter Two, Fiscal Year 2020 Interoperability Progress Quarterly Report
 * Quarter Two, Fiscal Year 2020 Interoperability Progress Quarterly Report
 * Quarter Three, Fiscal Year 2020 Interoperability Progress Quarterly Report
