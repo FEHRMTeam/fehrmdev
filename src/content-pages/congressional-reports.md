@@ -19,4 +19,4 @@ The Federal Electronic Health Record Modernization (FEHRM) program office submit
 * Quarter Three, Fiscal Year 2020 Interoperability Progress Quarterly Report
 * Quarter Four, Fiscal Year 2020 Interoperability Progress Quarterly Report
 * Quarter One, Fiscal Year 2021 Interoperability Progress Quarterly Report
-* [FEHRM DOD/VA Interoperability Modernization Strategy](/static/images/tab-a2-dod_va_interoperability_modernization_strategy_20200924.pdf)
+* FEHRM DOD/VA Interoperability Modernization Strategy
