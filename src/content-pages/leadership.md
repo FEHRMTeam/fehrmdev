@@ -1,6 +1,6 @@
 ---
 title: Leadership
-sidenav: false
+sidenav: true
 parent: About
 ---
 # Leadership
