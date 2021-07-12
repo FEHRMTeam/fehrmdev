@@ -5,7 +5,7 @@ parent: Congressional Information
 ---
 # Congressional Committees
 
-There are multiple committees in the Senate and the House of Representatives with oversight of the FEHRM. They include, but are not limited to, the following:
+There are multiple committees in the Senate and the House of Representatives with oversight of the Federal Electronic Health Record Modernization (FEHRM) program office. They include, but are not limited to, the following:
 
 **Senate**
 
