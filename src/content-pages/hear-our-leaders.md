@@ -5,7 +5,7 @@ parent: Media
 ---
 # Hear Our Leaders
 
-Listen to our FEHRM leaders talking about the FEHRM’s activities and the broader health information technology space.
+Listen to our Federal Electronic Health Record Modernization (FEHRM) program office leaders talking about the FEHRM’s activities and the broader health information technology space.
 
 **Federal Executive Forum (FEF) Program on Health IT in Government** 
 
