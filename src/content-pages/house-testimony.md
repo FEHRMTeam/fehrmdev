@@ -5,7 +5,7 @@ parent: Congressional Information
 ---
 # House Testimony
 
-Recent House testimony related to the FEHRM are listed below.
+Recent House testimony related to the Federal Electronic Health Record Modernization program office are listed below.
 
 * ["Fiscal Year 2022 Budget Hearing Department of Veterans Affairs"](https://appropriations.house.gov/events/hearings/fy-2022-budget-hearing-department-of-veterans-affairs) – House Committee on Appropriations, Subcommittee on Military Construction, Veterans’ Affairs, and Related Agencies hearing on Veterans’ Affairs, Subcommittee on Technology Modernization hearing (April 15, 2021)
 * ["Strategic Review: Evaluating Concerns about the Ongoing Implementation of the Electronic Health Record Modernization Program"](https://veterans.house.gov/events/hearings/strategic-review-evaluating-concerns-about-the-ongoing-implementation-of-the-electronic-health-record-modernization-program) – House Committee on Veterans’ Affairs, Subcommittee on Technology Modernization hearing (April 14, 2021)
