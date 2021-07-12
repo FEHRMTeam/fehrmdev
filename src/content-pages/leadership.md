@@ -1,13 +1,13 @@
 ---
 title: Leadership
-sidenav: true
+sidenav: false
 parent: About
 ---
 # Leadership
 
-FEHRM leadership shares a passion for the FEHRM’s mission and the delivery of high-quality health care to patients.
+Federal Electronic Health Record Modernization (FEHRM) program office leadership shares a passion for the FEHRM’s mission and the delivery of high-quality health care to patients.
 
-FEHRM staff are recognized by the health industry for their leadership and innovation, earning awards like the Defense Health Agency’s Positive Spirit Award, Federal Computer Week’s Federal 100 Award, FedHealthIT 100 Award, Program Executive Office, Defense Health Management Systems (PEO DHMS) Employee of the Quarter Award, Samuel J. Heyman Service to America Medal and General Benjamin O. Davis, Jr., Tuskegee Airmen Incorporated National Military Award.
+FEHRM staff are recognized by the health industry for their leadership and innovation, earning awards like the Defense Health Agency’s Positive Spirit Award; Federal Computer Week’s Federal 100 Award; FedHealthIT 100 Award; Program Executive Office, Defense Health Management Systems (PEO DHMS) Employee of the Quarter Award; Samuel J. Heyman Service to America Medal; and General Benjamin O. Davis, Jr., Tuskegee Airmen Incorporated National Military Award.
 
 Learn more about the FEHRM’s highly qualified and dedicated leaders below. 
 
@@ -15,13 +15,13 @@ Learn more about the FEHRM’s highly qualified and dedicated leaders below.
 
 **Mr. Bill Tinston, Director**
 
-As Director, Mr. Bill Tinston oversees the FEHRM’s efforts to implement a single, common federal EHR with the Department of Defense (DOD), Department of Veterans Affairs (VA) and Department of Homeland Security’s U.S. Coast Guard (USCG). Mr. Tinston ensures the FEHRM enables joint decision-making and drives federal solutions for optimizing electronic health record (EHR) implementation and operation. Previously, he served as Program Executive Officer for Program Executive Office, Defense Healthcare Management Systems (PEO DHMS). While there, he led the deployment of the federal EHR within DOD and supported the VA and USCG transition to the same EHR as DOD. Mr. Tinston has 30 years of experience in defense acquisition program management, portfolio and investment management and enterprise information technology (IT).
+As Director, Mr. Bill Tinston oversees the FEHRM’s efforts to implement a single, common federal electronic health record (EHR) with the Department of Defense (DOD), Department of Veterans Affairs (VA) and Department of Homeland Security’s U.S. Coast Guard (USCG). Mr. Tinston ensures the FEHRM enables joint decision-making and drives federal solutions for optimizing EHR implementation and operation. Previously, he served as Program Executive Officer for PEO DHMS. While there, he led the deployment of the federal EHR within DOD and supported the VA and USCG transition to the same EHR as DOD. Mr. Tinston has 30 years of experience in defense acquisition program management, portfolio and investment management and enterprise information technology (IT).
 
 ![Photo of Mr. Reyelts](images/reyelts.jpg "Mr. Reyelts")
 
 **Mr. Edward Reyelts, Deputy Director**
 
-As Deputy Director, Mr. Edward Reyelts drives the FEHRM’s mission to implement a single, common federal EHR forward with DOD, VA and USCG. He ensures that the FEHRM works closely with the departments to provide common capabilities for effective and efficient health care delivery to 28 million eligible beneficiaries, including Service members, Veterans and their families. Previously, Mr. Reyelts served as the Associate Chief Information Officer for the Digital Infrastructure Services Center at the U.S. Department of Agriculture. He is a 22-year Marine Corps Veteran with extensive IT experience.
+As Deputy Director, Mr. Edward Reyelts drives the FEHRM’s mission to implement a single, common federal EHR forward with DOD, VA and USCG. He ensures the FEHRM works closely with the Departments to provide common capabilities for effective and efficient health care delivery to 28 million eligible beneficiaries, including Service members, Veterans and their families. Previously, Mr. Reyelts served as the Associate Chief Information Officer for the Digital Infrastructure Services Center at the U.S. Department of Agriculture. He is a 22-year Marine Corps Veteran with extensive IT experience.
 
 ![Photo of Dr. Evans](images/evans.jpg "Dr. Evans")
 
@@ -33,7 +33,7 @@ As Senior Advisor, Dr. Neil Evans brings his expertise and experience to advise 
 
 **Lauren Thompson, Ph.D., Federal and Commercial Interoperability Director**
 
-As Federal and Commercial Interoperability Director, Dr. Lauren Thompson is responsible for interoperability strategy and planning, health interoperability standards and engagement with federal and industry partners, ensuring the highest levels of interoperability between DOD, VA, USCG and the private sector. Dr. Thompson was the Director of the DOD/VA Interagency Program Office and established the office as a leader in health data standards and interoperability.
+As Federal and Commercial Interoperability Director, Dr. Lauren Thompson is responsible for interoperability strategy and planning, health interoperability standards and engagement with federal and industry partners, ensuring the highest levels of interoperability among DOD, VA, USCG and the private sector. Dr. Thompson was the Director of the DOD/VA Interagency Program Office and established the office as a leader in health data standards and interoperability.
 
 ![Photo of Dr. Josephs](images/josephs.jpg "Dr. Josephs")
 
