@@ -9,9 +9,9 @@ parent: Congressional Information
 
 *“This effort is about much more than new software. It represents the opportunity for Veterans and Service members to control their own health information and health care decisions, and it offers the potential for U.S. Department of Veterans Affairs and United States Department of Defense not just to keep pace with the marketplace but lead innovation in the whole health care sector."* – U.S. Congressman
 
-The FEHRM is a Congressionally-mandated organization subject to legislation such as the annual National Defense Authorization Act, the annual spending bill and other legislation governing the federal health care information technology enterprise.
+The Federal Electronic Health Record Modernization (FEHRM) program office is a congressionally mandated organization subject to legislation such as the annual National Defense Authorization Act, the annual spending bill and other legislation governing the federal health care information technology enterprise.
 
-The Federal Electronic Health Record Modernization (FEHRM) program office submits several reports to Congress as mandated by legislation. Submitted reports are listed below.
+The FEHRM submits several reports to Congress as mandated by legislation. Submitted reports are listed below.
 
 * [FEHRM DOD/VA Interoperability Modernization Strategy](/images/tab-a2-dod_va_interoperability_modernization_strategy_20200924.pdf)
 * [Quarter One, Fiscal Year 2021 Interoperability Progress Quarterly Report](images/tab-a2-q1fy2021-fehrm-interoperability-progress-quarterly-report_signed-1-.pdf)
