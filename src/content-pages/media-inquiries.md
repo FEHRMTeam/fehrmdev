@@ -5,7 +5,7 @@ parent: Media
 ---
 # Media Inquiries
 
-For media inquiries, please email the FEHRM Communications Team.
+For media inquiries, please email the Federal Electronic Health Record Modernization program office's Communications Team.
 
 Cori B. Hughes\
 FEHRM Program Integration Director\
