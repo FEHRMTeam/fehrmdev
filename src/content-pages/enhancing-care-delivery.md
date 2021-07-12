@@ -19,6 +19,6 @@ This means you benefit from the following:
 * Access to patient data such as service treatment records, Service medals and honors, housing status and other information to ensure patients receive all their earned benefits as they transition to civilian life in a seamless, timely fashion
 * More productive starts to conversations with your patients since you already have a more comprehensive picture of their health before their appointments
 * More informed decision making about your patient’s care as you have access to more relevant data
-* A more seamless care experience, with the ability to easily access and exchange patient health information, regardless of whether your patient gets care from DOD, VA, USCG or another health care system participating in the joint health information exchange, to enhance quality of care and satisfaction
+* A more seamless care experience, with the ability to easily access and exchange patient health information—regardless of whether your patient gets care from DOD, VA, USCG or another health care system participating in the joint health information exchange—to enhance quality of care and satisfaction
 
 [Learn more about how the federal EHR is enhancing delivery of care for providers like you.](<>)
