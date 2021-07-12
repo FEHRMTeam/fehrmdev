@@ -21,4 +21,4 @@ This means you benefit:
 * You will make more informed decisions about your patient’s care as you have access to more relevant data.
 * You will have a more seamless care experience. Regardless of whether your patient gets care from the Department of Defense, Department of Veterans Affairs, Department of Homeland Security's U.S. Coast Guard or another health care system participating in the joint health information exchange, you will be able to easily access and exchange patient health information to enhance quality of care and satisfaction.
 
-[Learn more about how the federal EHR is enhancing delivery of care for providers like you.](<>)
+[Learn more about how the federal EHR is enhancing delivery of care for providers like you](/success-stories).
