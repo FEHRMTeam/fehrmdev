@@ -5,7 +5,7 @@ parent: About
 ---
 # Frequently Asked Questions
 
-* [What is the Federal Electronic Health Record Modernization program office’s role in the electronic health record space](#FEHRMRole)
+* [What is the Federal Electronic Health Record Modernization program office’s role in the electronic health record space?](#FEHRMRole)
 * [How is the Federal Electronic Health Record Modernization program office different from the Interagency Program Office?](#FEHRMIPO)
 * [What is the Federal Electronic Health Record Modernization program office’s level of authority?](#FEHRMAuthority)
 * [Why is a single, common federal electronic health record necessary?](#EHRNecessary)
@@ -39,7 +39,7 @@ The Interagency Program Office (IPO) served as a successful coordinating body pr
 
 **<a name="FEHRMAuthority"></a>What is the Federal Electronic Health Record Modernization program office's level of authority?**
 
-The Federal Electronic Health Record Modernization (FEHRM) program office's Director and Deputy Director report to the Deputy Secretary of Defense and the Deputy Secretary of Veterans Affairs. The FEHRM Charter and the National Defense Authorization Act for Fiscal Year 2020[](#_ftn1) give the FEHRM decision-making authority within the joint space.
+The Federal Electronic Health Record Modernization (FEHRM) program office's Director and Deputy Director report to the Deputy Secretary of Defense and the Deputy Secretary of Veterans Affairs. The FEHRM Charter and the National Defense Authorization Act for Fiscal Year 2020 (NDAA FY2020) give the FEHRM decision-making authority within the joint space. The NDAA FY2020 specifies that the FEHRM "shall carry our decision making authority delegated to the Office by the Secretary of Defense and the Secretary of Veterans Affair with respect to the definition, coordination, and management of functional, technical, and programmatic activities that are joint used, carried out, and shared by the Departments."
 
 The implementation of a single, common federal electronic health record (EHR) is a massive transformation with multiple cabinet-level offices involved, and it will not succeed with a command and control approach. Instead, the FEHRM works through collaboration, facilitation, consensus building and the commitment of its partners to provide the best health care experience for patients and providers.
 

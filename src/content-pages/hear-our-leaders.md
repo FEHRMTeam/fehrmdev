@@ -5,17 +5,17 @@ parent: Media
 ---
 # Hear Our Leaders
 
-Listen to our Federal Electronic Health Record Modernization (FEHRM) program office leaders talking about the FEHRM’s activities and the broader health information technology space.
+Listen to our FEHRM leaders talking about the FEHRM’s activities and the broader health information technology space.
 
 **Federal Executive Forum (FEF) Program on Health IT in Government** 
 
-* [FEF Health IT In Government-Part 1-2021](https:/www.youtube.com/watch%3fv=FZrzsxa7h3I&list=PL93B37A8E2F403D3A&index=1%20%3e)
-* [FEF Health IT In Government-Part 2-2021](https:/www.youtube.com/watch%3fv=QoVFLUL82pA&list=PL93B37A8E2F403D3A&index=2%20%3e)
-* [FEF Health IT In Government-Part 3-2021](https:/www.youtube.com/watch%3fv=4wpOGi8qg0M&list=PL93B37A8E2F403D3A&index=3%20%3e)
-* [Progress Made](https:/www.youtube.com/watch%3fv=UCR0ZVb4RNw&list=PL93B37A8E2F403D3A&index=16%20%3e)
-* [Profiles of Success](https:/www.youtube.com/watch%3fv=dkwKOcLQjUk&list=PL93B37A8E2F403D3A&index=17%20%3e)
-* [Top Priorities](https://www.youtube.com/watch?v=bGlXyMrmZy0&list=PL93B37A8E2F403D3A&index=18%20%3e)
-* [Vision for the Future ](https:/www.youtube.com/watch%3fv=8pt0IP3YM58&list=PL93B37A8E2F403D3A&index=19%20%3c%20%3e)
+* [FEF Health IT In Government-Part 1-2021](https://www.youtube.com/watch?v=FZrzsxa7h3I&list=PL93B37A8E2F403D3A&index=1)
+* [FEF Health IT In Government-Part 2-2021](https://www.youtube.com/watch?v=QoVFLUL82pA&list=PL93B37A8E2F403D3A&index=2)
+* [FEF Health IT In Government-Part 3-2021](https://www.youtube.com/watch?v=4wpOGi8qg0M&list=PL93B37A8E2F403D3A&index=3)
+* [Progress Made](https://www.youtube.com/watch?v=UCR0ZVb4RNw&list=PL93B37A8E2F403D3A&index=16)
+* [Profiles of Success](https://www.youtube.com/watch?v=dkwKOcLQjUk&list=PL93B37A8E2F403D3A&index=17)
+* [Top Priorities](https://www.youtube.com/watch?v=bGlXyMrmZy0&list=PL93B37A8E2F403D3A&index=18)
+* [Vision for the Future ](https://www.youtube.com/watch?v=8pt0IP3YM58&list=PL93B37A8E2F403D3A&index=19)
 
 **Other Engagements**
 

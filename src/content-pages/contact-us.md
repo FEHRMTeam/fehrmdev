@@ -5,7 +5,7 @@ parent: About
 ---
 # Contact Us
 
-Federal Electronic Health Record Modernization (FEHRM) Program Office
+**Federal Electronic Health Record Modernization (FEHRM) Program Office**
 
 1700 N. Moore St.
 

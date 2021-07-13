@@ -5,32 +5,43 @@ parent: About
 ---
 # Site Map
 
-* Home
+* [Home](www.FEHRM.gov)
 * About
-  * What Is The FEHRM?
-  * Leadership
-  * History
-  * FEHRM Accomplishments
-  * Federal EHR Success Stories
-  * Publications
-  * Frequently Asked Questions
-  * Site Map
-  * Contact Us
+
+  * [What Is The FEHRM?](/about-fehrm)
+  * [Mission](/mission)
+  * [Leadership](/leadership)
+  * [History](/history)
+  * [Accomplishments](/accomplishments)
+  * [Success Stories](/success-stories)
+  * [Publications](/publications)
+  * [Frequently Asked Questions](/faq)
+  * [Contact Us](/contact-us)
 * For Patients
-  * Enhancing Your Care
-  * Learn About the Joint HIE
+
+  * [Enhancing Your Care](/enhancing-your-care)
+  * [Learn About the Joint HIE](/learn-about-the-joint-hie)
 * For Providers
-  * Improving Care Delivery
-  * Join the Joint HIE
+
+  * [Enhancing Care Delivery](/enhancing-care-delivery) 
+  * [Join the Joint HIE](/join-the-joint-hie)
 * For Federal Agencies
-  * Join the Federal EHR
+
+  * [Join the Federal EHR](/join-the-federal-ehr)
 * Congressional Information
-  * Congressional Reports
-  * Congressional Committees
-  * Senate Testimony
-  * House Testimony
+
+  * [Congressional Reports](/congressional-reports)
+  * [Congressional Committees](/congressional-committees)
+  * [Senate Testimony](/senate-testimony)
+  * [House Testimony](/house-testimony)
 * Media
-  * In the News
-  * Hear Our Leaders
-  * Press Releases
-  * Media Inquiries
+
+  * [In the News](/in-the-news)
+  * [Hear Our Leaders](/hear-our-leaders)
+  * [Press Releases](/press-releases)
+  * [Media Inquiries](/media-inquiries)
+* Events/Conferences
+
+  * [Federal EHR Annual Summit](/federal-ehr-annual-summit)
+  * [FEHRM Industry Interoperability Roundtable](/fehrm-industry-interoperability-roundtable) 
+  * [FEHRM Town Hall](/fehrm-town-hall)
