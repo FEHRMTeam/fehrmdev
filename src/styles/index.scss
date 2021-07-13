@@ -4,13 +4,14 @@
 */
 $theme-image-path: '../../node_modules/uswds/src/img';
 $theme-font-path: '../../node_modules/uswds/src/fonts';
+$site-image-path: '../images';
 
 /*
   The url for the hero image in the source file is not currently prefixed by
   the $theme-image-path above.
 */
 
-$theme-hero-image: '#{$theme-image-path}/hero.png';
+$theme-hero-image: '#{$site-image-path}/home-hero.png';
 
 // Your custom changes to variables go here
 // Uncomment to see this working
@@ -45,3 +46,108 @@ $theme-hero-image: '#{$theme-image-path}/hero.png';
     display: block;
   }
 }
+
+/* Home Page */
+// Header
+.usa-header {
+  background-color: #35034E;
+
+  .usa-logo a {
+    color: #ffffff;
+  }
+}
+
+// Navigation
+.usa-nav {
+  background-color: #ffffff;
+
+  .usa-nav__secondary-links a {
+    color: #585859;
+  }
+
+  .usa-accordion {
+    align-items: center;
+  }
+
+  .usa-nav__submenu, .usa-nav__primary button[aria-expanded="true"],
+  .usa-nav__primary-item .usa-current::after, .usa-nav__primary-item .usa-nav__link:hover::after {
+    background-color: #35034E;
+    color: #fff;
+  }
+
+  .usa-nav__primary button[aria-expanded="false"]:hover,
+  .usa-nav__primary .usa-nav__primary-item a.usa-nav__link:hover {
+    color: #35034E;
+  }
+
+  .usa-search .usa-button {
+    background-color: #7A4383;
+  }
+}
+
+// Hero Callout
+.usa-hero__callout {
+ background-color: #35034E;
+
+ .usa-button {
+   background-color: #7A4383;
+ }
+}
+
+// CTA section
+.usa-graphic-list .usa-media-block__img {
+  width: 124px;
+}
+
+.usa-section--dark {
+  background-color: #35034E;
+
+  .usa-graphic-list__heading {
+    color: #ffffff;
+  }
+}
+
+/* End Home Page */
+
+/* Page Template */
+.usa-sidenav {
+  .sidenav-parent {
+    color: #565c65;
+    padding: 0.5rem 0rem;
+  }
+
+  .usa-current {
+    color: #35034E;
+  }
+
+  .usa-sidenav__sublist .usa-current::after {
+    background-color: #35034E;
+    border-radius: 99rem;
+    content: "";
+    display: block;
+    position: absolute;
+    bottom: 0.25rem;
+    top: 0.25rem;
+    width: 0.25rem;
+    left: 0;
+  }
+}
+
+// Blanket styling for quotes on any content page
+#main-content blockquote {
+  color: #585859;
+  font-style: italic;
+}
+
+.profile-images img {
+  width: 150px;
+  float: left;
+  margin-right: 25px;
+}
+/* End Page Template */
+
+/* Footer */
+.usa-footer .footer-logo img {
+  width: 100%;
+}
+/* End Footer */

@@ -4,16 +4,17 @@ import React from 'react';
 import close from '../../node_modules/uswds/dist/img/close.svg';
 import SearchForm from './search-form';
 
-const Nav = ({ navigation, secondaryLinks }) => (
+const Nav = ({ navMenuItems, secondaryLinks }) => (
   <nav role="navigation" className="usa-nav">
     <div className="usa-nav__inner">
       <button className="usa-nav__close">
         <img src={close} alt="close" />
       </button>
       <ul className="usa-accordion usa-nav__primary">
-        {navigation.map((navGroup, idx) => (
+        {navMenuItems.map((navGroup, idx) => {
+        return (
           <li key={idx} className="usa-nav__primary-item">
-            {navGroup.items.length > 1 ? (
+            {navGroup.subMenuItems && navGroup.subMenuItems.length > 1 ? (
               <>
                 <button
                   className={`usa-accordion__button usa-nav__link ${
@@ -22,16 +23,29 @@ const Nav = ({ navigation, secondaryLinks }) => (
                   aria-controls={`extended-nav-section-${idx}`}
                   aria-expanded={false}
                 >
-                  <span>{navGroup.title}</span>
+                  <span>{navGroup.label}</span>
                 </button>
                 <ul
                   id={`extended-nav-section-${idx}`}
                   className="usa-accordion__content usa-nav__submenu"
                   hidden
                 >
-                  {navGroup.items.map((navItem, idx) => (
+                  {navGroup.subMenuItems.map((navItem, idx) => (
                     <li key={idx} className="usa-nav__submenu-item">
-                      <Link to={navItem.link}>{navItem.text}</Link>
+                      {(navItem.linkType === "internal" ? (
+                        <Link to={navItem.linkUrl}>{navItem.label}</Link>
+                        ) : (
+                          navItem.newTab ? (
+                            <a
+                              href={navItem.linkUrl}
+                              target="_blank"
+                              rel="noreferrer noopener">{navItem.label}</a>
+                          ) : (
+                            <a href={navItem.linkUrl}>{navItem.label}</a>
+                          )
+                        )
+                      )}
+                      
                     </li>
                   ))}
                 </ul>
@@ -40,19 +54,19 @@ const Nav = ({ navigation, secondaryLinks }) => (
               <Link
                 className="usa-nav__link"
                 activeClassName="usa-current"
-                to={navGroup.items[0].link}
+                to={navGroup.linkUrl}
               >
-                <span>{navGroup.items[0].text}</span>
+                <span>{navGroup.label}</span>
               </Link>
             )}
           </li>
-        ))}
+        )})}
       </ul>
       <div className="usa-nav__secondary">
         <ul className="usa-nav__secondary-links">
-          {secondaryLinks.map((secondaryLink, idx) => (
+          {secondaryLinks && secondaryLinks.length > 0 && secondaryLinks.map((secondaryLink, idx) => (
             <li key={idx} className="usa-nav__secondary-item">
-              <Link to={secondaryLink.link}>{secondaryLink.text}</Link>
+              <Link to={secondaryLink.linkUrl}>{secondaryLink.label}</Link>
             </li>
           ))}
         </ul>
