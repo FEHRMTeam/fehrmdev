@@ -5,7 +5,7 @@ parent: About
 ---
 # Publications
 
-The Federal Electronic Health Record Modernization (FEHRM) program office's fact sheet provides a general overview of the FEHRM and its work. Additional publications will be added when available. 
+The Federal Electronic Health Record Modernization (FEHRM) program office's fact sheet provides a general overview of the FEHRM and its work. Additional publications will be added to this section when available. 
 
 * [FEHRM Fact Sheet](images/fehrm-fact-sheet.pdf)
 
