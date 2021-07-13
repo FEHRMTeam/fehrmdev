@@ -15,7 +15,7 @@ As of April 2021, there are more than 42,000 federal electronic health record (E
 
 *"Processes have been streamlined. \[It] provides a wealth of information and aides in tracking all patients throughout our emergency department, urgent care and waiting area. Easy-to-identify icons notify staff of actions to take and clicking allows for easy documenting."* – Emergency Room Nurse
 
-The federal EHR enables more standard workflows and standard practices to support enhanced clinical decision-making. For example, the Department of Defense (DOD) and VA’s joint data management and analysis efforts led to the ability to improve the process for prescribing opioids. Patients at risk of an opioid overdose who receive opioid pain medication will also receive a life-saving drug that counteracts the opioid prescribed along with education.
+The federal EHR enables more standard workflows and standard practices to support enhanced clinical decision-making. Workflows are the series of tasks in a process that lead to completion of a task. Workflows are established for common health care and support functions. For example, the Department of Defense (DOD) and VA’s joint data management and analysis efforts led to the ability to improve the process for prescribing opioids. Patients at risk of an opioid overdose who receive opioid pain medication will also receive a life-saving drug that counteracts the opioid prescribed along with education.
 
 **Saving Time**
 
