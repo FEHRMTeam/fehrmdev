@@ -10,7 +10,7 @@ parent: About
 
   * [What Is The FEHRM?](/about-fehrm)
   * [Mission](/mission)
-  * Leadership
+  * [Leadership](/leadership)
   * [History](/history)
   * [Accomplishments](/accomplishments)
   * [Success Stories](/success-stories)
@@ -23,7 +23,7 @@ parent: About
   * [Learn About the Joint HIE](/learn-about-the-joint-hie)
 * For Providers
 
-  * Enhancing[](/enhancing-care-delivery) Care Delivery
+  * [Enhancing Care Delivery](/enhancing-care-delivery) 
   * [Join the Joint HIE](/join-the-joint-hie)
 * For Federal Agencies
 
