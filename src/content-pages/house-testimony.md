@@ -1,0 +1,24 @@
+---
+title: House Testimony
+sidenav: true
+parent: Congressional Information
+---
+# House Testimony
+
+Recent House testimony related to the Federal Electronic Health Record Modernization program office are listed below.
+
+* ["Fiscal Year 2022 Budget Hearing Department of Veterans Affairs"](https://appropriations.house.gov/events/hearings/fy-2022-budget-hearing-department-of-veterans-affairs) – House Committee on Appropriations, Subcommittee on Military Construction, Veterans’ Affairs, and Related Agencies hearing on Veterans’ Affairs, Subcommittee on Technology Modernization hearing (April 15, 2021)
+* ["Strategic Review: Evaluating Concerns about the Ongoing Implementation of the Electronic Health Record Modernization Program"](https://veterans.house.gov/events/hearings/strategic-review-evaluating-concerns-about-the-ongoing-implementation-of-the-electronic-health-record-modernization-program) – House Committee on Veterans’ Affairs, Subcommittee on Technology Modernization hearing (April 14, 2021)
+* ["Restoring Faith by Building Trust: VA's First 100 Days"](https://veterans.house.gov/events/hearings/restoring-faith-by-building-trust-vas-first-100-days) – House Committee on Veterans’ Affairs hearing (March 25, 2021)
+* ["Examining VA's Ongoing Efforts in the Electronic Health Record Modernization Program"](https://veterans.house.gov/events/hearings/examing-vas-ongoing-efforts-in-the-electronic-health-record-modernization-program) – House Committee on Veterans’ Affairs, Subcommittee on Technology Modernization hearing (September 30, 2020)
+* ["Getting It Right: Challenges with the Go Live of Electronic Health Record Modernization"](https://veterans.house.gov/events/hearings/subcommittee-on-technology-modernization-oversight-hearing-getting-it-right-challenges-with-the-go-live-of-electronic-health-record-modernization) – House Committee on Veterans’ Affairs, Subcommittee on Technology Modernization hearing (March 05, 2020)
+* ["Oversight of VA's Electronic Health Record Modernization Implementation"](https://appropriations.house.gov/events/hearings/oversight-of-va-s-electronic-health-record-modernization-implementation) – House Committee on Appropriations, Subcommittee on Military Construction, Veterans’ Affairs, and Related Agencies hearing on Veterans’ Affairs, Subcommittee on Technology Modernization hearing (February 27, 2020)
+* ["Go Live March 2020: The Status of EHRM Readiness"](https://veterans.house.gov/events/hearings/subcommittee-on-technology-modernization-hearing-go-live-march-2020-the-status-of-ehrm-readiness-) – House Committee on Veterans’ Affairs, Subcommittee on Technology Modernization hearing (November 20, 2019)
+* [“VistA Transition: Assessing the Future of an Electronic Health Records Pioneer”](https://veterans.house.gov/events/hearings/technology-modernization-subcommittee-hearing-vista-transition-assessing-the-future-of-an-electronic-health-records-pioneer) – House Committee on Veterans’ Affairs, Subcommittee on Technology Modernization hearing (July 22, 2019)
+* [“Implementation of Electronic Health Record Systems at the Department of Veterans Affairs (VA) and the Department of Defense (DOD)”](https://www.youtube.com/watch?v=Bly1ksQYqkE) – House Committee on Veterans’ Affairs, Subcommittee on Technology Modernization hearing (June 12, 2019)
+* [“Electronic Health Record Modernization and Information Technology Oversight”](https://appropriations.house.gov/legislation/hearings/electronic-health-record-modernization-and-information-technology-oversight) – House Committee on Appropriations, Subcommittee on Military Construction, Veterans’ Affairs, and Related Agencies hearing (March 6, 2019)
+* [“180-Day Review of the Electronic Health Record Modernization Program”](https://www.youtube.com/watch?v=TVp5KcDPUqs) – House Committee on Veterans Affairs’ hearing (Nov. 14, 2018)
+* [“The Role of the Interagency Program Office in VA Electronic Health Record Modernization”](https://www.youtube.com/watch?v=TVp5KcDPUqs) – House Committee on Veterans’ Affairs, Subcommittee on Technology Modernization hearing (September 13, 2018)
+* [“VA Electronic Health Record Modernization: The Beginning of the Beginning”](https://www.youtube.com/watch?v=TVp5KcDPUqs) – House Committee on Veterans’ Affairs hearing (June 26, 2018)
+* [“Oversight and Investigations Legislative Hearing”](https://www.youtube.com/watch?v=hQYhZVOxvVg) – House Committee on Appropriations, Subcommittee on Military Construction, Veterans’ Affairs, and Related Agencies hearing (March 7, 2018)
+* [“Oversight Hearing - Veterans Affairs Electronic Health Record”](https://www.youtube.com/watch?v=286sASKNiRw) – House Committee on Appropriations, Subcommittee on Military Construction, Veterans Affairs, and Related Agencies hearing (November 15, 2017)

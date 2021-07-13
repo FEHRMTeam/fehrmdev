@@ -1,42 +1,21 @@
 backend:
   name: github
-  repo: 18f/federalist-uswds-gatsby
+  repo: FEHRMTeam/fehrmprod
   base_url: https://federalistapp.18f.gov
   auth_endpoint: external/auth/github
   branch: main
   preview_context: federalist/build
 
 media_folder: static/images
-public_folder: /images
+public_folder: images
 publish_mode: editorial_workflow
 logo_url: https://federalist.18f.gov/assets/images/federalist-logo.png
 
 collections:
-  - name: blog
-    label: Blog Posts
-    label_singular: Blog Post
-    folder: src/blog-posts
-    create: true
-    preview_path: 'blog/{{slug}}'
-    editor:
-      preview: false
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - {
-          label: 'Date',
-          name: 'date',
-          widget: 'datetime',
-          format: 'MMMM D, YYYY',
-          dateFormat: 'MMMM D, YYYY',
-          timeFormat: false
-        }
-      - { label: 'Author', name: 'author', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-
-  - name: documentation
-    label: Documentation Pages
-    label_singular: Documentation Page
-    folder: src/documentation-pages
+  - name: pages
+    label: Pages
+    label_singular: Pages
+    folder: src/content-pages
     create: true
     preview_path: '{{slug}}'
     editor:
@@ -44,4 +23,246 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Sidenav', name: 'sidenav', widget: 'boolean' }
+      - { label: 'Parent', name: 'parent', widget: 'string', hint: 'Enter parent page name. Used to display the appropriate side navigation' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+  
+  - name: home
+    label: Homepage
+    files:
+      - name: homepage
+        label: Homepage Content
+        file: /src/homepage/index.md
+        editor:
+          preview: false
+        fields:
+          - { label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'home-page' }
+          - { label: 'Header Title', name: 'headerTitle', required: true, widget: 'string' }
+          - { 
+              label: 'Hero Image',
+              name: 'heroImage',
+              widget: 'object',
+              fields: [
+                { label: 'Image', name: 'image', widget: 'image' },
+                { label: 'Image Description', name: 'imageAlt', widget: 'string' },
+              ],
+            }
+          - {
+              label: 'Hero Callout',
+              name: 'heroCallout',
+              widget: 'object',
+              fields: [
+                { label: 'Callout Header Text', name: 'calloutHeaderText', widget: 'string' },
+                { label: 'Callout Support Text', name: 'calloutSupportText', widget: 'string' },
+                { label: 'Hero Call To Action Button Text', name: 'callToActionBtnText', widget: 'string' },
+                { label: 'Hero Call To Action Button URL', name: 'callToActionUrl', widget: 'string' },
+              ],
+            }
+          - {
+              label: 'Tagline',
+              name: 'tagline',
+              widget: 'object',
+              fields: [
+                { label: 'Tagline Heading Text', name: 'taglineHeadingText', widget: 'string' },
+                { label: 'Tagline Description', name: 'taglineDescription', widget: 'string' },
+              ],
+          }
+          - {
+              label: 'Call To Actions',
+              name: 'callToActions',
+              required: true,
+              widget: 'object',
+              fields: [
+                {
+                  label: 'Top Left CTA',
+                  name: 'topLeftCTA',
+                  required: true,
+                  widget: 'object',
+                  fields: [
+                    { label: 'Heading', name: 'heading', widget: 'string' },
+                    { label: 'Sub Heading', name: 'subHeading', widget: 'string' },
+                    { 
+                      label: 'CTA Image',
+                      name: 'CTAImage',
+                      widget: 'object',
+                      fields: [
+                        { label: 'Image', name: 'image', widget: 'image' },
+                        { label: 'Image Description', name: 'imageAlt', widget: 'string' }
+                      ],
+                    },
+                  ],
+                },
+                {
+                  label: 'Top Right CTA',
+                  name: 'topRightCTA',
+                  required: true,
+                  widget: 'object',
+                  fields: [
+                    { label: 'Heading', name: 'heading', widget: 'string' },
+                    { label: 'Sub Heading', name: 'subHeading', widget: 'string' },
+                    { 
+                      label: 'CTA Image',
+                      name: 'CTAImage',
+                      widget: 'object',
+                      fields: [
+                        { label: 'Image', name: 'image', widget: 'image' },
+                        { label: 'Image Description', name: 'imageAlt', widget: 'string' }
+                      ],
+                    },
+                  ],
+                },
+                {
+                  label: 'Bottom Left CTA',
+                  name: 'bottomLeftCTA',
+                  required: true,
+                  widget: 'object',
+                  fields: [
+                    { label: 'Heading', name: 'heading', widget: 'string' },
+                    { label: 'Sub Heading', name: 'subHeading', widget: 'string' },
+                    { 
+                      label: 'CTA Image',
+                      name: 'CTAImage',
+                      widget: 'object',
+                      fields: [
+                        { label: 'Image', name: 'image', widget: 'image' },
+                        { label: 'Image Description', name: 'imageAlt', widget: 'string' },
+                      ],
+                    },
+                  ],
+                },
+                {
+                  label: 'Bottom Right CTA',
+                  name: 'bottomRightCTA',
+                  required: true,
+                  widget: 'object',
+                  fields: [
+                    { label: 'Heading', name: 'heading', widget: 'string' },
+                    { label: 'Sub Heading', name: 'subHeading', widget: 'string' },
+                    { 
+                      label: 'CTA Image',
+                      name: 'CTAImage',
+                      widget: 'object',
+                      fields: [
+                        { label: 'Image', name: 'image', widget: 'image' },
+                        { label: 'Image Description', name: 'imageAlt', widget: 'string' },
+                      ],
+                    },
+                  ],
+                }
+              ],
+          }
+
+  - name: navbarAndFooter
+    label: Navbar & Footer
+    files:
+      - file: src/content-components/navbar.md
+        label: Navbar
+        name: navbar
+        editor:
+          preview: false
+        fields:
+          - {
+              label: Menu Items,
+              name: navMenuItems,
+              allow_add: true,
+              widget: list,
+              fields: [
+                { label: 'Label', name: 'label', widget: 'string' },
+                { label: 'Link Type', name: 'linkType', widget: 'select', options: ['internal', 'external'] },
+                { label: 'Link URL', name: 'linkUrl', widget: 'string', hint: 'User a relative URL (e.g. /about) if the link is an internal link.' },
+                { label: 'Open in new tab?', name: 'newTab', widget: 'boolean'},
+                {
+                  label: 'Submenu Items',
+                  name: 'subMenuItems',
+                  allow_add: true,
+                  widget: 'list',
+                  fields: [
+                    { label: 'Label', name: 'label', widget: 'string' },
+                    { label: 'Link Type', name: 'linkType', widget: 'select', options: ['internal', 'external'] },
+                    { label: 'Link URL', name: 'linkUrl', widget: 'string', hint: 'User a relative URL (e.g. /about) if the link is an internal link.' },
+                    { label: 'Open in new tab?', name: 'newTab', widget: 'boolean'},
+                  ],
+                },
+              ],
+            }
+      - name: footer
+        label: Footer
+        file: src/content-components/footer.md
+        editor:
+          preview: false
+        fields:
+          - { label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'footer' }
+          - {
+              label: 'Footer Image',
+              name: 'footerImage',
+              widget: 'object',
+              fields: [
+                { label: 'Image', name: 'image', widget: 'image' },
+                { label: 'Image Description', name: 'imageAlt', widget: 'string'},
+              ],
+            }
+          - {
+              label: 'Footer Link',
+              name: 'footerLink1',
+              widget: 'object',
+              fields: [
+                { label: 'Label', name: 'label', widget: 'string' },
+                { label: 'Link URL', name: 'linkUrl', widget: 'string' },
+                { label: 'Link Type', name: 'linkType', widget: 'select', options: ['internal', 'external'] },
+                { label: 'Open in new tab?', name: 'newTab', widget: 'boolean', hint: 'Internal links cannot open in a new tab. Setting the Link Type to internal will override this setting'}
+              ],
+            }
+          - {
+              label: 'Footer Link',
+              name: 'footerLink2',
+              widget: 'object',
+              fields: [
+                { label: 'Label', name: 'label', widget: 'string' },
+                { label: 'Link URL', name: 'linkUrl', widget: 'string' },
+                { label: 'Link Type', name: 'linkType', widget: 'select', options: ['internal', 'external'] },
+                { label: 'Open in new tab?', name: 'newTab', widget: 'boolean', hint: 'Internal links cannot open in a new tab. Setting the Link Type to internal will override this setting'}
+              ],
+            }
+          - {
+              label: 'Footer Link',
+              name: 'footerLink3',
+              widget: 'object',
+              fields: [
+                { label: 'Label', name: 'label', widget: 'string' },
+                { label: 'Link URL', name: 'linkUrl', widget: 'string' },
+                { label: 'Link Type', name: 'linkType', widget: 'select', options: ['internal', 'external'] },
+                { label: 'Open in new tab?', name: 'newTab', widget: 'boolean', hint: 'Internal links cannot open in a new tab. Setting the Link Type to internal will override this setting'}
+              ],
+            }
+          - {
+              label: 'Footer Link',
+              name: 'footerLink4',
+              widget: 'object',
+              fields: [
+                { label: 'Label', name: 'label', widget: 'string' },
+                { label: 'Link URL', name: 'linkUrl', widget: 'string' },
+                { label: 'Link Type', name: 'linkType', widget: 'select', options: ['internal', 'external'] },
+                { label: 'Open in new tab?', name: 'newTab', widget: 'boolean', hint: 'Internal links cannot open in a new tab. Setting the Link Type to internal will override this setting'}
+              ],
+            }
+          - {
+              label: 'Footer Link',
+              name: 'footerLink5',
+              widget: 'object',
+              fields: [
+                { label: 'Label', name: 'label', widget: 'string' },
+                { label: 'Link URL', name: 'linkUrl', widget: 'string' },
+                { label: 'Link Type', name: 'linkType', widget: 'select', options: ['internal', 'external'] },
+                { label: 'Open in new tab?', name: 'newTab', widget: 'boolean', hint: 'Internal links cannot open in a new tab. Setting the Link Type to internal will override this setting'}
+              ],
+            }
+          - {
+              label: 'Footer Link',
+              name: 'footerLink6',
+              widget: 'object',
+              fields: [
+                { label: 'Label', name: 'label', widget: 'string' },
+                { label: 'Link URL', name: 'linkUrl', widget: 'string' },
+                { label: 'Link Type', name: 'linkType', widget: 'select', options: ['internal', 'external'] },
+                { label: 'Open in new tab?', name: 'newTab', widget: 'boolean', hint: 'Internal links cannot open in a new tab. Setting the Link Type to internal will override this setting'}
+              ],
+            }

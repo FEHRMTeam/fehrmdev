@@ -1,37 +1,9 @@
 module.exports = {
   siteMetadata: {
     author: 'Foo',
-    title: `Agency Name`,
-    description: `Agency Name (EAC) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    title: `Federal Electronic Health Record Modernization`,
+    description: `Federal Electronic Health Record Modernization (FEHRM) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     Aenean et sapien a leo auctor scelerisque quis nec magna. Sed dictum ante a risus vehicula facilisis.`,
-    navigation: [
-      {
-        items: [{ text: 'Home', link: '/' }],
-      },
-      {
-        items: [{ text: 'Blog', link: '/blog' }],
-      },
-      {
-        items: [{ text: 'Document', link: '/document' }],
-      },
-      {
-        items: [
-          { text: 'Document with sidenav', link: '/document-with-sidenav' },
-        ],
-      },
-      {
-        title: 'Document submenu',
-        items: [
-          { text: 'Navigation link', link: '/' },
-          { text: 'Navigation link', link: '/' },
-          { text: 'Navigation link', link: '/' },
-        ],
-      },
-    ],
-    secondaryLinks: [
-      { text: 'Secondary link', link: '/' },
-      { text: 'Another secondary link', link: '/' },
-    ],
 
     /**
      * Search.gov configuration
@@ -121,8 +93,22 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `documentation-pages`,
-        path: `${__dirname}/src/documentation-pages`,
+        name: `content-pages`,
+        path: `${__dirname}/src/content-pages`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `content-components`,
+        path: `${__dirname}/src/content-components`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `homepage`,
+        path: `${__dirname}/src/homepage`,
       },
     },
     `gatsby-transformer-remark`,
