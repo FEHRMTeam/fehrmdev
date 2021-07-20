@@ -85,6 +85,11 @@ $theme-hero-image: '#{$site-image-path}/home-hero.png';
   }
 }
 
+// Hero
+.usa-hero {
+  background-image: none;
+}
+
 // Hero Callout
 .usa-hero__callout {
  background-color: #35034E;

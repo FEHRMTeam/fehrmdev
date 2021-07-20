@@ -19,7 +19,8 @@ const IndexPage = ({ data }) => {
     <Layout
       headerTitle={frontmatter.headerTitle}>
       <SEO title={frontmatter.title} />
-      <Hero heroCallout={frontmatter.heroCallout} />
+      {/* <Hero heroCallout={frontmatter.heroCallout} /> */}
+      <Hero />
       <Tagline taglineContent={frontmatter.tagline} />
       <Highlights callToActions={frontmatter.callToActions} />
     </Layout>
@@ -41,11 +42,14 @@ export const indexQuery = graphql`
           image
           imageAlt
         }
-        heroCallout {
-          calloutHeaderText
-          calloutSupportText
-          callToActionBtnText
-          callToActionUrl
+        heroCarousel {
+          initialDelay
+          transition
+          duration
+          heroCarouselImages {
+            image
+            imageAlt
+          }
         }
         tagline {
           taglineHeadingText

@@ -47,16 +47,35 @@ collections:
               ],
             }
           - {
-              label: 'Hero Callout',
-              name: 'heroCallout',
-              widget: 'object',
+              label: 'Hero Carousel',
+              name: heroCarousel',
+              widget: object,
               fields: [
-                { label: 'Callout Header Text', name: 'calloutHeaderText', widget: 'string' },
-                { label: 'Callout Support Text', name: 'calloutSupportText', widget: 'string' },
-                { label: 'Hero Call To Action Button Text', name: 'callToActionBtnText', widget: 'string' },
-                { label: 'Hero Call To Action Button URL', name: 'callToActionUrl', widget: 'string' },
-              ],
+                { label: 'Initial Delay', name: 'initialDelay', widget: 'string', hint: 'Delay before the first transition (if left at 0, the first image will be skipped initially)' },
+                { label: 'Transition', name: 'transition', widget: 'string', hint: 'Transition duration between images' },
+                { label: 'Duration', name: 'duration', widget: 'string', hint: 'How long an image is shown' },
+                {
+                  label: 'Hero Carousel Images',
+                  name: 'heroCarouselImages',
+                  widget: list,
+                  fields: [
+                    { label: 'Image', name: 'image', widget: 'image' },
+                    { label: 'Image Description', name: 'imageAlt', widget: 'string '},
+                  ],
+                },
+              ]
             }
+          # - {
+          #     label: 'Hero Callout',
+          #     name: 'heroCallout',
+          #     widget: 'object',
+          #     fields: [
+          #       { label: 'Callout Header Text', name: 'calloutHeaderText', widget: 'string' },
+          #       { label: 'Callout Support Text', name: 'calloutSupportText', widget: 'string' },
+          #       { label: 'Hero Call To Action Button Text', name: 'callToActionBtnText', widget: 'string' },
+          #       { label: 'Hero Call To Action Button URL', name: 'callToActionUrl', widget: 'string' },
+          #     ],
+          #   }
           - {
               label: 'Tagline',
               name: 'tagline',

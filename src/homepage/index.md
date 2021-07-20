@@ -5,13 +5,20 @@ headerTitle: Federal Electronic Health Record Modernization
 heroImage:
   image: /images/home-hero.png
   imageAlt: Federal Electronic Health Record Modernization
-heroCallout:
-  calloutHeaderText: <span class="usa-hero__heading--alt">Enhancing the Care Experience</span>
-  calloutSupportText: The FEHRM and its partners are implementing a single, common
-    federal electronic health record that enhances patient care and provider
-    effectiveness.
-  callToActionBtnText: Learn more
-  callToActionUrl: /about-fehrm
+heroCarousel:
+  initialDelay: 2
+  transition: 4
+  duration: 8
+  heroCarouselImages:
+    - image: /images/home-hero.png
+      imageAlt: Federal Electronic Health Record Modernization
+# heroCallout:
+#   calloutHeaderText: <span class="usa-hero__heading--alt">Enhancing the Care Experience</span>
+#   calloutSupportText: The FEHRM and its partners are implementing a single, common
+#     federal electronic health record that enhances patient care and provider
+#     effectiveness.
+#   callToActionBtnText: Learn more
+#   callToActionUrl: /about-fehrm
 tagline:
   taglineHeadingText: '<p class="font-heading-xs margin-top-0
     tablet:margin-bottom-0 text-italic" style="color: #585859"> “At the heart of

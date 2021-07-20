@@ -4,10 +4,11 @@ import React from 'react';
   This will be displayed on the homepage. Ideally, you want to highlight key goals of the website
 */
 
-const Hero = ({ heroCallout }) => (
+// const Hero = ({ heroCallout }) => (
+const Hero = () => (
   <section className="usa-hero">
     <div className="grid-container">
-      <div className="usa-hero__callout">
+      {/* <div className="usa-hero__callout">
         <h2 className="usa-hero__heading"
             dangerouslySetInnerHTML={{ __html: heroCallout.calloutHeaderText }}>
         </h2>
@@ -16,7 +17,7 @@ const Hero = ({ heroCallout }) => (
         <a className="usa-button" href={heroCallout.callToActionUrl}>
           {heroCallout.callToActionBtnText}
         </a>
-      </div>
+      </div> */}
     </div>
   </section>
 );
