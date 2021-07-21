@@ -1,3 +1,5 @@
+@import "slick-carousel/slick/slick";
+// @import "slick-carousel/slick/slick-theme";
 /*
   These are necessary for the image and font urls referenced in the source
   files to resolve correctly.
@@ -88,6 +90,21 @@ $theme-hero-image: '#{$site-image-path}/home-hero.png';
 // Hero
 .usa-hero {
   background-image: none;
+  padding: 0;
+
+  .slick-list {
+    height: 400px;
+
+    // .img-contain {
+    //   height: 400px;
+    // }
+  }
+
+  .slick-slide img {
+    position: relative;
+    top: 50%;
+    transform: translateY(-21%);
+  }
 }
 
 // Hero Callout
