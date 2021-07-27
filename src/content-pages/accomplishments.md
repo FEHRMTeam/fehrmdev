@@ -5,7 +5,7 @@ parent: About
 ---
 # Accomplishments
 
-The Federal Electronic Health Record Modernization (FEHRM) program office achieved much in its first year and continues to progress today. See below a snapshot of notable accomplishments.
+The Federal Electronic Health Record Modernization (FEHRM) program office achieved much in its first year and continues to progress today. See below a snapshot of notable accomplishments. See also [success stories](/success-stories) related to the federal EHR.
 
 * Established the FEHRM, finalized its charter and selected permanent leadership—while operationalizing the FEHRM’s mission to deliver common capabilities that enhance health care and enable the Department of Defense (DOD), Department of Veterans Affairs (VA) and Department of Homeland Security’s U.S. Coast Guard (USCG) to implement a single, common federal electronic health record (EHR)
 * Led value-added activities for DOD, VA and USCG EHR deployments—for example, executed the Enterprise Operations Center during recent deployments to provide actionable executive-level insight into information technology production events
