@@ -21,9 +21,8 @@ Listen to our FEHRM leaders talking about the FEHRM’s activities and the broad
 
 * [GovernmentCIO Influencers Series Women Tech Leaders: Leadership in Defense and National Security](https://governmentciomedia.com/leadership-defense-and-national-security)
 * [ACT-IAC Health Innovation Summit 2021: Driving Federated Health Data Strategy through Interoperability and Seamless VA/DOD Data Exchange](https://vimeo.com/560584288)
-* [ACT-IAC Health Innovation Summit 2021: Keynote Session (https://onlinexperiences.com/Launch/Studio/ESH=8D74A1A8-DDC9-4C96-BEFA-304C2B0847A9
-* [DSI DOD/VA & GOV Health IT Summit: Implementing a Single, Common Federal EHR Across the DOD/VA to Enhance Patient Care and Provider Effectiveness]
-(https://dsigroup.live/archive/4898)
+* [ACT-IAC Health Innovation Summit 2021: Keynote Session](https://onlinexperiences.com/Launch/Studio/ESH=8D74A1A8-DDC9-4C96-BEFA-304C2B0847A9)
+* [DSI DOD/VA & GOV Health IT Summit: Implementing a Single, Common Federal EHR Across the DOD/VA to Enhance Patient Care and Provider Effectiveness](https://dsigroup.live/archive/4898)
 * [Data Symposium 2021: Advance the Mission of Public Health with Data Intelligence](https://www.datafoundation.org/events-list/data-symposium-2021-exploring-emerging-data-capabilities-in-government/2021)
 * [HIMSS National Capital Area Chapter: Emerging Themes in Value Based Care](https://www.youtube.com/watch?v=FGBaLxLKa08)
 * [GovernmentCIO Virtual Event: Health IT: New Horizons in Medicine](https://governmentciomedia.com/event/health-it-new-horizons-medicine)
@@ -31,6 +30,6 @@ Listen to our FEHRM leaders talking about the FEHRM’s activities and the broad
 * [DentaQuest Partnership for Oral Health Advancement: Oral Health Interoperability and Care Coordination Webinar](https://www.carequest.org/education/instructional-webinars/oral-health-interoperability-and-care)
 * [Government Matters Tech Leadership Series: Health](http://govmatters.tv/tech-leadership-series-health)
 * [AFCEA Women in Northern Virginia Distinguished Speaker Event: How to Lead in the Current State of Affairs](https://youtu.be/Cs0W0i-TQJ8)
-* GovernmentCIO Virtual Event: Data Sharing in Response to COVID-19](https://governmentciomedia.com/data-sharing-response-covid-19)
+* [GovernmentCIO Virtual Event: Data Sharing in Response to COVID-19](https://governmentciomedia.com/data-sharing-response-covid-19)
 * [The American Legion Video: FEHRM Director Discusses Electronic Health Records Exchange](https://www.legion.org/veteransbenefits/videos/PLC3EF50DFA2BCA630/rArBUE7RwJs)
 * [Cerner Podcast: A Step Forward in Improving Health Care for Service Members and Veterans](https://www.cerner.com/perspectives/a-step-forward-in-improving-health-care-for-service-members-and-veterans)
