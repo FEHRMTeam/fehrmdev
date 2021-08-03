@@ -15,6 +15,7 @@
     "federalist:copy": "mkdir -p _site && rm -rf _site/* && cp -r public/* _site/"
   },
   "dependencies": {
+    "bootstrap": "^5.0.2",
     "gatsby": "^2.29.3",
     "gatsby-awesome-pagination": "^0.3.6",
     "gatsby-plugin-manifest": "^2.12.0",
@@ -28,6 +29,7 @@
     "node-sass": "^4.14.1",
     "prop-types": "^15.7.2",
     "react": "^17.0.1",
+    "react-bootstrap": "^2.0.0-beta.4",
     "react-dom": "^17.0.1",
     "react-helmet": "^6.1.0",
     "uswds": "^2.10.0"

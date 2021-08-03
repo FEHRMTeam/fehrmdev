@@ -1,4 +1,5 @@
 import React from 'react';
+import { Carousel, CarouselItem } from 'react-bootstrap';
 
 /*
   This will be displayed on the homepage. Ideally, you want to highlight key goals of the website
@@ -6,7 +7,18 @@ import React from 'react';
 
 const Hero = ({ heroCallout }) => (
   <section className="usa-hero">
-    <div className="grid-container">
+    <Carousel
+      indicators={false}
+      controls={false}
+      keyboard={true}>
+      <CarouselItem>
+        <img src="/images/home-hero.png" />
+      </CarouselItem>
+      <CarouselItem>
+        <img src="/images/home-hero.png" />
+      </CarouselItem>
+    </Carousel>
+    {/* <div className="grid-container">
       <div className="usa-hero__callout">
         <h2 className="usa-hero__heading"
             dangerouslySetInnerHTML={{ __html: heroCallout.calloutHeaderText }}>
@@ -17,7 +29,7 @@ const Hero = ({ heroCallout }) => (
           {heroCallout.callToActionBtnText}
         </a>
       </div>
-    </div>
+    </div> */}
   </section>
 );
 

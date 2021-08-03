@@ -5,6 +5,7 @@
  */
 import './src/styles/index.scss';
 import 'uswds';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 import { siteMetadata } from './gatsby-config';
 

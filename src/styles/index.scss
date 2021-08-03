@@ -85,13 +85,30 @@ $theme-hero-image: '#{$site-image-path}/home-hero.png';
   }
 }
 
+// Hero
+.usa-hero {
+  background-image: none;
+  padding: 0;
+
+  .carousel {
+    // height: 400px;
+    overflow: hidden;
+  }
+
+  .carousel-item, .carousel-item.active {
+    display: flex;
+    height: 400px;
+    align-items: center;
+  }
+}
+
 // Hero Callout
 .usa-hero__callout {
  background-color: #35034E;
 
- .usa-button {
-   background-color: #7A4383;
- }
+  .usa-button {
+    background-color: #7A4383;
+  }
 }
 
 // CTA section
