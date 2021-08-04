@@ -64,13 +64,13 @@ Patient data is owned by the patient. Patients have the right to access their pe
 
 **<a name="ONC"></a>Will the Federal Electronic Health Record Modernization program office collaborate with the Office of the National Coordinator for Health Information Technology and standards development organizations?**
 
-Yes, the Federal Electronic Health Record Modernization program office engages with federal and national standards organizations, including the Office of the National Coordinator for Health Information Technology, and private sector partners to advance interoperability standards that enable the exchange of information across all sectors of the industry and Government, a key driver to effective transformation. This effort improves the continuity of care among and between public- and private sector providers.
+Yes, the Federal Electronic Health Record Modernization program office engages with federal and national standards organizations, including the Office of the National Coordinator for Health Information Technology, and private sector partners to advance interoperability standards that enable the exchange of information across all sectors of the industry and government, a key driver to effective transformation. This effort improves the continuity of care among and between public and private sector providers.
 
 **<a name="FEHRMPriorities"></a>What are the Federal Electronic Health Record Modernization program office’s top priorities for the next year?** 
 
 Some of our top priorities include operationalizing the Federal Electronic Health Record Modernization (FEHRM) program office and focusing on convergence. 
 
-We are operationalizing the FEHRM by evolving the FEHRM to become the single provider of the federal electronic health record (EHR) providing a common set of capabilities across the health care industry. 
+We are operationalizing the FEHRM by evolving the FEHRM to become the single provider of the federal electronic health record (EHR), providing a common set of capabilities across the health care industry. 
 
 We focus on convergence by figuring out how to converge EHR workflows and configurations to streamline the patient experience. While the Department of Defense (DOD), Department of Veterans Affairs (VA) and Department of Homeland Security's U.S. Coast Guard (USCG) have unique clinical and business issues that differ based on their missions, the FEHRM is focused on converging DOD, VA and USCG clinical and business capabilities where appropriate. The FEHRM overseas configuration and content changes to the federal EHR that are agreed on by the Departments through a joint decision-making process facilitated by the FEHRM. The goal is that DOD, VA and USCG providers in the same roles will have a common user experience with the federal EHR defined by evidence-based best practice. Providers won't need to relearn things depending on where they provide care. From the patient perspective, this means health care will be delivered the same way regardless of where they get care. They have a consistent patient care experience. Convergence ultimately helps us enable more standard workflows and practices to enhance clinical decision-making and health care. Workflows are the series of tasks required to complete a health care function (for example, ordering a medication). Standard workflows are considered best practices because they guidance compliance with clinical best care guidelines. Convergence helps us determine the best workflow solutions that are safe, effective and efficient. 
 
@@ -80,7 +80,7 @@ We are also focusing on bringing additional federal agencies to the federal EHR 
 
 **<a name="LessonsLearned"></a>What are some of the lessons learned to date with the federal electronic health record?**
 
-At the Federal Electronic Health Record Modernization program office, we are capturing sharing lessons learned and best practices as we work in a common environment and deploy the federal electronic health record.
+At the Federal Electronic Health Record Modernization program office, we are capturing and sharing lessons learned and best practices as we work in a common environment and deploy the federal electronic health record.
 
 We’ve learned that the technology works. So, it’s really about change management—the processes, people, culture, training and communications that need to be in place to be successful. The infrastructure also cannot be antiquated. It must be able to support the newer technologies.
 
@@ -90,7 +90,7 @@ It takes the right people, and the right people are coming together every day. I
 
 **<a name="FEHRMVision"></a>Looking to the future, what does the Federal Electronic Health Record Modernization program office see as a vision for using information technology to improve health care services?**
 
-The efforts and successes with the federal electronic health record (EHR) and with our partners is only the beginning. We are just scratching the surface on what is possible with EHR and joint health information exchanged (HIE) and other health information technology capabilities to transform health care delivery.
+The efforts and successes with the federal electronic health record (EHR) and with our partners are only the beginning. We are just scratching the surface on what is possible with EHR, joint health information exchange (HIE) and other health information technology capabilities to transform health care delivery.
 
 Partnerships between the federal government, community providers and commercial vendors will continue to be critical. These partnerships will drive integration, interoperability and the best possible health care for all patients regardless of where they receive care and who provides it.
 
@@ -100,7 +100,7 @@ We are energized and excited to continue to work with our federal, community and
 
 **<a name="IndustrySupport"></a>How can industry support the Federal Electronic Health Record Modernization program office?**
 
-We continue to look to industry for partnerships, for relationships that can help us shape our path moving forward. We highly value the innovative ideas vendors bring to the table and we rely on those steadfast partnerships such as those with the Leidos Partnership for Defense Health for the Department of Defense and that we see between the Department of Veterans Affairs and Cerner.
+We continue to look to industry for partnerships, for relationships that can help us shape our path moving forward. We highly value the innovative ideas vendors bring to the table, and we rely on those steadfast partnerships, such as those with the Leidos Partnership for Defense Health for the Department of Defense and that we see between the Department of Veterans Affairs and Cerner.
 
 There are a lot of other relationships and partnerships being developed as we look toward new technologies and available capabilities
 
@@ -118,7 +118,7 @@ The Departments are implementing the same single, common federal electronic heal
 
 We rely heavily on community providers to provide health care to Service members, Veterans and their families. In April 2020, the Federal Electronic Health Record Modernization program office launched the joint health information exchange to enhance data sharing between the Department of Defense, Department of Veterans Affairs, Department of Homeland Security’s U.S. Coast Guard and community providers.
 
-COVID-19 showed us how important such efficient electronic health information sharing is for clinicians on the front lines. The more information they have about their patients, the more they can meet their needs.
+COVID-19 showed us how important such efficient electronic health information sharing is for clinicians on the front lines. The more information they have about their patients, the better they can meet their needs.
 
 We also work closely with federal and standards organizations and private sector partners to advance interoperability standards that enable the exchange of information across all sectors of industry and government. 
 
@@ -138,7 +138,7 @@ The information shared through the joint health information exchange includes pr
 
 **<a name="JHIEBenefits"></a>What are the benefits of the joint health information exchange?**
 
-COVID-19 showed us how important efficient electronic health information sharing is for clinicians on the front lines. The more information they have about their patients, the more they can meet their needs.
+COVID-19 showed us how important efficient electronic health information sharing is for clinicians on the front lines. The more information they have about their patients, the better they can meet their needs.
 
 We launched the joint health information exchange (HIE) in the middle of the pandemic. During this critical time, the joint HIE is enhancing the ability of providers to quickly and securely share patient electronic health information with participating community providers.
 
