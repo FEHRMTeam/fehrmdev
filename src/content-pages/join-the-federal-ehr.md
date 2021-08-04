@@ -3,7 +3,7 @@ title: Join the Federal EHR
 sidenav: true
 parent: For Federal Agencies
 ---
-# Join The Federal EHR
+# Join the Federal EHR
 
 ![Photo of the flag](images/1000w_q95-5-.jpg "Flag")
 
