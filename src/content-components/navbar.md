@@ -149,4 +149,8 @@ navMenuItems:
         linkType: internal
         linkUrl: /fehrm-town-hall
         newTab: false
+      - label: HIMSS
+        linkType: internal
+        linkUrl: /himss
+        newTab: false
 ---
