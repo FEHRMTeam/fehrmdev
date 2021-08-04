@@ -5,7 +5,7 @@ parent: For Patients
 ---
 # Learn About the Joint HIE
 
-While the federal EHR is the federal source for your health history, the joint health information exchange (HIE) links your federal EHR information with EHR information from participating community providers. Community providers include single-physician offices to multi-hospital systems outside of the federal health care systems (for example, the Department of Defense, DOD; Department of Veterans Affairs, or VA; and Department of Homeland Security's U.S. Coast Guard, or USCG) that may provide care to you.
+While the federal EHR is the federal source for your health history, the joint health information exchange (HIE) links your federal EHR information with EHR information from participating community providers. Community providers include single-physician offices to multi-hospital systems outside of the federal health care systems (for example, the Department of Defense, or DOD; Department of Veterans Affairs, or VA; and Department of Homeland Security's U.S. Coast Guard, or USCG) that may provide care to you.
 
 The joint HIE is an enhanced network of community providers across the United States who agree to securely share clinical information with DOD, VA and USCG providers. The joint HIE enhances the ability of DOD, VA and USCG providers to quickly and securely access patient electronic health information from community providers and vice versa. Through the joint HIE, your providers may access your prescriptions, allergies, illnesses, lab and radiology results, immunizations, past medical procedures and medical notes.
 
