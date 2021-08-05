@@ -1,9 +1,10 @@
 module.exports = {
   siteMetadata: {
-    author: 'Foo',
+    author: 'FEHRM Communications Team',
     title: `Federal Electronic Health Record Modernization`,
-    description: `Federal Electronic Health Record Modernization (FEHRM) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Aenean et sapien a leo auctor scelerisque quis nec magna. Sed dictum ante a risus vehicula facilisis.`,
+    description: `The Federal Electronic Health Record Modernization (FEHRM) program office works within the federal space to implement a single, common federal electronic health record (EHR) that enhances patient care and provider effectiveness.`,
+    image: '/images/fehrm-icon.png',
+    siteUrl: 'https://fehrmdev.netlify.app',
 
     /**
      * Search.gov configuration
@@ -121,7 +122,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/federalist-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/fehrm-icon.png`, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-netlify-cms`,
