@@ -60,7 +60,7 @@ module.exports = {
      * SSA     - Social Security Administration
      */
     dap: {
-      // agency: 'your-agency',
+      agency: 'fehrm',
 
       // Optional
       // subagency: 'your-subagency',
