@@ -12,7 +12,8 @@ export default function HTML(props) {
           content="width=device-width, initial-scale=1, shrink-to-fit=no"
         />
         {/* We participate in the US government's analytics program. See the data at analytics.usa.gov. */}
-        <script async type="text/javascript" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=FEHRM" id="_fed_an_ua_tag"></script>
+        {/* commented out for dev site, be sure to uncomment for prod */}
+        {/* <script async type="text/javascript" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=FEHRM" id="_fed_an_ua_tag"></script> */}
 
         {props.headComponents}
       </head>
