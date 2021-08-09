@@ -3,7 +3,7 @@ title: Join the Federal EHR
 sidenav: true
 parent: For Federal Agencies
 ---
-# Join The Federal EHR
+# Join the Federal EHR
 
 ![Photo of the flag](images/1000w_q95-5-.jpg "Flag")
 
@@ -19,7 +19,7 @@ The FEHRM brings together the best of health care IT investments, centralized de
 
 Federal agencies who join the federal EHR will benefit from the following:
 
-* **Enhanced Patient-Centered Care:** Providers have access to patient data wherever care is provided to drive patient and population health initiatives.
+* **Enhanced Patient-Centered Care:** Providers have access to patient data wherever care is provided.
 * **Standardization:** Congress is interested in federal standardization. The federal EHR supports the vision of a single, common federal EHR for federal beneficiaries. It standardizes business processes and uses technology to increase clinician time with patients.
 * **Interoperability:** Partners join the broadest interoperability network and most comprehensive interoperability implementation within the federal sector and benefit from ongoing enhancement efforts.
 * **Latest Industry Standards:** Partners benefit from FEHRM, DOD and VA involvement in developing industry standards, access to the latest updates and implementation of standards to the EHR.

@@ -9,7 +9,7 @@ While the federal electronic health record (EHR) is the federal source for your 
 
 The joint HIE is an enhanced network of community providers across the United States who agree to securely share clinical information with DOD, VA and USCG providers. The joint HIE enhances the ability of DOD, VA and USCG providers to quickly and securely access patient electronic health information from community providers and vice versa. Through the joint HIE, providers can access patient’s prescriptions, allergies, illnesses, lab and radiology results, immunizations, past medical procedures and medical notes.
 
-With the joint HIE, your have a more complete view of your medical history, including data from community providers, allowing you to make the most informed medical decisions. This data sharing helps drive enhanced health care quality, safety and satisfaction.
+With the joint HIE, you have a more complete view of your medical history, including data from community providers, allowing you to make the most informed medical decisions. This data sharing helps drive enhanced health care quality, safety and satisfaction.
 
 **DOD, VA or USCG Providers**
 
