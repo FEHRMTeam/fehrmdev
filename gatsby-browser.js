@@ -45,6 +45,7 @@ export const onInitialClientRender = () => {
   }
 
   if (ga && ga.ua) {
+    console.log("here man")
     const src = `https://www.googletagmanager.com/gtag/js?id=${ga.ua}`;
     const onLoad = () => googleAnalytics(pathname);
     scripts.push(loadScript(src, onLoad));
