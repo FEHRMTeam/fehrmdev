@@ -85,6 +85,12 @@ $theme-hero-image: '#{$site-image-path}/home-hero.png';
   }
 }
 
+// Hero
+.usa-hero {
+  max-width: 1730px;
+  margin: 0 auto;
+}
+
 // Hero Callout
 .usa-hero__callout {
  background-color: #35034E;
