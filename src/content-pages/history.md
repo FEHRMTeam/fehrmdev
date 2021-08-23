@@ -24,4 +24,4 @@ From this foundation, the FEHRM’s focus areas evolved to delivering common cap
 
 **FEHRM Timeline** 
 
-![FEHRM timeline of events](images/timeline.png "FEHRM Timeline")
+![FEHRM timeline of events](/images/timeline.png "FEHRM Timeline")
