@@ -14,9 +14,9 @@ The Federal Electronic Health Record Modernization (FEHRM) program office is a c
 The FEHRM submits several reports to Congress as mandated by legislation. Submitted reports are listed below.
 
 * [FEHRM DOD/VA Interoperability Modernization Strategy](/images/tab-a2-dod_va_interoperability_modernization_strategy_20200924.pdf)
-* [Quarter One, Fiscal Year 2021 Interoperability Progress Quarterly Report](images/tab-a2-q1fy2021-fehrm-interoperability-progress-quarterly-report_signed-1-.pdf)
-* [Quarter Four, Fiscal Year 2020 Interoperability Progress Quarterly Report](images/tab-a2-q4fy2020-fehrm-interoperability-progress-quarterly-report_signed.pdf)
-* [Quarter Three, Fiscal Year 2020 Interoperability Progress Quarterly Report](images/tab-a2-q3fy2020-fehrm-interoperability-progress-quarterly-report_signed.pdf)
-* [Quarter Two, Fiscal Year 2020 Interoperability Progress Quarterly Report](images/tab-a2-q2fy2020-fehrm-interoperability-progress-quarterly-report.pdf)
-* [Quarter One, Fiscal Year 2020 Interoperability Progress Quarterly Report](images/tab-a2-q1fy20-fehrm-interoperability-progress-quarterly-report.pdf)
+* [Quarter One, Fiscal Year 2021 Interoperability Progress Quarterly Report](/images/tab-a2-q1fy2021-fehrm-interoperability-progress-quarterly-report_signed-1-.pdf)
+* [Quarter Four, Fiscal Year 2020 Interoperability Progress Quarterly Report](/images/tab-a2-q4fy2020-fehrm-interoperability-progress-quarterly-report_signed.pdf)
+* [Quarter Three, Fiscal Year 2020 Interoperability Progress Quarterly Report](/images/tab-a2-q3fy2020-fehrm-interoperability-progress-quarterly-report_signed.pdf)
+* [Quarter Two, Fiscal Year 2020 Interoperability Progress Quarterly Report](/images/tab-a2-q2fy2020-fehrm-interoperability-progress-quarterly-report.pdf)
+* [Quarter One, Fiscal Year 2020 Interoperability Progress Quarterly Report](/images/tab-a2-q1fy20-fehrm-interoperability-progress-quarterly-report.pdf)
 * [Calendar Year 2019 FEHRM Annual Report](/images/fehrm-annual-report_2019.pdf)
