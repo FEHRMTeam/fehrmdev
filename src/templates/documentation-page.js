@@ -31,7 +31,7 @@ const DocumentationPage = ({ data }) => {
                 currentPage={frontmatter.title} />}
 
             <main id="main-content"
-              className={"usa-layout-docs__main desktop:grid-col-9 usa-prose " + (frontmatter.title === "Leadership" ? "profile-images" : "test")}
+              className={"usa-layout-docs__main desktop:grid-col-9 usa-prose " + (frontmatter.title === "Leadership" ? "profile-images" : "")}
               dangerouslySetInnerHTML={{ __html: html }}>
             </main>
           </div>
