@@ -1,9 +1,8 @@
 ---
-title: Footer
 templateKey: footer
 footerImage:
   image: /images/fehrmlogo.png
-  imageAlt: Agency logo
+  imageAlt: FEHRM Agency logo
 footerLink1:
   label: About Us
   linkUrl: /about-fehrm
@@ -34,4 +33,5 @@ footerLink6:
   linkUrl: https://www.health.mil/About-MHS/OASDHA/Defense-Health-Agency/Defense-Healthcare-Management-Systems
   linkType: external
   newTab: true
+title: Footer
 ---
