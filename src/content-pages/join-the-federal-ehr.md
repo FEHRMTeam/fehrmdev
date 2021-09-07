@@ -17,7 +17,7 @@ Partnering with the [Federal Electronic Health Record Modernization (FEHRM) prog
 
 The FEHRM brings together the best of health care IT investments, centralized delivery and a secure operating environment. The FEHRM coordinates and standardizes delivery of health care IT for federal agencies to manage their own programs through a shared IT infrastructure.
 
-Federal agencies who join the federal EHR will benefit from the following:
+Federal agencies who join the federal EHR will benefit from the following: 
 
 * **Enhanced Patient-Centered Care:** Providers have access to patient data wherever care is provided.
 * **Standardization:** Congress is interested in federal standardization. The federal EHR supports the vision of a single, common federal EHR for federal beneficiaries complying with current HIPAA privacy requirements, security regulations and confidentiality requirements. It standardizes business processes and uses technology to increase clinician time with patients.
