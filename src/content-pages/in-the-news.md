@@ -7,6 +7,14 @@ parent: Media
 
 Recent articles related to the Federal Electronic Health Record Modernization (FEHRM) program office are provided below.
 
+* [Joint HIE, FHIR Adoption Support Data Sharing for Veteran Care](https://governmentciomedia.com/data-sharing-essential-federal-covid-19-response) – GovernmentCIO (October 18, 2021)
+* [VA Launching Yearlong Independent Cost Estimate of EHR Modernization](https://www.fedscoop.com/va-launching-yearlong-independent-cost-estimate-of-ehr-modernization/) – FedScoop (October 7, 2021)
+* [Data-Sharing Is Essential for the Federal COVID-19 Response](https://governmentciomedia.com/data-sharing-essential-federal-covid-19-response) – GovernmentCIO (September 17, 2021)
+* [Cerner to Continue VA EHR System Deployment Under $134 Million Task Order](https://www.govconwire.com/2021/09/cerner-awarded-113m-to-continue-va-ehr-system-deployment/) – GovConWire (September 10, 2021)
+* [Indian Health Service Seeks Vendors to Replace Its Health IT System](https://www.healthcareitnews.com/news/indian-health-service-seeks-vendors-replace-its-health-it-system) – Healthcare IT News (August 16, 2021)
+* [Big VA Budget Boost on Track as Senate Panel Backs $270 Billion Spending Plan](https://www.militarytimes.com/veterans/2021/08/04/big-va-budget-boost-on-track-as-senate-panel-backs-270-billion-spending-plan/) –  Military Times (August 5, 2021)
+* [VA Official Charts Agency’s IT Modernization Approach](https://www.meritalk.com/articles/va-official-charts-agencys-it-modernization-approach/) –  MeriTalk (July 23, 2021)
+* [VA Completes Review of EHR Modernization Program After 12-Week Pause](https://governmentciomedia.com/va-completes-review-ehr-modernization-program-after-12-week-pause) – GovernmentCIO (July 1, 2021)
 * [MHS GENESIS Scheduled to Deploy New Locations This Year](https://governmentciomedia.com/mhs-genesis-scheduled-deploy-new-locations-year) – GovernmentCIO (June 16, 2021)
 * [Leadership Discusses Lessons Learned from Latest MHS GENESIS Waves](https://www.dvidshub.net/news/398978/leadership-discusses-lessons-learned-latest-mhs-genesis-waves) – DVIDS (June 15, 2021)
 * [Electronic Health Records Modernization Improving Federal Health Care Delivery](https://governmentciomedia.com/electronic-health-records-modernization-improving-federal-health-care-delivery) – GovernmentCIO (June 10, 2021)
