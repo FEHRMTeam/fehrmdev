@@ -7,6 +7,16 @@ parent: Media
 
 Listen to our FEHRM leaders talking about the FEHRM’s activities and the broader health information technology space.
 
+**13th Annual Federal Executive Forum (FEF) Program on Health IT in Government**
+
+* [FEF Health IT In Government-Part 1-2021/2022](https://www.youtube.com/watch?v=TovlAxK2LNI&list=PL93B37A8E2F403D3A)
+* [FEF Health IT In Government-Part 2-2021/2022](https://www.youtube.com/watch?v=XmQwyv41hdg&list=PL93B37A8E2F403D3A)
+* [FEF Health IT In Government-Part 3-2021/2022](https://www.youtube.com/watch?v=G9P5rKBQWMQ&list=PL93B37A8E2F403D3A)
+* [Progress Made](https://www.youtube.com/watch?v=J8iIz16m0Sc&list=PL93B37A8E2F403D3A)
+* [Profiles of Success](https://www.youtube.com/watch?v=3HSoXGR1IF8&list=PL93B37A8E2F403D3A)
+* [Top Priorities](https://www.youtube.com/watch?v=1NAdQbyNbhQ&list=PL93B37A8E2F403D3A)
+* [Vision for the Future ](https://www.youtube.com/watch?v=lcZv30sNC1s&list=PL93B37A8E2F403D3A)
+
 **12th Annual Federal Executive Forum (FEF) Program on Health IT in Government** 
 
 * [FEF Health IT In Government-Part 1-2021](https://www.youtube.com/watch?v=FZrzsxa7h3I&list=PL93B37A8E2F403D3A&index=1)
@@ -19,6 +29,8 @@ Listen to our FEHRM leaders talking about the FEHRM’s activities and the broad
 
 **Other Engagements**
 
+* [GovExec: Optimizing the Value of Healthcare Data](https://youtu.be/rhi8lUUsm6Y)
+* [HIMSS TV: DOD, VA Combat EHR Interoperability Challenges](https://himsstv.brightcovegallery.com/detail/video/6268576260001/dod-va-combat-ehr-interoperability-challenges?autoStart=true&q=Tinston)
 * [GovernmentCIO Influencers Series Women Tech Leaders: Leadership in Defense and National Security](https://governmentciomedia.com/leadership-defense-and-national-security)
 * [ACT-IAC Health Innovation Summit 2021: Driving Federated Health Data Strategy through Interoperability and Seamless VA/DOD Data Exchange](https://vimeo.com/560584288)
 * [ACT-IAC Health Innovation Summit 2021: Keynote Session](https://onlinexperiences.com/Launch/Studio/ESH=8D74A1A8-DDC9-4C96-BEFA-304C2B0847A9)
