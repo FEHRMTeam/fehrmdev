@@ -7,7 +7,7 @@ parent: Media
 
 Recent articles related to the Federal Electronic Health Record Modernization (FEHRM) program office are provided below. 
 
-* [Joint HIE, FHIR Adoption Support Data Sharing for Veteran Care](https://governmentciomedia.com/data-sharing-essential-federal-covid-19-response) – GovernmentCIO (October 18, 2021)
+* [Joint HIE, FHIR Adoption Support Data Sharing for Veteran Care](https://ehrintelligence.com/news/joint-hie-fhir-adoption-support-data-sharing-for-veteran-care) – EHR Intelligence (October 18, 2021)
 * [VA Launching Yearlong Independent Cost Estimate of EHR Modernization](https://www.fedscoop.com/va-launching-yearlong-independent-cost-estimate-of-ehr-modernization/) – FedScoop (October 7, 2021)
 * [Data-Sharing Is Essential for the Federal COVID-19 Response](https://governmentciomedia.com/data-sharing-essential-federal-covid-19-response) – GovernmentCIO (September 17, 2021)
 * [Cerner to Continue VA EHR System Deployment Under $134 Million Task Order](https://www.govconwire.com/2021/09/cerner-awarded-113m-to-continue-va-ehr-system-deployment/) – GovConWire (September 10, 2021)
