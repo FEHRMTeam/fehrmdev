@@ -29,11 +29,11 @@ As Deputy Director, Mr. Edward Reyelts drives the FEHRM’s mission to implement
 
 As Senior Advisor, Dr. Neil Evans brings his expertise and experience to advise the FEHRM’s strategic decisions, priorities and operations. He previously served as the Interim Director for the FEHRM, leading efforts to establish an organizational structure, staffing and priorities to ensure FEHRM responsibilities, mandated by the National Defense Authorization Act for Fiscal Year 2020 and the FEHRM Charter, were carried out effectively. He also serves as Chief Officer for the Office of Connected Care in the Veterans Health Administration. The Office of Connected Care is dedicated to improving services to Veterans, their families and caregivers—using digital and remote technologies to increase access to care, foster continuity of care and promote patient engagement. Dr. Evans is a board-certified primary care internist, seeing patients at the Washington DC VA Medical Center.
 
-![Photo of Dr. Thompson](/images/thompson.png "Dr. Thompson ")
+![Photo of Ms. Heermann-Do](images/kimberlyheermann-do.jpg "Ms. Heermann-Do")
 
-**Lauren Thompson, Ph.D., Federal and Commercial Interoperability Director**
+**Kimberly A. Heermann-Do, MHA, Acting Federal and Commercial Interoperability Director**
 
-As Federal and Commercial Interoperability Director, Dr. Lauren Thompson is responsible for interoperability strategy and planning, health interoperability standards and engagement with federal and industry partners, ensuring the highest levels of interoperability among DOD, VA, USCG and the private sector. Dr. Thompson was the Director of the DOD/VA Interagency Program Office and established the office as a leader in health data standards and interoperability.
+As Acting Federal and Commercial Interoperability Director, Ms. Kimberly Heermann-Do is responsible for interoperability strategy and planning, health interoperability standards and engagement with federal and industry partners, ensuring the highest levels of interoperability among DOD, VA, USCG and the private sector. Ms. Heermann-Do's work for the FEHRM builds on her previous role as Senior IT Specialist for the DOD/VA Interagency Program Office as well as earlier roles within the Defense Health Agency and U.S. Army Medical Command.
 
 ![Photo of Dr. Josephs](/images/josephs.jpg "Dr. Josephs")
 
