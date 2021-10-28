@@ -1,11 +1,11 @@
 ---
-title: FEHRM Industry Interoperability Roundtable
+title: FEHRM Industry Roundtable
 sidenav: true
 parent: Events/Conferences
 ---
-# FEHRM Industry Interoperability Roundtable
+# FEHRM Industry Roundtable
 
-The Federal Electronic Health Record Modernization (FEHRM) program office hosts the Industry Interoperability Roundtable semi-annually to provide a forum for discussion on the current and future state of health information technology (IT) and health information exchange. The roundtable features senior leaders from the Department of Defense (DOD), Department of Veterans Affairs (VA) and Department of Homeland Security's U.S. Coast Guard, along with other federal partners, including the Office of the National Coordinator for Health Information Technology and the Centers for Medicare and Medicaid Services, and subject matter experts from the private sector, who participate in panel discussions and provide updates. The purpose of the roundtable is for participants to share interoperability initiatives, challenges and successes.
+The Federal Electronic Health Record Modernization (FEHRM) program office hosts the Industry Roundtable semi-annually to provide a forum for discussion on the current and future state of health information technology (IT) and health information exchange. The roundtable features senior leaders from the Department of Defense (DOD), Department of Veterans Affairs (VA) and Department of Homeland Security's U.S. Coast Guard, along with other federal partners, including the Office of the National Coordinator for Health Information Technology and the Centers for Medicare and Medicaid Services, and subject matter experts from the private sector, who participate in panel discussions and provide updates. The purpose of the roundtable is for participants to share interoperability initiatives, challenges and successes.
 
 **Join us for the 11th FEHRM Industry Roundtable:**
 
