@@ -141,7 +141,7 @@ navMenuItems:
         linkType: internal
         linkUrl: /federal-ehr-annual-summit
         newTab: false
-      - label: FEHRM Industry Interoperability Roundtable
+      - label: FEHRM Industry Roundtable
         linkType: internal
         linkUrl: /fehrm-industry-interoperability-roundtable
         newTab: false
