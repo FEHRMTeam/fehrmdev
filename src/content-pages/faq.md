@@ -5,27 +5,27 @@ parent: About
 ---
 # Frequently Asked Questions
 
-* [What is the Federal Electronic Health Record Modernization program office’s role in the electronic health record space?](#FEHRMRole)
-* [How is the Federal Electronic Health Record Modernization program office different from the Interagency Program Office?](#FEHRMIPO)
-* [What is the Federal Electronic Health Record Modernization program office’s level of authority?](#FEHRMAuthority)
+* [What is the Federal Electronic Health Record Modernization office’s role in the electronic health record space?](#FEHRMRole)
+* [How is the Federal Electronic Health Record Modernization office different from the Interagency Program Office?](#FEHRMIPO)
+* [What is the Federal Electronic Health Record Modernization office’s level of authority?](#FEHRMAuthority)
 * [Why is a single, common federal electronic health record necessary?](#EHRNecessary)
 * [Who owns the patient health data in the electronic health record?](#PatientData)
-* [Will the Federal Electronic Health Record Modernization program office collaborate with the Office of the National Coordinator for Health Information Technology and standards development organizations?](#ONC)
-* [What are the Federal Electronic Health Record Modernization program office’s top priorities for the next year?](#FEHRMPriorities)
+* [Will the Federal Electronic Health Record Modernization office collaborate with the Office of the National Coordinator for Health Information Technology and standards development organizations?](#ONC)
+* [What are the Federal Electronic Health Record Modernization office’s top priorities for the next year?](#FEHRMPriorities)
 * [What are some of the lessons learned to date with the federal electronic health record?](#LessonsLearned)
-* [Looking to the future, what does the Federal Electronic Health Record Modernization program office see as a vision for using information technology to improve health care services?](#FEHRMVision)
-* [How can industry support the Federal Electronic Health Record Modernization program office?](#IndustrySupport)
+* [Looking to the future, what does the Federal Electronic Health Record Modernization office see as a vision for using information technology to improve health care services?](#FEHRMVision)
+* [How can industry support the Federal Electronic Health Record Modernization office?](#IndustrySupport)
 * [Are the Department of Defense, Department of Veterans Affairs and Department of Homeland Security’s U.S. Coast Guard using different electronic health records or one single, common electronic health record?](#SingleEHR)
-* [How is the Federal Electronic Health Record Modernization program office partnering with the private sector/commercial partners to advance interoperability?](#PrivateSector)
+* [How is the Federal Electronic Health Record Modernization office partnering with the private sector/commercial partners to advance interoperability?](#PrivateSector)
 * [What is the joint health information exchange?](#JointHIE)
 * [What information is shared through the joint health information exchange?](#JHIEInformation)
 * [What are the benefits of the joint health information exchange?](#JHIEBenefits)
 * [How has the data gained from the federal electronic health record and joint health information exchange been used to enhance health care? How did it help in 2020 during the COVID-19 crisis?](#EHRData)
-* [Has COVID-19 impacted the Federal Electronic Health Record Modernization program office's activities and the future of electronic health record modernization?](#COVID19Impact)
+* [Has COVID-19 impacted the Federal Electronic Health Record Modernization office's activities and the future of electronic health record modernization?](#COVID19Impact)
 
-**<a name="FEHRMRole"></a>What is the Federal Electronic Health Record Modernization program office’s role in the electronic health record space?**
+**<a name="FEHRMRole"></a>What is the Federal Electronic Health Record Modernization office’s role in the electronic health record space?**
 
-Chartered in December 2019, the Federal Electronic Health Record Modernization (FEHRM) program office works within the federal space to implement a single, common federal electronic health record (EHR) that enhances patient care and provider effectiveness. The FEHRM unites efforts and delivers common capabilities that enable the Department of Defense (DOD), Department of Veterans Affairs (VA), Department of Homeland Security’s U.S. Coast Guard (USCG) and other federal agencies to deploy the federal EHR. Common capabilities refer to common solutions, tools and activities identified as needed to effectively deploy the federal EHR.
+Chartered in December 2019, the Federal Electronic Health Record Modernization (FEHRM) office works within the federal space to implement a single, common federal electronic health record (EHR) that enhances patient care and provider effectiveness. The FEHRM unites efforts and delivers common capabilities that enable the Department of Defense (DOD), Department of Veterans Affairs (VA), Department of Homeland Security’s U.S. Coast Guard (USCG) and other federal agencies to deploy the federal EHR. Common capabilities refer to common solutions, tools and activities identified as needed to effectively deploy the federal EHR.
 
 The common capabilities the FEHRM delivers in support of the federal EHR include managing the Federal Enclave; managing the joint health information exchange; leading analysis and integration of deployment activities at joint sharing sites; overseeing EHR configuration and content changes; providing software updates and solutions; tracking joint risks, issues and opportunities as well as lessons learned; maintaining an integrated master schedule; and advancing interoperability.
 
@@ -33,15 +33,15 @@ These capabilities are also helping drive federal solutions to support effective
 
 Visit the [What is the FEHRM](/about-fehrm) section of the [FEHRM website](www.FEHRM.gov) to learn more about the FEHRM.
 
-**<a name="FEHRMIPO"></a>How is the Federal Electronic Health Record Modernization program office different from the Interagency Program Office?**
+**<a name="FEHRMIPO"></a>How is the Federal Electronic Health Record Modernization office different from the Interagency Program Office?**
 
-The Interagency Program Office (IPO) served as a successful coordinating body providing measurable impact on setting health data standards for the Department of Defense and Department of Veterans Affairs. It no longer exists. The Federal Electronic Health Record Modernization (FEHRM) program office’s mission—to implement a single, common federal EHR to enhance patient care and provider effectiveness, wherever care is provided—is much more expansive than the IPO's mission. The FEHRM has a broader focus and more authority than the IPO had.
+The Interagency Program Office (IPO) served as a successful coordinating body providing measurable impact on setting health data standards for the Department of Defense and Department of Veterans Affairs. It no longer exists. The Federal Electronic Health Record Modernization (FEHRM) office’s mission—to implement a single, common federal EHR to enhance patient care and provider effectiveness, wherever care is provided—is much more expansive than the IPO's mission. The FEHRM has a broader focus and more authority than the IPO had.
 
-**<a name="FEHRMAuthority"></a>What is the Federal Electronic Health Record Modernization program office's level of authority?**
+**<a name="FEHRMAuthority"></a>What is the Federal Electronic Health Record Modernization office's level of authority?**
 
-The Federal Electronic Health Record Modernization (FEHRM) program office's Director and Deputy Director report to the Deputy Secretary of Defense and the Deputy Secretary of Veterans Affairs. The FEHRM Charter and the National Defense Authorization Act for Fiscal Year 2020 (NDAA FY2020) give the FEHRM decision-making authority within the joint space. The NDAA FY2020 specifies that the FEHRM "shall carry our decision making authority delegated to the Office by the Secretary of Defense and the Secretary of Veterans Affair with respect to the definition, coordination, and management of functional, technical, and programmatic activities that are joint used, carried out, and shared by the Departments."
+The Federal Electronic Health Record Modernization (FEHRM) office's Director and Deputy Director report to the Deputy Secretary of Defense and the Deputy Secretary of Veterans Affairs. The FEHRM Charter and the National Defense Authorization Act for Fiscal Year 2020 (NDAA FY2020) give the FEHRM decision-making authority within the joint space. The NDAA FY2020 specifies that the FEHRM "shall carry our decision making authority delegated to the Office by the Secretary of Defense and the Secretary of Veterans Affair with respect to the definition, coordination, and management of functional, technical, and programmatic activities that are joint used, carried out, and shared by the Departments."
 
-The implementation of a single, common federal electronic health record (EHR) is a massive transformation with multiple cabinet-level offices involved, and it will not succeed with a command and control approach. Instead, the FEHRM works through collaboration, facilitation, consensus building and the commitment of its partners to provide the best health care experience for patients and providers.
+The implementation of a single, common federal electronic health record (EHR) is a massive transformation with multiple cabinet-level offices involved, and it will not succeed with a command-and-control approach. Instead, the FEHRM works through collaboration, facilitation, consensus building and the commitment of its partners to provide the best health care experience for patients and providers.
 
 If there is an irrevocable dispute, then the FEHRM will execute its authority and act as an arbiter as needed. However, the FEHRM has created an environment, including collaborative processes, procedures and forums, to enable joint decision-making and issue resolution at the lowest possible levels.
 
@@ -62,13 +62,13 @@ Having a federal EHR among DOD, VA and USCG puts patients at the center. It allo
 
 Patient data is owned by the patient. Patients have the right to access their personal health record. They retain control over their own health data.
 
-**<a name="ONC"></a>Will the Federal Electronic Health Record Modernization program office collaborate with the Office of the National Coordinator for Health Information Technology and standards development organizations?**
+**<a name="ONC"></a>Will the Federal Electronic Health Record Modernization office collaborate with the Office of the National Coordinator for Health Information Technology and standards development organizations?**
 
-Yes, the Federal Electronic Health Record Modernization program office engages with federal and national standards organizations, including the Office of the National Coordinator for Health Information Technology, and private sector partners to advance interoperability standards that enable the exchange of information across all sectors of the industry and government, a key driver to effective transformation. This effort improves the continuity of care among and between public and private sector providers.
+Yes, the Federal Electronic Health Record Modernization office engages with federal and national standards organizations, including the Office of the National Coordinator for Health Information Technology, and private sector partners to advance interoperability standards that enable the exchange of information across all sectors of the industry and government, a key driver to effective transformation. This effort improves the continuity of care among and between public and private sector providers.
 
-**<a name="FEHRMPriorities"></a>What are the Federal Electronic Health Record Modernization program office’s top priorities for the next year?** 
+**<a name="FEHRMPriorities"></a>What are the Federal Electronic Health Record Modernization office’s top priorities for the next year?** 
 
-Some of our top priorities include operationalizing the Federal Electronic Health Record Modernization (FEHRM) program office and focusing on convergence. 
+Some of our top priorities include operationalizing the Federal Electronic Health Record Modernization (FEHRM) office and focusing on convergence. 
 
 We are operationalizing the FEHRM by evolving the FEHRM to become the single provider of the federal electronic health record (EHR), providing a common set of capabilities across the health care industry. 
 
@@ -80,7 +80,7 @@ We are also focusing on bringing additional federal agencies to the federal EHR 
 
 **<a name="LessonsLearned"></a>What are some of the lessons learned to date with the federal electronic health record?**
 
-At the Federal Electronic Health Record Modernization program office, we are capturing and sharing lessons learned and best practices as we work in a common environment and deploy the federal electronic health record.
+At the Federal Electronic Health Record Modernization office, we are capturing and sharing lessons learned and best practices as we work in a common environment and deploy the federal electronic health record.
 
 We’ve learned that the technology works. So, it’s really about change management—the processes, people, culture, training and communications that need to be in place to be successful. The infrastructure also cannot be antiquated. It must be able to support the newer technologies.
 
@@ -88,17 +88,17 @@ We adapted to the current pandemic environment and used it as a catalyst: How ca
 
 It takes the right people, and the right people are coming together every day. It takes a team. No individual or organization possesses all the expertise to make this a reality. We will continue to build on the team.
 
-**<a name="FEHRMVision"></a>Looking to the future, what does the Federal Electronic Health Record Modernization program office see as a vision for using information technology to improve health care services?**
+**<a name="FEHRMVision"></a>Looking to the future, what does the Federal Electronic Health Record Modernization office see as a vision for using information technology to improve health care services?**
 
 The efforts and successes with the federal electronic health record (EHR) and with our partners are only the beginning. We are just scratching the surface on what is possible with EHR, joint health information exchange (HIE) and other health information technology capabilities to transform health care delivery.
 
 Partnerships between the federal government, community providers and commercial vendors will continue to be critical. These partnerships will drive integration, interoperability and the best possible health care for all patients regardless of where they receive care and who provides it.
 
-The Federal Electronic Health Record Modernization program office's vision is that we take technology out of the equation, so providers and administrators can make the best decisions together on care delivery. We want to remove technology as a barrier. It’s about getting the right data to the right person at the right time to make informed health care decisions.
+The Federal Electronic Health Record Modernization office's vision is that we take technology out of the equation, so providers and administrators can make the best decisions together on care delivery. We want to remove technology as a barrier. It’s about getting the right data to the right person at the right time to make informed health care decisions.
 
 We are energized and excited to continue to work with our federal, community and industry partners to improve health care for all our beneficiaries. The possibilities are limitless now that we have a foundation in place.
 
-**<a name="IndustrySupport"></a>How can industry support the Federal Electronic Health Record Modernization program office?**
+**<a name="IndustrySupport"></a>How can industry support the Federal Electronic Health Record Modernization office?**
 
 We continue to look to industry for partnerships, for relationships that can help us shape our path moving forward. We highly value the innovative ideas vendors bring to the table, and we rely on those steadfast partnerships, such as those with the Leidos Partnership for Defense Health for the Department of Defense and that we see between the Department of Veterans Affairs and Cerner.
 
@@ -114,9 +114,9 @@ When we are all focused on delivering high-quality care seamlessly as patients m
 
 The Departments are implementing the same single, common federal electronic health record (EHR). The Department of Defense (DOD) calls the federal EHR MHS GENESIS, while the Department of Veterans Affairs and Department of Homeland Security’s U.S. Coast Guard use other names for the federal EHR. However, they are deploying, using and updating the same federal EHR. If one Department adds new capabilities to the federal EHR, the other Departments have access to the same capabilities.
 
-**<a name="PrivateSector"></a>How is the Federal Electronic Health Record Modernization program office partnering with the private sector/commercial partners to advance interoperability?**
+**<a name="PrivateSector"></a>How is the Federal Electronic Health Record Modernization office partnering with the private sector/commercial partners to advance interoperability?**
 
-We rely heavily on community providers to provide health care to Service members, Veterans and their families. In April 2020, the Federal Electronic Health Record Modernization program office launched the joint health information exchange to enhance data sharing between the Department of Defense, Department of Veterans Affairs, Department of Homeland Security’s U.S. Coast Guard and community providers.
+We rely heavily on community providers to provide health care to Service members, Veterans and their families. In April 2020, the Federal Electronic Health Record Modernization office launched the joint health information exchange to enhance data sharing between the Department of Defense, Department of Veterans Affairs, Department of Homeland Security’s U.S. Coast Guard and community providers.
 
 COVID-19 showed us how important such efficient electronic health information sharing is for clinicians on the front lines. The more information they have about their patients, the better they can meet their needs.
 
@@ -124,7 +124,7 @@ We also work closely with federal and standards organizations and private sector
 
 **<a name="JointHIE"></a>What is the joint health information exchange?**
 
-Launched in April 2020 by the Federal Electronic Health Record Modernization (FEHRM) program office, the joint health information exchange (HIE) builds upon the success of the Department of Defense (DOD) and Department of Veterans Affairs (VA) HIE work.
+Launched in April 2020 by the Federal Electronic Health Record Modernization (FEHRM) office, the joint health information exchange (HIE) builds upon the success of the Department of Defense (DOD) and Department of Veterans Affairs (VA) HIE work.
 
 The joint HIE is an enhanced network of community providers across the United States who agree to securely share clinical information with the DOD, VA and Department of Homeland Security’s U.S. Coast Guard (USCG) providers.
 
@@ -164,7 +164,7 @@ DOD is also looking into developing a trauma registry to capture battlefield inj
 
 The EHR and subsequent data we now have available help make all these innovations in health care possible so beneficiaries can get the best health care as soon as possible. We are just scratching the surface on what is possible with EHR data to transform health care delivery to Veterans.
 
-**<a name="COVID19Impact"></a>Has COVID-19 impacted the Federal Electronic Health Record Modernization program office's activities and the future of electronic health record modernization?**
+**<a name="COVID19Impact"></a>Has COVID-19 impacted the Federal Electronic Health Record Modernization office's activities and the future of electronic health record modernization?**
 
 The Department of Defense (DOD) and Department of Veterans Affairs (VA) did disengage with providers at the start of COVID-19, so the providers could focus on responding to the national pandemic. In the meantime, the Departments re-planned continuously, seeking ways to enhance capabilities and gain efficiencies, so they were ready to respond once the providers could focus on electronic health record (EHR) deployments again. For example, the Department of Homeland Security’s U.S. Coast Guard (USCG) shifted to an entire virtual training model that DOD and VA are learning from and incorporating into their training techniques.
 
