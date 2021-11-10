@@ -11,7 +11,7 @@ parent: For Federal Agencies
 
 Across the federal government, agencies are modernizing their health information technology (IT) infrastructure to transform the delivery of health care. For any health system, the electronic health record (EHR) is the foundation for integrated health care and advanced data sharing. The EHR is software used to securely document, store, retrieve, share and analyze information about individual patient care. It enables a digital version of a patient’s health record. A complete and accurate health record in a single common system is crucial to providing high-quality care and maintaining patient safety.
 
-Partnering with the [Federal Electronic Health Record Modernization (FEHRM) program office](/about-fehrm)—which delivers capabilities enabling the Department of Defense (DOD), Department of Veterans Affairs (VA), Department of Homeland Security’s U.S. Coast Guard (USCG) and other federal agencies to deploy a single, common EHR—can help you with your modernization goals.
+Partnering with the [Federal Electronic Health Record Modernization (FEHRM) office](/about-fehrm)—which delivers capabilities enabling the Department of Defense (DOD), Department of Veterans Affairs (VA), Department of Homeland Security’s U.S. Coast Guard (USCG) and other federal agencies to deploy a single, common EHR—can help you with your modernization goals.
 
 **Benefits of Joining the Federal EHR**
 
