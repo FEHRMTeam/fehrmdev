@@ -3,10 +3,7 @@ title: House Testimony
 sidenav: true
 parent: Congressional Information
 ---
-# House Testimony
-
-Recent House testimony related to the Federal Electronic Health Record Modernization program office are listed below. 
-
+* ["Next Steps: Examining Plans for the Continuation of the VA's EHR Modernization Program"](https://veterans.house.gov/events/hearings/next-steps-examining-plans-for-the-continuation-of-the-department-of-veterans-affairs-electronic-health-record-modernization-program) - House Committee on Appropriations, Subcommittee on Military Construction, Veterans’ Affairs, and Related Agencies hearing (November 2, 2021)
 * ["Update on VA’s Electronic Health Record Modernization Implementation"](https://appropriations.house.gov/events/hearings/update-on-va-s-electronic-health-record-modernization-implementation)– House Committee on Appropriations, Subcommittee on Military Construction, Veterans’ Affairs, and Related Agencies hearing (October 21, 2021)
 * ["Moving Forward: Evaluating Next Steps for the Department of Veterans Affairs Electronic Health Record Modernization Program"](https://veterans.house.gov/events/hearings/moving-forward-evaluating-next-steps-for-the-department-of-veterans-affairs-electronic-health-record-modernization-program) – House Committee on Veterans' Affairs, Subcommittee on Technology Modernization hearing (July 21, 2021)
 * ["Fiscal Year 2022 Budget Hearing Department of Veterans Affairs"](https://appropriations.house.gov/events/hearings/fy-2022-budget-hearing-department-of-veterans-affairs) – House Committee on Appropriations, Subcommittee on Military Construction, Veterans’ Affairs, and Related Agencies hearing (April 15, 2021)
