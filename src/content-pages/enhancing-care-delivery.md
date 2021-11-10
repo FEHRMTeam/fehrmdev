@@ -9,7 +9,7 @@ parent: For Providers
 
  *“As a provider, I am looking forward to using a modern EHR that enables better clinical information support tools and better ways for providers to view information, including standard size order sets, and allowing for more intuitive ways to document patient care.”* – Chief Medical Informatics Officer for DOD Healthcare Management System Modernization and American Academy of Pediatrics Fellow
 
-An electronic health record (EHR) is software that's used to securely document, store, retrieve, share and analyze information about individual patient care. It enables a digital version of your health record. The Federal Electronic Health Record Modernization (FEHRM) program office, along with other federal agencies, is implementing a single, common federal EHR to enhance patient care and provider effectiveness.
+An electronic health record (EHR) is software that's used to securely document, store, retrieve, share and analyze information about individual patient care. It enables a digital version of your health record. The Federal Electronic Health Record Modernization (FEHRM) office, along with other federal agencies, is implementing a single, common federal EHR to enhance patient care and provider effectiveness.
 
 A federal EHR means as a provider, you will be able to access patient information entered into the EHR from different doctors, pharmacies, labs and other points of care throughout your patient’s care. There is recognition across the board that the federal EHR saves providers time and enables more standard workflows to support enhanced clinical decision-making and patient safety.
 
