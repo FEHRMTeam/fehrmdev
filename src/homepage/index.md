@@ -17,13 +17,13 @@ tagline:
     tablet:margin-bottom-0 text-italic" style="color: #585859"> “At the heart of
     health care are relationships between health care professionals and the
     patients they serve. Health information technology done right enhances those
-    relationships —when it delivers the right data and the right digital
+    relationships—when it delivers the right data and the right digital
     experience at the right time—improving health, quality and the care
     experience for all.” </p><p class="font-heading-xs tablet:margin-bottom-0">–
     FEHRM Senior Advisor and Clinician</p>'
   taglineDescription: <p> The Federal Electronic Health Record Modernization
-    (FEHRM) program office works within the federal space to implement a single,
-    common federal electronic health record (EHR) that enhances patient care and
+    (FEHRM) office works within the federal space to implement a single, common
+    federal electronic health record (EHR) that enhances patient care and
     provider effectiveness. An EHR is software that's used to securely document,
     store, retrieve, share and analyze information about individual patient
     care. It enables a digital version of a patient record. <p>The FEHRM <a
