@@ -43,5 +43,5 @@ parent: About
 * Events/Conferences
 
   * [Federal EHR Annual Summit](/federal-ehr-annual-summit)
-  * [FEHRM Industry Interoperability Roundtable](/fehrm-industry-interoperability-roundtable) 
+  * [FEHRM Industry Roundtable](/fehrm-industry-interoperability-roundtable) 
   * [FEHRM Town Hall](/fehrm-town-hall)

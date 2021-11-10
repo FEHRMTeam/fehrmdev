@@ -47,7 +47,7 @@ The federal EHR puts patients at the center. Patients benefit from the following
 
 COVID-19 recently demonstrated the success and critical need of a federal EHR. The federal EHR has quickly adapted to the changing demands on the system and supported providers during the pandemic. It is far more adaptable and configurable than legacy systems. For example, the FEHRM, along with DOD, implemented COVID-specific configuration changes in the federal EHR within four hours. The same changes in legacy systems took nearly four weeks to implement.
 
-During the pandemic, the FEHRM, along with DOD, developed a mass vaccination process to assess the status of Service member vaccinations in order to ensure readiness—the ability to deploy. The process was so successful that Cerner adopted it, making the solution part of its baseline product. It’s now available to all of their commercial customers. The FEHRM and DOD is now looking at how to modify the mass vaccination process to do mass lab testing.
+During the pandemic, the Federal Electronic Health Record Modernization (FEHRM) office, along with DOD, developed a mass vaccination process to assess the status of Service member vaccinations in order to ensure readiness—the ability to deploy. The process was so successful that Cerner adopted it, making the solution part of its baseline product. It’s now available to all of their commercial customers. The FEHRM and DOD is now looking at how to modify the mass vaccination process to do mass lab testing.
 
 The FEHRM and DOD also integrated an Immunization Forecaster into the EHR to help pediatricians know when patients need the next round of appropriate vaccines. These efforts and more are especially timely to facilitate COVID-19 vaccinations.
 
