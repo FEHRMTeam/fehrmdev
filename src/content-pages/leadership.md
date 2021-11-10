@@ -5,7 +5,7 @@ parent: About
 ---
 # Leadership
 
-Federal Electronic Health Record Modernization (FEHRM) program office leadership shares a passion for the FEHRM’s mission to implement a single, common federal electronic health record (EHR) to enhance patient care and provider effectiveness, wherever care is provided. The FEHRM's Director and Deputy Director report to the Deputy Secretary of Defense and the Deputy Secretary of Veterans Affairs. The FEHRM Charter and the National Defense Authorization Act for Fiscal Year 2020 give the FEHRM decision-making authority within the joint space. 
+Federal Electronic Health Record Modernization (FEHRM) office leadership shares a passion for the FEHRM’s mission to implement a single, common federal electronic health record (EHR) to enhance patient care and provider effectiveness, wherever care is provided. The FEHRM's Director and Deputy Director report to the Deputy Secretary of Defense and the Deputy Secretary of Veterans Affairs. The FEHRM Charter and the National Defense Authorization Act for Fiscal Year 2020 give the FEHRM decision-making authority within the joint space. 
 
 FEHRM staff are recognized by the health industry for their leadership and innovation, earning awards like the Defense Health Agency’s Positive Spirit Award; Federal Computer Week’s Federal 100 Award; FedHealthIT 100 Award; Program Executive Office, Defense Health Management Systems (PEO DHMS) Employee of the Quarter Award; Samuel J. Heyman Service to America Medal; and General Benjamin O. Davis, Jr., Tuskegee Airmen Incorporated National Military Award.
 
