@@ -5,4 +5,4 @@ parent: Events/Conferences
 ---
 # FEHRM Town Hall
 
-The Federal Electronic Health Record Modernization (FEHRM) program office hosts a FEHRM Town Hall quarterly to provide a forum for discussion on specific topics related to federal EHR modernization efforts. The town halls are limited to government attendees but feature presentations from federal and industry subject matter experts.
+The Federal Electronic Health Record Modernization (FEHRM) office hosts a FEHRM Town Hall quarterly to provide a forum for discussion on specific topics related to federal electronic health record modernization efforts. The town halls are limited to government attendees but feature presentations from federal and industry subject matter experts.
