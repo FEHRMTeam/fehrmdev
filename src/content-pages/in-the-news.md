@@ -5,7 +5,7 @@ parent: Media
 ---
 # In the News
 
-Recent articles related to the Federal Electronic Health Record Modernization (FEHRM) program office are provided below. 
+Recent articles related to the Federal Electronic Health Record Modernization (FEHRM) office are provided below. 
 
 * [Joint HIE, FHIR Adoption Support Data Sharing for Veteran Care](https://ehrintelligence.com/news/joint-hie-fhir-adoption-support-data-sharing-for-veteran-care) – EHR Intelligence (October 18, 2021)
 * [VA Launching Yearlong Independent Cost Estimate of EHR Modernization](https://www.fedscoop.com/va-launching-yearlong-independent-cost-estimate-of-ehr-modernization/) – FedScoop (October 7, 2021)
