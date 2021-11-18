@@ -38,10 +38,10 @@ tagline:
     bringing a common record to patients and providers. There is <a
     href="/success-stories"> recognition across the board </a> that the federal
     EHR saves providers time and enables more standard workflows to support
-    enhanced clinical decision-making and patient safety.</p> <p> As of April
-    2021, there are more than 42,000 federal EHR users (doctors, nurses, etc.)
-    at 42 Military Medical Treatment Facility Commands, two VA sites and four
-    USCG sites across 16 states.</p>
+    enhanced clinical decision-making and patient safety.</p> <p> As of November
+    2021, there are more than 65,000 DOD, VA and USCG federal EHR users
+    (doctors, nurses, etc.) at 47 Commands, two VA sites and 109 USCG sites
+    across 41 states, two U.S. territories and one overseas location.</p>
 callToActions:
   topLeftCTA:
     heading: Mission-Driven
