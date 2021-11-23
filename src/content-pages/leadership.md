@@ -23,6 +23,12 @@ As Director, Mr. Bill Tinston oversees the FEHRM’s efforts to implement a sing
 
 As Deputy Director, Mr. Edward Reyelts drives the FEHRM’s mission to implement a single, common federal EHR forward with DOD, VA and USCG. He ensures the FEHRM works closely with the Departments to provide common capabilities for effective and efficient health care delivery to 28 million eligible beneficiaries, including Service members, Veterans and their families. Previously, Mr. Reyelts served as the Associate Chief Information Officer for the Digital Infrastructure Services Center at the U.S. Department of Agriculture. He is a 22-year Marine Corps Veteran with extensive IT experience.
 
+![Photo of Mr. Perkins](images/perkins_james-lores.jpg "Mr. Perkins")
+
+**Mr. James Perkins, Chief of Staff**
+
+As Chief of Staff, Mr. James Perkins directs all administrative, financial and operational activities for the FEHRM’s Director and Deputy Director. He prioritizes critical issues and required information, facilitating efficient decision-making to support the implementation a single, common federal EHR with DOD, VA and USCG. Previously, Mr. Perkins served as the Acting Deputy Program Manager for the DoD Healthcare Management System Modernization (DHMSM) program office. He also served as the U.S. Navy Bureau of Medicine and Surgery's Director of IT Policy and Resource Management and in other Military Health System positions. Mr. Perkins is a U.S. Marine Corps Veteran. 
+
 ![Photo of Dr. Evans](/images/evans.jpg "Dr. Evans")
 
 **Neil C. Evans, M.D., Senior Advisor**
@@ -45,7 +51,7 @@ As Chief Medical Informatics Officer, Dr. Meredith Josephs oversees clinical, bu
 
 **Monica Farah-Stapleton, Ph.D., Senior Technical Director**
 
-As Senior Technical Director, Dr. Monica Farah-Stapleton manages the technical orchestration of all engineering and cybersecurity activities impacting the federal EHR and the exchange of health data between the federal EHR and private sector partners. Before joining the FEHRM, she was Chief Engineer for the DOD Healthcare Management System Modernization program management office. Her extensive IT experience includes executive strategy and direct management and oversight of complex, sociotechnical system-of-systems projects.
+As Senior Technical Director, Dr. Monica Farah-Stapleton manages the technical orchestration of all engineering and cybersecurity activities impacting the federal EHR and the exchange of health data between the federal EHR and private sector partners. Before joining the FEHRM, she was Chief Engineer for DHMSM. Her extensive IT experience includes executive strategy and direct management and oversight of complex, sociotechnical system-of-systems projects.
 
 ![Photo of Mr. Scott](/images/scott.png "Mr. Scott")
 
@@ -58,3 +64,9 @@ As Solution Integration Director, Mr. Lance Scott focuses on the FEHRM’s joint
 **Ms. Cori Hughes, Program Integration Director**
 
 As Program Integration Director, Ms. Cori Hughes oversees the FEHRM’s cross-organizational functions, including leading communications and government affairs activities; addressing risks, issues and opportunities; maintaining integrated master schedules; and optimizing performance. Ms. Hughes is also the Program Integration Director for PEO DHMS, where she oversees media and public engagements as well as congressional and audit activities. Related in mission, PEO DHMS aims to transform the delivery of health care and advance data sharing through a modernized EHR for Service members, Veterans and their families.
+
+![Photo of Mr. Wilborn](images/wilborn_clifford_web.jpg "Mr. Wilborn")
+
+**Mr. Clifford Wilborn, Program Manager, Joint Sharing Sites—FHCC**
+
+As Program Manager, Mr. Clifford Wilborn supports DOD and VA joint sharing sites and the Captain James A. Lovell Federal Health Care Center (FHCC) EHR implementation efforts. He oversees the FEHRM Joint Sharing Sites—FHCC Workstream’s identification and mitigation of issues associated with asynchronous EHR deployments at VA/DOD joint sharing sites. He also advances the FEHRM’s primary mission and role as the single point of accountability in the delivery of a single, common federal EHR system to FHCC. Mr. Wilborn serves as Principal Lead for FHCC EHR implementation activities for a multi-agency team orchestrated by the FEHRM in collaboration with DHMSM and the VA’s Office of Electronic Health Record Modernization.
