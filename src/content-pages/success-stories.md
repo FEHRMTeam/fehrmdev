@@ -9,7 +9,7 @@ parent: About
 
 *"As a Flight Surgeon, being able to customize the interface the way it works for me and review patient records easily in one location improves the quality of care I can provide."* – Flight Surgeon 
 
-As of April 2021, there are more than 42,000 federal electronic health record (EHR) users (e.g., doctors, nurses) at 42 Military Medical Treatment Facility Commands, two Department of Veterans Affairs (VA) sites and four Department of Homeland Security's U.S. Coast Guard (USCG) sites across 16 states.
+As of November 2021, there are more than 65,000 Department of Defense (DOD), Department of Veterans Affairs (VA) and Department of Homeland Security's U.S. Coast Guard (USCG) federal EHR users (doctors, nurses, etc.) at 47 Commands, two VA sites and 109 USCG sites across 41 states, two U.S. territories and one overseas location.
 
 **Standardizing Care**
 
