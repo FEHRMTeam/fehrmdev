@@ -9,7 +9,7 @@ The creation of the Federal Electronic Health Record Modernization (FEHRM) offic
 
 In response, DOD and VA leaders chartered the Joint Electronic Health Record Modernization Working Group (JEHRM) to develop recommendations for an organizational construct that would enable an agile, decision-making authority to efficiently adjudicate functional, technical and programmatic interoperability issues while advancing unity, synergy and efficiencies.
 
-The JEHRM’s efforts culminated in Department approval on March 2, 2019, for a joint office construct. Subsequently, the Departments committed to implementation planning and identified interim leadership to stand up the organization until completion of the executive recruiting process. The FEHRM Interim Director, Dr. Neil Evans, and Interim Deputy Director, Ms. Holly Joers, were appointed on September 16, 2019. The Deputy Secretary of Defense and Deputy Secretary of Veterans Affairs signed the FEHRM Charter on December 4, 2019.
+The JEHRM’s efforts culminated in Department approval on March 2, 2019, for a joint office construct. Subsequently, the Departments committed to implementation planning and identified interim leadership to stand up the organization until completion of the executive recruiting process. The FEHRM Interim Director, Dr. Neil Evans, and Interim Deputy Director, Ms. Holly Joers, were appointed on September 16, 2019. The Deputy Secretary of Defense and Deputy Secretary of Veterans Affairs signed the [FEHRM Charter](images/FEHRM_Charter_SIGNED_20191204_508c.pdf) on December 4, 2019.
 
 Most recently, DOD and VA selected Mr. Bill Tinston as the FEHRM Director and Mr. Ed Reyelts as the FEHRM Deputy Director. They started in August 2020.
 
