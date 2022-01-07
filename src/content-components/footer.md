@@ -24,7 +24,7 @@ footerLink4:
   linkType: external
   newTab: true
 footerLink5:
-  label: Office of Electronic Health Record Modernization
+  label: Electronic Health Record Modernization Integration Office
   linkUrl: https://www.ehrm.va.gov/
   linkType: external
   newTab: true
