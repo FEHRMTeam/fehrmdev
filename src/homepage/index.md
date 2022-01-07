@@ -75,7 +75,7 @@ callToActions:
       securely access patient electronic health information from participating
       private sector providers, the joint health information exchange (HIE)
       significantly expands interoperability capabilities. <a
-      href="improving-care-delivery">Learn more how the joint HIE is
+      href="/improving-care-delivery">Learn more how the joint HIE is
       transforming care.</a>
     CTAImage:
       image: /images/cta-icon4.png
