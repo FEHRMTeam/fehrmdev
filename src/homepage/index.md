@@ -61,7 +61,7 @@ callToActions:
       image: /images/cta-icon2.png
       imageAlt: Call to action 2
   bottomLeftCTA:
-    heading: A Commitment to Patients
+    heading: "A Commitment to Patients "
     subHeading: The FEHRM is driving federal solutions to support effective health
       care delivery within the federal space that puts patients in the center.
       <a href="/enhancing-your-care">Learn more about the benefits of the
