@@ -26,4 +26,4 @@ The federal EHR along with the joint HIE enables comprehensive patient data, whe
 
 From the joint HIE to optimizing the single, common federal EHR, every day the FEHRM supports delivery of common capabilities to clinicians on the front lines to provide the best care for their patients.
 
-See the other sections listed in the left-side navigation menu of this page for additional details about the FEHRM. Visit also the [Frequently Asked Questions](/faq) section of the [FEHRM website](www.FEHRM.gov) for more information.
+See the other sections listed in the left-side navigation menu of this page for additional details about the FEHRM. Visit also the [Frequently Asked Questions](/faq) section of the [FEHRM website](/) for more information.
