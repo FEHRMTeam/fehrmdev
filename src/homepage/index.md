@@ -4,7 +4,7 @@ templateKey: home-page
 headerTitle: Federal Electronic Health Record Modernization
 heroImage:
   image: /images/home-hero.png
-  imageAlt: Federal Electronic Health Record Modernization
+  imageAlt: Federal Electronic Health Record Modernization   ss
 heroCallout:
   calloutHeaderText: <span class="usa-hero__heading--alt">Enhancing the Care Experience</span>
   calloutSupportText: The FEHRM and its partners are implementing a single, common
