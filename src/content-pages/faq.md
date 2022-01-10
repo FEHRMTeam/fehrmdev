@@ -31,7 +31,7 @@ The common capabilities the FEHRM delivers in support of the federal EHR include
 
 These capabilities are also helping drive federal solutions to support effective health care delivery within the federal space that puts patients in the center. Through the FEHRM’s contributions and solutions, federal agencies like DOD, VA and USCG can lead the deployment of the federal EHR.
 
-Visit the [What is the FEHRM](/about-fehrm) section of the [FEHRM website](www.FEHRM.gov) to learn more about the FEHRM.
+Visit the [What is the FEHRM](/about-fehrm) section of the [FEHRM website](/) to learn more about the FEHRM.
 
 **<a name="FEHRMIPO"></a>How is the Federal Electronic Health Record Modernization office different from the Interagency Program Office?**
 
