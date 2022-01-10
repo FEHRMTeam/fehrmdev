@@ -5,7 +5,7 @@ parent: Congressional Information
 ---
 # Congressional Reports
 
-![Photo of a Veteran](images/1000w_q95-4-.jpg "Veteran")
+![Photo of a Veteran](/images/1000w_q95-4-.jpg "Veteran")
 
 *“This effort is about much more than new software. It represents the opportunity for Veterans and Service members to control their own health information and health care decisions, and it offers the potential for U.S. Department of Veterans Affairs and \[U.S.] Department of Defense not just to keep pace with the marketplace but lead innovation in the whole health care sector."* – U.S. Congressman
 
