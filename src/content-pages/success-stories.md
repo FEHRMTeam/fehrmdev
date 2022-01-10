@@ -66,4 +66,4 @@ Check out the articles below for more success stories related to the federal EHR
 * [Nurses report the federal EHR helps keep track of patients' medical histories, past bases they've been at and provides the ability to see up-to-date records](https://www.health.mil/News/Articles/2021/05/10/Eielson-nurse-says-technology-readiness-integral-to-military-nursing)
 * [The federal EHR enables convenient, timely and expert interpretation of results.](https://www.airforcemedicine.af.mil/News/Display/Article/1851429/mhs-genesis-a-force-multiplier-one-read-at-a-time/)
 
-For more articles about the federal EHR, visit the [In the News](/in-the-news) section of the [FEHRM website](www.fehrm.gov).
+For more articles about the federal EHR, visit the [In the News](/in-the-news) section of the [FEHRM website](/).
