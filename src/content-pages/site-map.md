@@ -5,7 +5,7 @@ parent: About
 ---
 # Site Map
 
-* [Home](www.FEHRM.gov)
+* [Home](/)
 * About
 
   * [What Is The FEHRM?](/about-fehrm)
