@@ -9,4 +9,4 @@ The Federal Electronic Health Record Modernization (FEHRM) office's fact sheet p
 
 * [FEHRM Fact Sheet](/images/fehrm-fact-sheet.pdf)
 
-For publications submitted to Congress, visit the [Congressional Reports](/congressional-reports) section of the [FEHRM website](www.FEHRM.gov).
+For publications submitted to Congress, visit the [Congressional Reports](/congressional-reports) section of the [FEHRM website](/).
