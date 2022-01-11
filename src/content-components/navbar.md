@@ -153,4 +153,8 @@ navMenuItems:
         linkType: internal
         linkUrl: /himss
         newTab: false
+      - label: HL7 Government Birds of a Feather
+        linkType: internal
+        linkUrl: /hl7-government-birds-of-a-feather
+        newTab: false
 ---
