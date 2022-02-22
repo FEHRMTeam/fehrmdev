@@ -17,11 +17,11 @@ Learn more about the FEHRM’s dedicated leaders below.
 
 As Director, Mr. Bill Tinston oversees the FEHRM’s efforts to implement a single, common federal EHR with the Department of Defense (DOD), Department of Veterans Affairs (VA) and Department of Homeland Security’s U.S. Coast Guard (USCG). Mr. Tinston ensures the FEHRM enables joint decision-making and drives federal solutions for optimizing EHR implementation and operation. Previously, he served as Program Executive Officer for PEO DHMS. While there, he led the deployment of the federal EHR within DOD and supported the VA and USCG transition to the same EHR as DOD. Mr. Tinston has 30 years of experience in defense acquisition program management, portfolio and investment management and enterprise information technology (IT).
 
-![Photo of Mr. Reyelts](/images/reyelts.jpg "Mr. Reyelts")
+![Photo of Mr. Windom](images/windom.jpg "Mr. Windom")
 
-**Mr. Edward Reyelts, Deputy Director**
+**Mr. John Windom, Deputy Director**
 
-As Deputy Director, Mr. Edward Reyelts drives the FEHRM’s mission to implement a single, common federal EHR forward with DOD, VA and USCG. He ensures the FEHRM works closely with the Departments to provide common capabilities for effective and efficient health care delivery to 28 million eligible beneficiaries, including Service members, Veterans and their families. Previously, Mr. Reyelts served as the Associate Chief Information Officer for the Digital Infrastructure Services Center at the U.S. Department of Agriculture. He is a 22-year Marine Corps Veteran with extensive IT experience.
+As Deputy Director, Mr. John Windom drives the FEHRM’s mission to implement a single, common federal EHR forward with DOD, VA and USCG. He ensures the FEHRM works closely with the Departments to provide common capabilities for effective and efficient health care delivery to 28 million eligible beneficiaries, including Service members, Veterans and their families. Previously, Mr. Windom served as Executive Director for VA’s Office of Electronic Health Record Modernization. He is a Navy Veteran with extensive IT acquisition experience.
 
 ![Photo of Mr. Perkins](images/perkins_james-lores.jpg "Mr. Perkins")
 
@@ -55,9 +55,9 @@ As Senior Technical Director, Dr. Monica Farah-Stapleton manages the technical o
 
 ![Photo of Mr. Scott](/images/scott.png "Mr. Scott")
 
-**Mr. Lance Scott, Solution Integration Director**
+**Mr. Lance Scott, Solutions Integration Director**
 
-As Solution Integration Director, Mr. Lance Scott focuses on the FEHRM’s joint efforts, maximizing resources and improving collaboration on the joint health information exchange, HealtheIntent, Joint Legacy Viewer and other priorities. He manages joint requirements to create joint architecture and use cases, while synchronizing change requests, service requests and releases. Mr. Scott also oversees the adoption of information models and standards while tracking joint decisions. Previously, he served as a Project Manager for the DOD Defense Medical Information Exchange.
+As Solutions Integration Director, Mr. Lance Scott focuses on the FEHRM’s joint efforts, maximizing resources and improving collaboration on the joint health information exchange, HealtheIntent, Joint Legacy Viewer and other priorities. He manages joint requirements to create joint architecture and use cases, while synchronizing change requests, service requests and releases. Mr. Scott also oversees the adoption of information models and standards while tracking joint decisions. Previously, he served as a Project Manager for the DOD Defense Medical Information Exchange.
 
 ![Photo of Ms. Hughes](/images/hughes.jpg "Ms. Hughes")
 
