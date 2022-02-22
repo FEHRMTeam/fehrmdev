@@ -37,9 +37,9 @@ As Senior Advisor, Dr. Neil Evans brings his expertise and experience to advise 
 
 ![Photo of Ms. Heermann-Do](images/kimberlyheermann-do.jpg "Ms. Heermann-Do")
 
-**Kimberly A. Heermann-Do, MHA, Acting Federal and Commercial Interoperability Director**
+**Kimberly A. Heermann-Do, MHA, Acting Interoperability Director**
 
-As Acting Federal and Commercial Interoperability Director, Ms. Kimberly Heermann-Do is responsible for interoperability strategy and planning, health interoperability standards and engagement with federal and industry partners, ensuring the highest levels of interoperability among DOD, VA, USCG and the private sector. Ms. Heermann-Do's work for the FEHRM builds on her previous role as Senior IT Specialist for the DOD/VA Interagency Program Office as well as earlier roles within the Defense Health Agency and U.S. Army Medical Command.
+As Acting Interoperability Director, Ms. Kimberly Heermann-Do is responsible for interoperability strategy and planning, health interoperability standards and engagement with federal and industry partners, ensuring the highest levels of interoperability among DOD, VA, USCG and the private sector. Ms. Heermann-Do's work for the FEHRM builds on her previous role as Senior IT Specialist for the DOD/VA Interagency Program Office as well as earlier roles within the Defense Health Agency and U.S. Army Medical Command.
 
 ![Photo of Dr. Josephs](/images/josephs.jpg "Dr. Josephs")
 
