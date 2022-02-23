@@ -6,7 +6,15 @@ parent: Media
 # In the News
 
 Recent articles related to the Federal Electronic Health Record Modernization (FEHRM) office are provided below. 
-
+* [VA CIO: Transparency, Collaboration Will Guide EHRM Path Forward](https://ehrintelligence.com/news/va-cio-transparency-collaboration-will-guide-ehrm-path-forward) – EHR Intelligence (February 11, 2022)
+* [Partnerships Help Drive Health IT Innovation, DOD Officials Say](https://www.meritalk.com/articles/partnerships-help-drive-health-it-innovation-dod-officials-say/) – MeriTalk (February 9, 2022)
+* [MHS GENESIS Deployed to Additional 19,000 Providers Across Texas](https://www.healthcareitnews.com/news/mhs-genesis-deployed-additional-19k-providers-across-texas) – Healthcare IT News (January 27, 2022)
+* [VA Inks $13 Million Contract with Google Cloud to Drive the Making of Apps for Vets](https://www.nextgov.com/emerging-tech/2022/01/va-inks-13-million-contract-google-cloud-drive-making-apps-vets/360644/) – Nextgov (January 12, 2022)
+* [Oracle-Cerner Deal Jump-Starts the Sluggish EHR Landscape](https://www.healthleadersmedia.com/technology/oracle-cerner-deal-jump-starts-sluggish-ehr-landscape) – Health Leaders (December 23, 2021)
+* [Senate Bill Calls for VA EHR Modernization Transparency](https://executivegov.com/2021/12/senate-bill-calls-for-va-ehr-modernization-transparency/) – ExecutiveGov (December 17, 2021)
+* [CMS, VA Talk EHR Interoperability Initiatives]
+(https://governmentciomedia.com/cms-va-talk-ehr-interoperability-initiatives) – GovernmentCIO (November 23, 2021)
+* [Agencies Emphasize Unified Approach to Federal EHR Modernization](https://governmentciomedia.com/agencies-emphasize-unified-approach-federal-ehr-modernization) – GovernmentCIO (November 19, 2021)
 * [Joint HIE, FHIR Adoption Support Data Sharing for Veteran Care](https://ehrintelligence.com/news/joint-hie-fhir-adoption-support-data-sharing-for-veteran-care) – EHR Intelligence (October 18, 2021)
 * [VA Launching Yearlong Independent Cost Estimate of EHR Modernization](https://www.fedscoop.com/va-launching-yearlong-independent-cost-estimate-of-ehr-modernization/) – FedScoop (October 7, 2021)
 * [Data-Sharing Is Essential for the Federal COVID-19 Response](https://governmentciomedia.com/data-sharing-essential-federal-covid-19-response) – GovernmentCIO (September 17, 2021)
