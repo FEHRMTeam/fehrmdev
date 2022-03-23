@@ -6,6 +6,9 @@ parent: Media
 # In the News
 
 Recent articles related to the Federal Electronic Health Record Modernization (FEHRM) office are provided below. 
+
+* [FEHRM Says EHR Deployment Is Half Complete](https://governmentciomedia.com/fehrm-says-ehr-deployment-half-complete) – GovCIO Media & Research (March 16, 2022)
+* [VFW Calls on Congress to Pass Bills and Finally Address the Needs of Veterans](https://www.vfw.org/media-and-events/latest-releases/archives/2022/3/vfw-calls-on-congress-to-pass-bills-and-finally-address-the-needs-of-veterans) – Veterans of Foreign Wars (March 2, 2022)
 * [VA CIO: Transparency, Collaboration Will Guide EHRM Path Forward](https://ehrintelligence.com/news/va-cio-transparency-collaboration-will-guide-ehrm-path-forward) – EHR Intelligence (February 11, 2022)
 * [Partnerships Help Drive Health IT Innovation, DOD Officials Say](https://www.meritalk.com/articles/partnerships-help-drive-health-it-innovation-dod-officials-say/) – MeriTalk (February 9, 2022)
 * [MHS GENESIS Deployed to Additional 19,000 Providers Across Texas](https://www.healthcareitnews.com/news/mhs-genesis-deployed-additional-19k-providers-across-texas) – Healthcare IT News (January 27, 2022)
