@@ -15,17 +15,21 @@ module.exports = {
      */
     searchgov: {
       
-      // You should not change this.
+      // Only change this if you're using a CNAME. Learn more here: https://search.gov/manual/cname.html
       endpoint: 'https://search.usa.gov',
       
-      // replace this with your search.gov account
-      affiliate: 'federalist-uswds-example',
+      // Replace this with your search.gov site handle.
+      // affiliate: 'fehrm',
       
-      // replace with your access key
-      access_key: 'xX1gtb2RcnLbIYkHAcB6IaTRr4ZfN-p16ofcyUebeko=',
+      // Replace this with your access key.
+      // access_key: 'jlaqUV_gwFNKeVL4IewKJ7R3iQSJmdOJkZGmc8s082I=',
       
-      // this renders the results within the page instead of sending to user to search.gov
-      inline: true, 
+      // This renders the results within the page instead of sending to user to search.gov.
+      inline: false,
+      
+      // This allows Search.gov to present relevant type-ahead search suggestions in your website's search box. 
+      // If you do not want to present search suggestions, set this value to false.
+      suggestions: true,
     },
 
     /**
@@ -126,6 +130,21 @@ module.exports = {
       },
     },
     `gatsby-plugin-netlify-cms`,
+     `gatsby-plugin-sitemap`,
+    {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        resolveEnv: () => process.env.GATSBY_ENV,
+        env: {
+          development: {
+            policy: [{ userAgent: '*', disallow: ['/'] }]
+          },
+          production: {
+            policy: [{ userAgent: '*', allow: '/' }]
+          }
+        }
+      }
+    }
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
