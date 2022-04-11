@@ -27,7 +27,7 @@ function SEO({ description, lang, meta, title, image }) {
     `
   );
 
-  const metaDescription = description;
+  const metaDescription = description || site.siteMetadata.description;
   const siteImage = `${site.siteMetadata.siteUrl}${image || site.siteMetadata.defaultImage}`;
 
   return (
