@@ -17,13 +17,13 @@ Learn more about the FEHRM’s dedicated leaders below.
 
 As Director, Mr. Bill Tinston oversees the FEHRM’s efforts to implement a single, common federal EHR with the Department of Defense (DOD), Department of Veterans Affairs (VA) and Department of Homeland Security’s U.S. Coast Guard (USCG). Mr. Tinston ensures the FEHRM enables joint decision-making and drives federal solutions for optimizing EHR implementation and operation. Previously, he served as Program Executive Officer for PEO DHMS. While there, he led the deployment of the federal EHR within DOD and supported the VA and USCG transition to the same EHR as DOD. Mr. Tinston has 30 years of experience in defense acquisition program management, portfolio and investment management and enterprise information technology (IT).
 
-![Photo of Mr. Windom](images/windom.jpg "Mr. Windom")
+![Photo of Mr. Windom](/images/windom.jpg "Mr. Windom")
 
 **Mr. John Windom, Deputy Director**
 
 As Deputy Director, Mr. John Windom drives the FEHRM’s mission to implement a single, common federal EHR forward with DOD, VA and USCG. He ensures the FEHRM works closely with the Departments to provide common capabilities for effective and efficient health care delivery to 28 million eligible beneficiaries, including Service members, Veterans and their families. Previously, Mr. Windom served as Executive Director for VA’s Office of Electronic Health Record Modernization. He is a Navy Veteran with extensive IT acquisition experience.
 
-![Photo of Mr. Perkins](images/perkins_james-lores.jpg "Mr. Perkins")
+![Photo of Mr. Perkins](/images/perkins_james-lores.jpg "Mr. Perkins")
 
 **Mr. James Perkins, Chief of Staff**
 
@@ -35,7 +35,7 @@ As Chief of Staff, Mr. James Perkins directs all administrative, financial and o
 
 As Senior Advisor, Dr. Neil Evans brings his expertise and experience to advise the FEHRM’s strategic decisions, priorities and operations. He previously served as the Interim Director for the FEHRM, leading efforts to establish an organizational structure, staffing and priorities to ensure FEHRM responsibilities, mandated by the National Defense Authorization Act for Fiscal Year 2020 and the FEHRM Charter, were carried out effectively. He also serves as Chief Officer for the Office of Connected Care in the Veterans Health Administration. The Office of Connected Care is dedicated to improving services to Veterans, their families and caregivers—using digital and remote technologies to increase access to care, foster continuity of care and promote patient engagement. Dr. Evans is a board-certified primary care internist, seeing patients at the Washington DC VA Medical Center.
 
-![Photo of Ms. Heermann-Do](images/kimberlyheermann-do.jpg "Ms. Heermann-Do")
+![Photo of Ms. Heermann-Do](/images/kimberlyheermann-do.jpg "Ms. Heermann-Do")
 
 **Kimberly A. Heermann-Do, MHA, Acting Interoperability Director**
 
@@ -47,7 +47,7 @@ As Acting Interoperability Director, Ms. Kimberly Heermann-Do is responsible for
 
 As Chief Medical Informatics Officer, Dr. Meredith Josephs oversees clinical, business and clinical IT activities impacting the federal EHR and the exchange of health data with private sector partners. Previously, she was Vice President of Clinical Informatics at Privia Health, where she led the company’s clinical IT strategic initiatives and optimized its clinical technology platforms. She was also Medical Director of Privia Virtual Health, Privia’s virtual urgent care center.
 
-![Photo of Dr. Farah-Stapleton](images/farah-stapleton_monica_hires.jpg "Dr. Farah-Stapleton")
+![Photo of Dr. Farah-Stapleton](/images/farah-stapleton_monica_hires.jpg "Dr. Farah-Stapleton")
 
 **Monica Farah-Stapleton, Ph.D., Senior Technical Director**
 
@@ -65,7 +65,7 @@ As Solutions Integration Director, Mr. Lance Scott focuses on the FEHRM’s join
 
 As Program Integration Director, Ms. Cori Hughes oversees the FEHRM’s cross-organizational functions, including leading communications and government affairs activities; addressing risks, issues and opportunities; maintaining integrated master schedules; and optimizing performance. Ms. Hughes is also the Program Integration Director for PEO DHMS, where she oversees media and public engagements as well as congressional and audit activities. Related in mission, PEO DHMS aims to transform the delivery of health care and advance data sharing through a modernized EHR for Service members, Veterans and their families.
 
-![Photo of Mr. Wilborn](images/wilborn_clifford_web.jpg "Mr. Wilborn")
+![Photo of Mr. Wilborn](/images/wilborn_clifford_web.jpg "Mr. Wilborn")
 
 **Mr. Clifford Wilborn, Program Manager, Joint Sharing Sites—FHCC**
 
