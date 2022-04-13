@@ -47,7 +47,7 @@ As Acting Interoperability Director, Ms. Kimberly Heermann-Do is responsible for
 
 As Chief Medical Informatics Officer, Dr. Meredith Josephs oversees clinical, business and clinical IT activities impacting the federal EHR and the exchange of health data with private sector partners. Previously, she was Vice President of Clinical Informatics at Privia Health, where she led the company’s clinical IT strategic initiatives and optimized its clinical technology platforms. She was also Medical Director of Privia Virtual Health, Privia’s virtual urgent care center.
 
-![Photo of Dr. Farah-Stapleton](/images/monica.png "Dr. Farah-Stapleton")
+![Photo of Dr. Farah-Stapleton](images/farah-stapleton_monica_hires.jpg "Dr. Farah-Stapleton")
 
 **Monica Farah-Stapleton, Ph.D., Senior Technical Director**
 
