@@ -47,6 +47,13 @@ $theme-hero-image: '#{$site-image-path}/home-hero.png';
   }
 }
 
+@media (min-width:64em) {
+  .usa-nav__primary .usa-accordion__button span {
+    display: flex;
+    align-items: center;
+  }
+}
+
 /* Home Page */
 // Header
 .usa-header {
