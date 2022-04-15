@@ -47,8 +47,8 @@ const SearchForm = ({ navigation, secondaryLinks }) => {
           name="query"
           autoComplete="off"
         />
-        <button class="usa-button" type="submit">
-          <img src={search} class="usa-search__submit-icon" alt="Search" />
+        <button className="usa-button" type="submit">
+          <img src={search} className="usa-search__submit-icon" alt="Search" />
         </button>
       </div>
     </form>
