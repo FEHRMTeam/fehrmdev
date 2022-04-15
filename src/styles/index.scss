@@ -48,9 +48,21 @@ $theme-hero-image: '#{$site-image-path}/home-hero.png';
 }
 
 @media (min-width:64em) {
+  // Navigation
   .usa-nav__primary .usa-accordion__button span {
     display: flex;
     align-items: center;
+  }
+}
+
+@media (max-width: 63.99em) {
+  // sidebar navigation
+  .usa-nav__primary a:not(.usa-button):not(.usa-current) {
+      color: #fff;
+  }
+
+  .usa-nav__primary button[aria-expanded=true] span:after {
+    background-color: #fff;
   }
 }
 
