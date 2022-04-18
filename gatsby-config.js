@@ -19,13 +19,13 @@ module.exports = {
       endpoint: 'https://search.usa.gov',
       
       // replace this with your search.gov account
-      affiliate: 'federalist-uswds-example',
+      affiliate: 'fehrm',
       
       // Replace this with your access key.
-      access_key: 'xX1gtb2RcnLbIYkHAcB6IaTRr4ZfN-p16ofcyUebeko=',
+      access_key: 'jlaqUV_gwFNKeVL4IewKJ7R3iQSJmdOJkZGmc8s082I=',
       
       // This renders the results within the page instead of sending to user to search.gov.
-      inline: true, 
+      inline: false, 
       
       // This allows Search.gov to present relevant type-ahead search suggestions in your website's search box. 
       // If you do not want to present search suggestions, set this value to false.
@@ -64,7 +64,7 @@ module.exports = {
      * SSA     - Social Security Administration
      */
     dap: {
-      // agency: 'your-agency',
+      // agency: 'fehrm',
 
       // Optional
       // subagency: 'your-subagency',
