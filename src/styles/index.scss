@@ -57,7 +57,7 @@ $theme-hero-image: '#{$site-image-path}/home-hero.png';
 
 @media (max-width: 63.99em) {
   // sidebar navigation
-  .usa-nav__primary a:not(.usa-button):not(.usa-current) {
+  .usa-nav__primary a:not(.usa-button):not(.usa-current):not(.usa-nav__link):not(:hover) {
       color: #fff;
   }
 
