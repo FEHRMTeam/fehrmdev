@@ -3,12 +3,17 @@ title: FEHRM Industry Roundtable
 sidenav: true
 parent: Events/Conferences
 ---
-# FEHRM Industry Roundtable
+# Federal Electronic Health Record Modernization (FEHRM) Office Industry Roundtable
 
-The Federal Electronic Health Record Modernization (FEHRM) office hosts the Industry Roundtable semi-annually to provide a forum for discussion on the current and future state of health information technology (IT) and health information exchange. The roundtable features senior leaders from the Department of Defense (DOD), Department of Veterans Affairs (VA) and Department of Homeland Security's U.S. Coast Guard (USCG), along with other federal partners, including the Office of the National Coordinator for Health Information Technology (ONC) and the Centers for Medicare and Medicaid Services (CMS), and subject matter experts from the private sector, who participate in panel discussions and provide updates. The purpose of the roundtable is for participants to share interoperability initiatives, challenges and successes.
+May 18, 2022\
+8:30 AM – 12:30 PM ET (Virtual)
 
-The **11th FEHRM Industry Roundtable**, which took place Thursday, November 18, 2021, explored the theme, ***Protecting the Patient – The Role of Cybersecurity***. Senior Government leaders from DOD, VA, USCG, ONC and CMS discussed electronic health record (EHR) modernization efforts and highlighted current and upcoming initiatives. In addition, a panel discussion examined the impact of Presidential Executive Order 14028 — Improving the Nation's Cybersecurity — and the implementation of zero trust architecture on the federal EHR and, subsequently, the patient.
+On May 18, 2022, the Federal Electronic Health Record Modernization (FEHRM) office will host the 12th FEHRM Industry Roundtable.  Twice a year, the FEHRM hosts a government and industry roundtable to discuss the current and future state of health information technology and health information exchange.  The roundtable also highlights the importance of the FEHRM, Department of Defense (DOD), Department of Veterans Affairs (VA) and the Department of Homeland Security’s U.S. Coast Guard (USCG) collaborating with external partners to ensure the single, common federal electronic health record (EHR) serves the unique needs of beneficiaries.
 
-This roundtable was held virtually and open to the public. Nearly 200 federal and industry personnel, representing 74 industries and 20 federal organizations, attended the event.
+This roundtable continues the theme of “Protecting the Patient – The Role of Cybersecurity.” Senior Government leaders from DOD, VA, and USCG, along with other federal partners including the Office of the National Coordinator for Health Information Technology and the Centers for Medicare and Medicaid Services, will discuss EHR modernization efforts and highlight current and upcoming initiatives. In addition, there will be a panel discussion on the impact of the President’s Executive Order on “Improving the Nation’s Cybersecurity” on the federal EHR and the patient.
 
-The next FEHRM Industry Roundtable is scheduled for May 2022. Check back on this page for further details and updates about this upcoming event.
+This event will be virtual via Microsoft TEAMS and is open to the public. We invite active participation from individuals who possess relevant broad-based knowledge and experience. Additional details regarding the agenda and meeting will be distributed to registered participants as they are finalized prior to the event.
+
+Please register at <https://einvitations.afit.edu/inv/index.cfm?i=661378&k=0467430A7C5F>
+
+If you have any questions about this event, please send an email to [dha.ncr.peo-ipo.mbx.fehrm-strategic-coordination@mail.mil](mailto:dha.ncr.peo-ipo.mbx.fehrm-strategic-coordination@mail.mil) and include **"FEHRM Industry Roundtable"** in the subject line.
