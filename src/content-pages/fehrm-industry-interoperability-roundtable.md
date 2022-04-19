@@ -5,7 +5,7 @@ parent: Events/Conferences
 ---
 # Federal Electronic Health Record Modernization (FEHRM) Office Industry Roundtable
 
-May 18, 2022
+May 18, 2022\
 8:30 AM – 12:30 PM ET (Virtual)
 
 On May 18, 2022, the Federal Electronic Health Record Modernization (FEHRM) office will host the 12th FEHRM Industry Roundtable.  Twice a year, the FEHRM hosts a government and industry roundtable to discuss the current and future state of health information technology and health information exchange.  The roundtable also highlights the importance of the FEHRM, Department of Defense (DOD), Department of Veterans Affairs (VA) and the Department of Homeland Security’s U.S. Coast Guard (USCG) collaborating with external partners to ensure the single, common federal electronic health record (EHR) serves the unique needs of beneficiaries.
@@ -16,4 +16,4 @@ This event will be virtual via Microsoft TEAMS and is open to the public. We inv
 
 Please register at <https://einvitations.afit.edu/inv/index.cfm?i=661378&k=0467430A7C5F>
 
-If you have any questions about this event, please send an email to [dha.ncr.peo-ipo.mbx.fehrm-strategic-coordination@mail.mil](mailto:dha.ncr.peo-ipo.mbx.fehrm-strategic-coordination@mail.mil) and include **“FEHRM Industry Roundtable”** in the subject line.
+If you have any questions about this event, please send an email to [dha.ncr.peo-ipo.mbx.fehrm-strategic-coordination@mail.mil](mailto:dha.ncr.peo-ipo.mbx.fehrm-strategic-coordination@mail.mil) and include **"FEHRM Industry Roundtable"** in the subject line.
