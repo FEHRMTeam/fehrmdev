@@ -7,6 +7,8 @@ parent: Media
 
 Recent articles related to the Federal Electronic Health Record Modernization (FEHRM) office are provided below. 
 
+* [New Electronic Health Record System Goes Live in Walla Walla](https://www.legion.org/veteranshealthcare/255599/new-electronic-health-record-system-goes-live-walla-walla) – The American Legion (April 21, 2022)
+* [Changing Needs are Reflected in Federal Health IT Innovations and Optimizations](https://www.mobihealthnews.com/video/changing-needs-are-reflected-federal-health-it-innovations-and-optimizations) – MobiHealthNews (April 5, 2022)
 * [FEHRM Says EHR Deployment Is Half Complete](https://governmentciomedia.com/fehrm-says-ehr-deployment-half-complete) – GovCIO Media & Research (March 16, 2022)
 * [VFW Calls on Congress to Pass Bills and Finally Address the Needs of Veterans](https://www.vfw.org/media-and-events/latest-releases/archives/2022/3/vfw-calls-on-congress-to-pass-bills-and-finally-address-the-needs-of-veterans) – Veterans of Foreign Wars (March 2, 2022)
 * [VA CIO: Transparency, Collaboration Will Guide EHRM Path Forward](https://ehrintelligence.com/news/va-cio-transparency-collaboration-will-guide-ehrm-path-forward) – EHR Intelligence (February 11, 2022)
