@@ -15,7 +15,9 @@ $theme-hero-image: '#{$site-image-path}/home-hero.png';
 
 // Your custom changes to variables go here
 // Uncomment to see this working
-// $theme-color-primary-darker: 'black';
+$theme-color-primary: #7A4383;
+$theme-color-primary-dark: #623669;
+$theme-color-primary-darker: #35034E;
 
 @import '../../node_modules/uswds/dist/scss/uswds.scss';
 
@@ -69,7 +71,7 @@ $theme-hero-image: '#{$site-image-path}/home-hero.png';
 /* Home Page */
 // Header
 .usa-header {
-  background-color: #35034E;
+  background-color: $theme-color-primary-darker;
 
   .usa-logo a {
     color: #ffffff;
@@ -90,17 +92,13 @@ $theme-hero-image: '#{$site-image-path}/home-hero.png';
 
   .usa-nav__submenu, .usa-nav__primary button[aria-expanded="true"],
   .usa-nav__primary-item .usa-current::after, .usa-nav__primary-item .usa-nav__link:hover::after {
-    background-color: #35034E;
+    background-color: $theme-color-primary-darker;
     color: #fff;
   }
 
   .usa-nav__primary button[aria-expanded="false"]:hover,
   .usa-nav__primary .usa-nav__primary-item a.usa-nav__link:hover {
-    color: #35034E;
-  }
-
-  .usa-search .usa-button {
-    background-color: #7A4383;
+    color: $theme-color-primary-darker;
   }
 }
 
@@ -110,23 +108,12 @@ $theme-hero-image: '#{$site-image-path}/home-hero.png';
   margin: 0 auto;
 }
 
-// Hero Callout
-.usa-hero__callout {
- background-color: #35034E;
-
- .usa-button {
-   background-color: #7A4383;
- }
-}
-
 // CTA section
 .usa-graphic-list .usa-media-block__img {
   width: 124px;
 }
 
 .usa-section--dark {
-  background-color: #35034E;
-
   .usa-graphic-list__heading {
     color: #ffffff;
   }
@@ -142,11 +129,11 @@ $theme-hero-image: '#{$site-image-path}/home-hero.png';
   }
 
   .usa-current {
-    color: #35034E;
+    color: $theme-color-primary-darker;
   }
 
   .usa-sidenav__sublist .usa-current::after {
-    background-color: #35034E;
+    background-color: $theme-color-primary-darker;
     border-radius: 99rem;
     content: "";
     display: block;
@@ -170,6 +157,12 @@ $theme-hero-image: '#{$site-image-path}/home-hero.png';
   margin-right: 25px;
 }
 /* End Page Template */
+
+/* Form (Touchpoints) */
+#fehrm-ask-an-expert-form .fba-modal-dialog {
+  margin-left: 0px;
+}
+/* End Form (Touchpoints) */
 
 /* Footer */
 .usa-footer .footer-logo img {

@@ -50,6 +50,11 @@ export const indexQuery = graphql`
         tagline {
           taglineHeadingText
           taglineDescription
+          calloutHeaderText
+          calloutSupportText
+          callToActionBtnText
+          callToActionUrl
+          calloutNoteText
         }
         callToActions {
           topLeftCTA {

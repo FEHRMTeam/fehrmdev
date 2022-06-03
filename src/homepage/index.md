@@ -42,6 +42,11 @@ tagline:
     2021, there are more than 65,000 DOD, VA and USCG federal EHR users
     (doctors, nurses, etc.) at 47 Commands, two VA sites and 109 USCG sites
     across 41 states, two U.S. territories and one overseas location.</p>
+  calloutHeaderText: Got a question?
+  calloutSupportText: Reach out and we will get you an answer.
+  callToActionBtnText: Contact us
+  callToActionUrl: /contact-us#askTheFehrm
+  calloutNoteText: 📰 For media inquiries, check out our <a href="/media-inquiries">Media Inquiries page</a>.
 callToActions:
   topLeftCTA:
     heading: Mission-Driven
