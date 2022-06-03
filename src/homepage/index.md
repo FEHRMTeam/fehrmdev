@@ -45,7 +45,7 @@ tagline:
   calloutHeaderText: Got a question?
   calloutSupportText: Reach out and we will get you an answer.
   callToActionBtnText: Contact us
-  callToActionUrl: /about-fehrm
+  callToActionUrl: /contact-us#askTheFehrm
   calloutNoteText: 📰 For media inquiries, check out our <a href="/media-inquiries">Media Inquiries page</a>.
 callToActions:
   topLeftCTA:
