@@ -15,7 +15,7 @@ The FEHRM submits several reports to Congress as mandated by legislation. Submit
 
 * [2021 Federal Electronic Health Record Summit: End-User Feedback Executive Summary](/images/end-user-feedback-executive-summary_20211108.pdf)
 * [FEHRM DOD/VA Interoperability Modernization Strategy](/images/tab-a2-dod_va_interoperability_modernization_strategy_20200924.pdf)
-* [Quarter Two, Fiscal Year 2022 Interoperability Progress Quarterly Report](/images/tab-a2-q2-fy2022-fehrm-interoperability-progress-report.pdf)
+* [Quarter Two, Fiscal Year 2022 Interoperability Progress Quarterly Report](/images/tab-a2-fehrm-q2-fy2022-interoperability-progress-report.pdf)
 * [Quarter One, Fiscal Year 2022 Interoperability Progress Quarterly Report](/images/tab-a2-q1-fy2022-fehrm-interoperability-progress-report.pdf)
 * [Quarter Four, Fiscal Year 2021 Interoperability Progress Quarterly Report](/images/tab-a2-q4-fy2021-fehrm-interoperability-progress-quarterly-report.pdf)
 * [Quarter Three, Fiscal Year 2021 Interoperability Progress Quarterly Report](/images/tab-a2-q3-fy2021-fehrm-interoperability-progress-quarterly-report.pdf)
