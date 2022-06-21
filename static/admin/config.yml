@@ -25,6 +25,7 @@ collections:
       - { label: 'Sidenav', name: 'sidenav', widget: 'boolean' }
       - { label: 'Parent', name: 'parent', widget: 'string', hint: 'Enter parent page name. Used to display the appropriate side navigation' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Associated Link List', name: 'associatedLinkList', widget: 'relation', collection: 'linkLists', search_fields: ["title"], value_field: "title.*" }
   
   - name: home
     label: Homepage
@@ -269,5 +270,51 @@ collections:
                 { label: 'Link URL', name: 'linkUrl', widget: 'string' },
                 { label: 'Link Type', name: 'linkType', widget: 'select', options: ['internal', 'external'] },
                 { label: 'Open in new tab?', name: 'newTab', widget: 'boolean', hint: 'Internal links cannot open in a new tab. Setting the Link Type to internal will override this setting'}
+              ],
+            }
+
+  - name: linkLists
+    label: Link Lists
+    files:
+      - file: src/link-lists/congressional-reports.md
+        label: Congressional Reports
+        name: congressionalReports
+        editor:
+          preview: false
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - {
+              label: Report Items,
+              name: reportItems,
+              allow_add: true,
+              add_to_top: true,
+              widget: list,
+              fields: [
+                { label: 'Label', name: 'label', widget: 'string' },
+                { label: 'File URL', name: 'fileUrl', widget: 'file',  media_library: {
+                  config: {
+                    multiple: false } 
+                  }
+                },
+              ],
+            }
+      - file: src/link-lists/in-the-news.md
+        label: In the News
+        name: inTheNews
+        editor:
+          preview: false
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - {
+              label: News Items,
+              name: newsItems,
+              allow_add: true,
+              add_to_top: true,
+              widget: list,
+              fields: [
+                { label: 'Label', name: 'label', widget: 'string' },
+                { label: 'Link URL', name: 'linkUrl', widget: 'string' },
+                { label: 'Publisher', name: 'publisher', widget: 'string' },
+                { label: 'Publication Date', name: 'publicationDate', widget: 'date' , default: '', format: 'MMM Do YY' }
               ],
             }
