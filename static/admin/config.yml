@@ -3,7 +3,7 @@ backend:
   repo: FEHRMTeam/fehrmdev
   base_url: https://federalistapp.18f.gov
   auth_endpoint: external/auth/github
-  branch: main
+  branch: cms-list-collection # CHANGE BACK TO MAIN WHEN READY TO MERGE
   preview_context: federalist/build
 
 media_folder: static/images
@@ -25,7 +25,13 @@ collections:
       - { label: 'Sidenav', name: 'sidenav', widget: 'boolean' }
       - { label: 'Parent', name: 'parent', widget: 'string', hint: 'Enter parent page name. Used to display the appropriate side navigation' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-      - { label: 'Associated Link List', name: 'associatedLinkList', widget: 'relation', collection: 'linkLists', search_fields: ["title"], value_field: "title.*" }
+      - label: 'Associated Link List'
+        name: 'associatedLinkList'
+        widget: 'relation'
+        collection: 'linkLists'
+        display_fields: ['title']
+        search_fields: ['title']
+        value_field: 'title'
   
   - name: home
     label: Homepage
@@ -273,48 +279,44 @@ collections:
               ],
             }
 
-  - name: linkLists
-    label: Link Lists
+  - label: Link Lists
+    name: linkLists
+    editor:
+      preview: false
     files:
-      - file: src/link-lists/congressional-reports-list.md
-        label: Congressional Reports
+      - label: Congressional Reports
         name: congressionalReports
-        editor:
-          preview: false
+        file: src/link-lists/congressional-reports-list.md
         fields:
           - { label: 'Title', name: 'title', widget: 'string' }
-          - {
-              label: Report Items,
-              name: reportItems,
-              allow_add: true,
-              add_to_top: true,
-              widget: list,
-              fields: [
-                { label: 'Label', name: 'label', widget: 'string' },
-                { label: 'File URL', name: 'fileUrl', widget: 'file',  media_library: {
-                  config: {
-                    multiple: false } 
-                  }
-                },
-              ],
-            }
-      - file: src/link-lists/in-the-news-list.md
-        label: In the News
+          - label: "Report Items"
+            name: "reportItems"
+            allow_add: true
+            add_to_top: true
+            widget: "list"
+            summary: '{{fields.label}}'
+            fields: 
+              - { label: 'Label', name: 'label', widget: 'string' }
+              - label: 'File URL'
+                name: 'fileUrl'
+                widget: 'file'
+                hint: 'To upload files, click the "Choose a file"/"Choose different file" button.'
+                media_library:
+                  config:
+                    multiple: false
+      - label: In the News
         name: inTheNews
-        editor:
-          preview: false
+        file: src/link-lists/in-the-news-list.md
         fields:
           - { label: 'Title', name: 'title', widget: 'string' }
-          - {
-              label: News Items,
-              name: newsItems,
-              allow_add: true,
-              add_to_top: true,
-              widget: list,
-              fields: [
-                { label: 'Label', name: 'label', widget: 'string' },
-                { label: 'Link URL', name: 'linkUrl', widget: 'string' },
-                { label: 'Publisher', name: 'publisher', widget: 'string' },
-                { label: 'Publication Date', name: 'publicationDate', widget: 'date' , default: '', format: 'MMM Do YY' }
-              ],
-            }
+          - label: News Items
+            name: "newsItems"
+            allow_add: true
+            add_to_top: true
+            widget: "list"
+            summary: '{{fields.publicationDate}} - {{fields.label}}'
+            fields:
+              - { label: 'Label', name: 'label', widget: 'string', required: true }
+              - { label: 'Link URL', name: 'linkUrl', widget: 'string', required: true }
+              - { label: 'Publisher', name: 'publisher', widget: 'string', required: true }
+              - { label: 'Publication Date', name: 'publicationDate', widget: 'date', hint: 'Format: MM/DD/YYYY', default: '', format: 'MMM D, YYYY', required: true }
