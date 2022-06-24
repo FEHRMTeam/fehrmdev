@@ -7,6 +7,8 @@ parent: Media
 
 Recent articles related to the Federal Electronic Health Record Modernization (FEHRM) office are provided below. 
 
+* [VA Touts “Tech as a Service” for Its Modernization Programs](https://governmentciomedia.com/va-touts-tech-service-its-modernization-programs) – GovCIO Media & Research (May 17, 2022)
+* [VA Deploys New EHR Tech at Ohio Clinics](https://www.nextgov.com/it-modernization/2022/05/va-deploys-new-ehr-tech-ohio-clinics/366373/) – Nextgov (May 2, 2022)
 * [New Electronic Health Record System Goes Live in Walla Walla](https://www.legion.org/veteranshealthcare/255599/new-electronic-health-record-system-goes-live-walla-walla) – The American Legion (April 21, 2022)
 * [Changing Needs are Reflected in Federal Health IT Innovations and Optimizations](https://www.mobihealthnews.com/video/changing-needs-are-reflected-federal-health-it-innovations-and-optimizations) – MobiHealthNews (April 5, 2022)
 * [FEHRM Says EHR Deployment Is Half Complete](https://governmentciomedia.com/fehrm-says-ehr-deployment-half-complete) – GovCIO Media & Research (March 16, 2022)
