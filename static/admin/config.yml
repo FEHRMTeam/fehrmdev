@@ -276,7 +276,7 @@ collections:
   - name: linkLists
     label: Link Lists
     files:
-      - file: src/link-lists/congressional-reports.md
+      - file: src/link-lists/congressional-reports-list.md
         label: Congressional Reports
         name: congressionalReports
         editor:
@@ -298,7 +298,7 @@ collections:
                 },
               ],
             }
-      - file: src/link-lists/in-the-news.md
+      - file: src/link-lists/in-the-news-list.md
         label: In the News
         name: inTheNews
         editor:
