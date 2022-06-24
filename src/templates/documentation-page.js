@@ -54,6 +54,7 @@ export const pageQuery = graphql`
         title
         sidenav
         parent
+        associatedLinkList
       }
     }
     headerContent: markdownRemark(

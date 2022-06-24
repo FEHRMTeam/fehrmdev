@@ -2,6 +2,7 @@
 title: Congressional Reports
 sidenav: true
 parent: Congressional Information
+associatedLinkList: congressionalReports
 ---
 # Congressional Reports
 

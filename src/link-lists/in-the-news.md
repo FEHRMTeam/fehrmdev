@@ -1,30 +1,6 @@
 ---
 title: In the News
 newsItems:
-  - label: 
-    linkUrl: 
-    publisher: 
-    publicationDate: 
-  - label: 
-    linkUrl: 
-    publisher: 
-    publicationDate: 
-  - label: 
-    linkUrl: 
-    publisher: 
-    publicationDate: 
-  - label: 
-    linkUrl: 
-    publisher: 
-    publicationDate: 
-  - label: 
-    linkUrl: 
-    publisher: 
-    publicationDate: 
-  - label: 
-    linkUrl: 
-    publisher: 
-    publicationDate: 
   - label: VFW Calls on Congress to Pass Bills and Finally Address the Needs of Veterans
     linkUrl: https://www.vfw.org/media-and-events/latest-releases/archives/2022/3/vfw-calls-on-congress-to-pass-bills-and-finally-address-the-needs-of-veterans
     publisher: Veterans of Foreign Wars
