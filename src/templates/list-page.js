@@ -4,12 +4,13 @@ import { graphql } from 'gatsby';
 import Layout from '../components/layout';
 import SEO from '../components/seo';
 import Sidenav from '../components/sidenav';
+import LinkList from '../components/list.js';
 
 /*
   This template is for a single page that does not have a date associated with it. For example, an about page.
 */
 
-const DocumentationPage = ({ data }) => {
+const ListPage = ({ data }) => {
   const { pageContent, headerContent, navigation } = data;
   const { frontmatter, html } = pageContent;
   const { navMenuItems } = navigation.frontmatter;
@@ -31,8 +32,10 @@ const DocumentationPage = ({ data }) => {
                 currentPage={frontmatter.title} />}
 
             <main id="main-content"
-              className={"usa-layout-docs__main desktop:grid-col-9 usa-prose " + (frontmatter.title === "Leadership" ? "profile-images" : "")}
-              dangerouslySetInnerHTML={{ __html: html }}>
+              className={"usa-layout-docs__main desktop:grid-col-9 " + (frontmatter.title === "Leadership" ? "profile-images" : "")}
+            >
+              <div className={"usa-prose"} dangerouslySetInnerHTML={{ __html: html }} />
+              {(!frontmatter.reportItems) ? "" : <LinkList content={frontmatter.reportItems} />}
             </main>
           </div>
         </div>
@@ -41,11 +44,11 @@ const DocumentationPage = ({ data }) => {
   );
 };
 
-export const pageQuery = graphql`
+export const listPageQuery = graphql`
   query($name: String!) {
     pageContent: markdownRemark(
       fields: {
-        sourceName: { eq: "content-pages" }
+        sourceName: { eq: "list-pages" }
         name: { eq: $name }
       }
     ) {
@@ -54,6 +57,16 @@ export const pageQuery = graphql`
         title
         sidenav
         parent
+        reportItems {
+          label
+          fileUrl
+        }
+        newsItems {
+          label
+          linkUrl
+          publicationDate
+          publisher
+        }
       }
     }
     headerContent: markdownRemark(
@@ -88,4 +101,4 @@ export const pageQuery = graphql`
   }
 `;
 
-export default DocumentationPage;
+export default ListPage;

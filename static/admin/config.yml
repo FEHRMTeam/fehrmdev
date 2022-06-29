@@ -25,13 +25,6 @@ collections:
       - { label: 'Sidenav', name: 'sidenav', widget: 'boolean' }
       - { label: 'Parent', name: 'parent', widget: 'string', hint: 'Enter parent page name. Used to display the appropriate side navigation' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-      - label: 'Associated Link List'
-        name: 'associatedLinkList'
-        widget: 'relation'
-        collection: 'linkLists'
-        display_fields: ['title']
-        search_fields: ['title']
-        value_field: 'title'
   
   - name: home
     label: Homepage
@@ -279,16 +272,19 @@ collections:
               ],
             }
 
-  - label: Link Lists
-    name: linkLists
+  - label: Link List Pages
+    name: linkListPages
     editor:
       preview: false
     files:
       - label: Congressional Reports
         name: congressionalReports
-        file: src/link-lists/congressional-reports-list.md
+        file: src/list-pages/congressional-reports-list.md
         fields:
           - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Sidenav', name: 'sidenav', widget: 'boolean' }
+          - { label: 'Parent', name: 'parent', widget: 'string', hint: 'Enter parent page name. Used to display the appropriate side navigation' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
           - label: "Report Items"
             name: "reportItems"
             allow_add: true
@@ -306,9 +302,12 @@ collections:
                     multiple: false
       - label: In the News
         name: inTheNews
-        file: src/link-lists/in-the-news-list.md
+        file: src/list-pages/in-the-news-list.md
         fields:
           - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Sidenav', name: 'sidenav', widget: 'boolean' }
+          - { label: 'Parent', name: 'parent', widget: 'string', hint: 'Enter parent page name. Used to display the appropriate side navigation' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
           - label: News Items
             name: "newsItems"
             allow_add: true

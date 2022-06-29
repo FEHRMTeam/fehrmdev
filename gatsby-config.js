@@ -122,8 +122,8 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `link-lists`,
-        path: `${__dirname}/src/link-lists`,
+        name: `list-pages`,
+        path: `${__dirname}/src/list-pages`,
       },
     },
     {
