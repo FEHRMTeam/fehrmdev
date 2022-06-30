@@ -296,7 +296,7 @@ collections:
               - label: 'File URL'
                 name: 'fileUrl'
                 widget: 'file'
-                hint: 'To upload files, click the "Choose a file"/"Choose different file" button.'
+                hint: 'To upload files, click the "Choose a file" / "Choose different file" button.'
                 media_library:
                   config:
                     multiple: false

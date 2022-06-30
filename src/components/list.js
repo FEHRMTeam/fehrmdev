@@ -7,56 +7,52 @@ import { graphql, Link } from 'gatsby';
   your markdown pages.
 */
 
-const LinkList = ({ linkList }) => {
+const LinkList = ({ content }) => {
 
-  // const { linkList } = linkListQuery;
+  const { reportItems, newsItems } = content;
 
   return (
-    <ul>
-      {linkList &&
-        linkList.length > 0 &&
-        linkList.map (
-          (linkListItem, idx) => (
-            <>
-              {linkListItem.label !== " " && (
-                <li key={idx}>
-                  <Link
-                    to={linkListItem.fileUrl}
-                  >
-                      {linkListItem.label}
-                  </Link>
-                </li>
-              )}
-            </>
-          )
-      )}
-    </ul>
+    <div className="usa-prose">
+      <ul>
+        {console.log(content)}
+        {
+          (reportItems &&
+          reportItems.length > 0 &&
+          reportItems.reverse().map (
+            (contentItem, idx) => (
+              <>
+                {contentItem.label !== " " && (
+                  <li key={idx}>
+                    <Link
+                      to={'../'+contentItem.fileUrl}
+                    >
+                        {contentItem.label}
+                    </Link>
+                  </li>
+                )}
+              </>
+            )
+        )) ||
+        (newsItems &&
+          newsItems.length > 0 &&
+          newsItems.reverse().map (
+            (contentItem, idx) => (
+              <>
+                {contentItem.label !== " " && (
+                  <li key={idx}>
+                    <Link
+                      to={contentItem.linkUrl}
+                    >
+                        {contentItem.label}
+                    </Link> - {contentItem.publisher} ({contentItem.publicationDate})
+                  </li>
+                )}
+              </>
+            )
+        ))}
+      </ul>
+    </div>
   )
 };
-
-// export const linkListQuery = graphql`
-//     query($name: String!) {
-//       linkList: markdownRemark(
-//         fields: {
-//           sourceName: { eq: "link-lists" }
-//           name: { eq: $name }
-//         }
-//       ) {
-//         frontmatter {
-//           reportItems {
-//             label
-//             fileUrl
-//           }
-//           newsItems {
-//             label
-//             linkUrl
-//             publicationDate
-//             publisher
-//           }
-//           title
-//         }
-//       }
-//     }
-//   `;
 
 export default LinkList;

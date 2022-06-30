@@ -35,7 +35,7 @@ const ListPage = ({ data }) => {
               className={"usa-layout-docs__main desktop:grid-col-9 " + (frontmatter.title === "Leadership" ? "profile-images" : "")}
             >
               <div className={"usa-prose"} dangerouslySetInnerHTML={{ __html: html }} />
-              {(!frontmatter.reportItems) ? "" : <LinkList content={frontmatter.reportItems} />}
+              <LinkList content={frontmatter} />
             </main>
           </div>
         </div>
