@@ -17,7 +17,7 @@ const Sidenav = ({ content, currentPage }) => (
               content.subMenuItems.length > 0 &&
               content.subMenuItems.map (
                 (subMenuItem, idx) => (
-                  <>
+                  <React.Fragment key={subMenuItem.label + idx}>
                     {subMenuItem.label !== " " && (
                       <li className="usa-sidenav__item" key={subMenuItem.label + idx}>
                         <Link
@@ -27,7 +27,7 @@ const Sidenav = ({ content, currentPage }) => (
                         </Link>
                       </li>
                     )}
-                  </>
+                  </React.Fragment>
                 )
               )}
           </ul>

@@ -5,6 +5,8 @@ import Layout from '../components/layout';
 import SEO from '../components/seo';
 import Sidenav from '../components/sidenav';
 import LinkList from '../components/list.js';
+import ReportItem from '../components/reportItem.js';
+import NewsItem from '../components/newsItem.js';
 
 /*
   This template is for a single page that does not have a date associated with it. For example, an about page.
@@ -35,7 +37,8 @@ const ListPage = ({ data }) => {
               className={"usa-layout-docs__main desktop:grid-col-9 " + (frontmatter.title === "Leadership" ? "profile-images" : "")}
             >
               <div className={"usa-prose"} dangerouslySetInnerHTML={{ __html: html }} />
-              <LinkList content={frontmatter} />
+              {(frontmatter.reportItems ? <LinkList content={frontmatter.reportItems} ListItemType={ReportItem} /> : "")}
+              {(frontmatter.newsItems ? <LinkList content={frontmatter.newsItems} ListItemType={NewsItem} /> : "" )}
             </main>
           </div>
         </div>
