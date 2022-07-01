@@ -10,7 +10,7 @@ const ReportItem = ({ item }) => {
   return (
     <li>
       <a
-        href={'/' + item.fileUrl}
+        href={item.fileUrl}
       >
         {item.label}
       </a>

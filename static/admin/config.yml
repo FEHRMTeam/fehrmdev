@@ -3,7 +3,7 @@ backend:
   repo: FEHRMTeam/fehrmdev
   base_url: https://federalistapp.18f.gov
   auth_endpoint: external/auth/github
-  branch: cms-list-collection # CHANGE BACK TO MAIN WHEN READY TO MERGE
+  branch: main
   preview_context: federalist/build
 
 media_folder: static/images
