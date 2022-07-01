@@ -34,7 +34,7 @@ const Footer = ({ footerContent }) => {
         <div className="grid-row padding-3">
           <div className="tablet:grid-col">
             <div className="logo-links">
-              <a className="footer-logo media_link" href="/">
+              <a className="footer-logo media_link" href="https://18f.gsa.gov">
                 <img src={footerImage.image} width="50" alt={footerImage.imageAlt}/>
               </a>
             </div>
