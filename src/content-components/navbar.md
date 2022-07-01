@@ -86,10 +86,6 @@ navMenuItems:
         linkType: internal
         linkUrl: /join-the-federal-ehr
         newTab: false
-      - label: " "
-        linkType: internal
-        linkUrl: /
-        newTab: false
   - label: Congressional Information
     linkType: internal
     linkUrl: /
