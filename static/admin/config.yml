@@ -3,7 +3,7 @@ backend:
   repo: FEHRMTeam/fehrmdev
   base_url: https://federalistapp.18f.gov
   auth_endpoint: external/auth/github
-  branch: main
+  branch: 'main'
   preview_context: federalist/build
 
 media_folder: static/images
@@ -271,3 +271,51 @@ collections:
                 { label: 'Open in new tab?', name: 'newTab', widget: 'boolean', hint: 'Internal links cannot open in a new tab. Setting the Link Type to internal will override this setting'}
               ],
             }
+
+  - label: Link List Pages
+    name: linkListPages
+    editor:
+      preview: false
+    files:
+      - label: Congressional Reports
+        name: congressionalReports
+        file: src/list-pages/congressional-reports-list.md
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Sidenav', name: 'sidenav', widget: 'boolean' }
+          - { label: 'Parent', name: 'parent', widget: 'string', hint: 'Enter parent page name. Used to display the appropriate side navigation' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+          - label: "Report Items"
+            name: "reportItems"
+            allow_add: true
+            add_to_top: true
+            widget: "list"
+            summary: '{{fields.label}}'
+            fields: 
+              - { label: 'Label', name: 'label', widget: 'string' }
+              - label: 'File URL'
+                name: 'fileUrl'
+                widget: 'file'
+                hint: 'To upload files, click the "Choose a file" / "Choose different file" button.'
+                media_library:
+                  config:
+                    multiple: false
+      - label: In the News
+        name: inTheNews
+        file: src/list-pages/in-the-news-list.md
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Sidenav', name: 'sidenav', widget: 'boolean' }
+          - { label: 'Parent', name: 'parent', widget: 'string', hint: 'Enter parent page name. Used to display the appropriate side navigation' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+          - label: News Items
+            name: "newsItems"
+            allow_add: true
+            add_to_top: true
+            widget: "list"
+            summary: '{{fields.publicationDate}} - {{fields.label}}'
+            fields:
+              - { label: 'Label', name: 'label', widget: 'string', required: true }
+              - { label: 'Link URL', name: 'linkUrl', widget: 'string', required: true }
+              - { label: 'Publisher', name: 'publisher', widget: 'string', required: true }
+              - { label: 'Publication Date', name: 'publicationDate', widget: 'date', hint: 'Format: MM/DD/YYYY', default: '', format: 'MMM D, YYYY', required: true }

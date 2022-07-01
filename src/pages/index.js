@@ -19,9 +19,11 @@ const IndexPage = ({ data }) => {
     <Layout
       headerTitle={frontmatter.headerTitle}>
       <SEO title={frontmatter.title} />
-      <Hero heroCallout={frontmatter.heroCallout} />
-      <Tagline taglineContent={frontmatter.tagline} />
-      <Highlights callToActions={frontmatter.callToActions} />
+      <main id="main-content">
+        <Hero heroCallout={frontmatter.heroCallout} />
+        <Tagline taglineContent={frontmatter.tagline} />
+        <Highlights callToActions={frontmatter.callToActions} />
+      </main>
     </Layout>
   );
 };
