@@ -113,10 +113,10 @@ newsItems:
     linkUrl: https://www.nextgov.com/it-modernization/2021/06/joint-dod-va-medical-center-will-be-major-test-electronic-health-record-interoperability/174653/
     publisher: Nextgov
     publicationDate: June 10, 2021
-  - label: VA Sees Trust Improve by 24% in Five Years, Thanks to Veterans Experience
-      Effort
+  - label: "Federal News Network: VA Sees Trust Improve by 24% in Five Years, Thanks
+      to Veterans Experience Effort"
     linkUrl: https://www.fedhealthit.com/2021/06/federal-news-network-va-sees-trust-improve-by-24-in-five-years-thanks-to-veterans-experience-effort/
-    publisher: Federal News Network
+    publisher: FedHealthIT
     publicationDate: June 4, 2021
   - label: Veteran Community Reflects on Tech Impact of Pandemic, Memorialization
     linkUrl: https://governmentciomedia.com/veteran-community-reflects-tech-impact-pandemic-memorialization
