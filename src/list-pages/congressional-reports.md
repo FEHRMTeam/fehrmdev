@@ -3,13 +3,13 @@ title: Congressional Reports
 sidenav: true
 parent: Congressional Information
 reportItems:
-  - fileUrl: images/fehrm_charter_signed_20191204_508c.pdf
-    label: "Test: Testing Report Items List"
   - label: "2021 Federal Electronic Health Record Summit: End-User Feedback
       Executive Summary"
     fileUrl: images/end-user-feedback-executive-summary_20211108.pdf
   - label: FEHRM DOD/VA Interoperability Modernization Strategy
     fileUrl: images/tab-a2-dod_va_interoperability_modernization_strategy_20200924.pdf
+  - fileUrl: images/fehrm_charter_signed_20191204_508c.pdf
+    label: "Test: Testing Report Items List"
   - label: Quarter Two, Fiscal Year 2022 Interoperability Progress Quarterly Report
     fileUrl: images/tab-a2-fehrm-q2-fy2022-interoperability-progress-report.pdf
   - label: Quarter One, Fiscal Year 2022 Interoperability Progress Quarterly Report
