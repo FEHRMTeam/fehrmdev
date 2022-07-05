@@ -3,7 +3,7 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
-  - label: 'VA Touts “Tech as a Service” for Its Modernization Programs'
+  - label: VA Touts “Tech as a Service” for Its Modernization Programs
     linkUrl: https://governmentciomedia.com/va-touts-tech-service-its-modernization-programs
     publisher: GovCIO Media & Research
     publicationDate: May 17, 2022
@@ -15,7 +15,8 @@ newsItems:
     linkUrl: https://www.legion.org/veteranshealthcare/255599/new-electronic-health-record-system-goes-live-walla-walla
     publisher: The American Legion
     publicationDate: April 21, 2022
-  - label: Changing Needs are Reflected in Federal Health IT Innovations and Optimizations
+  - label: Changing Needs are Reflected in Federal Health IT Innovations and
+      Optimizations
     linkUrl: https://www.mobihealthnews.com/video/changing-needs-are-reflected-federal-health-it-innovations-and-optimizations
     publisher: MobiHealthNews
     publicationDate: April 5, 2022
@@ -23,7 +24,8 @@ newsItems:
     linkUrl: https://governmentciomedia.com/fehrm-says-ehr-deployment-half-complete
     publisher: GovCIO Media & Research
     publicationDate: March 16, 2022
-  - label: VFW Calls on Congress to Pass Bills and Finally Address the Needs of Veterans
+  - label: VFW Calls on Congress to Pass Bills and Finally Address the Needs of
+      Veterans
     linkUrl: https://www.vfw.org/media-and-events/latest-releases/archives/2022/3/vfw-calls-on-congress-to-pass-bills-and-finally-address-the-needs-of-veterans
     publisher: Veterans of Foreign Wars
     publicationDate: March 2, 2022
@@ -39,13 +41,14 @@ newsItems:
     linkUrl: https://www.healthcareitnews.com/news/mhs-genesis-deployed-additional-19k-providers-across-texas
     publisher: Healthcare IT News
     publicationDate: January 27, 2022
-  - label: VA Inks $13 Million Contract with Google Cloud to Drive the Making of Apps for Vets
+  - label: VA Inks $13 Million Contract with Google Cloud to Drive the Making of
+      Apps for Vets
     linkUrl: https://www.nextgov.com/emerging-tech/2022/01/va-inks-13-million-contract-google-cloud-drive-making-apps-vets/360644/
     publisher: Nextgov
     publicationDate: January 12, 2022
   - label: Oracle-Cerner Deal Jump-Starts the Sluggish EHR Landscape
     linkUrl: https://www.healthleadersmedia.com/technology/oracle-cerner-deal-jump-starts-sluggish-ehr-landscape
-    publisher: Health Leaders
+    publisher: HealthLeaders
     publicationDate: December 23, 2021
   - label: Senate Bill Calls for VA EHR Modernization Transparency
     linkUrl: https://executivegov.com/2021/12/senate-bill-calls-for-va-ehr-modernization-transparency/
@@ -79,7 +82,8 @@ newsItems:
     linkUrl: https://www.healthcareitnews.com/news/indian-health-service-seeks-vendors-replace-its-health-it-system
     publisher: Healthcare IT News
     publicationDate: August 16, 2021
-  - label: Big VA Budget Boost on Track as Senate Panel Backs $270 Billion Spending Plan
+  - label: Big VA Budget Boost on Track as Senate Panel Backs $270 Billion Spending
+      Plan
     linkUrl: https://www.militarytimes.com/veterans/2021/08/04/big-va-budget-boost-on-track-as-senate-panel-backs-270-billion-spending-plan/
     publisher: Military Times
     publicationDate: August 5, 2021
@@ -99,17 +103,20 @@ newsItems:
     linkUrl: https://www.dvidshub.net/news/398978/leadership-discusses-lessons-learned-latest-mhs-genesis-waves
     publisher: DVIDS
     publicationDate: June 15, 2021
-  - label: Electronic Health Records Modernization Improving Federal Health Care Delivery
+  - label: Electronic Health Records Modernization Improving Federal Health Care
+      Delivery
     linkUrl: https://governmentciomedia.com/electronic-health-records-modernization-improving-federal-health-care-delivery
     publisher: GovernmentCIO
     publicationDate: June 10, 2021
-  - label: Joint DOD-VA Medical Center Will Be Major Test for Electronic Health Record Interoperability
+  - label: Joint DOD-VA Medical Center Will Be Major Test for Electronic Health
+      Record Interoperability
     linkUrl: https://www.nextgov.com/it-modernization/2021/06/joint-dod-va-medical-center-will-be-major-test-electronic-health-record-interoperability/174653/
     publisher: Nextgov
     publicationDate: June 10, 2021
-  - label: VA Sees Trust Improve by 24% in Five Years, Thanks to Veterans Experience Effort
+  - label: "Federal News Network: VA Sees Trust Improve by 24% in Five Years, Thanks
+      to Veterans Experience Effort"
     linkUrl: https://www.fedhealthit.com/2021/06/federal-news-network-va-sees-trust-improve-by-24-in-five-years-thanks-to-veterans-experience-effort/
-    publisher: Federal News Network
+    publisher: FedHealthIT
     publicationDate: June 4, 2021
   - label: Veteran Community Reflects on Tech Impact of Pandemic, Memorialization
     linkUrl: https://governmentciomedia.com/veteran-community-reflects-tech-impact-pandemic-memorialization
@@ -127,7 +134,8 @@ newsItems:
     linkUrl: https://health.mil/News/Articles/2021/04/08/MHS-GENESIS-has-successful-launch-at-Naval-Medical-Center-San-Diego
     publisher: Health.mil
     publicationDate: April 8, 2021
-  - label: "Veterans Health Administration Opens Up: Tackling Interoperability in The Private Sector"
+  - label: "Veterans Health Administration Opens Up: Tackling Interoperability in
+      The Private Sector"
     linkUrl: https://www.forbes.com/sites/forbestechcouncil/2021/04/08/veterans-health-administration-opens-up-tackling-interoperability-in-the-private-sector/?sh=141738e49912
     publisher: Forbes
     publicationDate: April 8, 2021
@@ -135,7 +143,7 @@ newsItems:
     linkUrl: https://federalnewsnetwork.com/commentary/2021/04/the-path-to-success-for-vas-health-record-modernization/
     publisher: Federal News Network
     publicationDate: April 19, 2021
-  - label: MHS GENESIS MassVax System Rolling Out with COVID19 Vaccines
+  - label: MHS GENESIS MassVax System Rolling Out with COVID-19 Vaccines
     linkUrl: https://health.mil/News/Articles/2021/03/09/MHS-GENESIS-MassVax-system-rolling-out-with-COVID19-vaccines
     publisher: Health.mil
     publicationDate: March 9, 2021
@@ -147,11 +155,11 @@ newsItems:
     linkUrl: https://health.mil/Reference-Center/Publications/2021/02/01/The-Scope-PEO-DHMS-External-Newsletter-Winter-2021
     publisher: The Scope
     publicationDate: Winter 2021
-  - label: VA Reports Smooth Go-Live from $16B Electronic Health Record System
+  - label: VA Reports Smooth Go-Live from $16 Billion Electronic Health Record System
     linkUrl: https://fcw.com/articles/2020/11/10/veterans-affairs-health-record-golive.aspx
     publisher: Federal Computer Week
     publicationDate: November 10, 2020
-  - label: "VA Touts Successful First EHR Go-Live: ‘A Lot of Things Worked’"
+  - label: 'VA Touts Successful First EHR Go-Live: "A Lot of Things Worked"'
     linkUrl: https://federalnewsnetwork.com/veterans-affairs/2020/11/va-touts-successful-first-ehr-go-live-a-lot-of-things-worked/
     publisher: Federal News Network
     publicationDate: November 10, 2020
@@ -169,9 +177,9 @@ newsItems:
     publicationDate: October 26, 2020
   - label: VA Marks First Deployment of Cerner Health Records System
     linkUrl: https://www.bizjournals.com/kansascity/news/2020/10/27/va-deploys-cerner-ehr-system-at-washington-center.html
-    publisher: Kansas City business Journal
+    publisher: Kansas City Business Journal
     publicationDate: October 26, 2020
-  - label: VA, DoD Make CommonWell Connection, Prep Data for EHRM Launch
+  - label: VA, DOD Make CommonWell Connection, Prep Data for EHRM Launch
     linkUrl: https://ehrintelligence.com/news/va-dod-make-commonwell-connection-prep-data-for-ehrm-launch
     publisher: EHR Intelligence
     publicationDate: October 19, 2020
@@ -195,14 +203,14 @@ newsItems:
     linkUrl: https://khn.org/morning-breakout/veterans-affairs-set-to-unveil-new-electronic-health-record-system/
     publisher: Kaiser Health News
     publicationDate: October 1, 2020
-  - label: MHS GENESIS Improves Patient Experience for Military Families
-    linkUrl: https://www.health.mil/News/Articles/2020/09/01/MHS-GENESIS-improves-patient-experience-for-military-families
-    publisher: Health.mil
-    publicationDate: September 1, 2020
   - label: Opioid Tool on MHS GENESIS Improves Patient Safety
     linkUrl: https://health.mil/News/Articles/2020/09/01/Opioid-tool-on-MHS-GENESIS-improves-patient-safety
     publisher: Health.mil
     publicationDate: September 2, 2020
+  - label: MHS GENESIS Improves Patient Experience for Military Families
+    linkUrl: https://www.health.mil/News/Articles/2020/09/01/MHS-GENESIS-improves-patient-experience-for-military-families
+    publisher: Health.mil
+    publicationDate: September 1, 2020
   - label: MHS GENESIS Helps DGMC Deliver Life-Saving Blood
     linkUrl: https://health.mil/News/Articles/2020/08/03/MHS-GENESIS-helps-DGMC-deliver-life-saving-blood
     publisher: Air Force Medical Service
