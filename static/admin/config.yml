@@ -274,6 +274,7 @@ collections:
 
   - label: Link List Pages
     name: linkListPages
+    extension: md
     editor:
       preview: false
     files:
