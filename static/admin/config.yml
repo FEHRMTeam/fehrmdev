@@ -68,7 +68,7 @@ collections:
             allow_add: true
             add_to_top: true
             widget: "list"
-            summary: '{{fields.publicationDate}} - {{fields.label}}'
+            summary: '{{fields.publicationDate}} - {{fields.publisher}} - {{fields.label}}'
             fields:
               - { label: 'Label', name: 'label', widget: 'string', required: true }
               - { label: 'Link URL', name: 'linkUrl', widget: 'string', required: true }
