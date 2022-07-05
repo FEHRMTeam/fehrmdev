@@ -3,7 +3,7 @@ backend:
   repo: FEHRMTeam/fehrmdev
   base_url: https://federalistapp.18f.gov
   auth_endpoint: external/auth/github
-  branch: 'main'
+  branch: main
   preview_context: federalist/build
 
 media_folder: static/images
@@ -280,7 +280,7 @@ collections:
     files:
       - label: Congressional Reports
         name: congressionalReports
-        file: src/list-pages/congressional-reports-list.md
+        file: src/list-pages/congressional-reports.md
         fields:
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Sidenav', name: 'sidenav', widget: 'boolean' }
@@ -303,7 +303,7 @@ collections:
                     multiple: false
       - label: In the News
         name: inTheNews
-        file: src/list-pages/in-the-news-list.md
+        file: src/list-pages/in-the-news.md
         fields:
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Sidenav', name: 'sidenav', widget: 'boolean' }
