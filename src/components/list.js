@@ -21,7 +21,7 @@ const LinkList = ({ content, ListItemType }) => {
                 )}
               </React.Fragment>
             )
-          ).reverse())
+          ))
         }
       </ul>
     </div>
