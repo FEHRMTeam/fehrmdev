@@ -3,10 +3,6 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
-  - publicationDate: Jul 1, 2022
-    label: "Test: This is a test"
-    linkUrl: google.com
-    publisher: Tester
   - label: VA Touts “Tech as a Service” for Its Modernization Programs
     linkUrl: https://governmentciomedia.com/va-touts-tech-service-its-modernization-programs
     publisher: GovCIO Media & Research
@@ -19,6 +15,10 @@ newsItems:
     linkUrl: https://www.legion.org/veteranshealthcare/255599/new-electronic-health-record-system-goes-live-walla-walla
     publisher: The American Legion
     publicationDate: April 21, 2022
+  - publicationDate: Jul 1, 2022
+    label: "Test: This is a test"
+    linkUrl: google.com
+    publisher: Tester
   - label: Changing Needs are Reflected in Federal Health IT Innovations and
       Optimizations
     linkUrl: https://www.mobihealthnews.com/video/changing-needs-are-reflected-federal-health-it-innovations-and-optimizations
