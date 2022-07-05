@@ -3,10 +3,6 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
-  - publicationDate: March 7, 2022
-    publisher: Test Test
-    linkUrl: google.com
-    label: Testing Article
   - label: VA Touts “Tech as a Service” for Its Modernization Programs
     linkUrl: https://governmentciomedia.com/va-touts-tech-service-its-modernization-programs
     publisher: GovCIO Media & Research
@@ -28,6 +24,10 @@ newsItems:
     linkUrl: https://governmentciomedia.com/fehrm-says-ehr-deployment-half-complete
     publisher: GovCIO Media & Research
     publicationDate: March 16, 2022
+  - publicationDate: March 7, 2022
+    publisher: Test Test
+    linkUrl: google.com
+    label: Testing Article
   - label: VFW Calls on Congress to Pass Bills and Finally Address the Needs of
       Veterans
     linkUrl: https://www.vfw.org/media-and-events/latest-releases/archives/2022/3/vfw-calls-on-congress-to-pass-bills-and-finally-address-the-needs-of-veterans
