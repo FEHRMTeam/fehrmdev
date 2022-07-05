@@ -143,7 +143,7 @@ newsItems:
     linkUrl: https://federalnewsnetwork.com/commentary/2021/04/the-path-to-success-for-vas-health-record-modernization/
     publisher: Federal News Network
     publicationDate: April 19, 2021
-  - label: MHS GENESIS MassVax System Rolling Out with COVID19 Vaccines
+  - label: MHS GENESIS MassVax System Rolling Out with COVID-19 Vaccines
     linkUrl: https://health.mil/News/Articles/2021/03/09/MHS-GENESIS-MassVax-system-rolling-out-with-COVID19-vaccines
     publisher: Health.mil
     publicationDate: March 9, 2021
@@ -155,11 +155,11 @@ newsItems:
     linkUrl: https://health.mil/Reference-Center/Publications/2021/02/01/The-Scope-PEO-DHMS-External-Newsletter-Winter-2021
     publisher: The Scope
     publicationDate: Winter 2021
-  - label: VA Reports Smooth Go-Live from $16B Electronic Health Record System
+  - label: VA Reports Smooth Go-Live from $16 Billion Electronic Health Record System
     linkUrl: https://fcw.com/articles/2020/11/10/veterans-affairs-health-record-golive.aspx
     publisher: Federal Computer Week
     publicationDate: November 10, 2020
-  - label: "VA Touts Successful First EHR Go-Live: ‘A Lot of Things Worked’"
+  - label: 'VA Touts Successful First EHR Go-Live: "A Lot of Things Worked"'
     linkUrl: https://federalnewsnetwork.com/veterans-affairs/2020/11/va-touts-successful-first-ehr-go-live-a-lot-of-things-worked/
     publisher: Federal News Network
     publicationDate: November 10, 2020
@@ -177,9 +177,9 @@ newsItems:
     publicationDate: October 26, 2020
   - label: VA Marks First Deployment of Cerner Health Records System
     linkUrl: https://www.bizjournals.com/kansascity/news/2020/10/27/va-deploys-cerner-ehr-system-at-washington-center.html
-    publisher: Kansas City business Journal
+    publisher: Kansas City Business Journal
     publicationDate: October 26, 2020
-  - label: VA, DoD Make CommonWell Connection, Prep Data for EHRM Launch
+  - label: VA, DOD Make CommonWell Connection, Prep Data for EHRM Launch
     linkUrl: https://ehrintelligence.com/news/va-dod-make-commonwell-connection-prep-data-for-ehrm-launch
     publisher: EHR Intelligence
     publicationDate: October 19, 2020
@@ -203,14 +203,14 @@ newsItems:
     linkUrl: https://khn.org/morning-breakout/veterans-affairs-set-to-unveil-new-electronic-health-record-system/
     publisher: Kaiser Health News
     publicationDate: October 1, 2020
-  - label: MHS GENESIS Improves Patient Experience for Military Families
-    linkUrl: https://www.health.mil/News/Articles/2020/09/01/MHS-GENESIS-improves-patient-experience-for-military-families
-    publisher: Health.mil
-    publicationDate: September 1, 2020
   - label: Opioid Tool on MHS GENESIS Improves Patient Safety
     linkUrl: https://health.mil/News/Articles/2020/09/01/Opioid-tool-on-MHS-GENESIS-improves-patient-safety
     publisher: Health.mil
     publicationDate: September 2, 2020
+  - label: MHS GENESIS Improves Patient Experience for Military Families
+    linkUrl: https://www.health.mil/News/Articles/2020/09/01/MHS-GENESIS-improves-patient-experience-for-military-families
+    publisher: Health.mil
+    publicationDate: September 1, 2020
   - label: MHS GENESIS Helps DGMC Deliver Life-Saving Blood
     linkUrl: https://health.mil/News/Articles/2020/08/03/MHS-GENESIS-helps-DGMC-deliver-life-saving-blood
     publisher: Air Force Medical Service
