@@ -51,16 +51,22 @@ $theme-color-primary-darker: #35034E;
 
 @media (min-width:64em) {
   // Navigation
-  .usa-nav__primary .usa-accordion__button span {
-    display: flex;
-    align-items: center;
+  .usa-nav {
+    .usa-nav__primary .usa-accordion__button span {
+      display: flex;
+      align-items: center;
+    }
+
+    .usa-nav__secondary {
+      bottom: 5.5rem;
+    }
   }
 }
 
 @media (max-width: 63.99em) {
   // sidebar navigation
   .usa-nav__primary a:not(.usa-button):not(.usa-current):not(.usa-nav__link):not(:hover) {
-      color: #fff;
+    color: #fff;
   }
 
   .usa-nav__primary button[aria-expanded=true] span:after {

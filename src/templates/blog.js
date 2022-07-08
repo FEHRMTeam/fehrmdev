@@ -3,6 +3,7 @@ import { graphql, Link } from 'gatsby';
 
 import Layout from '../components/layout';
 import SEO from '../components/seo';
+import Pagination from '../components/pagination';
 
 const Blog = ({ data, pageContext }) => {
   const posts = data.allMarkdownRemark.edges.map(({ node }) => ({
@@ -55,48 +56,7 @@ const Blog = ({ data, pageContext }) => {
               ))}
 
               {/* Pagination links */}
-              <div className="grid-row padding-top-2">
-                <div className="tablet:grid-col-4 text-center tablet:order-2 font-body-xs text-base">
-                  Page {pageContext.humanPageNumber} of{' '}
-                  {pageContext.numberOfPages}
-                </div>
-                <div className="tablet:grid-col-4 text-right tablet:order-3">
-                  {pageContext.nextPagePath && (
-                    <>
-                      <Link
-                        to={pageContext.nextPagePath}
-                        className="paginate-link usa-link text-no-underline text-bold tablet:margin-top-0"
-                      >
-                        Next {pageContext.limit} Posts &rsaquo;
-                      </Link>
-                      <Link
-                        to={pageContext.nextPagePath}
-                        className="paginate-button usa-button margin-top-3"
-                      >
-                        Next {pageContext.limit} Posts &rsaquo;
-                      </Link>
-                    </>
-                  )}
-                </div>
-                <div className="tablet:grid-col-4 text-left tablet:order-1">
-                  {pageContext.previousPagePath && (
-                    <>
-                      <Link
-                        to={pageContext.previousPagePath}
-                        className="paginate-link usa-link text-no-underline text-bold tablet:margin-top-0"
-                      >
-                        &lsaquo; Previous {pageContext.limit} Posts
-                      </Link>
-                      <Link
-                        to={pageContext.previousPagePath}
-                        className="paginate-button usa-button margin-top-2"
-                      >
-                        &lsaquo; Previous {pageContext.limit} Posts
-                      </Link>
-                    </>
-                  )}
-                </div>
-              </div>
+              <Pagination collectionPath="/blog/" pageContext={pageContext} />
             </main>
           </div>
           <aside className="desktop:grid-col-fill margin-top-4 padding-right-4">
