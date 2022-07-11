@@ -17,6 +17,11 @@ import Nav from './nav';
 const Layout = ({ children, headerTitle }) => {
   const data = useStaticQuery(graphql`
     query SiteTitleQuery {
+      title: site {
+        siteMetadata {
+          title
+        }
+      }
       navigation: markdownRemark(
         fields: {
           name: { eq: "navbar" }
@@ -88,7 +93,7 @@ const Layout = ({ children, headerTitle }) => {
     }
   `);
  
-  const { navigation, footer } = data;
+  const { title, navigation, footer } = data;
   const { navMenuItems } = navigation.frontmatter;
 
   return (
@@ -98,7 +103,7 @@ const Layout = ({ children, headerTitle }) => {
       </a>
       <Banner />
       <div className="usa-overlay" />
-      <Header siteTitle={headerTitle}>
+      <Header siteTitle={title.siteMetadata.title}>
         <Nav {...{ navMenuItems }} />
       </Header>
         {children}
