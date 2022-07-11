@@ -12,6 +12,18 @@ heroCallout:
     effectiveness.
   callToActionBtnText: Learn more
   callToActionUrl: /about-fehrm
+cardHighlights:
+  hide: false
+  displayEmpty: false
+  cards:
+    - heading: Exdent media
+      description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore possimus similique nemo odit doloremque laudantium?
+      button:
+        text: Learn more
+        url: /
+      cardImage:
+        image: 
+        alt: placeholder image
 tagline:
   taglineHeadingText: '<p class="font-heading-xs margin-top-0
     tablet:margin-bottom-0 text-italic" style="color: #585859"> “At the heart of
