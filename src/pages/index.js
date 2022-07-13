@@ -52,20 +52,16 @@ export const indexQuery = graphql`
           callToActionBtnText
           callToActionUrl
         }
-        cardHighlights {
-          displayEmpty
-          hide
-          cards {
-            description
-            heading
-            button {
-              text
-              url
-            }
-            cardImage {
-              image
-              alt
-            }
+        highlightCards {
+          description
+          heading
+          button {
+            text
+            url
+          }
+          cardImage {
+            image
+            alt
           }
         }
         tagline {

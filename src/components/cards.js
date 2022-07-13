@@ -6,18 +6,13 @@ import Card from './card'
 */
 
 const Cards = ({ cardsContent }) => {
-  if (cardsContent && !cardsContent.hide) {
+  if (cardsContent && cardsContent.length >= 3) {
     return (
-      <section className="grid-container usa-section usa-prose">
+      <section className="grid-container usa-section padding-bottom-0">
         <ul className="usa-card-group">
-          {
-            (cardsContent.cards &&
-              cardsContent.cards.length > 0 &&
-              cardsContent.cards.map (
-                (card) => <Card cardContent={card} key={card.heading} />
-              )
-            )
-          }
+          <Card cardContent={cardsContent[0]} />
+          <Card cardContent={cardsContent[1]} />
+          <Card cardContent={cardsContent[2]} />
         </ul>
       </section>
     )

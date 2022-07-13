@@ -3,7 +3,7 @@ backend:
   repo: FEHRMTeam/fehrmdev
   base_url: https://federalistapp.18f.gov
   auth_endpoint: external/auth/github
-  branch: main
+  branch: homepage-cards # change back to MAIN before merging to main branch
   preview_context: federalist/build
 
 media_folder: static/images
@@ -100,42 +100,37 @@ collections:
               - { label: 'Callout Support Text', name: 'calloutSupportText', widget: 'string' }
               - { label: 'Hero Call To Action Button Text', name: 'callToActionBtnText', widget: 'string' }
               - { label: 'Hero Call To Action Button URL', name: 'callToActionUrl', widget: 'string' }
-          - label: 'Card Highlights'
-            name: 'cardHighlights'
-            widget: 'object'
+          - label: 'Highlight Cards'
+            name: 'highlightCards'
+            min: 3
+            allow_add: true
+            add_to_top: true
+            widget: "list"
+            summary: '{{fields.heading}}'
+            hint: Three cards minimum required. Only the first three cards (from the top) will display on the homepage.
             fields:
-              - { label: "Hide Section", name: "hide", widget: "boolean", default: false, hint: "Hide this entire section from the homepage." }
-              - { label: "Display as Empty", name: "displayEmpty", widget: "boolean", default: false, hint: "Turn on when there isn't enough content to display. Hides cards and shows message."}
-              - label: 'Cards'
-                name: cards
-                max: 3
-                allow_add: true
-                add_to_top: true
-                widget: "list"
-                summary: '{{fields.heading}}'
+              - { label: 'Heading', name: 'heading', widget: 'string', hint: "Max limit of 45 characters.", pattern: ['^.{1,45}$', "Exceeds 45 max character limit."] }
+              - { label: 'Description', name: 'description', widget: 'string', hint: "Max limit of 100 characters.", pattern: ['^.{1,100}$', "Exceeds 100 max character limit."] }
+              - label: "Button"
+                name: "button"
+                widget: "object"
+                summary: '{{fields.text}}: {{fields.url}}'
                 fields:
-                  - { label: 'Heading', name: 'heading', widget: 'string' }
-                  - { label: 'Description', name: 'description', widget: 'text'}
-                  - label: "Button"
-                    name: "button"
-                    widget: "object"
-                    summary: '{{fields.text}}: {{fields.url}}'
-                    fields:
-                      - { label: 'Text', name: 'text', widget: 'string' }
-                      - { label: 'URL', name: 'url', widget: 'string' }
-                  - label: "Card Image"
-                    name: "cardImage"
-                    widget: "object"
-                    summary: '{{fields.alt}}'
-                    fields:
-                      - label: "Image"
-                        name: "image"
-                        widget: "image"
-                        choose_url: true
-                        media_library:
-                          config:
-                            mulitple: false
-                      - { label: 'Alternative text', name: 'alt', widget: 'text'}
+                  - { label: 'Text', name: 'text', widget: 'string', hint: "Max limit of 15 characters.", pattern: ['^.{1,15}$', "Exceeds 15 max character limit."] }
+                  - { label: 'URL', name: 'url', widget: 'string' }
+              - label: "Card Image"
+                name: "cardImage"
+                widget: "object"
+                summary: '{{fields.alt}}'
+                fields:
+                  - label: "Image"
+                    name: "image"
+                    widget: "image"
+                    choose_url: true
+                    media_library:
+                      config:
+                        mulitple: false
+                  - { label: 'Alternative text', name: 'alt', widget: 'string' }
           - label: 'Tagline'
             name: 'tagline'
             widget: 'object'

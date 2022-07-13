@@ -12,18 +12,39 @@ heroCallout:
     effectiveness.
   callToActionBtnText: Learn more
   callToActionUrl: /about-fehrm
-cardHighlights:
-  hide: false
-  displayEmpty: false
-  cards:
-    - heading: Exdent media
-      description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore possimus similique nemo odit doloremque laudantium?
-      button:
-        text: Learn more
-        url: /
-      cardImage:
-        image: 
-        alt: placeholder image
+highlightCards:
+  - heading: Sed venenatis diam a est imperdiet dignissim
+    description: Etiam eget porta justo. Integer sid convallis rhoncus massa, eget ullamcorper odio sagittis varius.
+    button:
+      text: Learn more
+      url: /
+    cardImage:
+      image: /images/1000w_q95-5-.jpg
+      alt: placeholder image
+  - heading: Fusce non dui sit amet sapien maximus
+    description: Etiam eget porta justo. Integer sid convallis rhoncus massa, eget ullamcorper odio sagittis varius.
+    button:
+      text: View report
+      url: /
+    cardImage:
+      image: /images/1000w_q95-5-.jpg
+      alt: placeholder image
+  - heading: Morbi egestas nunc risus, in rhoncus magna
+    description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore possimus similique nemo odit dolor.
+    button:
+      text: Learn more
+      url: /
+    cardImage:
+      image: /images/1000w_q95-5-.jpg
+      alt: placeholder image
+  - heading: Lorem egestas nunc risus, in rhoncus magna
+    description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore possimus similique nemo odit dolor.
+    button:
+      text: Learn more
+      url: /
+    cardImage:
+      image: /images/1000w_q95-5-.jpg
+      alt: placeholder image
 tagline:
   taglineHeadingText: '<p class="font-heading-xs margin-top-0
     tablet:margin-bottom-0 text-italic" style="color: #585859"> “At the heart of
