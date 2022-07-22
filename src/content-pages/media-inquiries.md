@@ -14,5 +14,3 @@ FEHRM Program Integration Director\
 Download the [FEHRM Fact Sheet](/images/fehrm-fact-sheet.pdf) or visit the [What Is the FEHRM](/about-fehrm) section of the [FEHRM website](/) for more information about the FEHRM.  
 
 See also the [Frequently Asked Questions](/faq) section of the [FEHRM website](/) for answers to common questions from the media. 
-
- [](<>)
