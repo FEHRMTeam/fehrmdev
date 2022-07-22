@@ -9,7 +9,7 @@ parent: For Patients
 
 *“Continuity of care helps us better know our patients right away. The faces may change for our patients every summer as they move to a new base or our doctors move to a new base, but the record system is continuous.* –  Pediatrician
 
-An electronic health record (EHR) is software that's used to securely document, store, retrieve, share and analyze information about individual patient care.[](#_ftn1) It enables a digital version of your health record. The Federal Electronic Health Record Modernization (FEHRM) office, along with other federal agencies, is implementing a single, common federal EHR to enhance patient care and provider effectiveness.
+An electronic health record (EHR) is software that's used to securely document, store, retrieve, share and analyze information about individual patient care. It enables a digital version of your health record. The Federal Electronic Health Record Modernization (FEHRM) office, along with other federal agencies, is implementing a single, common federal EHR to enhance patient care and provider effectiveness.
 
 The single, common federal EHR puts you at the center. A federal EHR means from the time you join the military through your care as a Veteran, your care will be documented in one, complete patient health record that your providers and you can access. This means you benefit:
 
