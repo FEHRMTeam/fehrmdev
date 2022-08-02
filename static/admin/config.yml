@@ -3,7 +3,7 @@ backend:
   repo: FEHRMTeam/fehrmdev
   base_url: https://federalistapp.18f.gov
   auth_endpoint: external/auth/github
-  branch: main
+  branch: homepage-cards ##change back to main when done testing
   preview_context: federalist/build
 
 media_folder: static/images

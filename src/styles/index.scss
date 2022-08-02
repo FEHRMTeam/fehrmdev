@@ -19,7 +19,7 @@ $theme-color-primary: #7A4383;
 $theme-color-primary-dark: #623669;
 $theme-color-primary-darker: #35034E;
 
-$theme-card-gap: 4;
+// $theme-card-gap: 4;
 
 @import '../../node_modules/uswds/dist/scss/uswds.scss';
 
@@ -166,7 +166,6 @@ $theme-card-gap: 4;
 }
 
 .usa-card__container {
-  border-width: 0px;
   background: #E5E1E6;
 }
 /* End Page Template */
