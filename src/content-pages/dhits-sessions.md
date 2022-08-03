@@ -1,7 +1,7 @@
 ---
 title: DHITS Sessions
 sidenav: true
-parent: events
+parent: Events/Conferences
 ---
 # DHITS Sessions
 
