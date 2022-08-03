@@ -5,7 +5,7 @@ parent: Events/Conferences
 ---
 # Defense Health Information Technology Symposium (DHITS) Sessions
 
-We are presenting and showcasing at the 2022 Defense Health Information Technology Symposium (DHITS). Come see us! 
+We are presenting and showcasing at the 2022 DHITS. Come see us!
 
 ## Presentations
 
