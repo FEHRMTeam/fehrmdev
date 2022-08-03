@@ -5,7 +5,7 @@ parent: Events/Conferences
 ---
 # Defense Health Information Technology Symposium (DHITS) Sessions
 
-We are presenting and showcasing at the 2022 DHITS. Come see us!
+We are presenting and showcasing at the 2022 DHITS. [Register for the 2022 DHITS on their website.](<register for the 2022 Defense Health Information Technology Symposium (DHITS): https://web.cvent.com/event/87e381cd-9ded-471b-b9d2-af8b44d1d361/summary>) Come see us!
 
 ## Presentations
 
@@ -66,3 +66,5 @@ A panel of FEHRM and DOD leaders will discuss the vision for data sharing betwee
 ## FEHRM Booth
 
 The FEHRM will also have a booth displaying handouts and showcasing the joint health information exchange and HealtheRegistries.
+
+[Don't forget to register on the 2022 DHITS website!](https://web.cvent.com/event/87e381cd-9ded-471b-b9d2-af8b44d1d361/summary)
