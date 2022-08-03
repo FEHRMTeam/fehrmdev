@@ -23,7 +23,7 @@ An interview with a DOD and VA beneficiary and leader who can speak to the first
 
 ### Unified Patient Experience: A Technical Perspective
 
-*Brian F Bertrand and Dr.0 Monica Farah-Stapleton*
+*Brian F Bertrand and Dr. Monica Farah-Stapleton*
 
 Discuss the patient portal of unified patient experience from the perspective of the federal EHR. Address technical options and controls to satisfy those requirements, and ensure a positive, secure patient experience when accessing their health.
 
