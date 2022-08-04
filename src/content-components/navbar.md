@@ -149,6 +149,10 @@ navMenuItems:
         linkType: internal
         linkUrl: /fehrm-town-hall
         newTab: false
+      - label: DHITS Sessions
+        linkType: internal
+        linkUrl: dhits-sessions
+        newTab: false
       - label: HIMSS
         linkType: internal
         linkUrl: /himss
