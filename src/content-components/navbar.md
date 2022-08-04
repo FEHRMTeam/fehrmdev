@@ -151,7 +151,7 @@ navMenuItems:
         newTab: false
       - label: DHITS Sessions
         linkType: internal
-        linkUrl: dhits-sessions
+        linkUrl: /dhits-sessions
         newTab: false
       - label: HIMSS
         linkType: internal
