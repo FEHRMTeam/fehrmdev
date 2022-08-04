@@ -5,21 +5,32 @@ parent: About
 ---
 # Frequently Asked Questions
 
+## FEHRM Overview
+
 * [What is the Federal Electronic Health Record Modernization office’s role in the electronic health record space?](#FEHRMRole)
 * [How is the Federal Electronic Health Record Modernization office different from the Interagency Program Office?](#FEHRMIPO)
 * [What is the Federal Electronic Health Record Modernization office’s level of authority?](#FEHRMAuthority)
 * [Why is a single, common federal electronic health record necessary?](#EHRNecessary)
 * [Who owns the patient health data in the electronic health record?](#PatientData)
+* [Are the Department of Defense, Department of Veterans Affairs and Department of Homeland Security’s U.S. Coast Guard using different electronic health records or one single, common electronic health record?](#SingleEHR)
+* [How is the Federal Electronic Health Record Modernization office partnering with the private sector/commercial partners to advance interoperability?](#PrivateSector)
+
+## FEHRM Future
+
 * [Will the Federal Electronic Health Record Modernization office collaborate with the Office of the National Coordinator for Health Information Technology and standards development organizations?](#ONC)
 * [What are the Federal Electronic Health Record Modernization office’s top priorities for the next year?](#FEHRMPriorities)
 * [What are some of the lessons learned to date with the federal electronic health record?](#LessonsLearned)
 * [Looking to the future, what does the Federal Electronic Health Record Modernization office see as a vision for using information technology to improve health care services?](#FEHRMVision)
 * [How can industry support the Federal Electronic Health Record Modernization office?](#IndustrySupport)
-* [Are the Department of Defense, Department of Veterans Affairs and Department of Homeland Security’s U.S. Coast Guard using different electronic health records or one single, common electronic health record?](#SingleEHR)
-* [How is the Federal Electronic Health Record Modernization office partnering with the private sector/commercial partners to advance interoperability?](#PrivateSector)
+
+## Joint Health Information Exchange (Joint HIE)
+
 * [What is the joint health information exchange?](#JointHIE)
 * [What information is shared through the joint health information exchange?](#JHIEInformation)
 * [What are the benefits of the joint health information exchange?](#JHIEBenefits)
+
+## COVID-19 Response
+
 * [How has the data gained from the federal electronic health record and joint health information exchange been used to enhance health care? How did it help in 2020 during the COVID-19 crisis?](#EHRData)
 * [Has COVID-19 impacted the Federal Electronic Health Record Modernization office's activities and the future of electronic health record modernization?](#COVID19Impact)
 
