@@ -34,6 +34,8 @@ parent: About
 * [How has the data gained from the federal electronic health record and joint health information exchange been used to enhance health care? How did it help in 2020 during the COVID-19 crisis?](#EHRData)
 * [Has COVID-19 impacted the Federal Electronic Health Record Modernization office's activities and the future of electronic health record modernization?](#COVID19Impact)
 
+## FEHRM Overview
+
 **<a name="FEHRMRole"></a>What is the Federal Electronic Health Record Modernization office’s role in the electronic health record space?**
 
 Chartered in December 2019, the Federal Electronic Health Record Modernization (FEHRM) office works within the federal space to implement a single, common federal electronic health record (EHR) that enhances patient care and provider effectiveness. The FEHRM unites efforts and delivers common capabilities that enable the Department of Defense (DOD), Department of Veterans Affairs (VA), Department of Homeland Security’s U.S. Coast Guard (USCG) and other federal agencies to deploy the federal EHR. Common capabilities refer to common solutions, tools and activities identified as needed to effectively deploy the federal EHR.
@@ -73,17 +75,31 @@ Having a federal EHR among DOD, VA and USCG puts patients at the center. It allo
 
 Patient data is owned by the patient. Patients have the right to access their personal health record. They retain control over their own health data.
 
+**<a name="SingleEHR"></a>Are the Department of Defense, Department of Veterans Affairs and Department of Homeland Security’s U.S. Coast Guard using different electronic health records or one single, common electronic health record?**
+
+The Departments are implementing the same single, common federal electronic health record (EHR). The Department of Defense (DOD) calls the federal EHR MHS GENESIS, while the Department of Veterans Affairs and Department of Homeland Security’s U.S. Coast Guard use other names for the federal EHR. However, they are deploying, using and updating the same federal EHR. If one Department adds new capabilities to the federal EHR, the other Departments have access to the same capabilities.
+
+**<a name="PrivateSector"></a>How is the Federal Electronic Health Record Modernization office partnering with the private sector/commercial partners to advance interoperability?**
+
+We rely heavily on community providers to provide health care to Service members, Veterans and their families. In April 2020, the Federal Electronic Health Record Modernization office launched the joint health information exchange to enhance data sharing between the Department of Defense, Department of Veterans Affairs, Department of Homeland Security’s U.S. Coast Guard and community providers.
+
+COVID-19 showed us how important such efficient electronic health information sharing is for clinicians on the front lines. The more information they have about their patients, the better they can meet their needs.
+
+We also work closely with federal and standards organizations and private sector partners to advance interoperability standards that enable the exchange of information across all sectors of industry and government.
+
+## FEHRM Future
+
 **<a name="ONC"></a>Will the Federal Electronic Health Record Modernization office collaborate with the Office of the National Coordinator for Health Information Technology and standards development organizations?**
 
 Yes, the Federal Electronic Health Record Modernization office engages with federal and national standards organizations, including the Office of the National Coordinator for Health Information Technology, and private sector partners to advance interoperability standards that enable the exchange of information across all sectors of the industry and government, a key driver to effective transformation. This effort improves the continuity of care among and between public and private sector providers.
 
-**<a name="FEHRMPriorities"></a>What are the Federal Electronic Health Record Modernization office’s top priorities for the next year?** 
+**<a name="FEHRMPriorities"></a>What are the Federal Electronic Health Record Modernization office’s top priorities for the next year?**
 
-Some of our top priorities include operationalizing the Federal Electronic Health Record Modernization (FEHRM) office and focusing on convergence. 
+Some of our top priorities include operationalizing the Federal Electronic Health Record Modernization (FEHRM) office and focusing on convergence.
 
-We are operationalizing the FEHRM by evolving the FEHRM to become the single provider of the federal electronic health record (EHR), providing a common set of capabilities across the health care industry. 
+We are operationalizing the FEHRM by evolving the FEHRM to become the single provider of the federal electronic health record (EHR), providing a common set of capabilities across the health care industry.
 
-We focus on convergence by figuring out how to converge EHR workflows and configurations to streamline the patient experience. While the Department of Defense (DOD), Department of Veterans Affairs (VA) and Department of Homeland Security's U.S. Coast Guard (USCG) have unique clinical and business issues that differ based on their missions, the FEHRM is focused on converging DOD, VA and USCG clinical and business capabilities where appropriate. The FEHRM overseas configuration and content changes to the federal EHR that are agreed on by the Departments through a joint decision-making process facilitated by the FEHRM. The goal is that DOD, VA and USCG providers in the same roles will have a common user experience with the federal EHR defined by evidence-based best practice. Providers won't need to relearn things depending on where they provide care. From the patient perspective, this means health care will be delivered the same way regardless of where they get care. They have a consistent patient care experience. Convergence ultimately helps us enable more standard workflows and practices to enhance clinical decision-making and health care. Workflows are the series of tasks required to complete a health care function (for example, ordering a medication). Standard workflows are considered best practices because they guidance compliance with clinical best care guidelines. Convergence helps us determine the best workflow solutions that are safe, effective and efficient. 
+We focus on convergence by figuring out how to converge EHR workflows and configurations to streamline the patient experience. While the Department of Defense (DOD), Department of Veterans Affairs (VA) and Department of Homeland Security's U.S. Coast Guard (USCG) have unique clinical and business issues that differ based on their missions, the FEHRM is focused on converging DOD, VA and USCG clinical and business capabilities where appropriate. The FEHRM overseas configuration and content changes to the federal EHR that are agreed on by the Departments through a joint decision-making process facilitated by the FEHRM. The goal is that DOD, VA and USCG providers in the same roles will have a common user experience with the federal EHR defined by evidence-based best practice. Providers won't need to relearn things depending on where they provide care. From the patient perspective, this means health care will be delivered the same way regardless of where they get care. They have a consistent patient care experience. Convergence ultimately helps us enable more standard workflows and practices to enhance clinical decision-making and health care. Workflows are the series of tasks required to complete a health care function (for example, ordering a medication). Standard workflows are considered best practices because they guidance compliance with clinical best care guidelines. Convergence helps us determine the best workflow solutions that are safe, effective and efficient.
 
 We are also prioritizing joint sharing sites, which are sites where DOD and VA resources (like staff and facilities) are shared. Leading the deployment of the EHR joint sharing sites, the FEHRM has the potential to enable the DOD and VA health care systems to work together in new ways to deliver health care to Service members, Veterans and their families.
 
@@ -113,7 +129,7 @@ We are energized and excited to continue to work with our federal, community and
 
 We continue to look to industry for partnerships, for relationships that can help us shape our path moving forward. We highly value the innovative ideas vendors bring to the table, and we rely on those steadfast partnerships, such as those with the Leidos Partnership for Defense Health for the Department of Defense and that we see between the Department of Veterans Affairs and Cerner.
 
-There are a lot of other relationships and partnerships being developed as we look toward new technologies and available capabilities
+There are a lot of other relationships and partnerships being developed as we look toward new technologies and available capabilities.
 
 In navigating the future, we look for innovative ideas for improving the patient experience and enhancing the quality of care delivery during this time. For example, how do we implement the EHR and train end users with the social distancing precautions in place during the pandemic? Or, how do we deliver technology at the frontlines of care—whether it’s in theater, in rural America or while a patient is being transported?
 
@@ -121,17 +137,7 @@ Also, the federal electronic health record and joint health information exchange
 
 When we are all focused on delivering high-quality care seamlessly as patients move from one delivery system to another, innovation, integrating new capabilities through expanded partnerships and collaboration will move us ahead.
 
-**<a name="SingleEHR"></a>Are the Department of Defense, Department of Veterans Affairs and Department of Homeland Security’s U.S. Coast Guard using different electronic health records or one single, common electronic health record?**
-
-The Departments are implementing the same single, common federal electronic health record (EHR). The Department of Defense (DOD) calls the federal EHR MHS GENESIS, while the Department of Veterans Affairs and Department of Homeland Security’s U.S. Coast Guard use other names for the federal EHR. However, they are deploying, using and updating the same federal EHR. If one Department adds new capabilities to the federal EHR, the other Departments have access to the same capabilities.
-
-**<a name="PrivateSector"></a>How is the Federal Electronic Health Record Modernization office partnering with the private sector/commercial partners to advance interoperability?**
-
-We rely heavily on community providers to provide health care to Service members, Veterans and their families. In April 2020, the Federal Electronic Health Record Modernization office launched the joint health information exchange to enhance data sharing between the Department of Defense, Department of Veterans Affairs, Department of Homeland Security’s U.S. Coast Guard and community providers.
-
-COVID-19 showed us how important such efficient electronic health information sharing is for clinicians on the front lines. The more information they have about their patients, the better they can meet their needs.
-
-We also work closely with federal and standards organizations and private sector partners to advance interoperability standards that enable the exchange of information across all sectors of industry and government. 
+## Joint Health Information Exchange (Joint HIE)
 
 **<a name="JointHIE"></a>What is the joint health information exchange?**
 
@@ -162,6 +168,8 @@ By combining DOD and VA’s individual HIEs into a single joint HIE, we signific
 Our recent expansion to include the CommonWell Health Alliance in our joint HIE brings a nationwide network of 15,000-plus hospitals and clinics to the 46,000-plus community partners already part of the joint HIE.
 
 This means our providers have access to even more information about their patients to make the best care decisions. Learn more about the benefits of the joint HIE to [providers](/join-the-joint-hie) and to [patients](/learn-about-the-joint-hie).
+
+## COVID-19 Response
 
 **<a name="EHRData"></a>How has the data gained from the federal electronic health record and joint health information exchange been used to enhance health care? How did it help in 2020 during the COVID-19 crisis?**
 
