@@ -45,3 +45,6 @@ parent: About
   * [Federal EHR Annual Summit](/federal-ehr-annual-summit)
   * [FEHRM Industry Roundtable](/fehrm-industry-interoperability-roundtable) 
   * [FEHRM Town Hall](/fehrm-town-hall)
+  * [DHITS Sessions](/dhits-sessions)
+  * [HIMSS](/himss)
+  * [HL7 Government Birds of a Feather](/hl7-government-birds-of-a-feather)
