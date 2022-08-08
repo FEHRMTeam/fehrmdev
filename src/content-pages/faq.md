@@ -23,7 +23,7 @@ parent: About
 * [Looking to the future, what does the Federal Electronic Health Record Modernization office see as a vision for using information technology to improve health care services?](#FEHRMVision)
 * [How can industry support the Federal Electronic Health Record Modernization office?](#IndustrySupport)
 
-## Joint Health Information Exchange (Joint HIE)
+## Joint Health Information Exchange
 
 * [What is the joint health information exchange?](#JointHIE)
 * [What information is shared through the joint health information exchange?](#JHIEInformation)
@@ -137,7 +137,7 @@ Also, the federal electronic health record and joint health information exchange
 
 When we are all focused on delivering high-quality care seamlessly as patients move from one delivery system to another, innovation, integrating new capabilities through expanded partnerships and collaboration will move us ahead.
 
-## Joint Health Information Exchange (Joint HIE)
+## Joint Health Information Exchange
 
 **<a name="JointHIE"></a>What is the joint health information exchange?**
 
