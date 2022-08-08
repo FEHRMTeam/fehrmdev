@@ -5,7 +5,7 @@ parent: Events/Conferences
 ---
 # Defense Health Information Technology Symposium (DHITS) Sessions
 
-We are presenting and showcasing at the 2022 Defense Health Information Technology Symposium (DHITS). Come see us! [Register for the 2022 DHITS on their website.](<register for the 2022 Defense Health Information Technology Symposium (DHITS): https://web.cvent.com/event/87e381cd-9ded-471b-b9d2-af8b44d1d361/summary>)
+We are presenting and showcasing at the 2022 Defense Health Information Technology Symposium (DHITS). Come see us! [Register for the 2022 DHITS on their website.](https://web.cvent.com/event/87e381cd-9ded-471b-b9d2-af8b44d1d361/summary)
 
 ## Presentations
 
@@ -23,11 +23,11 @@ An interview with a DOD and VA beneficiary and leader who can speak to the first
 
 ### Unified Patient Experience: A Technical Perspective
 
-*Brian F Bertrand and Dr. Monica Farah-Stapleton*
+*Brian F Bertrand and Lance Scott*
 
 Discuss the patient portal of unified patient experience from the perspective of the federal EHR. Address technical options and controls to satisfy those requirements, and ensure a positive, secure patient experience when accessing their health.
 
-### Managing Cyber Risk for the Federal EHR
+### Federal EHR - Cybersecurity and the Way Ahead
 
 *Rogelio Raymond and Jeffrey Eyink*
 
@@ -35,7 +35,7 @@ Discuss how the FEHRM, DOD, VA and USCG are mitigating risk to the federal EHR t
 
 ### Environmental and Occupational Exposures: Using Data to Understand their Clinical Effects
 
-*Dr. Norman Stone, Steven Jones, Dr. Eric Shuping and Devon Matthew*
+*Dr. Norman Stone, Steven Jones, Dr. John Barrett and Devon Matthew*
 
 Developing electronic exposure-related reports has been challenging due to disparate information systems, paper records and electronic records. With advances in technology and access to data, ILER compiles, distills and presents relevant exposure data specific to an individual based on location, date and time. This session will demonstrate how ILER can inform clinical decision-making and advance research for individuals with toxic exposures.
 
@@ -55,11 +55,11 @@ This joint panel will focus on EIDS, FEHRM and JOMIS collaborative efforts highl
 
 *John Dempsey, Dr. James Ellzy, LtCol Peter Easter and Lance Scott*
 
-Take a look at DHA's strategy for expanding Enterprise Clinical Registries via HealtheIntent (HeI) deriving meaningful clinical relationships and improved outcomes. We will discuss the active clinical registries, current plans to consolidate within MHS GENESIS, future state clinician workflows and prioritization of new Enterprise Registries investments. Our HeI focus is how research, cross domain condition commonalities and scoring will catalyze change.
+Take a look at DHA's strategy for expanding Enterprise Clinical Registries via HealtheIntent (HeI) to derive meaningful clinical relationships and improve outcomes. We will discuss the active clinical registries, current plans to consolidate within MHS GENESIS, future state clinician workflows and prioritization of new Enterprise Registries investments. Our HeI focus is how research, cross domain condition commonalities and scoring will catalyze change.
 
 ### Interoperability: A Global Perspective
 
-*Dr. Monica Farah-Stapleton, Lance Scott, Chris Nichols and Crystal Baum*
+*Lance Scott, Chris Nichols and Crystal Baum*
 
 A panel of FEHRM and DOD leaders will discuss the vision for data sharing between the federal health care system and community partners. They will provide an update on achieving and independently assessing interoperability across this ecosystem including expanding joint HIE; reporting immunization data; and enhancing patient and population health management through HealtheRegistries, natural language processing and large scale bio-surveillance.
 
