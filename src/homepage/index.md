@@ -14,7 +14,7 @@ heroCallout:
   callToActionUrl: /about-fehrm
 highlightCards:
   - heading: Join Us At DHITS 
-    description: We are presenting and showcasing at the 2022 Defense Health Information Technology Symposium (DHITS). Come see us!
+    description: We are presenting and showcasing at the 2022 Defense Health Information Technology Symposium (DHITS).
     button:
       text: Learn more
       url: /
@@ -22,7 +22,7 @@ highlightCards:
       image: /images/DHITS-homepage.png
       alt: Snapshot of the 2022 Defense Health Information Technology Symposium (DHITS) homepage. 
   - heading: Federal EHR Deployment
-    description: We are deploying the federal EHR at a fully integrated joint sharing site that will lead the way for health care.
+    description: We are deploying the federal EHR at a joint sharing site that will lead the way for health care.
     button:
       text: Learn more
       url: /faq
