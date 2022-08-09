@@ -3,6 +3,22 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - publicationDate: July 21, 2022
+    label: VA Addresses Next Steps in EHR Rollouts
+    linkUrl: https://governmentciomedia.com/va-addresses-next-steps-ehr-rollouts
+    publisher: GovCIO Media & Research
+  - publicationDate: July 5, 2022
+    label: POTUS Signs Trio of Bills into Law Concerning Cybersecurity
+    linkUrl: https://fedmanager.com/news/potus-signs-trio-of-bills-into-law-concerning-cybersecurity
+    publisher: FedManager
+  - publicationDate: June 15, 2022
+    linkUrl: https://ehrintelligence.com/news/oracles-cerner-acquisition-set-to-transform-ehr-usability
+    label: Oracle’s Cerner Acquisition Set to Transform EHR Usability
+    publisher: EHR Intelligence
+  - publicationDate: June 1, 2022
+    label: Joint Health Information Exchange Allows Access to Vital Information
+    linkUrl: https://www.health.mil/News/Articles/2022/06/01/Joint-Health-Information-Exchange-Allows-Access-to-Vital-Information
+    publisher: Health.mil
   - label: VA Touts “Tech as a Service” for Its Modernization Programs
     linkUrl: https://governmentciomedia.com/va-touts-tech-service-its-modernization-programs
     publisher: GovCIO Media & Research
