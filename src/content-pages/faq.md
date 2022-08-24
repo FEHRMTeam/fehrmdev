@@ -34,6 +34,21 @@ parent: About
 * [How has the data gained from the federal electronic health record and joint health information exchange been used to enhance health care? How did it help in 2020 during the COVID-19 crisis?](#EHRData)
 * [Has COVID-19 impacted the Federal Electronic Health Record Modernization office's activities and the future of electronic health record modernization?](#COVID19Impact)
 
+## FHCC Overview
+
+* [What is the Captain James A. Lovell Federal Health Care Center?](#FHCC)
+* [Who are FHCC’s beneficiaries?](#FHCCBeneficiaries)
+* [What’s the history behind the development of FHCC?](#FHCCHistory)
+* [What is FHCC’s reporting structure?](#FHCCReporting)
+* [How is the FHCC facility structured?](#FHCCFacility)
+
+## FHCC EHR Implementation
+
+* [Who is involved with the deployment of the federal EHR at FHCC?](#FHCCDeploy)
+* [What is the timeline for federal EHR deployment at FHCC? Where are things now and what’s next?](#FHCCTimeline)
+* [How will deploying the federal EHR at FHCC lead the way for other health care systems?](#FHCCLeadWay)
+* [What are the benefits of the FHCC federal EHR implementation?](#FHCCBenefits)
+
 ## FEHRM Overview
 
 **<a name="FEHRMRole"></a>What is the Federal Electronic Health Record Modernization office’s role in the electronic health record space?**
@@ -194,3 +209,71 @@ So, we have not slowed down our progress with EHR modernization during the pande
 As for how it has impacted the future of EHR modernization, COVID-19 demonstrated virtual health as a priority. In response, the FEHRM pivoted toward accelerating the adoption of tools, platforms and joint capabilities to deliver telemedicine solutions that meet the operational requirements driven by the pandemic. For example, the FEHRM is leveraging VA’s patient-facing video platform to develop a parallel platform for DOD.
 
 Moving forward, there are many opportunities to understand and think about the impact of the new normal of health care delivery and how the EHR and information technology capabilities the FEHRM delivers can support the new normal.
+
+## FHCC Overview
+
+**<a name="FHCC"></a>What is the Captain James A. Lovell Federal Health Care Center?**
+
+The Captain James A. Lovell Federal Health Care Center (FHCC) is a first-of-its-kind partnership between the Department of Defense (DOD) and Department of Veterans Affairs (VA). It’s a fully integrated federal health care center that serves both DOD and VA patient populations. Located in North Chicago, Illinois, FHCC was established in October 2010 to provide health care to Service members, Veterans and other beneficiaries.
+
+FHCC shares medical and non-medical services and operates via fully integrated DOD/VA medical personnel and leadership team. Now known as legacy interoperability capabilities, DOD and VA implemented functionalities enabling joint patient registration and orders portability for laboratory results and consultations; one medical staff with single departments; single systems such as human resources, finance, performance measures, workload and personnel; and one local budget.
+
+FHCC provides eligible beneficiaries with a single check-in process and standardized patient care. FHCC provides a full spectrum of health care for patients, including full medical and surgical care, a large array of medical sub-specialties, a variety of mental health services, a Community Living Center and many other programs.
+
+FHCC’s information technology and information management teams safely interface DOD and VA health information technology systems to support an integrated facility.
+
+**<a name="FHCCBeneficiaries"></a>Who are FHCC’s beneficiaries?**
+
+FHCC provides health care to 90,000 patients per year, including Service members, Veterans and other beneficiaries throughout northern Illinois and southeastern Wisconsin. FHCC ensures the nearly 50,000 Navy recruits who transition through Naval Station Great Lakes each year are medically ready.
+
+**<a name="FHCCHistory"></a>What’s the history behind the development of FHCC?**
+
+In May 2005, the DOD/VA Health Executive Council signed an agreement to integrate the North Chicago VA Medical Center and the Naval Health Clinic Great Lakes, establishing FHCC. The two facilities merged and became FHCC in October 2010. In 2014, the Defense Medical Information Exchange Program Management Office and VA Office of Information and Technology assumed FHCC management roles and responsibilities. In March 2016, DOD and VA recommended, and Congress concurred with, the continuation of FHCC as a demonstration of an integrated facility, focusing on implementation and improvements.
+
+**<a name="FHCCReporting"></a>What is FHCC’s reporting structure?**
+
+FHCC operates under an integrated governance structure and a single line of authority to manage DOD and VA medical and dental care, while continuing to meet the unique missions of both Departments. A senior VA official serves as the FHCC Director with a Navy Deputy who has management authority over all military-related activities to ensure complete operational readiness. An advisory board of senior DOD and VA representatives oversees FHCC operations, providing input and monitoring performance as an integrated facility. Currently, FHCC reports to Veteran Integrated Service Networks (VISN) as a VA facility, to the Navy as a military medical treatment facility and to the FHCC Advisory Board, DOD/VA Health Executive Committee and Joint Executive Committee.
+
+**<a name="FHCCFacility"></a>How is the FHCC facility structured?**
+
+FHCC consists of the East Campus and the West Campus. The East Campus hosts the Navy Recruit Training Command and provides care to active-duty Navy personnel and recruits. The West Campus provides a full spectrum of health care for both DOD and VA patients, including full medical and surgical care, medical sub-specialties, mental health services and many other programs.
+
+## FHCC EHR Implementation
+
+**<a name="FHCCDeploy"></a>Who is involved with the deployment of the federal EHR at FHCC?**
+
+The deployment of the single, common federal EHR at FHCC is led by the FEHRM in collaboration with the DOD Healthcare Management Systems Modernization (DHMSM) Program Management Office, VA’s Electronic Health Record Modernization Integration Office and FHCC stakeholders. The resulting EHR will be a true federal EHR, not a DOD system nor a VA system.
+
+**<a name="FHCCTimeline"></a>What is the timeline for federal EHR deployment at FHCC? Where are things now and what’s next?**
+
+The deployment of the federal EHR at FHCC was previously scheduled asynchronously, meaning DOD and VA users would go live with the EHR at different times. The asynchronous deployment approach posed a high risk of disrupting the integrated operations at FHCC. Potential risks included severely impairing existing shared services, jeopardizing patient safety and increasing costs to the Departments for delivery of care.
+
+In November 2019, at FHCC’s request, the FEHRM committed to a joint site engagement to assess the risk. In September 2020, the FEHRM, with various DOD, VA and vendor stakeholders, conducted a site engagement during which there was consensus for a synchronous deployment approach. By conducting a synchronous deployment, the Departments can realize cost-savings by reducing the duplicate work of two deployment efforts and mitigate the risks introduced through an asynchronous deployment at this fully integrated site. Through collaboration led by the FEHRM, the team agreed to use the DHMSM contract vehicle to deliver the federal EHR.
+
+The synchronous deployment of the federal EHR at FHCC is following a phased approach: 
+
+* **Phase 0:** Planning
+* **Phase 1:** Assessment and Design Concept
+* **Phase 2:** Configure, Test
+* **Phase 3:** Deployment, Activation and Sustainment
+
+Currently in Phase 1, the multi-agency team completed a comprehensive end-to-end assessment at FHCC focused on gathering current state clinical and business process workflows. Now, the team is executing the FHCC Enterprise Requirements Adjudication (ERA) process. The ERA process is a thorough, high-impact decision-making process focused on DOD and VA requirements and deployment approach, where discrepancies exist. The ERA process deconflicts the build between DOD and VA, leverages existing governance boards and drives toward convergence. The ERA process is defining the design of the federal EHR for implementation at FHCC and the approach for the deployment.
+
+Outputs of the end-to-end assessment and the ERA process will inform the FHCC Implementation Plan, which will include milestones and timelines for the deployment. Once the FHCC Implementation Plan is finalized, the FEHRM will lead discussions between senior Department leadership to assess the projected FHCC go-live timing with DOD wave and VA VISN deployment timelines.
+
+**<a name="FHCCLeadWay"></a>How will deploying the federal EHR at FHCC lead the way for other health care systems?**
+
+FHCC is a perfect example of true jointness. The deployment of the federal EHR at FHCC will lead the way for how two large health care systems work together to make the best care decisions without technology being a barrier. The FEHRM will converge configurations, where appropriate, to integrate processes and harmonize workflows between DOD and VA as part of deploying the federal EHR at FHCC. By ensuring the Departments can work together as a single unit, FHCC becomes a model for how we can do this across DOD, VA and the broader federal enterprise to ensure seamless care for patients. It will help simplify our ability to work together and how the Departments can be engaged with each other. This work will evolve the federal EHR baseline to better serve providers and patients across the federal government. Ultimately, FHCC will serve as a prototype for how different health care systems can work together in new ways to deliver care to their patients.
+
+**<a name="FHCCBenefits"></a>What are the benefits of the FHCC federal EHR implementation?**
+
+Implementation of the federal EHR at FHCC benefits providers, patients and the broader health care enterprise in the following ways:
+
+* Enhances the federal EHR baseline to better serve patients and providers across the federal government
+* Converges configurations, workflows, terminology and content, where appropriate, between DOD and VA to improve clinical decision-making
+* Documents lessons learned and provides a roadmap for future federal EHR deployments and troubleshooting, especially at joint sharing sites where care is integrated
+* Standardizes user roles, forms and configuration variations between DOD and VA, where appropriate
+* Models how large health care systems can leverage technology to drive the best health care decisions
+* Allows for the test and evaluation of meaningful exchange and use of data between DOD, VA and other health care systems, as required by the National Defense Authorization Act for Fiscal Year 2020
+
+Ultimately, FHCC leads the way for future federal EHR deployments and improving patient care and the end-user experience.
