@@ -42,6 +42,12 @@ parent: About
 * [What is FHCC’s reporting structure?](#FHCCReporting)
 * [How is the FHCC facility structured?](#FHCCFacility)
 
+## FHCC EHR Implementation
+
+* [Who is involved with the deployment of the federal EHR at FHCC?](#FHCCDeploy)
+* [What is the timeline for federal EHR deployment at FHCC? Where are things now and what’s next?](#FHCCTimeline)
+* [How will deploying the federal EHR at FHCC lead the way for other health care systems?](#FHCCLeadWay)
+* [What are the benefits of the FHCC federal EHR implementation?](#FHCCBenefits)
 
 ## FEHRM Overview
 
@@ -231,3 +237,43 @@ FHCC operates under an integrated governance structure and a single line of auth
 **<a name="FHCCFacility"></a>How is the FHCC facility structured?**
 
 FHCC consists of the East Campus and the West Campus. The East Campus hosts the Navy Recruit Training Command and provides care to active-duty Navy personnel and recruits. The West Campus provides a full spectrum of health care for both DOD and VA patients, including full medical and surgical care, medical sub-specialties, mental health services and many other programs.
+
+## FHCC EHR Implementation
+
+**<a name="FHCCDeploy"></a>Who is involved with the deployment of the federal EHR at FHCC?**
+
+The deployment of the single, common federal EHR at FHCC is led by the FEHRM in collaboration with the DOD Healthcare Management Systems Modernization (DHMSM) Program Management Office, VA’s Electronic Health Record Modernization Integration Office and FHCC stakeholders. The resulting EHR will be a true federal EHR, not a DOD system nor a VA system.
+
+**<a name="FHCCTimeline"></a>What is the timeline for federal EHR deployment at FHCC? Where are things now and what’s next?**
+
+The deployment of the federal EHR at FHCC was previously scheduled asynchronously, meaning DOD and VA users would go live with the EHR at different times. The asynchronous deployment approach posed a high risk of disrupting the integrated operations at FHCC. Potential risks included severely impairing existing shared services, jeopardizing patient safety and increasing costs to the Departments for delivery of care.
+
+In November 2019, at FHCC’s request, the FEHRM committed to a joint site engagement to assess the risk. In September 2020, the FEHRM, with various DOD, VA and vendor stakeholders, conducted a site engagement during which there was consensus for a synchronous deployment approach. By conducting a synchronous deployment, the Departments can realize cost-savings by reducing the duplicate work of two deployment efforts and mitigate the risks introduced through an asynchronous deployment at this fully integrated site. Through collaboration led by the FEHRM, the team agreed to use the DHMSM contract vehicle to deliver the federal EHR.
+
+The synchronous deployment of the federal EHR at FHCC is following a phased approach: 
+
+* **Phase 0:** Planning
+* **Phase 1:** Assessment and Design Concept
+* **Phase 2:** Configure, Test
+* **Phase 3:** Deployment, Activation and Sustainment
+
+Currently in Phase 1, the multi-agency team completed a comprehensive end-to-end assessment at FHCC focused on gathering current state clinical and business process workflows. Now, the team is executing the FHCC Enterprise Requirements Adjudication (ERA) process. The ERA process is a thorough, high-impact decision-making process focused on DOD and VA requirements and deployment approach, where discrepancies exist. The ERA process deconflicts the build between DOD and VA, leverages existing governance boards and drives toward convergence. The ERA process is defining the design of the federal EHR for implementation at FHCC and the approach for the deployment.
+
+Outputs of the end-to-end assessment and the ERA process will inform the FHCC Implementation Plan, which will include milestones and timelines for the deployment. Once the FHCC Implementation Plan is finalized, the FEHRM will lead discussions between senior Department leadership to assess the projected FHCC go-live timing with DOD wave and VA VISN deployment timelines.
+
+**<a name="FHCCLeadWay"></a>How will deploying the federal EHR at FHCC lead the way for other health care systems?**
+
+FHCC is a perfect example of true jointness. The deployment of the federal EHR at FHCC will lead the way for how two large health care systems work together to make the best care decisions without technology being a barrier. The FEHRM will converge configurations, where appropriate, to integrate processes and harmonize workflows between DOD and VA as part of deploying the federal EHR at FHCC. By ensuring the Departments can work together as a single unit, FHCC becomes a model for how we can do this across DOD, VA and the broader federal enterprise to ensure seamless care for patients. It will help simplify our ability to work together and how the Departments can be engaged with each other. This work will evolve the federal EHR baseline to better serve providers and patients across the federal government. Ultimately, FHCC will serve as a prototype for how different health care systems can work together in new ways to deliver care to their patients.
+
+**<a name="FHCCBenefits"></a>What are the benefits of the FHCC federal EHR implementation?**
+
+Implementation of the federal EHR at FHCC benefits providers, patients and the broader health care enterprise in the following ways:
+
+* Enhances the federal EHR baseline to better serve patients and providers across the federal government
+* Converges configurations, workflows, terminology and content, where appropriate, between DOD and VA to improve clinical decision-making
+* Documents lessons learned and provides a roadmap for future federal EHR deployments and troubleshooting, especially at joint sharing sites where care is integrated
+* Standardizes user roles, forms and configuration variations between DOD and VA, where appropriate
+* Models how large health care systems can leverage technology to drive the best health care decisions
+* Allows for the test and evaluation of meaningful exchange and use of data between DOD, VA and other health care systems, as required by the National Defense Authorization Act for Fiscal Year 2020
+
+Ultimately, FHCC leads the way for future federal EHR deployments and improving patient care and the end-user experience.
