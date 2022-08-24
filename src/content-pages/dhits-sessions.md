@@ -13,7 +13,7 @@ We presented and showcased at the 2022 Defense Health Information Technology Sym
 
 *Bill Tinston, Holly Joers and Dr. Leslie Sofocleous*
 
-The FEHRM is leading the DOD, VA and U.S. Coast Guard in implementing a single, common federal EHR that enhances patient care and provider effectiveness, wherever care is provided. A panel of FEHRM, DOD, VA and USCG leaders will talk about this federal journey toward EHR modernization including getting to convergence on shared EHR configurations; implementing joint data and security standards; and driving other joint federal solutions.
+The FEHRM is leading the DOD, VA and U.S. Coast Guard in implementing a single, common federal EHR that enhances patient care and provider effectiveness, wherever care is provided. A panel of FEHRM, DOD, VA and USCG leaders talked about this federal journey toward EHR modernization including getting to convergence on shared EHR configurations; implementing joint data and security standards; and driving other joint federal solutions.
 
 ### Plenary – Mr. John Windom
 
@@ -25,7 +25,7 @@ An interview with a DOD and VA beneficiary and leader who can speak to the first
 
 *Brian F Bertrand and Lance Scott*
 
-Discussed the patient portal of unified patient experience from the perspective of the federal EHR. Address technical options and controls to satisfy those requirements, and ensure a positive, secure patient experience when accessing their health.
+Discussed the patient portal of unified patient experience from the perspective of the federal EHR. Addressed technical options and controls to satisfy those requirements, and ensure a positive, secure patient experience when accessing their health.
 
 ### Federal EHR - Cybersecurity and the Way Ahead
 
