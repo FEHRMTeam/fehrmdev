@@ -19,6 +19,8 @@ $theme-color-primary: #7A4383;
 $theme-color-primary-dark: #623669;
 $theme-color-primary-darker: #35034E;
 
+// $theme-card-gap: 4;
+
 @import '../../node_modules/uswds/dist/scss/uswds.scss';
 
 // Your custom SASS/CSS goes here
@@ -161,6 +163,10 @@ $theme-color-primary-darker: #35034E;
   width: 150px;
   float: left;
   margin-right: 25px;
+}
+
+.usa-card__container {
+  background: #E5E1E6;
 }
 /* End Page Template */
 

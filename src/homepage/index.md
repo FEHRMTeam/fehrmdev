@@ -12,6 +12,31 @@ heroCallout:
     effectiveness.
   callToActionBtnText: Learn more
   callToActionUrl: /about-fehrm
+highlightCards:
+  - heading: We Were at DHITS
+    description: We presented at the 2022 Defense Health Information Technology Symposium (DHITS).
+    button:
+      text: Learn more
+      url: /dhits-sessions
+    cardImage:
+      image: /images/DHITS-homepage.png
+      alt: Snapshot of the 2022 Defense Health Information Technology Symposium (DHITS) homepage.
+  - heading: Federal EHR Deployment
+    description: We are deploying the federal EHR at a joint sharing site that will lead the way for health care.
+    button:
+      text: Learn more
+      url: /faq
+    cardImage:
+      image: /images/FHCC.png
+      alt: Snapshot of the FHCC.
+  - heading: Follow Us on LinkedIn
+    description: Join our LinkedIn page to receive updates on the federal EHR and our activities.
+    button:
+      text: Follow us
+      url: https://www.linkedin.com/company/fehrm/
+    cardImage:
+      image: /images/FEHRM-LinkedIn-Page.png
+      alt: Snapshot of the FEHRM's LinkedIn page.
 tagline:
   taglineHeadingText: '<p class="font-heading-xs margin-top-0
     tablet:margin-bottom-0 text-italic" style="color: #585859"> “At the heart of

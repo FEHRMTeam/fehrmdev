@@ -6,6 +6,7 @@ import SEO from '../components/seo';
 import Hero from '../components/hero';
 import Tagline from '../components/tagline';
 import Highlights from '../components/highlights';
+import Cards from '../components/cards';
 
 /*
   This template is for the home page and allowing content creators to manage it from the CMS
@@ -21,6 +22,8 @@ const IndexPage = ({ data }) => {
       <SEO title={frontmatter.title} />
       <main id="main-content">
         <Hero heroCallout={frontmatter.heroCallout} />
+        <Cards cardsContent={frontmatter.highlightCards} />
+        {console.log(frontmatter.highlightCards)}
         <Tagline taglineContent={frontmatter.tagline} />
         <Highlights callToActions={frontmatter.callToActions} />
       </main>
@@ -48,6 +51,18 @@ export const indexQuery = graphql`
           calloutSupportText
           callToActionBtnText
           callToActionUrl
+        }
+        highlightCards {
+          description
+          heading
+          button {
+            text
+            url
+          }
+          cardImage {
+            image
+            alt
+          }
         }
         tagline {
           taglineHeadingText

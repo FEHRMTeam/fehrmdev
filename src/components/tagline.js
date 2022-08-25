@@ -5,7 +5,7 @@ import React from 'react';
 */
 
 const Tagline = ({ taglineContent }) => (
-  <section className="grid-container usa-section usa-prose">
+  <section className="grid-container usa-section usa-prose padding-top-3">
     <div className="grid-row grid-gap">
       <aside className="tablet:grid-col-4">
         <div dangerouslySetInnerHTML={{ __html: taglineContent.taglineHeadingText }}></div>
