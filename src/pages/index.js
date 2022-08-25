@@ -23,7 +23,6 @@ const IndexPage = ({ data }) => {
       <main id="main-content">
         <Hero heroCallout={frontmatter.heroCallout} />
         <Cards cardsContent={frontmatter.highlightCards} />
-        {console.log(frontmatter.highlightCards)}
         <Tagline taglineContent={frontmatter.tagline} />
         <Highlights callToActions={frontmatter.callToActions} />
       </main>
