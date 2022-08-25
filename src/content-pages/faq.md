@@ -210,7 +210,7 @@ As for how it has impacted the future of EHR modernization, COVID-19 demonstrate
 
 Moving forward, there are many opportunities to understand and think about the impact of the new normal of health care delivery and how the EHR and information technology capabilities the FEHRM delivers can support the new normal.
 
-## FHCC Overview
+## <a name="FHCCOverview"></a>FHCC Overview
 
 **<a name="FHCC"></a>What is the Captain James A. Lovell Federal Health Care Center?**
 
