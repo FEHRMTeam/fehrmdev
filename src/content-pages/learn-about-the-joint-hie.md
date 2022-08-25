@@ -25,7 +25,7 @@ Opting out of health information exchange is a two-part process. Patients need t
   * Private sector providers have varied rules regarding HIE program participation, as guided by state law. Patients should contact their civilian provider(s) to learn how to opt out of their HIE process.
 * **Veterans**
 
-  * Complete and submit [VA Form 10-10164](https://www.va.gov/vaforms/form_detail.asp?FormNo=10164) to their facility’s Release of Information Office or submit this form online via [My Health*e*Vet.](https://www.myhealth.va.gov/mhv-portal-web/home)
+  * Complete and submit [VA Form 10-10164](https://www.va.gov/find-forms/about-form-10-10164) to their facility’s Release of Information Office or submit this form online via [My Health*e*Vet.](https://www.myhealth.va.gov/mhv-portal-web/home)
   * Community providers have varied rules regarding HIE program participation, as guided by state law. You should contact your community provider(s) to learn how to opt out of their HIE.
 
 The joint HIE honors patient consent. Health records of patients who opt out of sharing will not be exchanged through the joint HIE.
@@ -37,4 +37,4 @@ If you opt out, and then change your mind, you can request to opt back in at any
   * Simply download and complete the [VLER HIE Opt-Back-In Letter Template](https://tricare.mil/-/media/Files/TRICARE/Forms/JointHIE_OPTIN-Letter_accessible.pdf?la=en&hash=8FDB9213930064B086ED4A9457B61F8E1FA3A3052FFFA387902898EBD919F926), then print, sign and mail it to the address provided on the document.
 * **Veterans**
 
-  * Complete and submit [VA Form 10-10163](https://www.va.gov/vaforms/form_detail.asp?FormNo=10163) to their facility’s Release of Information office (ROI) or opt in via [My Health*e*Vet.](https://www.myhealth.va.gov/mhv-portal-web/home)
+  * Complete and submit [VA Form 10-10163](https://www.va.gov/find-forms/about-form-10-10163) to their facility’s Release of Information office (ROI) or opt in via [My Health*e*Vet.](https://www.myhealth.va.gov/mhv-portal-web/home)
