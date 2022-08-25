@@ -13,11 +13,11 @@ heroCallout:
   callToActionBtnText: Learn more
   callToActionUrl: /about-fehrm
 highlightCards:
-  - heading: Join Us At DHITS
+  - heading: We Were at DHITS
     description: We presented at the 2022 Defense Health Information Technology Symposium (DHITS).
     button:
       text: Learn more
-      url: /
+      url: /dhits-sessions
     cardImage:
       image: /images/DHITS-homepage.png
       alt: Snapshot of the 2022 Defense Health Information Technology Symposium (DHITS) homepage.
@@ -27,7 +27,7 @@ highlightCards:
       text: Learn more
       url: /faq
     cardImage:
-      image: /images/1000w_q95-5-.jpg
+      image: /images/FHCC.png
       alt: Snapshot of the FHCC.
   - heading: Follow Us on LinkedIn
     description: Join our LinkedIn page to receive updates on the federal EHR and our activities.
