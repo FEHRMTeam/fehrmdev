@@ -49,6 +49,15 @@ parent: About
 * [How will deploying the federal EHR at FHCC lead the way for other health care systems?](#FHCCLeadWay)
 * [What are the benefits of the FHCC federal EHR implementation?](#FHCCBenefits)
 
+## Joint Sharing Sites
+
+* [What are joint sharing sites?](#JSS)
+* [What are the benefits of DOD and VA medical sharing?](#JSSBenefits)
+* [How many joint sharing sites exist between DOD and VA?](#JSSSites)
+* [Why are joint sharing sites a unique challenge due to the asynchronous deployment of the federal EHR across both Departments?](#JSSChallenge)
+* [What does the federal EHR deployment process look like for joint sharing sites?](#JSSDeployProcess)
+* [What are the lessons learned from previous federal EHR deployments at joint sharing sites?](#JSSLessonsLearned)
+
 ## FEHRM Overview
 
 **<a name="FEHRMRole"></a>What is the Federal Electronic Health Record Modernization office’s role in the electronic health record space?**
@@ -277,3 +286,39 @@ Implementation of the federal EHR at FHCC benefits providers, patients and the b
 * Allows for the test and evaluation of meaningful exchange and use of data between DOD, VA and other health care systems, as required by the National Defense Authorization Act for Fiscal Year 2020
 
 Ultimately, FHCC leads the way for future federal EHR deployments and improving patient care and the end-user experience.
+
+## Joint Sharing Sites
+
+**<a name="JSS"></a>What are joint sharing sites?**
+
+Department of Defense (DOD)/Department of Veterans Affairs (VA) sharing sites, also known as joint sharing sites, are medical facilities where DOD and VA collaborate to support health care delivery to Veterans, Service members and their beneficiaries. DOD and VA medical sharing varies significantly from facility to facility—from providers, clinical, janitorial and administrative staff to physical space, processes and technologies.
+
+The least integrated joint sharing sites may only share custodial services or coordinate purchases of supplies, while more tightly integrated joint sharing sites embed providers in the other Department’s space, coordinate care and treatment options and access the other Department’s electronic health record (EHR) to document care and submit clinical orders (until the Departments are using the same single, common federal EHR). The most highly integrated joint sharing site is the Captain James A. Lovell Federal Health Care Center (FHCC) in North Chicago, Illinois.
+
+**<a name="JSSBenefits"></a>What are the benefits of DOD and VA medical sharing?**
+
+By leveraging the existing services of both DOD and VA facilities, a joint sharing site can take advantage of economies of scale and offer a broader range of services to both DOD and VA patient populations in their catchment area. In some cases, a joint sharing site also expands the access to care options a patient may have available by providing multiple locations to receive the same type of care.
+
+Joint sharing sites are also a net benefit to DOD and VA clinical staff in locations where the increased patient acuity and volume supports training and readiness objectives.
+
+**<a name="JSSSites"></a>How many joint sharing sites exist between DOD and VA?**
+
+As of July 2022, there are 159 facilities (85 DOD and 74 VA) that have active resource-sharing agreements nationwide. The number of active resource-sharing agreements changes monthly based on the clinical needs of the sites, availability of personnel to support those agreements, and whether agreements are activated, de-activated or renewed.
+
+**<a name="JSSChallenge"></a>Why are joint sharing sites a unique challenge due to the asynchronous deployment of the federal EHR across both Departments?**
+
+DOD and VA federal EHR deployment timelines are not always synchronized for joint sharing sites. Consequently, the asynchronous nature of the deployments may result in some level of risk and impact to required workflows and service offerings that are managed by the FEHRM to ensure continued health care. The FEHRM’s focus is on the gap created by the asynchronous deployment.
+
+**<a name="JSSDeployProcess"></a>What does the federal EHR deployment process look like for joint sharing sites?**
+
+The FEHRM views asynchronous deployment of the federal EHR as occurring through sequential phases. In most instances, DOD will deploy ahead of VA. The first DOD deployment will bring the joint sharing site to an interim state or transition state, in which DOD is on the federal EHR and VA is on the legacy EHR. The joint sharing site is at its end state when DOD and VA are on the same federal EHR.
+
+**<a name="JSSLessonsLearned"></a>What are the lessons learned from previous federal EHR deployments at joint sharing sites?**
+
+There have been multiple successful DOD EHR deployments at joint sharing sites to date. The first VA deployment at a joint sharing site is scheduled for March 2023. The FEHRM, DOD and VA continue to refine their approach to address lessons learned, including the following:
+
+* Early identification of VA users at joint sharing sites impacted by DOD deployment who will require access to the federal EHR prior to VA deployment
+* Development and application of new-user provisioning scenarios to be leveraged by the program management offices based on standard business rules
+* Development and deployment of federal EHR access tip sheets to support end users
+* Development of interim-state process maps to ensure the continuity of shared clinical services through the transition state
+* Analysis and adjudication of the differences between DOD and VA roles (e.g., DOD/VA Surgeons and Intensive Care Unit Nurses)
