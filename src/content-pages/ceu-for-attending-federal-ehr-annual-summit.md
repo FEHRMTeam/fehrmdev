@@ -13,4 +13,4 @@ You will receive an email from VA Talent Management System (TMS) with instructio
 
 ### Non-VA Individuals
 
-You will need to [create an account](images/how_to_create_an_account_in_vha_train_v2.pdf) in the Veterans Health Administration Employee Education System and then complete a brief course about the summit to get your CEUs. If you need additional guidance, email [FederalEHRAnnualsummit@va.gov](mailto:FederalEHRAnnualsummit@va.gov).
+You will need to [create an account](images/how_to_create_an_account_in_vha_train_v2.pdf) in the Veterans Health Administration Employee Education System and then [complete a brief course](images/how-to-complete-courses-and-access-certifcates-vha-train-3.0.pdf) about the summit to get your CEUs. If you need additional guidance, email [FederalEHRAnnualsummit@va.gov](mailto:FederalEHRAnnualsummit@va.gov).
