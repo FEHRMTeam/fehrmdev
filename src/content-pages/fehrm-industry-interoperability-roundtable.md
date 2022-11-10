@@ -11,4 +11,5 @@ The Roundtable theme is “Change Management - Engaging Stakeholders in Electron
 
 This virtual event is available through Microsoft Teams and open to the public. The FEHRM invites active participation from individuals who possess relevant broad-based knowledge and experience.
 
-Please check back later for registration information.
+To register for the event, please visit the following link:
+<https://einvitations.afit.edu/inv/anim.cfm?i=693106&k=046841087B51>
