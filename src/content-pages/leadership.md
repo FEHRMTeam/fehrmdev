@@ -43,11 +43,9 @@ As Acting Interoperability Director, Ms. Kimberly Heermann-Do is responsible for
 
 ![Photo of Dr. Um](images/um_nara_web_1000px.jpg "Dr. Um")
 
-**Nara Um, M.D., Chief Medical Informatics Officer**
+**Nara Um, M.D., M.S., Chief Medical Informatics Officer**
 
-As Chief Medical Informatics Officer, Dr. Nara Um oversees clinical, business and clinical IT activities impacting the federal EHR and the exchange of health data with private sector partners. Previously, Dr. Um served as Chief Health Informatics Officer at VA San Diego Health Care System (VASDHS), earning the VASDHS Clinical Informatics Service the Coin of Appreciation from the Acting Deputy Secretary of the Veterans Health Administration (VHA) in July 2020 and the National HeRO Award from the VHA’s Office of the Under Secretary for Health in February 2021. Dr. Um is a Clinician in the federal health care system, having joined the VA New York Harbor System in 2012 as a Hospitalist and Primary Care Provider.
-
-
+As Chief Medical Informatics Officer, Dr. Nara Um oversees clinical, business and clinical IT activities impacting the federal EHR and the exchange of health data with private sector partners. Previously, Dr. Um served as Chief Health Informatics Officer at VA San Diego Health Care System (VASDHS), earning the VASDHS Clinical Informatics Service the Coin of Appreciation from the Acting Deputy Secretary of the Veterans Health Administration (VHA) in July 2020 and the National HeRO Award from the VHA’s Office of the Under Secretary for Health in February 2021. She is a Clinician in the federal health care system, having joined the VA New York Harbor System in 2012 as a Hospitalist and Primary Care Provider.
 
 ![]()
 
@@ -55,7 +53,7 @@ As Chief Medical Informatics Officer, Dr. Nara Um oversees clinical, business an
 
 **Mr. Lance Scott, Solutions Integration Director and Acting Technical Director**
 
-As Solutions Integration Director, Mr. Lance Scott focuses on the FEHRM’s joint efforts, maximizing resources and improving collaboration on the joint health information exchange, HealtheIntent, Joint Legacy Viewer and other priorities. He manages joint requirements to create joint architecture and use cases, while synchronizing change requests, service requests and releases. Mr. Scott also oversees the adoption of information models and standards while tracking joint decisions. As Acting Technical Director, he manages the technical orchestration of all engineering and cybersecurity activities impacting the federal EHR and the exchange of health data between the federal EHR and private sector partners. Previously, he served as a Project Manager for the DOD Defense Medical Information Exchange.
+As Solutions Integration Director, Mr. Lance Scott focuses on the FEHRM’s joint efforts, maximizing resources and improving collaboration on the joint health information exchange, HealtheIntent, Joint Legacy Viewer and other priorities. He manages joint requirements to create joint architecture and use cases, while synchronizing change requests, service requests and releases. Mr. Scott also oversees the adoption of information models and standards while tracking joint decisions. As Acting Technical Director, he manages the technical orchestration of all engineering and cybersecurity activities impacting the federal EHR and the exchange of health data between the federal EHR and private sector partners. Previously, Mr. Scott served as a Project Manager for the DOD Defense Medical Information Exchange.
 
 ![Photo of Ms. Hughes](/images/hughes.jpg "Ms. Hughes")
 
