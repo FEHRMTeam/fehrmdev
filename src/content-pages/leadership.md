@@ -41,7 +41,7 @@ As Senior Advisor, Dr. Neil Evans brings his expertise and experience to advise 
 
 As Acting Interoperability Director, Ms. Kimberly Heermann-Do is responsible for interoperability strategy and planning, health interoperability standards and engagement with federal and industry partners, ensuring the highest levels of interoperability among DOD, VA, USCG and the private sector. Ms. Heermann-Do's work for the FEHRM builds on her previous role as Senior IT Specialist for the DOD/VA Interagency Program Office as well as earlier roles within the Defense Health Agency and U.S. Army Medical Command.
 
-![Photo of Dr. Um](images/um_nara_web_1000px.jpg "Dr. Um")
+![Photo of Dr. Um](/images/um_nara_web_1000px.jpg "Dr. Um")
 
 **Nara Um, M.D., M.S., Chief Medical Informatics Officer**
 
