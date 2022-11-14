@@ -3,6 +3,30 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - publicationDate: October 27, 2022
+    label: MHS GENESIS Reaches Significant Operational Milestone
+    linkUrl: https://health.mil/News/Articles/2022/10/27/MHS-Countdown
+    publisher: Health.mil
+  - publicationDate: October 26, 2022
+    label: NOAA Could Soon Join the VA's EHRM Program
+    linkUrl: https://www.meritalk.com/articles/noaa-could-soon-join-the-vas-ehrm-program/
+    publisher: MeriTalk
+  - publicationDate: September 15, 2022
+    label: How the DOD Program Leader is Transforming Military Health
+    linkUrl: https://health.mil/News/Articles/2022/09/14/How-the-DOD-Program-Leader-is-Transforming-Military-Health
+    publisher: Health.mil
+  - publicationDate: September 13, 2022
+    label: An Interoperable EHR System Is Closer Than Ever
+    linkUrl: https://www.cagw.org/thewastewatcher/interoperable-ehr-system-closer-ever
+    publisher: Citizens Against Government Waste
+  - publicationDate: August 19, 2022
+    label: DevSecOps is Enabling VA's Secure EHR Integration
+    linkUrl: https://governmentciomedia.com/devsecops-enabling-vas-secure-ehr-integration
+    publisher: Government CIO Media & Research
+  - publicationDate: August 8, 2022
+    label: VA’s New Health Chief Outlines Top Priorities
+    linkUrl: https://governmentciomedia.com/vas-new-health-chief-outlines-top-priorities
+    publisher: Government CIO Media & Research
   - publicationDate: July 21, 2022
     label: VA Addresses Next Steps in EHR Rollouts
     linkUrl: https://governmentciomedia.com/va-addresses-next-steps-ehr-rollouts
