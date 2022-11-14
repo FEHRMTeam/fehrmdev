@@ -41,23 +41,21 @@ As Senior Advisor, Dr. Neil Evans brings his expertise and experience to advise 
 
 As Acting Interoperability Director, Ms. Kimberly Heermann-Do is responsible for interoperability strategy and planning, health interoperability standards and engagement with federal and industry partners, ensuring the highest levels of interoperability among DOD, VA, USCG and the private sector. Ms. Heermann-Do's work for the FEHRM builds on her previous role as Senior IT Specialist for the DOD/VA Interagency Program Office as well as earlier roles within the Defense Health Agency and U.S. Army Medical Command.
 
-![Photo of Dr. Josephs](/images/josephs.jpg "Dr. Josephs")
+![Photo of Dr. Um](images/um_nara_web_1000px.jpg "Dr. Um")
 
-**Meredith Josephs, M.D., MPH, FAAFP, Chief Medical Informatics Officer**
+**Nara Um, M.D., Chief Medical Informatics Officer**
 
-As Chief Medical Informatics Officer, Dr. Meredith Josephs oversees clinical, business and clinical IT activities impacting the federal EHR and the exchange of health data with private sector partners. Previously, she was Vice President of Clinical Informatics at Privia Health, where she led the company’s clinical IT strategic initiatives and optimized its clinical technology platforms. She was also Medical Director of Privia Virtual Health, Privia’s virtual urgent care center.
+As Chief Medical Informatics Officer, Dr. Nara Um oversees clinical, business and clinical IT activities impacting the federal EHR and the exchange of health data with private sector partners. Previously, Dr. Um served as Chief Health Informatics Officer at VA San Diego Health Care System (VASDHS), earning the VASDHS Clinical Informatics Service the Coin of Appreciation from the Acting Deputy Secretary of the Veterans Health Administration (VHA) in July 2020 and the National HeRO Award from the VHA’s Office of the Under Secretary for Health in February 2021. Dr. Um is a Clinician in the federal health care system, having joined the VA New York Harbor System in 2012 as a Hospitalist and Primary Care Provider.
 
-![Photo of Dr. Farah-Stapleton](/images/farah-stapleton_monica_hires.jpg "Dr. Farah-Stapleton")
 
-**Monica Farah-Stapleton, Ph.D., Senior Technical Director**
 
-As Senior Technical Director, Dr. Monica Farah-Stapleton manages the technical orchestration of all engineering and cybersecurity activities impacting the federal EHR and the exchange of health data between the federal EHR and private sector partners. Before joining the FEHRM, she was Chief Engineer for DHMSM. Her extensive IT experience includes executive strategy and direct management and oversight of complex, sociotechnical system-of-systems projects.
+![]()
 
 ![Photo of Mr. Scott](/images/scott.png "Mr. Scott")
 
-**Mr. Lance Scott, Solutions Integration Director**
+**Mr. Lance Scott, Solutions Integration Director and Acting Technical Director**
 
-As Solutions Integration Director, Mr. Lance Scott focuses on the FEHRM’s joint efforts, maximizing resources and improving collaboration on the joint health information exchange, HealtheIntent, Joint Legacy Viewer and other priorities. He manages joint requirements to create joint architecture and use cases, while synchronizing change requests, service requests and releases. Mr. Scott also oversees the adoption of information models and standards while tracking joint decisions. Previously, he served as a Project Manager for the DOD Defense Medical Information Exchange.
+As Solutions Integration Director, Mr. Lance Scott focuses on the FEHRM’s joint efforts, maximizing resources and improving collaboration on the joint health information exchange, HealtheIntent, Joint Legacy Viewer and other priorities. He manages joint requirements to create joint architecture and use cases, while synchronizing change requests, service requests and releases. Mr. Scott also oversees the adoption of information models and standards while tracking joint decisions. As Acting Technical Director, he manages the technical orchestration of all engineering and cybersecurity activities impacting the federal EHR and the exchange of health data between the federal EHR and private sector partners. Previously, he served as a Project Manager for the DOD Defense Medical Information Exchange.
 
 ![Photo of Ms. Hughes](/images/hughes.jpg "Ms. Hughes")
 
