@@ -3,6 +3,38 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - publicationDate: November 4, 2022
+    label: A Vision for Digital Transformation at VA
+    linkUrl: https://www.nextgov.com/ideas/2022/11/vision-digital-transformation-va/379231/
+    publisher: Nextgov
+  - publicationDate: November 3, 2022
+    label: "Federal Tech Leaders: 'Culture Eats Strategy for Breakfast'"
+    linkUrl: https://www.governmentciomedia.com/federal-tech-leaders-culture-eats-strategy-breakfast
+    publisher: Government CIO Media & Research
+  - publicationDate: October 31, 2022
+    label: FEHRM Hits Milestone With Half of MHS Providers Using Oracle Cerner EHR
+    linkUrl: https://ehrintelligence.com/news/fehrm-hits-milestone-with-half-of-mhs-providers-using-oracle-cerner-ehr
+    publisher: EHR Intelligence
+  - publicationDate: October 31, 2022
+    label: NOAA Planning to Join DOD's Electronic Health Record System
+    linkUrl: https://www.nextgov.com/emerging-tech/2022/10/noaa-planning-join-dods-electronic-health-record-system/379138/
+    publisher: Nextgov
+  - publicationDate: September 15, 2022
+    label: How the DOD Program Leader is Transforming Military Health
+    linkUrl: https://health.mil/News/Articles/2022/09/14/How-the-DOD-Program-Leader-is-Transforming-Military-Health
+    publisher: Health.mil
+  - publicationDate: September 13, 2022
+    label: An Interoperable EHR System Is Closer Than Ever
+    linkUrl: https://www.cagw.org/thewastewatcher/interoperable-ehr-system-closer-ever
+    publisher: Citizens Against Government Waste
+  - publicationDate: August 19, 2022
+    label: DevSecOps is Enabling VA's Secure EHR Integration
+    linkUrl: https://governmentciomedia.com/devsecops-enabling-vas-secure-ehr-integration
+    publisher: Government CIO Media & Research
+  - publicationDate: August 8, 2022
+    label: VA’s New Health Chief Outlines Top Priorities
+    linkUrl: https://governmentciomedia.com/vas-new-health-chief-outlines-top-priorities
+    publisher: Government CIO Media & Research
   - publicationDate: July 21, 2022
     label: VA Addresses Next Steps in EHR Rollouts
     linkUrl: https://governmentciomedia.com/va-addresses-next-steps-ehr-rollouts
