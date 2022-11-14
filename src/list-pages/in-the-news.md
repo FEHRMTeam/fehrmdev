@@ -3,14 +3,22 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
-  - publicationDate: October 27, 2022
-    label: MHS GENESIS Reaches Significant Operational Milestone
-    linkUrl: https://health.mil/News/Articles/2022/10/27/MHS-Countdown
-    publisher: Health.mil
-  - publicationDate: October 26, 2022
-    label: NOAA Could Soon Join the VA's EHRM Program
-    linkUrl: https://www.meritalk.com/articles/noaa-could-soon-join-the-vas-ehrm-program/
-    publisher: MeriTalk
+  - publicationDate: November 4, 2022
+    label: A Vision for Digital Transformation at VA
+    linkUrl: https://www.nextgov.com/ideas/2022/11/vision-digital-transformation-va/379231/
+    publisher: Nextgov
+  - publicationDate: November 3, 2022
+    label: "Federal Tech Leaders: 'Culture Eats Strategy for Breakfast'"
+    linkUrl: https://www.governmentciomedia.com/federal-tech-leaders-culture-eats-strategy-breakfast
+    publisher: Government CIO Media & Research
+  - publicationDate: October 31, 2022
+    label: FEHRM Hits Milestone With Half of MHS Providers Using Oracle Cerner EHR
+    linkUrl: https://ehrintelligence.com/news/fehrm-hits-milestone-with-half-of-mhs-providers-using-oracle-cerner-ehr
+    publisher: EHR Intelligence
+  - publicationDate: October 31, 2022
+    label: NOAA Planning to Join DOD's Electronic Health Record System
+    linkUrl: https://www.nextgov.com/emerging-tech/2022/10/noaa-planning-join-dods-electronic-health-record-system/379138/
+    publisher: Nextgov
   - publicationDate: September 15, 2022
     label: How the DOD Program Leader is Transforming Military Health
     linkUrl: https://health.mil/News/Articles/2022/09/14/How-the-DOD-Program-Leader-is-Transforming-Military-Health
