@@ -3,6 +3,8 @@ title: This is a Test
 sidenav: false
 parent: N/A
 ---
-# T﻿est Page
+# Test Page
 
-T﻿his is a test after migrating to Pages.
+This is a test after migrating to Pages.
+
+Here's more language and [a link to Google](https://google.com).
