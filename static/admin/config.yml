@@ -1,15 +1,15 @@
 backend:
   name: github
   repo: FEHRMTeam/fehrmdev
-  base_url: https://federalistapp.18f.gov
+  base_url: https://pages.cloud.gov
   auth_endpoint: external/auth/github
   branch: main
-  preview_context: federalist/build
+  preview_context: pages/build
 
 media_folder: static/images
 public_folder: images
 publish_mode: editorial_workflow
-logo_url: https://federalist.18f.gov/assets/images/federalist-logo.png
+logo_url: https://pages.cloud.gov/assets/images/federalist-logo.png
 
 collections:
   - name: pages
