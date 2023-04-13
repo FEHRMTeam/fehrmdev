@@ -4,7 +4,8 @@ if (typeof window !== 'undefined') {
     const link = document.createElement('link')
     link.type = 'text/css'
     link.rel = 'stylesheet'
-    link.href = '/admin/admin.css'
+    const pathname = typeof window !== 'undefined' ? window.location.pathname : '';
+    link.href = pathname + 'admin.css';
     document.head.appendChild(link)
 
     if (process.env.NETLIFY_SITE_URL) {
