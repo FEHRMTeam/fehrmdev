@@ -78,6 +78,7 @@ module.exports = {
     },
   },
   pathPrefix: process.env.BASEURL || '/',
+  trailingSlash: 'always',
   plugins: [
     {
       resolve: 'gatsby-plugin-sass',
