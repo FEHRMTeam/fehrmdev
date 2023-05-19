@@ -147,12 +147,6 @@ module.exports = {
         icon: `src/images/fehrm-icon.png`, // This path is relative to the root of the site.
       },
     },
-    {
-      resolve: `gatsby-plugin-netlify-cms`,
-      options: {
-        modulePath: `${__dirname}/src/cms/cms.js`,
-      },
-    },
     `gatsby-plugin-sitemap`,
     {
       resolve: 'gatsby-plugin-robots-txt',
@@ -167,7 +161,8 @@ module.exports = {
           }
         }
       }
-    }
+    },
+    `gatsby-plugin-static-cms`
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
