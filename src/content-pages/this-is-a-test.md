@@ -7,4 +7,5 @@ parent: N/A
 
 T﻿his is a test after migrating to Pages.
 
-This is an edit after migrating to StaticJsCms.
+![FEHRM Icon](images/fehrm-icon.png)
+This is a test with an image after changing to StaticJsCms on dev.
