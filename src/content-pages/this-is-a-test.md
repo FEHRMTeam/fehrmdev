@@ -7,4 +7,4 @@ parent: N/A
 
 T﻿his is a test after migrating to Pages.
 
-![FEHRM Logo](images/fehrmlogo.png)
+![CTA Icon](../images/cta-icon1.png)
