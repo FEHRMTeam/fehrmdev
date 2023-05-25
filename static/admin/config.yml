@@ -20,7 +20,7 @@ collections:
     preview_path: '{{slug}}'
     editor:
       preview: false
-    public_folder: '../images'
+    public_folder: ../images
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Sidenav', name: 'sidenav', widget: 'boolean' }
@@ -32,7 +32,7 @@ collections:
     extension: md
     editor:
       preview: false
-    public_folder: '../images'
+    public_folder: ../images
     files:
       - label: Congressional Reports
         name: congressionalReports
@@ -85,7 +85,7 @@ collections:
         file: /src/homepage/index.md
         editor:
           preview: false
-        public_folder: '../images'
+        public_folder: ../images
         fields:
           - { label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'home-page' }
           - { label: 'Header Title', name: 'headerTitle', required: true, widget: 'string' }
@@ -241,7 +241,7 @@ collections:
         file: src/content-components/footer.md
         editor:
           preview: false
-        public_folder: '../images'
+        public_folder: ../images
         fields:
           - { label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'footer' }
           - {
