@@ -20,7 +20,7 @@ highlightCards:
       text: Learn more
       url: /dhits-sessions
     cardImage:
-      image: /images/DHITS-homepage.png
+      image: ../images/DHITS-homepage.png
       alt: Snapshot of the 2022 Defense Health Information Technology Symposium
         (DHITS) homepage.
   - heading: Federal EHR Deployment
