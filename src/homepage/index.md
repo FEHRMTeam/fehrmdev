@@ -20,7 +20,7 @@ highlightCards:
       text: Learn more
       url: /dhits-sessions
     cardImage:
-      image: /images/DHITS-homepage.png
+      image: ../images/DHITS-homepage.png
       alt: Snapshot of the 2022 Defense Health Information Technology Symposium
         (DHITS) homepage.
   - heading: Federal EHR Deployment
@@ -30,7 +30,7 @@ highlightCards:
       text: Learn more
       url: /faq#FHCCOverview
     cardImage:
-      image: /images/FHCC.png
+      image: ../images/FHCC.png
       alt: Snapshot of the FHCC.
   - heading: Follow Us on LinkedIn
     description: Join our LinkedIn page to receive updates on the federal EHR and
@@ -39,7 +39,7 @@ highlightCards:
       text: Follow us
       url: https://www.linkedin.com/company/fehrm/
     cardImage:
-      image: /images/FEHRM-LinkedIn-Page.png
+      image: ../images/FEHRM-LinkedIn-Page.png
       alt: Snapshot of the FEHRM's LinkedIn page.
 tagline:
   taglineHeadingText: '<p class="font-heading-xs margin-top-0
@@ -85,7 +85,7 @@ callToActions:
       EHR to enhance patient care and provider effectiveness. <a
       href="/about-fehrm">Learn more about the FEHRM.</a>
     CTAImage:
-      image: /images/cta-icon1.png
+      image: ../images/cta-icon1.png
       imageAlt: Call to action 1
   topRightCTA:
     heading: Partnering for Success
@@ -94,7 +94,7 @@ callToActions:
       <a href="/success-stories">Learn more about how the federal EHR is driving
       success in health care delivery.</a>
     CTAImage:
-      image: /images/cta-icon2.png
+      image: ../images/cta-icon2.png
       imageAlt: Call to action 2
   bottomLeftCTA:
     heading: A Commitment to Patients
@@ -103,7 +103,7 @@ callToActions:
       <a href="/enhancing-your-care">Learn more about the benefits of the
       federal EHR to patients.</a>
     CTAImage:
-      image: /images/cta-icon3.png
+      image: ../images/cta-icon3.png
       imageAlt: Call to action 3
   bottomRightCTA:
     heading: Collaborating with the Private Sector
@@ -114,6 +114,6 @@ callToActions:
       href="/join-the-joint-hie">Learn more how the joint HIE is transforming
       care.</a>  '
     CTAImage:
-      image: /images/cta-icon4.png
+      image: ../images/cta-icon4.png
       imageAlt: Call to action 4
 ---
