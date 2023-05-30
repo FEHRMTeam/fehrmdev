@@ -241,7 +241,6 @@ collections:
         file: src/content-components/footer.md
         editor:
           preview: false
-        public_folder: images
         fields:
           - { label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'footer' }
           - {
