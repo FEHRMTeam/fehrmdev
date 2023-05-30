@@ -20,7 +20,7 @@ highlightCards:
       text: Learn more
       url: /dhits-sessions
     cardImage:
-      image: ../images/DHITS-homepage.png
+      image: images/DHITS-homepage.png
       alt: Snapshot of the 2022 Defense Health Information Technology Symposium
         (DHITS) homepage.
   - heading: Federal EHR Deployment
@@ -30,7 +30,7 @@ highlightCards:
       text: Learn more
       url: /faq#FHCCOverview
     cardImage:
-      image: /images/FHCC.png
+      image: images/FHCC.png
       alt: Snapshot of the FHCC.
   - heading: Follow Us on LinkedIn
     description: Join our LinkedIn page to receive updates on the federal EHR and
@@ -39,7 +39,7 @@ highlightCards:
       text: Follow us
       url: https://www.linkedin.com/company/fehrm/
     cardImage:
-      image: /images/FEHRM-LinkedIn-Page.png
+      image: images/FEHRM-LinkedIn-Page.png
       alt: Snapshot of the FEHRM's LinkedIn page.
 tagline:
   taglineHeadingText: '<p class="font-heading-xs margin-top-0
