@@ -85,7 +85,7 @@ callToActions:
       EHR to enhance patient care and provider effectiveness. <a
       href="/about-fehrm">Learn more about the FEHRM.</a>
     CTAImage:
-      image: /images/cta-icon1.png
+      image: images/cta-icon1.png
       imageAlt: Call to action 1
   topRightCTA:
     heading: Partnering for Success
