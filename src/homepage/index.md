@@ -94,7 +94,7 @@ callToActions:
       <a href="/success-stories">Learn more about how the federal EHR is driving
       success in health care delivery.</a>
     CTAImage:
-      image: /images/cta-icon2.png
+      image: images/cta-icon2.png
       imageAlt: Call to action 2
   bottomLeftCTA:
     heading: A Commitment to Patients
@@ -103,7 +103,7 @@ callToActions:
       <a href="/enhancing-your-care">Learn more about the benefits of the
       federal EHR to patients.</a>
     CTAImage:
-      image: /images/cta-icon3.png
+      image: images/cta-icon3.png
       imageAlt: Call to action 3
   bottomRightCTA:
     heading: Collaborating with the Private Sector
@@ -114,6 +114,6 @@ callToActions:
       href="/join-the-joint-hie">Learn more how the joint HIE is transforming
       care.</a>  '
     CTAImage:
-      image: /images/cta-icon4.png
+      image: images/cta-icon4.png
       imageAlt: Call to action 4
 ---
