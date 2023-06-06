@@ -27,6 +27,17 @@ const Footer = ({ footerContent }) => {
       ))
     )
 
+  const pathname = typeof window !== 'undefined' ? window.location.pathname : '';
+  const devPath = '/site/fehrmteam/fehrmdev';
+
+  const getImage = (footerImage) => (
+    (pathname.indexOf(devPath) > -1 ?
+      (<img src={devPath + footerImage.image} width="50" alt={footerImage.imageAlt}/>) :
+      (<img src={footerImage.image} width="50" alt={footerImage.imageAlt}/>)
+    )
+
+  )
+
   return (
   <footer className="usa-footer site-footer" role="contentinfo">
     <div className="footer-section-bottom bg-base-lighter">
@@ -35,7 +46,7 @@ const Footer = ({ footerContent }) => {
           <div className="tablet:grid-col">
             <div className="logo-links">
               <a className="footer-logo media_link" href="/">
-                <img src={footerImage.image} width="50" alt={footerImage.imageAlt}/>
+                {getImage(footerImage)}
               </a>
             </div>
           </div>
