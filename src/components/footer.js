@@ -49,7 +49,7 @@ const Footer = ({ footerContent }) => {
           <div className="tablet:grid-col">
             <div className="logo-links">
               <a className="footer-logo media_link" href="/">
-                <img src={devPath + footerImage.image} width="50" alt={footerImage.imageAlt}/>
+                {getImage()}
               </a>
             </div>
           </div>
