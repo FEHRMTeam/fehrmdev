@@ -34,7 +34,7 @@ const Footer = ({ footerContent }) => {
   console.log("index of devPath: " + pathname.indexOf(devPath));
   console.log("image src: " + devPath + footerImage.image);
   
-  const getImage = (footerImage) => (
+  const getImage = () => (
     (pathname.indexOf(devPath) > -1 ?
       (<img src={devPath + footerImage.image} width="50" alt={footerImage.imageAlt}/>) :
       (<img src={footerImage.image} width="50" alt={footerImage.imageAlt}/>)
@@ -49,7 +49,7 @@ const Footer = ({ footerContent }) => {
           <div className="tablet:grid-col">
             <div className="logo-links">
               <a className="footer-logo media_link" href="/">
-                {getImage(footerImage)}
+                <img src={devPath + footerImage.image} width="50" alt={footerImage.imageAlt}/>
               </a>
             </div>
           </div>
