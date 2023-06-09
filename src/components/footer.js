@@ -30,12 +30,15 @@ const Footer = ({ footerContent }) => {
   const pathname = typeof window !== 'undefined' ? window.location.pathname : '';
   const devPath = '/site/fehrmteam/fehrmdev';
 
+  console.log("devPath: " + devPath);
+  console.log("index of devPath: " + pathname.indexOf(devPath));
+  console.log("image src: " + devPath + footerImage.image);
+  
   const getImage = (footerImage) => (
     (pathname.indexOf(devPath) > -1 ?
       (<img src={devPath + footerImage.image} width="50" alt={footerImage.imageAlt}/>) :
       (<img src={footerImage.image} width="50" alt={footerImage.imageAlt}/>)
     )
-
   )
 
   return (
