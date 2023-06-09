@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'gatsby';
+import useSiteMetadata from '../hooks/use-site-metadata';
 
 const Footer = ({ footerContent }) => { 
   const {
@@ -27,19 +28,7 @@ const Footer = ({ footerContent }) => {
       ))
     )
 
-  const pathname = typeof window !== 'undefined' ? window.location.pathname : '';
-  const devPath = '/site/fehrmteam/fehrmdev';
-
-  console.log("devPath: " + devPath);
-  console.log("index of devPath: " + pathname.indexOf(devPath));
-  console.log("image src: " + devPath + footerImage.image);
-  
-  const getImage = () => (
-    (pathname.indexOf(devPath) > -1 ?
-      (<img src={devPath + footerImage.image} width="50" alt={footerImage.imageAlt}/>) :
-      (<img src={footerImage.image} width="50" alt={footerImage.imageAlt}/>)
-    )
-  )
+  const { siteUrl } = useSiteMetadata();
 
   return (
   <footer className="usa-footer site-footer" role="contentinfo">
@@ -48,8 +37,8 @@ const Footer = ({ footerContent }) => {
         <div className="grid-row padding-3">
           <div className="tablet:grid-col">
             <div className="logo-links">
-              <a className="footer-logo media_link" href="/">
-                {getImage()}
+              <a className="footer-logo media_link" href={`${siteUrl}`}>
+                <img src={`${siteUrl}${footerImage.image}`} width="50" alt={footerImage.imageAlt}/>
               </a>
             </div>
           </div>
