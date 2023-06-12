@@ -5,7 +5,7 @@ parent: Congressional Information
 reportItems:
   - label: "2021 Federal Electronic Health Record Summit: End-User Feedback
       Executive Summary"
-    fileUrl: images/end-user-feedback-executive-summary_20211108.pdf
+    fileUrl: ../images/end-user-feedback-executive-summary_20211108.pdf
   - label: FEHRM DOD/VA Interoperability Modernization Strategy
     fileUrl: images/tab-a2-dod_va_interoperability_modernization_strategy_20200924.pdf
   - label: Quarter Two, Fiscal Year 2022 Interoperability Progress Quarterly Report
