@@ -10,6 +10,7 @@ const useSiteMetadata = () => {
       description
       author
       siteUrl
+      basePath
       }
     }
     }

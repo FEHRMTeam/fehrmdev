@@ -28,7 +28,7 @@ const Footer = ({ footerContent }) => {
       ))
     )
 
-  const { siteUrl } = useSiteMetadata();
+  const { basePath } = useSiteMetadata();
 
   return (
   <footer className="usa-footer site-footer" role="contentinfo">
@@ -37,8 +37,8 @@ const Footer = ({ footerContent }) => {
         <div className="grid-row padding-3">
           <div className="tablet:grid-col">
             <div className="logo-links">
-              <a className="footer-logo media_link" href={`${siteUrl}`}>
-                <img src={`${siteUrl}${footerImage.image}`} width="50" alt={footerImage.imageAlt}/>
+              <a className="footer-logo media_link" href={`${basePath}`}>
+                <img src={`${basePath}${footerImage.image}`} width="50" alt={footerImage.imageAlt}/>
               </a>
             </div>
           </div>
