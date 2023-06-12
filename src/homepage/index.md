@@ -84,7 +84,8 @@ callToActions:
     heading: Mission-Driven
     subHeading: The FEHRM’s primary mission is to implement a single, common federal
       EHR to enhance patient care and provider effectiveness. <a
-      href="/about-fehrm">Learn more about the FEHRM.</a>
+      href="/site/fehrmteam/fehrmdev/about-fehrm">Learn more about the
+      FEHRM.</a>
     CTAImage:
       image: images/cta-icon1.png
       imageAlt: Call to action 1
@@ -92,8 +93,8 @@ callToActions:
     heading: Partnering for Success
     subHeading: The federal EHR saves providers time and enables more standard
       workflows to support enhanced clinical decision-making and patient safety.
-      <a href="/success-stories">Learn more about how the federal EHR is driving
-      success in health care delivery.</a>
+      <a href="/site/fehrmteam/fehrmdev/success-stories">Learn more about how
+      the federal EHR is driving success in health care delivery.</a>
     CTAImage:
       image: images/cta-icon2.png
       imageAlt: Call to action 2
@@ -101,8 +102,8 @@ callToActions:
     heading: A Commitment to Patients
     subHeading: The FEHRM is driving federal solutions to support effective health
       care delivery within the federal space that puts patients in the center.
-      <a href="/enhancing-your-care">Learn more about the benefits of the
-      federal EHR to patients.</a>
+      <a href="/site/fehrmteam/fehrmdev/enhancing-your-care">Learn more about
+      the benefits of the federal EHR to patients.</a>
     CTAImage:
       image: images/cta-icon3.png
       imageAlt: Call to action 3
@@ -112,8 +113,8 @@ callToActions:
       securely access patient electronic health information from participating
       private sector providers, the joint health information exchange (HIE)
       significantly expands interoperability capabilities. <a
-      href="/join-the-joint-hie">Learn more how the joint HIE is transforming
-      care.</a>  '
+      href="/site/fehrmteam/fehrmdev/join-the-joint-hie">Learn more how the
+      joint HIE is transforming care.</a>  '
     CTAImage:
       image: images/cta-icon4.png
       imageAlt: Call to action 4
