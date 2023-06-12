@@ -37,7 +37,7 @@ const Footer = ({ footerContent }) => {
         <div className="grid-row padding-3">
           <div className="tablet:grid-col">
             <div className="logo-links">
-              <a className="footer-logo media_link" href={`${basePath}`}>
+              <a className="footer-logo media_link" href={`${basePath != '' ? basePath : '/'}`}>
                 <img src={`${basePath}${footerImage.image}`} width="50" alt={footerImage.imageAlt}/>
               </a>
             </div>
