@@ -3,7 +3,7 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
-  - publicationDate: November 4, 2022
+  - publicationDate: November 5, 2022
     label: A Vision for Digital Transformation at VA
     linkUrl: https://www.nextgov.com/ideas/2022/11/vision-digital-transformation-va/379231/
     publisher: Nextgov
