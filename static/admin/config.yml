@@ -75,7 +75,7 @@ collections:
               - { label: 'Label', name: 'label', widget: 'string', required: true }
               - { label: 'Link URL', name: 'linkUrl', widget: 'string', required: true }
               - { label: 'Publisher', name: 'publisher', widget: 'string', required: true }
-              - { label: 'Publication Date', name: 'publicationDate', widget: 'date', hint: 'Format: MM/DD/YYYY', default: '', format: 'MMMM D, YYYY', required: true }
+              - { label: 'Publication Date', name: 'publicationDate', widget: 'datetime', hint: 'Format: MM/DD/YYYY', default: '', time_format: false, format: 'MMMM d, yyyy', required: true }
 
   - name: home
     label: Homepage
