@@ -7,6 +7,8 @@ backend:
   preview_context: pages/build
 
 media_folder: static/images
+media_library:
+  max_file_size: 2048000
 public_folder: images
 publish_mode: editorial_workflow
 logo_url: https://pages.cloud.gov/assets/images/federalist-logo.png
