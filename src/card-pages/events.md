@@ -56,6 +56,4 @@ highlightCards:
 ---
 # Events and Conferences
 
-
-
-
+Welcome to the Events & Conferences landing page!
