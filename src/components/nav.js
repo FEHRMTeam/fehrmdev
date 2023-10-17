@@ -32,7 +32,7 @@ const Nav = ({ navMenuItems, secondaryLinks }) => (
                 >
                   <li className="usa-nav__submenu-item fehrm-nav-overview">
                     {navGroup.linkUrl != '/' ? (
-                        <a href={navGroup.linkUrl}>{navGroup.label}</a>
+                        <Link to={navGroup.linkUrl}>{navGroup.label}</Link>
                       ) : (
                         <a>{navGroup.label}</a>
                       )
