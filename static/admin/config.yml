@@ -94,7 +94,7 @@ collections:
           - { label: 'Sidenav', name: 'sidenav', widget: 'boolean' }
           - { label: 'Parent', name: 'parent', widget: 'string', hint: 'Enter parent page name. Used to display the appropriate side navigation' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
-        - label: 'Highlight Cards'
+          - label: 'Highlight Cards'
             name: 'highlightCards'
             min: 6
             allow_add: true
