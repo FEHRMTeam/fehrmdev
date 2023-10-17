@@ -101,10 +101,10 @@ collections:
             add_to_top: true
             widget: "list"
             summary: '{{fields.heading}}'
-            hint: Three cards minimum required. Only the first three cards (from the top) will display on the homepage.
+            hint: Six cards minimum required. Only the first six cards (from the top) will display on the page.
             fields:
               - { label: 'Heading', name: 'heading', widget: 'string', hint: "Max limit of 45 characters.", pattern: ['^.{1,45}$', "Exceeds 45 max character limit."] }
-              - { label: 'Description', name: 'description', widget: 'string', hint: "Max limit of 100 characters.", pattern: ['^.{1,100}$', "Exceeds 100 max character limit."] }
+              - { label: 'Description', name: 'description', widget: 'string', hint: "Max limit of 100 characters.", pattern: ['^.{1,100}$', "Exceeds 100 max character limit."], required: false }
               - label: "Button"
                 name: "button"
                 widget: "object"
