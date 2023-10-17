@@ -134,7 +134,7 @@ navMenuItems:
         newTab: false
   - label: Events/Conferences
     linkType: internal
-    linkUrl: /
+    linkUrl: /events
     newTab: false
     subMenuItems:
       - label: Federal EHR Annual Summit
