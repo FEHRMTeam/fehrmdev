@@ -30,8 +30,17 @@ const Nav = ({ navMenuItems, secondaryLinks }) => (
                   className="usa-accordion__content usa-nav__submenu"
                   hidden
                 >
+                  <li className="usa-nav__submenu-item fehrm-nav-overview">
+                    {navGroup.linkUrl != '/' ? (
+                        <a href={navGroup.linkUrl}>{navGroup.label}</a>
+                      ) : (
+                        <a>{navGroup.label}</a>
+                      )
+                    }
+                    
+                  </li>
                   {navGroup.subMenuItems.map((navItem, idx) => (
-                    <li key={idx} className="usa-nav__submenu-item">
+                    <li key={idx} className="usa-nav__submenu-item fehrm-nav-submenu">
                       {(navItem.linkType === "internal" ? (
                         <Link to={navItem.linkUrl}>{navItem.label}</Link>
                         ) : (

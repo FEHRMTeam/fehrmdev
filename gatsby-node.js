@@ -38,6 +38,7 @@ exports.createPages = async ({ actions, graphql }) => {
   await createBlogPages(createPage, graphql);
   await createMarkdownPages(createPage, graphql);
   await createMarkdownListPages(createPage, graphql);
+  await createMarkdownCardPages(createPage, graphql);
 };
 
 async function createBlogPages(createPage, graphql) {
@@ -84,6 +85,21 @@ async function createMarkdownPages(createPage, graphql) {
 async function createMarkdownListPages(createPage, graphql) {
   const pageTemplate = path.resolve('./src/templates/list-page.js');
   const pages = await markdownQuery(graphql, 'list-pages');
+
+  pages.forEach(({ node }) => {
+    createPage({
+      path: node.fields.name,
+      component: pageTemplate,
+      context: {
+        name: node.fields.name
+      },
+    });
+  });
+}
+
+async function createMarkdownCardPages(createPage, graphql){
+  const pageTemplate = path.resolve('./src/templates/card-page.js');
+  const pages = await markdownQuery(graphql, 'card-pages');
 
   pages.forEach(({ node }) => {
     createPage({
