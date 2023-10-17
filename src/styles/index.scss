@@ -108,6 +108,22 @@ $theme-color-primary-darker: #35034E;
   .usa-nav__primary .usa-nav__primary-item a.usa-nav__link:hover {
     color: $theme-color-primary-darker;
   }
+
+  .usa-nav__primary a {
+    background-image: none;
+  }
+
+  .fehrm-nav-overview a {
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+    border-bottom: 1px solid #fff;
+    display: block;
+  }
+
+  li.fehrm-nav-submenu {
+    padding-left: 5px;
+  }
 }
 
 // Hero
