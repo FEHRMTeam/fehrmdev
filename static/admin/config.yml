@@ -276,6 +276,7 @@ collections:
                   name: 'subMenuItems',
                   allow_add: true,
                   widget: 'list',
+                  required: false,
                   fields: [
                     { label: 'Label', name: 'label', widget: 'string' },
                     { label: 'Link Type', name: 'linkType', widget: 'select', options: ['internal', 'external'] },
