@@ -2,7 +2,7 @@ import React from 'react';
 import useSiteMetadata from '../hooks/use-site-metadata';
 
 /*
-  This card will appear in your homepage cards section
+  This card will appear in your homepage cards section as well as any internal card pages
 */
 
 const Card = ({ cardContent }) => {

@@ -3,6 +3,14 @@ title: Events and Conferences
 sidenav: false
 parent: Events/Conferences
 highlightCards:
+  - heading: Defense Health Information Technology Symposium
+    description: null
+    button:
+      text: Learn more
+      url: /dhits-sessions/
+    cardImage:
+      image: ../images/defense-health-information-technology-symposium_event-landing-page-graphic.png
+      alt: DHA Defense Health Agency
   - heading: Federal EHR Annual Summit
     description: null
     button:
@@ -11,23 +19,6 @@ highlightCards:
     cardImage:
       image: ../images/federal-ehr-annual-summit_event-landing-page-graphic.png
       alt: Federal Electronic Health Record (EHR) Annual Summit
-  - heading: The State of the Federal EHR
-    description: null
-    button:
-      text: Learn more
-      url: /fehrm-industry-interoperability-roundtable/
-    cardImage:
-      image: ../images/the-state-of-the-federal-ehr_event-landing-page-graphic.png
-      alt: Top down illustration of 4 individuals working and collaborating around a
-        round table
-  - heading: DHITS Sessions
-    description: null
-    button:
-      text: Learn more
-      url: /dhits-sessions/
-    cardImage:
-      image: ../images/defense-health-information-technology-symposium_event-landing-page-graphic.png
-      alt: DHA Defense Health Agency
   - heading: HIMSS
     description: null
     button:
@@ -44,6 +35,15 @@ highlightCards:
     cardImage:
       image: ../images/hl7-government-birds-of-a-feather_event-landing-page-graphic.png
       alt: Illustration of a woman standing and speaking at a podium
+  - heading: The State of the Federal EHR
+    description: null
+    button:
+      text: Learn more
+      url: /fehrm-industry-interoperability-roundtable/
+    cardImage:
+      image: ../images/the-state-of-the-federal-ehr_event-landing-page-graphic.png
+      alt: Top down illustration of 4 individuals working and collaborating around a
+        round table
   - heading: Upcoming Events
     description: null
     button:
@@ -53,6 +53,4 @@ highlightCards:
       image: ../images/upcoming-events_event-landing-page-graphic.png
       alt: Illustration of a calendar page with the number 15
 ---
-# Events and Conferences
-
-Welcome to the Events & Conferences landing page!
+**Event Inquiries**: For event inquiries, please email FEHRM Communications, at [fehrmcommunications@va.gov](mailto:fehrmcommunications@va.gov).
