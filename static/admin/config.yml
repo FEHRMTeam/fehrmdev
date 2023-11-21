@@ -97,13 +97,13 @@ collections:
           - label: 'Highlight Cards'
             name: 'highlightCards'
             min: 6
-            allow_add: true
+            allow_add: false
             add_to_top: true
             widget: "list"
             summary: '{{fields.heading}}'
             hint: Six cards required. Only the first six cards (from the top) will display on the page.
             fields:
-              - { label: 'Heading', name: 'heading', widget: 'string', hint: "Max limit of 45 characters.", pattern: ['^.{1,45}$', "Exceeds 45 max character limit."] }
+              - { label: 'Heading', name: 'heading', widget: 'string', hint: "Max limit of 50 characters.", pattern: ['^.{1,50}$', "Exceeds 50 max character limit."] }
               - { label: 'Description', name: 'description', widget: 'string', hint: "Max limit of 100 characters.", pattern: ['^.{1,100}$', "Exceeds 100 max character limit."], required: false }
               - label: "Button"
                 name: "button"
@@ -136,7 +136,7 @@ collections:
           - label: 'Highlight Cards'
             name: 'highlightCards'
             min: 4
-            allow_add: true
+            allow_add: false
             add_to_top: true
             widget: "list"
             summary: '{{fields.heading}}'
@@ -164,7 +164,6 @@ collections:
                       config:
                         mulitple: false
                   - { label: 'Alternative text', name: 'alt', widget: 'string' }
-          - { label: 'BottomText', name: 'bottomtext', widget: 'markdown' }
 
   - name: home
     label: Homepage
