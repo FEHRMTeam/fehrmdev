@@ -34,8 +34,11 @@ const CardPage = ({ data }) => {
               <main id="main-content"
                 className={"usa-layout-docs__main desktop:grid-col-12 " + (frontmatter.title === "Leadership" ? "profile-images" : "")}
               >
-                <div className={"usa-prose"} dangerouslySetInnerHTML={{ __html: html }} />
+                <div className={"usa-prose"}>
+                  <h1 dangerouslySetInnerHTML={{ __html: frontmatter.title }} /> 
+                </div> 
                 <CardsInternal cardsContent={frontmatter.highlightCards} />
+                <div className={"usa-prose fullwidth"} dangerouslySetInnerHTML={{ __html: html }} />
               </main>
             </div>
           </div>

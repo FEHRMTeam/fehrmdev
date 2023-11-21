@@ -2,10 +2,10 @@ import React from 'react';
 import useSiteMetadata from '../hooks/use-site-metadata';
 
 /*
-  This card will appear in your homepage cards section
+  This card will appear in your homepage cards section as well as any internal card pages
 */
 
-const Card = ({ cardContent }) => {
+const Card = ({ cardContent, className }) => {
   const { basePath } = useSiteMetadata();
 
   const getUrl = () => (
@@ -16,8 +16,12 @@ const Card = ({ cardContent }) => {
     ))
   );
 
+  const getClassName = () => (
+    (className === "grid-col-6" ? "usa-card tablet:grid-col-6" : "usa-card tablet:grid-col-4")
+  );
+
   return (
-  <li className="usa-card tablet:grid-col-4">
+  <li className={getClassName()}>
     <div className="usa-card__container">
       <div className="usa-card__header">
         <h2 className="usa-card__heading">{cardContent.heading}</h2>

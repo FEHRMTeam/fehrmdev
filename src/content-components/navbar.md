@@ -113,7 +113,7 @@ navMenuItems:
         newTab: false
   - label: Media
     linkType: internal
-    linkUrl: /
+    linkUrl: /media
     newTab: false
     subMenuItems:
       - label: In the News

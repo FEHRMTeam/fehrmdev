@@ -10,9 +10,9 @@ const Cards = ({ cardsContent }) => {
     return (
       <section className="grid-container usa-section padding-bottom-0">
         <ul className="usa-card-group">
-          <Card cardContent={cardsContent[0]} />
-          <Card cardContent={cardsContent[1]} />
-          <Card cardContent={cardsContent[2]} />
+          <Card cardContent={cardsContent[0]} className={"grid-col-4"} />
+          <Card cardContent={cardsContent[1]} className={"grid-col-4"} />
+          <Card cardContent={cardsContent[2]} className={"grid-col-4"} />
         </ul>
       </section>
     )

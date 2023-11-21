@@ -186,6 +186,12 @@ $theme-color-primary-darker: #35034E;
 }
 /* End Page Template */
 
+/* Card Page Template */
+.fullwidth p {
+  max-width: 100%;
+}
+/* End Card Page Template */
+
 /* Form (Touchpoints) */
 #fehrm-ask-an-expert-form .fba-modal-dialog {
   margin-left: 0px;
