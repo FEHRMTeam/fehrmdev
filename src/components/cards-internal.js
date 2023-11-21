@@ -10,12 +10,12 @@ const CardsInternal = ({ cardsContent }) => {
     return (
       <section className="grid-container usa-section padding-bottom-0">
         <ul className="usa-card-group">
-          <Card cardContent={cardsContent[0]} />
-          <Card cardContent={cardsContent[1]} />
-          <Card cardContent={cardsContent[2]} />
-          <Card cardContent={cardsContent[3]} />
-          <Card cardContent={cardsContent[4]} />
-          <Card cardContent={cardsContent[5]} />
+          <Card cardContent={cardsContent[0]} className={"grid-col-4"} />
+          <Card cardContent={cardsContent[1]} className={"grid-col-4"} />
+          <Card cardContent={cardsContent[2]} className={"grid-col-4"} />
+          <Card cardContent={cardsContent[3]} className={"grid-col-4"} />
+          <Card cardContent={cardsContent[4]} className={"grid-col-4"} />
+          <Card cardContent={cardsContent[5]} className={"grid-col-4"} />
         </ul>
       </section>
     )
@@ -23,10 +23,10 @@ const CardsInternal = ({ cardsContent }) => {
     return (
       <section className="grid-container usa-section padding-bottom-0">
         <ul className="usa-card-group">
-          <Card cardContent={cardsContent[0]} />
-          <Card cardContent={cardsContent[1]} />
-          <Card cardContent={cardsContent[2]} />
-          <Card cardContent={cardsContent[3]} />
+          <Card cardContent={cardsContent[0]} className={"grid-col-6"} />
+          <Card cardContent={cardsContent[1]} className={"grid-col-6"} />
+          <Card cardContent={cardsContent[2]} className={"grid-col-6"} />
+          <Card cardContent={cardsContent[3]} className={"grid-col-6"} />
         </ul>
       </section>
     )
