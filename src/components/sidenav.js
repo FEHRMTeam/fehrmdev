@@ -11,7 +11,13 @@ const Sidenav = ({ content, currentPage }) => (
     <nav>
       <ul className="usa-sidenav">
         <li className="usa-sidenav__item">
-          <div className="sidenav-parent">{content.label}</div>
+          {content.linkUrl != '/' ? (
+              <Link className="sidenav-parent" to={content.linkUrl}>{content.label}</Link>
+            ) : (
+              <div className="sidenav-parent">{content.label}</div>
+            )
+          }
+
           <ul className="usa-sidenav__sublist">
             {content.subMenuItems &&
               content.subMenuItems.length > 0 &&
