@@ -44,11 +44,11 @@ highlightCards:
       image: ../images/the-state-of-the-federal-ehr_event-landing-page-graphic.png
       alt: Top down illustration of 4 individuals working and collaborating around a
         round table
-  - heading: Upcoming Events
+  - heading: Submit a Speaker Request
     description: null
     button:
       text: Learn more
-      url: /
+      url: /speaker-request/
     cardImage:
       image: ../images/upcoming-events_event-landing-page-graphic.png
       alt: Illustration of a calendar page with the number 15
