@@ -15,15 +15,9 @@ Arlington, VA 22209
 
 (703) 588-8761
 
-[[[ dana.crudo.civ@health.mil](../images/dana.crudo.civ@health.mil)](dha.ncr.peo-ipo.mbx.fehrm@mail.mil)](mailto:dha.ncr.peo-ipo.mbx.fehrm@mail.mil)
+[[[ [dana.crudo.civ@health.mil](dana.crudo.civ@health.mil)](../images/dana.crudo.civ@health.mil)]([dha.ncr.peo-ipo.mbx.fehrm@mail.mil](dha.ncr.peo-ipo.mbx.fehrm@mail.mil))]([mailto:dha.ncr.peo-ipo.mbx.fehrm@mail.mil](mailto:dha.ncr.peo-ipo.mbx.fehrm@mail.mil))
 
-[[www.linkedin.com/company/fehrm](www.linkedin.com/company/fehrm)](http://www.linkedin.com/company/fehrm)
-
-
-
-
-
-
+[[[www.linkedin.com/company/fehrm](www.linkedin.com/company/fehrm)](www.linkedin.com/company/fehrm)]([http://www.linkedin.com/company/fehrm](http://www.linkedin.com/company/fehrm))
 
 # Ask the FEHRM
 
@@ -33,6 +27,6 @@ Let us know if you have any questions.
 
 <div id="fehrm-ask-an-expert-form"></div>
 
-<script src="https://touchpoints.app.cloud.gov/touchpoints/a4657bcd.js" async></script>
+<script src="https://touchpoints.app.cloud.gov/touchpoints/a4657bcd.js" defer></script>
 
 <!--EndForm-->
