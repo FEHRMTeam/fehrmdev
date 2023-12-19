@@ -161,4 +161,8 @@ navMenuItems:
         linkType: internal
         linkUrl: /hl7-government-birds-of-a-feather
         newTab: false
+      - newTab: false
+        label: Submit a Speaker Request
+        linkType: internal
+        linkUrl: /speaker-request
 ---
