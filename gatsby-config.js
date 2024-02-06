@@ -138,6 +138,13 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
+        name: `survey-pages`,
+        path: `${__dirname}/src/survey-pages`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
         name: `homepage`,
         path: `${__dirname}/src/homepage`,
       },
