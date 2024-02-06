@@ -1,10 +1,13 @@
 import { Link } from 'gatsby';
 import React from 'react';
-
 import close from 'uswds/img/close.svg';
 import SearchForm from './search-form';
+import useSiteMetadata from '../hooks/use-site-metadata';
 
-const Nav = ({ navMenuItems, secondaryLinks }) => (
+const Nav = ({ navMenuItems, secondaryLinks }) => {
+  const { basePath } = useSiteMetadata();
+
+  return(
   <nav role="navigation" className="usa-nav">
     <div className="usa-nav__inner">
       <button className="usa-nav__close">
@@ -43,7 +46,7 @@ const Nav = ({ navMenuItems, secondaryLinks }) => (
                     <li key={idx} className="usa-nav__submenu-item fehrm-nav-submenu">
                       {(navItem.linkType === "internal" ? (
                         navItem.label === "Contact Us" || navItem.label === "Submit a Speaker Request" ? 
-                          (<a href={navItem.linkUrl}>{navItem.label}</a>)
+                          (<a href={`${basePath}${navItem.linkUrl}`}>{navItem.label}</a>)
                         : (<Link to={navItem.linkUrl}>{navItem.label}</Link>)
                         ) : (
                           navItem.newTab ? (
@@ -85,6 +88,6 @@ const Nav = ({ navMenuItems, secondaryLinks }) => (
       </div>
     </div>
   </nav>
-);
+)};
 
 export default Nav;

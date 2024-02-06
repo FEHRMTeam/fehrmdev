@@ -1,12 +1,16 @@
 import React from 'react';
 import { Link } from 'gatsby';
+import useSiteMetadata from '../hooks/use-site-metadata';
 
 /*
   The sidenav is not loaded by default on the main pages. To include this navigation you can
   add "sidenav: true" in the front-matter of your markdown pages
 */
 
-const Sidenav = ({ content, currentPage }) => (
+const Sidenav = ({ content, currentPage }) => {
+  const { basePath } = useSiteMetadata();
+
+  return (
   <aside className="usa-layout-docs-sidenav desktop:grid-col-3 padding-bottom-4">
     <nav>
       <ul className="usa-sidenav">
@@ -28,7 +32,7 @@ const Sidenav = ({ content, currentPage }) => (
                       <li className="usa-sidenav__item" key={subMenuItem.label + idx}>
                         { 
                           (subMenuItem.label === "Contact Us" || subMenuItem.label === "Submit a Speaker Request") ? 
-                            <a className={subMenuItem.label === currentPage ? "usa-current" : ""} href={subMenuItem.linkUrl}>{subMenuItem.label}</a> 
+                            <a className={subMenuItem.label === currentPage ? "usa-current" : ""} href={`${basePath}${subMenuItem.linkUrl}`}>{subMenuItem.label}</a> 
                           :
                           <Link
                             to={subMenuItem.linkUrl}
@@ -46,6 +50,6 @@ const Sidenav = ({ content, currentPage }) => (
       </ul>
     </nav>
   </aside>
-);
+)};
 
 export default Sidenav;
