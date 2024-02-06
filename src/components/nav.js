@@ -42,7 +42,9 @@ const Nav = ({ navMenuItems, secondaryLinks }) => (
                   {navGroup.subMenuItems.map((navItem, idx) => (
                     <li key={idx} className="usa-nav__submenu-item fehrm-nav-submenu">
                       {(navItem.linkType === "internal" ? (
-                        <Link to={navItem.linkUrl}>{navItem.label}</Link>
+                        navItem.label === "Contact Us" || navItem.label === "Submit a Speaker Request" ? 
+                          (<a href={navItem.linkUrl}>{navItem.label}</a>)
+                        : (<Link to={navItem.linkUrl}>{navItem.label}</Link>)
                         ) : (
                           navItem.newTab ? (
                             <a
