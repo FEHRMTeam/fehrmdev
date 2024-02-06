@@ -39,6 +39,7 @@ exports.createPages = async ({ actions, graphql }) => {
   await createMarkdownPages(createPage, graphql);
   await createMarkdownListPages(createPage, graphql);
   await createMarkdownCardPages(createPage, graphql);
+  await createMarkdownSurveyPages(createPage, graphql);
 };
 
 async function createBlogPages(createPage, graphql) {
@@ -100,6 +101,21 @@ async function createMarkdownListPages(createPage, graphql) {
 async function createMarkdownCardPages(createPage, graphql){
   const pageTemplate = path.resolve('./src/templates/card-page.js');
   const pages = await markdownQuery(graphql, 'card-pages');
+
+  pages.forEach(({ node }) => {
+    createPage({
+      path: node.fields.name,
+      component: pageTemplate,
+      context: {
+        name: node.fields.name
+      },
+    });
+  });
+}
+
+async function createMarkdownSurveyPages(createPage, graphql){
+  const pageTemplate = path.resolve('./src/templates/survey-page.js');
+  const pages = await markdownQuery(graphql, 'survey-pages');
 
   pages.forEach(({ node }) => {
     createPage({
