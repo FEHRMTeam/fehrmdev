@@ -2,6 +2,8 @@
 title: Contact Us
 sidenav: true
 parent: About
+surveyLink: https://touchpoints.app.cloud.gov/touchpoints/a4657bcd.js
+surveyId: fehrm-ask-an-expert-form
 ---
 # Contact Us
 
@@ -22,11 +24,3 @@ Arlington, VA 22209
 # Ask the FEHRM
 
 Let us know if you have any questions.
-
-<!--StartForm-->
-
-<div id="fehrm-ask-an-expert-form"></div>
-
-<script src="https://touchpoints.app.cloud.gov/touchpoints/a4657bcd.js" defer></script>
-
-<!--EndForm-->
