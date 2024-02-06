@@ -26,11 +26,16 @@ const Sidenav = ({ content, currentPage }) => (
                   <React.Fragment key={subMenuItem.label + idx}>
                     {subMenuItem.label !== " " && (
                       <li className="usa-sidenav__item" key={subMenuItem.label + idx}>
-                        <Link
-                          to={subMenuItem.linkUrl}
-                          className={subMenuItem.label === currentPage ? "usa-current" : ""}>
-                            {subMenuItem.label}
-                        </Link>
+                        { 
+                          (subMenuItem.label === "Contact Us" || subMenuItem.label === "Submit a Speaker Request") ? 
+                            <a className={subMenuItem.label === currentPage ? "usa-current" : ""} href={subMenuItem.linkUrl}>{subMenuItem.label}</a> 
+                          :
+                          <Link
+                            to={subMenuItem.linkUrl}
+                            className={subMenuItem.label === currentPage ? "usa-current" : ""}>
+                              {subMenuItem.label}
+                          </Link>
+                        }
                       </li>
                     )}
                   </React.Fragment>
