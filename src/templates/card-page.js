@@ -36,6 +36,7 @@ const CardPage = ({ data }) => {
               >
                 <div className={"usa-prose"}>
                   <h1 dangerouslySetInnerHTML={{ __html: frontmatter.title }} /> 
+                  <div dangerouslySetInnerHTML={{ __html: frontmatter.intro }} />
                 </div> 
                 <CardsInternal cardsContent={frontmatter.highlightCards} />
                 <div className={"usa-prose fullwidth"} dangerouslySetInnerHTML={{ __html: html }} />
@@ -60,6 +61,7 @@ const CardPage = ({ data }) => {
           title
           sidenav
           parent
+          intro
           highlightCards {
             description
             heading
