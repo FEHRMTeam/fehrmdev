@@ -121,7 +121,8 @@ collections:
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Sidenav', name: 'sidenav', widget: 'boolean' }
           - { label: 'Parent', name: 'parent', widget: 'string', hint: 'Enter parent page name. Used to display the appropriate side navigation' }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
+          - { label: 'Intro', name: 'intro', widget: 'markdown', hint: 'This text will display above the cards.' }
+          - { label: 'Body', name: 'body', widget: 'markdown', hint: 'This text will display below the cards.' }
           - label: 'Highlight Cards'
             name: 'highlightCards'
             min: 6
@@ -160,7 +161,8 @@ collections:
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Sidenav', name: 'sidenav', widget: 'boolean' }
           - { label: 'Parent', name: 'parent', widget: 'string', hint: 'Enter parent page name. Used to display the appropriate side navigation' }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
+          - { label: 'Intro', name: 'intro', widget: 'markdown', hint: 'This text will display above the cards.' }
+          - { label: 'Body', name: 'body', widget: 'markdown', hint: 'This text will display below the cards.' }
           - label: 'Highlight Cards'
             name: 'highlightCards'
             min: 4
