@@ -2,7 +2,7 @@
 title: Events and Conferences
 sidenav: false
 parent: Events/Conferences
-intro: Each year, the Federal Electronic Health Record Modernization office hosts events for our stakeholders and participates in key industry engagements. Learn more about each event by clicking the "Learn More" button below.
+intro: Each year, the Federal Electronic Health Record Modernization office hosts events for our stakeholders and participates in key industry engagements. Learn more about each event by clicking below.
 highlightCards:
   - heading: Federal EHR Annual Summit
     description: null
