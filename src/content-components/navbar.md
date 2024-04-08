@@ -92,7 +92,7 @@ navMenuItems:
         newTab: false
   - label: Congressional Information
     linkType: internal
-    linkUrl: /
+    linkUrl: /congressional
     newTab: false
     subMenuItems:
       - label: Congressional Reports
