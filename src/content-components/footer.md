@@ -30,7 +30,7 @@ footerLink5:
   newTab: true
 footerLink6:
   label: Defense Healthcare Management Systems
-  linkUrl: https://www.health.mil/About-MHS/OASDHA/Defense-Health-Agency/Defense-Healthcare-Management-Systems
+  linkUrl: https://www.health.mil/Military-Health-Topics/Technology/PEO-DHMS
   linkType: external
   newTab: true
 title: Footer
