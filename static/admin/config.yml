@@ -131,7 +131,7 @@ collections:
             summary: '{{fields.heading}}'
             hint: Six cards required. Only the first six cards (from the top) will display on the page.
             fields:
-              - { label: 'Heading', name: 'heading', widget: 'string', hint: "Max limit of 50 characters.", pattern: ['^.{1,50}$', "Exceeds 50 max character limit."] }
+              - { label: 'Heading', name: 'heading', widget: 'string', hint: "Max limit of 75 characters.", pattern: ['^.{1,75}$', "Exceeds 75 max character limit."] }
               - { label: 'Description', name: 'description', widget: 'string', hint: "Max limit of 100 characters.", pattern: ['^.{1,100}$', "Exceeds 100 max character limit."], required: false }
               - label: "Button"
                 name: "button"
@@ -171,7 +171,7 @@ collections:
             summary: '{{fields.heading}}'
             hint: Four cards required. Only the first four cards (from the top) will display on the page.
             fields:
-              - { label: 'Heading', name: 'heading', widget: 'string', hint: "Max limit of 45 characters.", pattern: ['^.{1,45}$', "Exceeds 45 max character limit."] }
+              - { label: 'Heading', name: 'heading', widget: 'string', hint: "Max limit of 75 characters.", pattern: ['^.{1,75}$', "Exceeds 75 max character limit."] }
               - { label: 'Description', name: 'description', widget: 'string', hint: "Max limit of 100 characters.", pattern: ['^.{1,100}$', "Exceeds 100 max character limit."], required: false }
               - label: "Button"
                 name: "button"
@@ -211,7 +211,7 @@ collections:
             summary: '{{fields.heading}}'
             hint: Four cards required. Only the first four cards (from the top) will display on the page.
             fields:
-              - { label: 'Heading', name: 'heading', widget: 'string', hint: "Max limit of 45 characters.", pattern: ['^.{1,45}$', "Exceeds 45 max character limit."] }
+              - { label: 'Heading', name: 'heading', widget: 'string', hint: "Max limit of 75 characters.", pattern: ['^.{1,75}$', "Exceeds 75 max character limit."] }
               - { label: 'Description', name: 'description', widget: 'string', hint: "Max limit of 100 characters.", pattern: ['^.{1,100}$', "Exceeds 100 max character limit."], required: false }
               - label: "Button"
                 name: "button"
