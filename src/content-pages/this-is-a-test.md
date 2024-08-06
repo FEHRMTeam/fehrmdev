@@ -5,7 +5,7 @@ parent: N/A
 ---
 # T﻿est Page
 
-T﻿his is a test after migrating to Pages. Edited again Addi
+T﻿his is a test after migrating to Pages. Edited again Adding
 
 - 
 [This](../images/account-settings-_-tts-slack.pdf)
