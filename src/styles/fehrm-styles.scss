@@ -1,0 +1,206 @@
+@use "uswds-core" as *;
+
+// Your custom SASS/CSS goes here
+@media screen and (min-width: 640px) {
+    .tablet\:width-1\/3 {
+      width: 33%;
+    }
+    .tablet\:float-left {
+      float: left;
+    }
+  }
+  
+  @media screen and (min-width: 640px) {
+    .paginate-link {
+      display: initial;
+    }
+    .paginate-button {
+      display: none;
+    }
+  }
+  
+  @media screen and (max-width: 640px) {
+    .paginate-link {
+      display: none;
+    }
+    .paginate-button {
+      display: block;
+    }
+  }
+  
+  @media (min-width:64em) {
+    // Navigation
+    .usa-nav {
+      .usa-nav__primary .usa-accordion__button span {
+        display: flex;
+        align-items: center;
+      }
+  
+      .usa-nav__secondary {
+        bottom: 5.5rem;
+      }
+    }
+  }
+  
+  @media (max-width: 63.99em) {
+    // sidebar navigation
+    .usa-nav__primary a:not(.usa-button):not(.usa-current):not(.usa-nav__link):not(:hover) {
+      color: #fff;
+    }
+  
+    .usa-nav__primary button[aria-expanded=true] span:after {
+      background-color: #fff;
+    }
+  }
+  
+  /* Home Page */
+  // Header
+  .usa-header {
+    background-color: $theme-color-primary-darker;
+  
+    .usa-logo a {
+      color: #ffffff;
+    }
+  }
+
+  @media (min-width: 64em) {
+    .usa-header--extended .usa-logo {
+      max-width: 50%;
+    }
+  }
+  
+  // Navigation
+  .usa-nav {
+    background-color: #ffffff;
+  
+    .usa-nav__secondary-links a {
+      color: #585859;
+    }
+  
+    .usa-accordion {
+      align-items: center;
+    }
+  
+    .usa-nav__submenu, .usa-nav__primary button[aria-expanded="true"],
+    .usa-nav__primary-item .usa-current::after, .usa-nav__primary-item .usa-nav__link:hover::after {
+      background-color: $theme-color-primary-darker;
+      color: #fff;
+    }
+  
+    .usa-nav__primary button[aria-expanded="false"]:hover,
+    .usa-nav__primary .usa-nav__primary-item a.usa-nav__link:hover {
+      color: $theme-color-primary-darker;
+    }
+  
+    .usa-nav__primary a {
+      background-image: none;
+    }
+  
+    .fehrm-nav-overview a {
+      color: #fff;
+      text-transform: uppercase;
+      font-weight: bold;
+      border-bottom: 1px solid #fff;
+      display: block;
+    }
+  
+    li.fehrm-nav-submenu {
+      padding-left: 5px;
+    }
+  }
+  
+  // Hero
+  .usa-hero {
+    max-width: 1730px;
+    margin: 0 auto;
+  }
+  
+  // CTA section
+  .usa-graphic-list .usa-media-block__img {
+    width: 124px;
+  }
+  
+  .usa-section--dark {
+    .usa-graphic-list__heading {
+      color: #ffffff;
+    }
+  }
+  
+  /* End Home Page */
+  
+  /* Page Template */
+  .usa-sidenav {
+    .usa-sidenav__item .sidenav-parent {
+      color: #565c65;
+      padding: 0.5rem 0rem;
+    }
+  
+    .usa-current {
+      color: $theme-color-primary-darker;
+    }
+  
+    .usa-sidenav__sublist .usa-current::after {
+      background-color: $theme-color-primary-darker;
+      border-radius: 99rem;
+      content: "";
+      display: block;
+      position: absolute;
+      bottom: 0.25rem;
+      top: 0.25rem;
+      width: 0.25rem;
+      left: 0;
+    }
+  }
+  
+  // Blanket styling for quotes on any content page
+  #main-content blockquote {
+    color: #585859;
+    font-style: italic;
+  }
+  
+  .profile-images img {
+    width: 150px;
+    float: left;
+    margin-right: 25px;
+  }
+  
+  .usa-card__container {
+    background: #E5E1E6;
+  }
+  /* End Page Template */
+  
+  /* Card Page Template */
+  .fullwidth p {
+    max-width: 100%;
+  }
+  /* End Card Page Template */
+  
+  /* Form (Touchpoints) */
+  #fehrm-ask-an-expert-form .fba-modal-dialog {
+    margin-left: 0px;
+  }
+  
+  #fehrm-speaker-request-form .fba-modal-dialog {
+    margin-left: 0px;
+  }
+  /* End Form (Touchpoints) */
+
+  /* Main FAQ Page */
+  .align-center {
+    align-items: center;
+  }
+
+  .align-text-center{
+    text-align: center;
+  }
+
+  .usa-prose .margin-top-0{
+    margin-top: 0;
+  }
+   /* End Main FAQ Page */
+  
+  /* Footer */
+  .usa-footer .footer-logo img {
+    width: 100%;
+  }
+  /* End Footer */

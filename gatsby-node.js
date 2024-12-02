@@ -40,6 +40,8 @@ exports.createPages = async ({ actions, graphql }) => {
   await createMarkdownListPages(createPage, graphql);
   await createMarkdownCardPages(createPage, graphql);
   await createMarkdownSurveyPages(createPage, graphql);
+  await createMarkdownFaqPages(createPage, graphql);
+  await createMainFaqPage(createPage, graphql);
 };
 
 async function createBlogPages(createPage, graphql) {
@@ -116,6 +118,36 @@ async function createMarkdownCardPages(createPage, graphql){
 async function createMarkdownSurveyPages(createPage, graphql){
   const pageTemplate = path.resolve('./src/templates/survey-page.js');
   const pages = await markdownQuery(graphql, 'survey-pages');
+
+  pages.forEach(({ node }) => {
+    createPage({
+      path: node.fields.name,
+      component: pageTemplate,
+      context: {
+        name: node.fields.name
+      },
+    });
+  });
+}
+
+async function createMainFaqPage(createPage, graphql){
+  const pageTemplate = path.resolve('./src/pages/faq.js');
+  const pages = await markdownQuery(graphql, 'faq');
+
+  pages.forEach(({ node }) => {
+    createPage({
+      path: node.fields.name,
+      component: pageTemplate,
+      context: {
+        name: node.fields.name
+      },
+    });
+  });
+}
+
+async function createMarkdownFaqPages(createPage, graphql){
+  const pageTemplate = path.resolve('./src/templates/faq-page.js');
+  const pages = await markdownQuery(graphql, 'faq-pages');
 
   pages.forEach(({ node }) => {
     createPage({

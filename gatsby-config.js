@@ -90,6 +90,12 @@ module.exports = {
             namedExport: false,
           },
         },
+        sassOptions: {
+          includePaths: [
+            "./node_modules/@uswds",
+            "./node_modules/@uswds/uswds/packages",
+          ]
+        },
       },
     },
     `gatsby-plugin-react-helmet`,
@@ -126,6 +132,13 @@ module.exports = {
       options: {
         name: `list-pages`,
         path: `${__dirname}/src/list-pages`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `faq-pages`,
+        path: `${__dirname}/src/faq-pages`,
       },
     },
     {

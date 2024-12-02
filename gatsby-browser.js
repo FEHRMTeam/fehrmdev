@@ -4,7 +4,7 @@
  * See: https://www.gatsbyjs.org/docs/browser-apis/
  */
 import './src/styles/index.scss';
-import 'uswds';
+import './node_modules/@uswds/uswds/dist/js/uswds.js';
 
 import { siteMetadata } from './gatsby-config';
 

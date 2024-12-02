@@ -1,6 +1,6 @@
 import { Link } from 'gatsby';
 import React from 'react';
-import close from 'uswds/img/close.svg';
+import close from '../../node_modules/@uswds/uswds/dist/img/usa-icons/close.svg';
 import SearchForm from './search-form';
 import useSiteMetadata from '../hooks/use-site-metadata';
 

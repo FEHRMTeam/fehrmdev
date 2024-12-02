@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import navigateBefore from 'uswds/img/usa-icons/navigate_before.svg';
-import navigateNext from 'uswds/img/usa-icons/navigate_next.svg';
+import navigateBefore from '../../node_modules/@uswds/uswds/dist/img/usa-icons/navigate_before.svg';
+import navigateNext from '../../node_modules/@uswds/uswds/dist/img/usa-icons/navigate_next.svg';
 import { Link } from 'gatsby';
 
 function PageLink({ current, pageNumber, path }) {
