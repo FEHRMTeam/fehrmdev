@@ -137,6 +137,13 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
+        name: `faq-pages`,
+        path: `${__dirname}/src/faq-pages`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
         name: `card-pages`,
         path: `${__dirname}/src/card-pages`,
       },

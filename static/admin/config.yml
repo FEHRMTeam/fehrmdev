@@ -28,6 +28,32 @@ collections:
       - { label: 'Parent', name: 'parent', widget: 'string', hint: 'Enter parent page name. Used to display the appropriate side navigation' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
+  - name: faqs
+    label: FAQ Topic Pages
+    label_singular: FAQ Topic Page
+    folder: src/faq-pages
+    create: true
+    preview_path: '{{slug}}'
+    editor:
+      preview: false
+    public_folder: ../images
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Sidenav', name: 'sidenav', widget: 'boolean' }
+      - { label: 'Parent', name: 'parent', widget: 'string', hint: 'Enter parent page name. Used to display the appropriate side navigation' }
+      - { label: 'Category Name', name: 'category', widget: 'string' }
+      - label: 'Questions and Answers'
+        name: 'faqQuestions'
+        min: 1
+        allow_add: true
+        add_to_top: true
+        widget: "list"
+        summary: '{{fields.heading}}'
+        hint: At least one question and answer is required.
+        fields:
+          - { label: 'Question', name: 'question', widget: 'markdown' }
+          - { label: 'Answer', name: 'answer', widget: 'markdown' }
+
   - name: surveyPages
     label: Survey Pages
     extension: md
