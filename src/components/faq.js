@@ -13,7 +13,7 @@ const Faq = ({ content, uid, expand }) => {
                 {content.question}
             </button>
         </h3>
-        <div id={uid} className="usa-accordion__content usa-prose" hidden={( expand === false ? "hidden" : "")}>
+        <div id={uid} className="usa-accordion__content" hidden={( expand === false ? "hidden" : "")}>
             <p dangerouslySetInnerHTML={{ __html: content.answer}}></p>
         </div>
     </>
