@@ -62,6 +62,12 @@
       color: #ffffff;
     }
   }
+
+  @media (min-width: 64em) {
+    .usa-header--extended .usa-logo {
+      max-width: 50%;
+    }
+  }
   
   // Navigation
   .usa-nav {
@@ -178,6 +184,20 @@
     margin-left: 0px;
   }
   /* End Form (Touchpoints) */
+
+  /* Main FAQ Page */
+  .align-center {
+    align-items: center;
+  }
+
+  .align-text-center{
+    text-align: center;
+  }
+
+  .usa-prose .margin-top-0{
+    margin-top: 0;
+  }
+   /* End Main FAQ Page */
   
   /* Footer */
   .usa-footer .footer-logo img {
