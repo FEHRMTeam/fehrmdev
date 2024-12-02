@@ -3,6 +3,7 @@ title: Frequently Asked Questions
 sidenav: true
 parent: About
 category: Joint Sharing Sites
+sortOrder: 7
 faqQuestions:
   - question: What are joint sharing sites?
     answer: Department of Defense (DOD)/Department of Veterans Affairs (VA) sharing sites, also known as joint sharing sites, are medical facilities where DOD and VA collaborate to support health care delivery to Veterans, Service members and their beneficiaries. DOD and VA medical sharing varies significantly from facility to facility—from providers, clinical, janitorial and administrative staff to physical space, processes and technologies.<br /><br />The least integrated joint sharing sites may only share custodial services or coordinate purchases of supplies, while more tightly integrated joint sharing sites embed providers in the other Department’s space, coordinate care and treatment options and access the other Department’s electronic health record (EHR) to document care and submit clinical orders (until the Departments are using the same single, common federal EHR). The most highly integrated joint sharing site is the Captain James A. Lovell Federal Health Care Center (Lovell FHCC) in North Chicago, Illinois.

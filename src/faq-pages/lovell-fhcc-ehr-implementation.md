@@ -3,6 +3,7 @@ title: Frequently Asked Questions
 sidenav: true
 parent: About
 category: Lovell FHCC EHR Implementation
+sortOrder: 6
 faqQuestions:
   - question: Who is involved with the deployment of the federal EHR at Lovell FHCC?
     answer: The deployment of the single, common federal EHR at Lovell FHCC is led by the FEHRM in collaboration with the DOD Healthcare Management Systems Modernization (DHMSM) Program Management Office, VA’s Electronic Health Record Modernization Integration Office and Lovell FHCC stakeholders. The resulting EHR will be a true federal EHR, not a DOD system nor a VA system.

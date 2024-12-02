@@ -42,6 +42,7 @@ collections:
       - { label: 'Sidenav', name: 'sidenav', widget: 'boolean' }
       - { label: 'Parent', name: 'parent', widget: 'string', hint: 'Enter parent page name. Used to display the appropriate side navigation' }
       - { label: 'Category Name', name: 'category', widget: 'string' }
+      - { label: 'Sort Order', name: 'sortOrder', widget: 'number', value_type: 'int', hint: 'This is used to determine the display order of the categories on the main FAQ page' }
       - label: 'Questions and Answers'
         name: 'faqQuestions'
         min: 1

@@ -20,7 +20,6 @@ const FaqPage = ({ data }) => {
   };
 
   return (
-    // <><Script id="uswds-init" src="../../node_modules/@uswds/uswds/dist/js/uswds-init.js" />
     <Layout
       headerTitle={headerContent.frontmatter.headerTitle}>
       <SEO title={frontmatter.title} />
@@ -37,7 +36,7 @@ const FaqPage = ({ data }) => {
             >
               <div className={"usa-prose"}>
                 <h1>{frontmatter.title}</h1>
-                <h2>{frontmatter.category}</h2>
+                <h2 className="margin-top-0 padding-top-2 padding-bottom-2">{frontmatter.category}</h2>
                 <Faqs content={frontmatter.faqQuestions} />
               </div>
             </main>
@@ -62,6 +61,7 @@ export const faqPageQuery = graphql`
         sidenav
         parent
         category
+        sortOrder
         faqQuestions{
           question
           answer

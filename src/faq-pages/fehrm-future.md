@@ -3,6 +3,7 @@ title: Frequently Asked Questions
 sidenav: true
 parent: About
 category: FEHRM Future
+sortOrder: 2
 faqQuestions:
   - question: Will the Federal Electronic Health Record Modernization office collaborate with the Office of the National Coordinator for Health Information Technology and standards development organizations?
     answer: Yes, the Federal Electronic Health Record Modernization office engages with federal and national standards organizations, including the Office of the National Coordinator for Health Information Technology, and private sector partners to advance interoperability standards that enable the exchange of information across all sectors of the industry and government, a key driver to effective transformation. This effort improves the continuity of care among and between public and private sector providers.
