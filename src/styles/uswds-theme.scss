@@ -1,0 +1,21 @@
+@use "uswds-core" with (
+    /*
+    These are necessary for the image and font urls referenced in the source
+    files to resolve correctly.
+    */
+    $theme-image-path: '../../node_modules/@uswds/uswds/dist/img',
+    $theme-font-path: '../../node_modules/@uswds/uswds/dist/fonts',
+
+    /*
+    The url for the hero image in the source file is not currently prefixed by
+    the $theme-image-path above.
+    */
+
+    $theme-hero-image: '../images/home-hero.png',
+
+    // Your custom changes to variables go here
+    $theme-color-primary: #7A4383,
+    $theme-color-primary-dark: #623669,
+    $theme-color-primary-darker: #35034E,
+
+)

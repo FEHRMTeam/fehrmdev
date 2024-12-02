@@ -90,6 +90,12 @@ module.exports = {
             namedExport: false,
           },
         },
+        sassOptions: {
+          includePaths: [
+            "./node_modules/@uswds",
+            "./node_modules/@uswds/uswds/packages",
+          ]
+        },
       },
     },
     `gatsby-plugin-react-helmet`,
