@@ -29,13 +29,13 @@ const FaqPage = ({ data }) => {
             {frontmatter.sidenav &&
               <Sidenav
                 content={currPageSideNav(frontmatter.parent)}
-                currentPage={frontmatter.title} />}
+                currentPage="Frequently Asked Questions" />}
 
             <main id="main-content"
               className={"usa-layout-docs__main desktop:grid-col-9 " + (frontmatter.title === "Leadership" ? "profile-images" : "")}
             >
               <div className={"usa-prose"}>
-                <h1>{frontmatter.title}</h1>
+                <h1>Frequently Asked Questions</h1>
                 <h2 className="margin-top-0 padding-top-2 padding-bottom-2">{frontmatter.category}</h2>
                 <Faqs content={frontmatter.faqQuestions} />
               </div>
@@ -65,6 +65,7 @@ export const faqPageQuery = graphql`
         faqQuestions{
           question
           answer
+          questionid
         }
       }
     }

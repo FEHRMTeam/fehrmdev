@@ -7,8 +7,6 @@ import Faq from './faq'
 
 const Faqs = ({ content }) => {
 
-const generateId = () => (typeof window !== `undefined` ? crypto.randomUUID() : "");
-
   return (
     <div className="usa-accordion usa-accordion--bordered" data-allow-multiple>
         {
@@ -17,8 +15,8 @@ const generateId = () => (typeof window !== `undefined` ? crypto.randomUUID() : 
           content.map (
             (contentItem) => (
                 (contentItem == content[0] ? 
-                    <Faq content={contentItem} uid={generateId()} expand={true} key={generateId()} /> :
-                    <Faq content={contentItem} uid={generateId()} expand={false} key={generateId()} />
+                    <Faq content={contentItem} expand={true} key={contentItem.questionid} /> :
+                    <Faq content={contentItem} expand={false} key={contentItem.questionid} />
                 )
                 
             )

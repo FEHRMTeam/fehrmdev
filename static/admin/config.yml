@@ -54,6 +54,7 @@ collections:
         fields:
           - { label: 'Question', name: 'question', widget: 'markdown' }
           - { label: 'Answer', name: 'answer', widget: 'markdown' }
+          - { label: 'Unique Identifier', name: 'questionid', widget: 'uuid', allow_regenerate: false }
 
   - name: surveyPages
     label: Survey Pages
