@@ -1,4 +1,5 @@
 import React from 'react';
+import MarkdownContent from './markdown';
 
 /*
   This FAQ will appear in FAQ pages
@@ -14,7 +15,7 @@ const Faq = ({ content, expand }) => {
             </button>
         </h3>
         <div id={content.questionid} className="usa-accordion__content" hidden={( expand === false ? "hidden" : "")}>
-            <p dangerouslySetInnerHTML={{ __html: content.answer}}></p>
+            <MarkdownContent content={content.answer} />
         </div>
     </>
   )
