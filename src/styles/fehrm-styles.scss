@@ -60,17 +60,12 @@
   
     .usa-logo a {
       color: #ffffff;
-
-      .header-logo {
-        max-height: 120px;
-      }
     }
   }
 
   @media (min-width: 64em) {
     .usa-header--extended .usa-logo {
       max-width: 50%;
-      margin: 1rem 0 1rem;
     }
   }
   
