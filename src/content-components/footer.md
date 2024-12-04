@@ -1,7 +1,7 @@
 ---
 templateKey: footer
 footerImage:
-  image: /images/fehrmlogo.png
+  image: /images/FEHRMHBDLogo.png
   imageAlt: Agency logo
 footerLink1:
   label: About Us
