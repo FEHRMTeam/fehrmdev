@@ -3,7 +3,7 @@ title: Joint Sharing Sites
 sidenav: true
 parent: About
 category: Joint Sharing Sites
-sortOrder: 7
+sortOrder: 5
 faqQuestions:
   - question: What are joint sharing sites?
     answer: >
