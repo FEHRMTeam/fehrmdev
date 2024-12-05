@@ -3,7 +3,7 @@ title: COVID-19 Response
 sidenav: true
 parent: About
 category: COVID-19 Response
-sortOrder: 4
+sortOrder: 2
 faqQuestions:
   - question: How has the data gained from the federal electronic health record and
       joint health information exchange been used to enhance health care? How
