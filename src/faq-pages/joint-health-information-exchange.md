@@ -3,7 +3,7 @@ title: Joint Health Information Exchange
 sidenav: true
 parent: About
 category: Joint Health Information Exchange
-sortOrder: 3
+sortOrder: 4
 faqQuestions:
   - question: What is the joint health information exchange?
     answer: >
