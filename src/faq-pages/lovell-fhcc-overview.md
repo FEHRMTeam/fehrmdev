@@ -3,7 +3,7 @@ title: Lovell FHCC Overview
 sidenav: true
 parent: About
 category: Lovell FHCC Overview
-sortOrder: 5
+sortOrder: 7
 faqQuestions:
   - question: What is the Captain James A. Lovell Federal Health Care Center?
     answer: >
