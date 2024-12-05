@@ -3,7 +3,7 @@ title: FEHRM Future
 sidenav: true
 parent: About
 category: FEHRM Future
-sortOrder: 2
+sortOrder: 3
 faqQuestions:
   - question: Will the Federal Electronic Health Record Modernization office
       collaborate with the Office of the National Coordinator for Health
