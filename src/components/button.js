@@ -17,15 +17,15 @@ const Button = ({ heading, url, className }) => {
   );
 
   const getClassName = () => (
-    (className === "grid-col-6" ? "usa-card tablet:grid-col-6" : "usa-card tablet:grid-col-6")
+    (className === "grid-col-6" ? "usa-card tablet:grid-col-6 minh-card" : "usa-card tablet:grid-col-6 minh-card")
   );
 
   return (
     <li className={getClassName()}>
       <a href={getUrl()}>
         <div className="usa-card__container align-center">
-            <div className="usa-card__header">
-                <h2 className="usa-card__heading align-text-center">{heading}</h2>
+            <div className="usa-card__body align-card-center">
+                <h2 className="align-text-center">{heading}</h2>
             </div>
         </div>
       </a>
