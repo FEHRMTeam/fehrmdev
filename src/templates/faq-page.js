@@ -37,10 +37,10 @@ const FaqPage = ({ data }) => {
               className={"usa-layout-docs__main desktop:grid-col-9 " + (frontmatter.title === "Leadership" ? "profile-images" : "")}
             >
               <div className={"usa-prose"}>
-                <h1>Frequently Asked Questions</h1>
+                <h1 id="topOfPage">Frequently Asked Questions</h1>
                 <h2 className="margin-top-0 padding-top-2 padding-bottom-2">{frontmatter.category}</h2>
                 <Faqs content={frontmatter.faqQuestions} />
-                <p><a href={`${basePath}/faq`}>Back to Frequently Asked Questions</a></p>
+                <p><a href="#topOfPage">Back to Top</a> | <a href={`${basePath}/faq`}>Return to Frequently Asked Questions</a></p>
               </div>
             </main>
           </div>
