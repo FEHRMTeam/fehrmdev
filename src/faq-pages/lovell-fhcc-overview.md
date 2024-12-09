@@ -1,7 +1,7 @@
 ---
 title: Lovell FHCC Overview
 sidenav: true
-parent: About
+parent: Frequently Asked Questions
 category: Lovell FHCC Overview
 sortOrder: 7
 faqQuestions:

@@ -1,7 +1,7 @@
 ---
 title: FEHRM Future
 sidenav: true
-parent: About
+parent: Frequently Asked Questions
 category: FEHRM Future
 sortOrder: 3
 faqQuestions:

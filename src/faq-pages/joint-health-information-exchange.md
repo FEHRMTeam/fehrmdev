@@ -1,7 +1,7 @@
 ---
 title: Joint Health Information Exchange
 sidenav: true
-parent: About
+parent: Frequently Asked Questions
 category: Joint Health Information Exchange
 sortOrder: 4
 faqQuestions:

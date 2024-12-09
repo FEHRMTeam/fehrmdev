@@ -29,7 +29,7 @@ const FaqPage = ({ data }) => {
             {frontmatter.sidenav &&
               <Sidenav
                 content={currPageSideNav(frontmatter.parent)}
-                currentPage="Frequently Asked Questions" />}
+                currentPage={frontmatter.title} />}
 
             <main id="main-content"
               className={"usa-layout-docs__main desktop:grid-col-9 " + (frontmatter.title === "Leadership" ? "profile-images" : "")}
@@ -38,6 +38,7 @@ const FaqPage = ({ data }) => {
                 <h1>Frequently Asked Questions</h1>
                 <h2 className="margin-top-0 padding-top-2 padding-bottom-2">{frontmatter.category}</h2>
                 <Faqs content={frontmatter.faqQuestions} />
+                <p><a href="/faq">Back to Frequently Asked Questions</a></p>
               </div>
             </main>
           </div>

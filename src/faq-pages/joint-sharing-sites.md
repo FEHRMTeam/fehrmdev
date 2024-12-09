@@ -1,7 +1,7 @@
 ---
 title: Joint Sharing Sites
 sidenav: true
-parent: About
+parent: Frequently Asked Questions
 category: Joint Sharing Sites
 sortOrder: 5
 faqQuestions:

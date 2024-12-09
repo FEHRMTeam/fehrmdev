@@ -1,7 +1,7 @@
 ---
 title: COVID-19 Response
 sidenav: true
-parent: About
+parent: Frequently Asked Questions
 category: COVID-19 Response
 sortOrder: 2
 faqQuestions:

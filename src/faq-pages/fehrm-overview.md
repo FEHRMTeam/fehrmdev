@@ -1,7 +1,7 @@
 ---
 title: FEHRM Overview
 sidenav: true
-parent: About
+parent: Frequently Asked Questions
 category: FEHRM Overview
 sortOrder: 1
 faqQuestions:
