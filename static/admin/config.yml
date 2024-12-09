@@ -407,6 +407,7 @@ collections:
                 { label: 'Link Type', name: 'linkType', widget: 'select', options: ['internal', 'external'] },
                 { label: 'Link URL', name: 'linkUrl', widget: 'string', hint: 'Use a relative URL (e.g. /about) if the link is an internal link.' },
                 { label: 'Open in new tab?', name: 'newTab', widget: 'boolean'},
+                { label: 'Show only in side nav?', name: 'sideNavOnly', widget: 'boolean'},
                 {
                   label: 'Submenu Items',
                   name: 'subMenuItems',

@@ -6,10 +6,12 @@ navMenuItems:
     linkType: internal
     linkUrl: /
     newTab: false
+    sideNavOnly: false
   - label: About
     linkType: internal
     linkUrl: /
     newTab: false
+    sideNavOnly: false
     subMenuItems:
       - label: What Is the FEHRM?
         linkType: internal
@@ -55,6 +57,7 @@ navMenuItems:
     linkType: internal
     linkUrl: /
     newTab: false
+    sideNavOnly: false
     subMenuItems:
       - label: Enhancing Your Care
         linkType: internal
@@ -68,6 +71,7 @@ navMenuItems:
     linkType: internal
     linkUrl: /
     newTab: false
+    sideNavOnly: false
     subMenuItems:
       - label: Enhancing Care Delivery
         linkType: internal
@@ -81,6 +85,7 @@ navMenuItems:
     linkType: internal
     linkUrl: /
     newTab: false
+    sideNavOnly: false
     subMenuItems:
       - label: Join the Federal EHR
         linkType: internal
@@ -94,6 +99,7 @@ navMenuItems:
     linkType: internal
     linkUrl: /congressional
     newTab: false
+    sideNavOnly: false
     subMenuItems:
       - label: Congressional Reports
         linkType: internal
@@ -115,6 +121,7 @@ navMenuItems:
     linkType: internal
     linkUrl: /media
     newTab: false
+    sideNavOnly: false
     subMenuItems:
       - label: In the News
         linkType: internal
@@ -136,6 +143,7 @@ navMenuItems:
     linkType: internal
     linkUrl: /events
     newTab: false
+    sideNavOnly: false
     subMenuItems:
       - label: Federal EHR Annual Summit
         linkType: internal
@@ -169,6 +177,7 @@ navMenuItems:
     linkType: internal
     linkUrl: /faq
     newTab: false
+    sideNavOnly: true
     subMenuItems:
       - label: FEHRM Overview
         linkType: internal

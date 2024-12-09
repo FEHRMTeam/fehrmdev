@@ -14,7 +14,7 @@ const Nav = ({ navMenuItems, secondaryLinks }) => {
         <img src={close} alt="close" />
       </button>
       <ul className="usa-accordion usa-nav__primary">
-        {navMenuItems.map((navGroup, idx) => {
+        {navMenuItems.filter(item => item.sideNavOnly != true).map((navGroup, idx) => {
         return (
           <li key={idx} className="usa-nav__primary-item">
             {navGroup.subMenuItems && navGroup.subMenuItems.length > 1 ? (
