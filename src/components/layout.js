@@ -33,6 +33,7 @@ const Layout = ({ children, headerTitle }) => {
             linkType
             linkUrl
             newTab
+            sideNavOnly
             subMenuItems {
               label
               linkType
