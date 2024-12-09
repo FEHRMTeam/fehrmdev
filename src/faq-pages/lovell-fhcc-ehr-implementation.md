@@ -1,7 +1,7 @@
 ---
 title: Lovell FHCC EHR Implementation
 sidenav: true
-parent: About
+parent: Frequently Asked Questions
 category: Lovell FHCC EHR Implementation
 sortOrder: 6
 faqQuestions:

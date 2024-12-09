@@ -165,4 +165,37 @@ navMenuItems:
         label: Submit a Speaker Request
         linkType: internal
         linkUrl: /speaker-request
+  - label: Frequently Asked Questions
+    linkType: internal
+    linkUrl: /faq
+    newTab: false
+    subMenuItems:
+      - label: FEHRM Overview
+        linkType: internal
+        linkUrl: /fehrm-overview
+        newTab: false
+      - label: COVID-19 Response
+        linkType: internal
+        linkUrl: /covid-response
+        newTab: false
+      - label: FEHRM Future
+        linkType: internal
+        linkUrl: /fehrm-future
+        newTab: false
+      - label: Joint Health Information Exchange
+        linkType: internal
+        linkUrl: /joint-health-information-exchange
+        newTab: false
+      - label: Joint Sharing Sites
+        linkType: internal
+        linkUrl: /joint-sharing-sites
+        newTab: false
+      - label: Lovell FHCC EHR Implementation
+        linkType: internal
+        linkUrl: /lovell-fhcc-ehr-implementation
+        newTab: false
+      - label: Lovell FHCC Overview
+        linkType: internal
+        linkUrl: /lovell-fhcc-overview
+        newTab: false
 ---
