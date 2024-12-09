@@ -5,6 +5,7 @@ import Layout from '../components/layout';
 import SEO from '../components/seo';
 import Sidenav from '../components/sidenav';
 import Faqs from '../components/faqs';
+import useSiteMetadata from '../hooks/use-site-metadata';
 
 /*
   This template is for a single FAQ page which consists of a category and multiple question and answer pairs
@@ -14,6 +15,7 @@ const FaqPage = ({ data }) => {
   const { pageContent, headerContent, navigation } = data;
   const { frontmatter, html } = pageContent;
   const { navMenuItems } = navigation.frontmatter;
+  const { basePath } = useSiteMetadata();
 
   const currPageSideNav = (pageParentName) => {
     return navMenuItems.filter(navMenuItem => navMenuItem.label === pageParentName)[0];
@@ -38,7 +40,7 @@ const FaqPage = ({ data }) => {
                 <h1>Frequently Asked Questions</h1>
                 <h2 className="margin-top-0 padding-top-2 padding-bottom-2">{frontmatter.category}</h2>
                 <Faqs content={frontmatter.faqQuestions} />
-                <p><a href="/faq">Back to Frequently Asked Questions</a></p>
+                <p><a href={`${basePath}/faq`}>Back to Frequently Asked Questions</a></p>
               </div>
             </main>
           </div>
