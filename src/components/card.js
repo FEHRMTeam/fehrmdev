@@ -17,7 +17,8 @@ const Card = ({ cardContent, className }) => {
   );
 
   const getClassName = () => (
-    (className === "grid-col-6" ? "usa-card tablet:grid-col-6" : "usa-card tablet:grid-col-4")
+    (className === "grid-col-6" ? "usa-card tablet:grid-col-6" :
+      className === "grid-col-6 grid-offset-3" ? "usa-card tablet:grid-col-6 grid-offset-3" : "usa-card tablet:grid-col-4")
   );
 
   return (
