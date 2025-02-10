@@ -43,6 +43,19 @@ collections:
       - { label: 'Parent', name: 'parent', widget: 'string', hint: 'Enter parent page name. Used to display the appropriate side navigation' }
       - { label: 'Category Name', name: 'category', widget: 'string' }
       - { label: 'Sort Order', name: 'sortOrder', widget: 'number', value_type: 'int', hint: 'This is used to determine the display order of the categories on the main FAQ page' }
+      - label: "FAQ Image"
+        name: "faqImage"
+        widget: "object"
+        summary: '{{fields.alt}}'
+        fields:
+          - label: "Image"
+            name: "image"
+            widget: "image"
+            choose_url: true
+            media_library:
+              config:
+                multiple: false
+          - { label: 'Alternative text', name: 'alt', widget: 'string' }
       - label: 'Questions and Answers'
         name: 'faqQuestions'
         min: 1

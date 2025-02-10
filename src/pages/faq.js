@@ -37,7 +37,7 @@ const FaqMainPage = ({ data }) => {
                     <section className="grid-container usa-section padding-bottom-0 padding-top-0">
                         <ul className="usa-card-group flex-align-center flex-align-stretch">
                         {faqs.map(faq => (
-                            <Button heading={faq.category} url={faq.path} key={faq.category} />
+                            <Button heading={faq.category} url={faq.path} key={faq.category} faqImage={faq.faqImage} />
                         ))} 
                         </ul>
                     </section>
@@ -60,6 +60,10 @@ export const faqQuery = graphql`
             node {
                 frontmatter {
                     category
+                    faqImage {
+                      image
+                      alt
+                    }
                 }
                 fields {
                     name

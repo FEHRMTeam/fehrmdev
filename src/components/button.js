@@ -5,7 +5,7 @@ import useSiteMetadata from '../hooks/use-site-metadata';
   This button will appear on the FAQ main page
 */
 
-const Button = ({ heading, url, className }) => {
+const Button = ({ heading, url, className, faqImage }) => {
   const { basePath } = useSiteMetadata();
 
   const getUrl = () => (
@@ -24,9 +24,17 @@ const Button = ({ heading, url, className }) => {
     <li className={getClassName()}>
       <a href={getUrl()}>
         <div className="usa-card__container align-center">
-            <div className="usa-card__body align-card-center">
-                <h2 className="align-text-center">{heading}</h2>
+          <div className="usa-card__media">
+            <div className="usa-card__img">
+              <img
+                src={faqImage.image}
+                alt={faqImage.alt}
+              />
             </div>
+          </div>
+          <div className="usa-card__body align-card-center">
+            <h2 className="align-text-center">{heading}</h2>
+          </div>
         </div>
       </a>
     </li>
