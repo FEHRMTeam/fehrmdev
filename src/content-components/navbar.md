@@ -37,10 +37,6 @@ navMenuItems:
         linkType: internal
         linkUrl: /success-stories
         newTab: false
-      - label: Publications
-        linkType: internal
-        linkUrl: /publications
-        newTab: false
       - label: Frequently Asked Questions
         linkType: internal
         linkUrl: /faq
@@ -131,9 +127,9 @@ navMenuItems:
         linkType: internal
         linkUrl: /press-releases
         newTab: false
-      - label: Media Inquiries
+      - label: Publications
         linkType: internal
-        linkUrl: /media-inquiries
+        linkUrl: /publications
         newTab: false
   - label: Events/Conferences
     linkType: internal
