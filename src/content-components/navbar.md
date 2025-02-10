@@ -9,7 +9,7 @@ navMenuItems:
     sideNavOnly: false
   - label: About
     linkType: internal
-    linkUrl: /
+    linkUrl: /about
     newTab: false
     sideNavOnly: false
     subMenuItems:
