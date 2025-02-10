@@ -9,7 +9,7 @@ navMenuItems:
     sideNavOnly: false
   - label: About
     linkType: internal
-    linkUrl: /
+    linkUrl: /about
     newTab: false
     sideNavOnly: false
     subMenuItems:
@@ -37,10 +37,6 @@ navMenuItems:
         linkType: internal
         linkUrl: /success-stories
         newTab: false
-      - label: Publications
-        linkType: internal
-        linkUrl: /publications
-        newTab: false
       - label: Frequently Asked Questions
         linkType: internal
         linkUrl: /faq
@@ -55,7 +51,7 @@ navMenuItems:
         newTab: false
   - label: For Patients
     linkType: internal
-    linkUrl: /
+    linkUrl: /for-patients
     newTab: false
     sideNavOnly: false
     subMenuItems:
@@ -69,7 +65,7 @@ navMenuItems:
         newTab: false
   - label: For Providers
     linkType: internal
-    linkUrl: /
+    linkUrl: /for-providers
     newTab: false
     sideNavOnly: false
     subMenuItems:
@@ -83,7 +79,7 @@ navMenuItems:
         newTab: false
   - label: For Federal Agencies
     linkType: internal
-    linkUrl: /
+    linkUrl: /for-agencies
     newTab: false
     sideNavOnly: false
     subMenuItems:
@@ -131,9 +127,9 @@ navMenuItems:
         linkType: internal
         linkUrl: /press-releases
         newTab: false
-      - label: Media Inquiries
+      - label: Publications
         linkType: internal
-        linkUrl: /media-inquiries
+        linkUrl: /publications
         newTab: false
   - label: Events/Conferences
     linkType: internal

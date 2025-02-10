@@ -17,7 +17,7 @@ const Nav = ({ navMenuItems, secondaryLinks }) => {
         {navMenuItems.filter(item => item.sideNavOnly != true).map((navGroup, idx) => {
         return (
           <li key={idx} className="usa-nav__primary-item">
-            {navGroup.subMenuItems && navGroup.subMenuItems.length > 1 ? (
+            {navGroup.subMenuItems && navGroup.subMenuItems.length >= 1 ? (
               <>
                 <button
                   className={`usa-accordion__button usa-nav__link ${

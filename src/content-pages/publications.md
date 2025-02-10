@@ -1,7 +1,7 @@
 ---
 title: Publications
 sidenav: true
-parent: About
+parent: Media
 ---
 # Publications
 
