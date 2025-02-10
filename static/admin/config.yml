@@ -141,9 +141,9 @@ collections:
       preview: false
     public_folder: ../images
     files:
-      - label: Events and Conferences
-        name: events
-        file: src/card-pages/events.md
+      - label: About
+        name: about
+        file: src/card-pages/about.md
         fields:
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Sidenav', name: 'sidenav', widget: 'boolean' }
@@ -152,52 +152,12 @@ collections:
           - { label: 'Body', name: 'body', widget: 'markdown', hint: 'This text will display below the cards.', required: false }
           - label: 'Highlight Cards'
             name: 'highlightCards'
-            min: 6
+            min: 9
             allow_add: false
             add_to_top: true
             widget: "list"
             summary: '{{fields.heading}}'
-            hint: Six cards required. Only the first six cards (from the top) will display on the page.
-            fields:
-              - { label: 'Heading', name: 'heading', widget: 'string', hint: "Max limit of 75 characters.", pattern: ['^.{1,75}$', "Exceeds 75 max character limit."] }
-              - { label: 'Description', name: 'description', widget: 'string', hint: "Max limit of 100 characters.", pattern: ['^.{1,100}$', "Exceeds 100 max character limit."], required: false }
-              - label: "Button"
-                name: "button"
-                widget: "object"
-                summary: '{{fields.text}}: {{fields.url}}'
-                fields:
-                  - { label: 'Text', name: 'text', widget: 'string', hint: "Max limit of 15 characters.", pattern: ['^.{1,15}$', "Exceeds 15 max character limit."] }
-                  - { label: 'URL', name: 'url', widget: 'string' }
-              - label: "Card Image"
-                name: "cardImage"
-                widget: "object"
-                summary: '{{fields.alt}}'
-                fields:
-                  - label: "Image"
-                    name: "image"
-                    widget: "image"
-                    choose_url: true
-                    media_library:
-                      config:
-                        mulitple: false
-                  - { label: 'Alternative text', name: 'alt', widget: 'string' }
-      - label: Media
-        name: media
-        file: src/card-pages/media.md
-        fields:
-          - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Sidenav', name: 'sidenav', widget: 'boolean' }
-          - { label: 'Parent', name: 'parent', widget: 'string', hint: 'Enter parent page name. Used to display the appropriate side navigation' }
-          - { label: 'Intro', name: 'intro', widget: 'markdown', hint: 'This text will display above the cards.' }
-          - { label: 'Body', name: 'body', widget: 'markdown', hint: 'This text will display below the cards.', required: false }
-          - label: 'Highlight Cards'
-            name: 'highlightCards'
-            min: 4
-            allow_add: false
-            add_to_top: true
-            widget: "list"
-            summary: '{{fields.heading}}'
-            hint: Four cards required. Only the first four cards (from the top) will display on the page.
+            hint: Nine cards required.
             fields:
               - { label: 'Heading', name: 'heading', widget: 'string', hint: "Max limit of 75 characters.", pattern: ['^.{1,75}$', "Exceeds 75 max character limit."] }
               - { label: 'Description', name: 'description', widget: 'string', hint: "Max limit of 100 characters.", pattern: ['^.{1,100}$', "Exceeds 100 max character limit."], required: false }
@@ -261,6 +221,207 @@ collections:
                       config:
                         mulitple: false
                   - { label: 'Alternative text', name: 'alt', widget: 'string' }
+      - label: Events and Conferences
+        name: events
+        file: src/card-pages/events.md
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Sidenav', name: 'sidenav', widget: 'boolean' }
+          - { label: 'Parent', name: 'parent', widget: 'string', hint: 'Enter parent page name. Used to display the appropriate side navigation' }
+          - { label: 'Intro', name: 'intro', widget: 'markdown', hint: 'This text will display above the cards.' }
+          - { label: 'Body', name: 'body', widget: 'markdown', hint: 'This text will display below the cards.', required: false }
+          - label: 'Highlight Cards'
+            name: 'highlightCards'
+            min: 6
+            allow_add: false
+            add_to_top: true
+            widget: "list"
+            summary: '{{fields.heading}}'
+            hint: Six cards required. Only the first six cards (from the top) will display on the page.
+            fields:
+              - { label: 'Heading', name: 'heading', widget: 'string', hint: "Max limit of 75 characters.", pattern: ['^.{1,75}$', "Exceeds 75 max character limit."] }
+              - { label: 'Description', name: 'description', widget: 'string', hint: "Max limit of 100 characters.", pattern: ['^.{1,100}$', "Exceeds 100 max character limit."], required: false }
+              - label: "Button"
+                name: "button"
+                widget: "object"
+                summary: '{{fields.text}}: {{fields.url}}'
+                fields:
+                  - { label: 'Text', name: 'text', widget: 'string', hint: "Max limit of 15 characters.", pattern: ['^.{1,15}$', "Exceeds 15 max character limit."] }
+                  - { label: 'URL', name: 'url', widget: 'string' }
+              - label: "Card Image"
+                name: "cardImage"
+                widget: "object"
+                summary: '{{fields.alt}}'
+                fields:
+                  - label: "Image"
+                    name: "image"
+                    widget: "image"
+                    choose_url: true
+                    media_library:
+                      config:
+                        mulitple: false
+                  - { label: 'Alternative text', name: 'alt', widget: 'string' }
+      - label: For Federal Agencies
+        name: agencies
+        file: src/card-pages/for-agencies.md
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Sidenav', name: 'sidenav', widget: 'boolean' }
+          - { label: 'Parent', name: 'parent', widget: 'string', hint: 'Enter parent page name. Used to display the appropriate side navigation' }
+          - { label: 'Intro', name: 'intro', widget: 'markdown', hint: 'This text will display above the cards.' }
+          - { label: 'Body', name: 'body', widget: 'markdown', hint: 'This text will display below the cards.', required: false }
+          - label: 'Highlight Cards'
+            name: 'highlightCards'
+            min: 1
+            allow_add: false
+            add_to_top: true
+            widget: "list"
+            summary: '{{fields.heading}}'
+            hint: One card required.
+            fields:
+              - { label: 'Heading', name: 'heading', widget: 'string', hint: "Max limit of 75 characters.", pattern: ['^.{1,75}$', "Exceeds 75 max character limit."] }
+              - { label: 'Description', name: 'description', widget: 'string', hint: "Max limit of 100 characters.", pattern: ['^.{1,100}$', "Exceeds 100 max character limit."], required: false }
+              - label: "Button"
+                name: "button"
+                widget: "object"
+                summary: '{{fields.text}}: {{fields.url}}'
+                fields:
+                  - { label: 'Text', name: 'text', widget: 'string', hint: "Max limit of 15 characters.", pattern: ['^.{1,15}$', "Exceeds 15 max character limit."] }
+                  - { label: 'URL', name: 'url', widget: 'string' }
+              - label: "Card Image"
+                name: "cardImage"
+                widget: "object"
+                summary: '{{fields.alt}}'
+                fields:
+                  - label: "Image"
+                    name: "image"
+                    widget: "image"
+                    choose_url: true
+                    media_library:
+                      config:
+                        mulitple: false
+                  - { label: 'Alternative text', name: 'alt', widget: 'string' }
+      - label: For Patients
+        name: patients
+        file: src/card-pages/for-patients.md
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Sidenav', name: 'sidenav', widget: 'boolean' }
+          - { label: 'Parent', name: 'parent', widget: 'string', hint: 'Enter parent page name. Used to display the appropriate side navigation' }
+          - { label: 'Intro', name: 'intro', widget: 'markdown', hint: 'This text will display above the cards.' }
+          - { label: 'Body', name: 'body', widget: 'markdown', hint: 'This text will display below the cards.', required: false }
+          - label: 'Highlight Cards'
+            name: 'highlightCards'
+            min: 2
+            allow_add: false
+            add_to_top: true
+            widget: "list"
+            summary: '{{fields.heading}}'
+            hint: Two cards required.
+            fields:
+              - { label: 'Heading', name: 'heading', widget: 'string', hint: "Max limit of 75 characters.", pattern: ['^.{1,75}$', "Exceeds 75 max character limit."] }
+              - { label: 'Description', name: 'description', widget: 'string', hint: "Max limit of 100 characters.", pattern: ['^.{1,100}$', "Exceeds 100 max character limit."], required: false }
+              - label: "Button"
+                name: "button"
+                widget: "object"
+                summary: '{{fields.text}}: {{fields.url}}'
+                fields:
+                  - { label: 'Text', name: 'text', widget: 'string', hint: "Max limit of 15 characters.", pattern: ['^.{1,15}$', "Exceeds 15 max character limit."] }
+                  - { label: 'URL', name: 'url', widget: 'string' }
+              - label: "Card Image"
+                name: "cardImage"
+                widget: "object"
+                summary: '{{fields.alt}}'
+                fields:
+                  - label: "Image"
+                    name: "image"
+                    widget: "image"
+                    choose_url: true
+                    media_library:
+                      config:
+                        mulitple: false
+                  - { label: 'Alternative text', name: 'alt', widget: 'string' }
+      - label: For Providers
+        name: providers
+        file: src/card-pages/for-providers.md
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Sidenav', name: 'sidenav', widget: 'boolean' }
+          - { label: 'Parent', name: 'parent', widget: 'string', hint: 'Enter parent page name. Used to display the appropriate side navigation' }
+          - { label: 'Intro', name: 'intro', widget: 'markdown', hint: 'This text will display above the cards.' }
+          - { label: 'Body', name: 'body', widget: 'markdown', hint: 'This text will display below the cards.', required: false }
+          - label: 'Highlight Cards'
+            name: 'highlightCards'
+            min: 2
+            allow_add: false
+            add_to_top: true
+            widget: "list"
+            summary: '{{fields.heading}}'
+            hint: Two cards required.
+            fields:
+              - { label: 'Heading', name: 'heading', widget: 'string', hint: "Max limit of 75 characters.", pattern: ['^.{1,75}$', "Exceeds 75 max character limit."] }
+              - { label: 'Description', name: 'description', widget: 'string', hint: "Max limit of 100 characters.", pattern: ['^.{1,100}$', "Exceeds 100 max character limit."], required: false }
+              - label: "Button"
+                name: "button"
+                widget: "object"
+                summary: '{{fields.text}}: {{fields.url}}'
+                fields:
+                  - { label: 'Text', name: 'text', widget: 'string', hint: "Max limit of 15 characters.", pattern: ['^.{1,15}$', "Exceeds 15 max character limit."] }
+                  - { label: 'URL', name: 'url', widget: 'string' }
+              - label: "Card Image"
+                name: "cardImage"
+                widget: "object"
+                summary: '{{fields.alt}}'
+                fields:
+                  - label: "Image"
+                    name: "image"
+                    widget: "image"
+                    choose_url: true
+                    media_library:
+                      config:
+                        mulitple: false
+                  - { label: 'Alternative text', name: 'alt', widget: 'string' }
+      - label: Media
+        name: media
+        file: src/card-pages/media.md
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Sidenav', name: 'sidenav', widget: 'boolean' }
+          - { label: 'Parent', name: 'parent', widget: 'string', hint: 'Enter parent page name. Used to display the appropriate side navigation' }
+          - { label: 'Intro', name: 'intro', widget: 'markdown', hint: 'This text will display above the cards.' }
+          - { label: 'Body', name: 'body', widget: 'markdown', hint: 'This text will display below the cards.', required: false }
+          - label: 'Highlight Cards'
+            name: 'highlightCards'
+            min: 4
+            allow_add: false
+            add_to_top: true
+            widget: "list"
+            summary: '{{fields.heading}}'
+            hint: Four cards required. Only the first four cards (from the top) will display on the page.
+            fields:
+              - { label: 'Heading', name: 'heading', widget: 'string', hint: "Max limit of 75 characters.", pattern: ['^.{1,75}$', "Exceeds 75 max character limit."] }
+              - { label: 'Description', name: 'description', widget: 'string', hint: "Max limit of 100 characters.", pattern: ['^.{1,100}$', "Exceeds 100 max character limit."], required: false }
+              - label: "Button"
+                name: "button"
+                widget: "object"
+                summary: '{{fields.text}}: {{fields.url}}'
+                fields:
+                  - { label: 'Text', name: 'text', widget: 'string', hint: "Max limit of 15 characters.", pattern: ['^.{1,15}$', "Exceeds 15 max character limit."] }
+                  - { label: 'URL', name: 'url', widget: 'string' }
+              - label: "Card Image"
+                name: "cardImage"
+                widget: "object"
+                summary: '{{fields.alt}}'
+                fields:
+                  - label: "Image"
+                    name: "image"
+                    widget: "image"
+                    choose_url: true
+                    media_library:
+                      config:
+                        mulitple: false
+                  - { label: 'Alternative text', name: 'alt', widget: 'string' }
+
 
   - name: home
     label: Homepage
