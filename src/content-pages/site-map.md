@@ -5,48 +5,39 @@ parent: About
 ---
 # Site Map
 
-T﻿his is a test.
-
 * [Home](/)
-* About
-
+* [About](/about)
   * [What Is The FEHRM?](/about-fehrm)
   * [Mission](/mission)
   * [Leadership](/leadership)
   * [History](/history)
   * [Accomplishments](/accomplishments)
   * [Success Stories](/success-stories)
-  * [Publications](/publications)
   * [Frequently Asked Questions](/faq)
   * [Contact Us](/contact-us)
-* For Patients
-
+* [For Patients](/for-patients)
   * [Enhancing Your Care](/enhancing-your-care)
   * [Learn About the Joint HIE](/learn-about-the-joint-hie)
-* For Providers
-
+* [For Providers](/for-providers)
   * [Enhancing Care Delivery](/enhancing-care-delivery) 
   * [Join the Joint HIE](/join-the-joint-hie)
-* For Federal Agencies
-
+* [For Federal Agencies](/for-agencies)
   * [Join the Federal EHR](/join-the-federal-ehr)
-* Congressional Information
-
+* [Congressional Information](/congressional)
   * [Congressional Reports](/congressional-reports)
   * [Congressional Committees](/congressional-committees)
   * [Senate Testimony](/senate-testimony)
   * [House Testimony](/house-testimony)
-* Media
-
+* [Media](/media)
   * [In the News](/in-the-news)
   * [Hear Our Leaders](/hear-our-leaders)
   * [Press Releases](/press-releases)
-  * [Media Inquiries](/media-inquiries)
-* Events/Conferences
-
+  * [Publications](/publications)
+* [Events/Conferences](/events)
   * [Federal EHR Annual Summit](/federal-ehr-annual-summit)
   * [FEHRM Industry Roundtable](/fehrm-industry-interoperability-roundtable) 
   * [FEHRM Town Hall](/fehrm-town-hall)
   * [DHITS Sessions](/dhits-sessions)
   * [HIMSS](/himss)
   * [HL7 Government Birds of a Feather](/hl7-government-birds-of-a-feather)
+  * [Submit a Speaker Request](/speaker-request)
