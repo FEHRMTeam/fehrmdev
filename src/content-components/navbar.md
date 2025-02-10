@@ -65,7 +65,7 @@ navMenuItems:
         newTab: false
   - label: For Providers
     linkType: internal
-    linkUrl: /
+    linkUrl: /for-providers
     newTab: false
     sideNavOnly: false
     subMenuItems:
