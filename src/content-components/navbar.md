@@ -51,7 +51,7 @@ navMenuItems:
         newTab: false
   - label: For Patients
     linkType: internal
-    linkUrl: /
+    linkUrl: /for-patients
     newTab: false
     sideNavOnly: false
     subMenuItems:
