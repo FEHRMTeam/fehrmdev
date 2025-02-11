@@ -79,7 +79,7 @@ navMenuItems:
         newTab: false
   - label: For Federal Agencies
     linkType: internal
-    linkUrl: /for-agencies
+    linkUrl: /join-the-federal-ehr
     newTab: false
     sideNavOnly: false
     subMenuItems:
