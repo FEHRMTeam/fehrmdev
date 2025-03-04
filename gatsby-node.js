@@ -35,14 +35,6 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 exports.createPages = async ({ actions, graphql }) => {
   const { createPage, createRedirect } = actions;
 
-  await createBlogPages(createPage, graphql);
-  await createMarkdownPages(createPage, graphql);
-  await createMarkdownListPages(createPage, graphql);
-  await createMarkdownCardPages(createPage, graphql);
-  await createMarkdownSurveyPages(createPage, graphql);
-  await createMarkdownFaqPages(createPage, graphql);
-  await createMainFaqPage(createPage, graphql);
-
   // Redirect from deleted house testiomny page to congressional committees page
   createRedirect({ 
     fromPath: "/house-testimony/", 
@@ -60,6 +52,14 @@ exports.createPages = async ({ actions, graphql }) => {
     force: true,
     redirectInBrowser: true
   });
+
+  await createBlogPages(createPage, graphql);
+  await createMarkdownPages(createPage, graphql);
+  await createMarkdownListPages(createPage, graphql);
+  await createMarkdownCardPages(createPage, graphql);
+  await createMarkdownSurveyPages(createPage, graphql);
+  await createMarkdownFaqPages(createPage, graphql);
+  await createMainFaqPage(createPage, graphql);
 };
 
 async function createBlogPages(createPage, graphql) {
