@@ -33,25 +33,7 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 };
 
 exports.createPages = async ({ actions, graphql }) => {
-  const { createPage, createRedirect } = actions;
-
-  // Redirect from deleted house testiomny page to congressional committees page
-  createRedirect({ 
-    fromPath: "/house-testimony/", 
-    toPath: "/congressional-committees/", 
-    isPermanent: true,
-    force: true,
-    redirectInBrowser: true
-  });
-  
-  // Redirect from deleted senate testiomny page to congressional committees page
-  createRedirect({ 
-    fromPath: "/senate-testimony/", 
-    toPath: "/congressional-committees/", 
-    isPermanent: true,
-    force: true,
-    redirectInBrowser: true
-  });
+  const { createPage } = actions;
 
   await createBlogPages(createPage, graphql);
   await createMarkdownPages(createPage, graphql);
