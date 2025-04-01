@@ -69,6 +69,52 @@ collections:
           - { label: 'Answer', name: 'answer', widget: 'markdown' }
           - { label: 'Unique Identifier', name: 'questionid', widget: 'uuid', allow_regenerate: false }
 
+  - name: multitopicfaqpages
+    label: Multi Topic FAQ Pages
+    label_singular: Multi Topic FAQ Page
+    folder: src/multi-faq-pages
+    create: true
+    preview_path: '{{slug}}'
+    editor:
+      preview: false
+    public_folder: ../images
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Sidenav', name: 'sidenav', widget: 'boolean' }
+      - { label: 'Parent', name: 'parent', widget: 'string', hint: 'Enter parent page name. Used to display the appropriate side navigation' }
+      - label: 'Category'
+        name: 'category'
+        min: 1
+        allow_add: true
+        add_to_top: true
+        widget: "list"
+        summary: '{{fields.name}}'
+        hint: At least one category is required.
+        fields:
+          - { label: 'Category Name', name: 'category_name', widget: 'string' }
+          - label: 'Subcategory'
+            name: 'subcategory'
+            min: 0
+            allow_add: true
+            add_to_top: true
+            widget: 'list'
+            summary: '{{fields.name}}'
+            hint: You may add multiple subcategories per category. If you do not wish for the subcategory heading to display, leave blank.
+            fields:
+              - { label: 'Subheading Name', name: 'category_subheading', widget: 'string'}
+              - label: 'Questions and Answers'
+                name: 'faqQuestions'
+                min: 1
+                allow_add: true
+                add_to_top: true
+                widget: "list"
+                summary: '{{fields.heading}}'
+                hint: At least one question and answer is required.
+                fields:
+                  - { label: 'Question', name: 'question', widget: 'markdown' }
+                  - { label: 'Answer', name: 'answer', widget: 'markdown' }
+                  - { label: 'Unique Identifier', name: 'questionid', widget: 'uuid', allow_regenerate: false }
+
   - name: surveyPages
     label: Survey Pages
     extension: md
