@@ -42,6 +42,7 @@ exports.createPages = async ({ actions, graphql }) => {
   await createMarkdownSurveyPages(createPage, graphql);
   await createMarkdownFaqPages(createPage, graphql);
   await createMainFaqPage(createPage, graphql);
+  await createMultiFaqPage(createPage, graphql);
 };
 
 async function createBlogPages(createPage, graphql) {
@@ -148,6 +149,21 @@ async function createMainFaqPage(createPage, graphql){
 async function createMarkdownFaqPages(createPage, graphql){
   const pageTemplate = path.resolve('./src/templates/faq-page.js');
   const pages = await markdownQuery(graphql, 'faq-pages');
+
+  pages.forEach(({ node }) => {
+    createPage({
+      path: node.fields.name,
+      component: pageTemplate,
+      context: {
+        name: node.fields.name
+      },
+    });
+  });
+}
+
+async function createMultiFaqPage(createPage, graphql){
+  const pageTemplate = path.resolve('./src/templates/multi-faq-page.js');
+  const pages = await markdownQuery(graphql, 'multi-faq-pages');
 
   pages.forEach(({ node }) => {
     createPage({
