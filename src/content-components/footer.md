@@ -24,12 +24,17 @@ footerLink4:
   linkType: external
   newTab: true
 footerLink5:
-  label: Electronic Health Record Modernization Integration Office
-  linkUrl: https://www.ehrm.va.gov/
+  label: FEHRM on X
+  linkUrl: https://x.com/FEHRM_Office
   linkType: external
   newTab: true
 footerLink6:
-  label: Defense Healthcare Management Systems
+  label: VA Electronic Health Record Modernization Integration Office
+  linkUrl: https://www.ehrm.va.gov/
+  linkType: external
+  newTab: true
+footerLink7:
+  label: Program Executive Office, Defense Healthcare Management Systems
   linkUrl: https://www.health.mil/Military-Health-Topics/Technology/PEO-DHMS
   linkType: external
   newTab: true

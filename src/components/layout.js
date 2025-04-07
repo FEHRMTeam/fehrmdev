@@ -89,6 +89,12 @@ const Layout = ({ children, headerTitle }) => {
             linkType
             newTab
           }
+          footerLink7 {
+            label
+            linkUrl
+            linkType
+            newTab
+          }
         }
       }
     }
