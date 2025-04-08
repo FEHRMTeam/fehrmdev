@@ -1,5 +1,5 @@
 ---
-title: "2024 Federal Electronic Health Record (EHR) Annual Summit Sessions:
+title: "2024 Federal Electronic Health Record Annual Summit Sessions:
   Frequently Asked Questions"
 sidenav: false
 parent: Events/Conferences
@@ -38,12 +38,12 @@ category_group:
               users, enabling them to gain a deeper understanding and hands-on experience
               with the system.
             answer: >
-              Super users get more detailed training in the Federal EHR and,
+              Super users get more detailed training in the Federal Electronic Health Record (EHR) and,
               over time, gain considerable experience in the Federal EHR. A key characteristic of Super users
               is that they serve as an ongoing resource for their colleagues and remain
               accessible to address operational questions by providing best-practice guidance
               on how to use the Federal EHR.
-  - category_name: "Lovell FHCC: Beyond Deployment"
+  - category_name: "Captain James A. Lovell Federal Health Care Center: Beyond Deployment"
     subcategory_group:
       - category_subheading:
         faqQuestions:
@@ -60,7 +60,7 @@ category_group:
             question: >
               What is the average turnaround time of a change request?
             answer: >
-              Currently, one to two weeks is the average cycle time. Change requests that are ready for the Federal Electronic Health Record Modernization (FEHRM) office’s Joint Sustainment and Adoption Board (JSaAB) must be ready by the 1 p.m., ET, Monday, deadline. Once approved by JSaAB on Wednesday, a release date is set for the following Tuesday or Thursday (Oracle Health release days). If review by the FEHRM’s Federal Change Control Board (FCCB) is necessary, there will be a two-week lag until the change request is approved by the FCCB.
+              Currently, one to two weeks is the average cycle time. Change requests that are ready for the Federal Electronic Health Record Modernization (FEHRM) office’s Joint Sustainment and Adoption Board (JSaAB) must be ready by the 1 p.m. ET, Monday, deadline. Once approved by JSaAB on Wednesday, a release date is set for the following Tuesday or Thursday (Oracle Health release days). If review by the FEHRM’s Federal Change Control Board (FCCB) is necessary, there will be a two-week lag until the change request is approved by the FCCB.
           - questionid: a9bcd662-ad48-42b5-a72f-b64802f082da
             question: >
               Is there an opportunity to standardize the data required to effectively assess and respond to tickets submitted, thereby avoiding the return of tickets to the site for further clarification? Sites report that tickets are often returned and deemed as training issues.
@@ -68,9 +68,9 @@ category_group:
               No, DOD and VA have separate Global Support Center/ServiceNow ticketing systems. The Jazz tool used to coordinate DOD- and VA-sourced tickets is separate.
           - questionid: 808bfa54-a10d-46c4-a19b-108d734ac4e1
             question: >
-              Is the Jazz system equivalent to VA's ServiceNow ticketing system?
+              Is the Jazz system equivalent to the Department of Veterans Affairs ServiceNow ticketing system?
             answer: >
-              Yes, the new system is SDLCNext, affectionately known as “Bernice.” The system is scheduled for deployment in March 2025.
+              Yes, the new system is System Development Life Cycle Next, or SDLC Next, affectionately known as “Bernice.” The system is scheduled for deployment in April 2025.
           - questionid: 365d12e0-2d1a-4d2f-8a99-45fd082c353b
             question: >
               Is Jazz being retired? If so, are there plans to replace it?
@@ -109,7 +109,7 @@ category_group:
               Can functionality be created to review the refill history?
             answer: >
               That functionality currently exists. Within Medication Manager Retail, a history action will allow the end user to review dispense history (also known as refill history). Within PowerChart, the end user now sees the Last Filled date displayed, when selecting the patient’s Medication List, within the Details tab. The end user can also right-click on the order and select Order Information, then the History tab, and then Dispense History to view complete refill information.
-      - category_subheading: Inpatient/Outpatient Nurses and MSA
+      - category_subheading: Inpatient/Outpatient Nurses and Medical Support Assistants
         faqQuestions:
           - questionid: 511b6439-4625-4421-8b0c-b450353ff923
             question: >
@@ -180,7 +180,7 @@ category_group:
             question: >
               How can subscriptions to UpToDate be renewed?
             answer: >
-              The Department of Veterans Affairs (VA) has a national contract for UpToDate that can be accessed via the VA Library Network (VALNET). Go to the VA website to find a link to the Library Network, https://www.va.gov/LIBRARY/VALNET/index.asp, as well as the direct link to the UpToDate site, https://vacoweb02.dva.va.gov/VALNETCC/UpToDate.
+              The Department of Veterans Affairs (VA) has a national contract for UpToDate that can be accessed via the VA Library Network (VALNET). Go to the VA website to find a link to the Library Network, [https://www.va.gov/LIBRARY/VALNET/index.asp](https://www.va.gov/LIBRARY/VALNET/index.asp), as well as the direct link to the UpToDate site, [https://vacoweb02.dva.va.gov/VALNETCC/UpToDate](https://vacoweb02.dva.va.gov/VALNETCC/UpToDate).
           - questionid: c84a9e1c-af45-46ff-aa05-9a2fea7d0941
             question: >
               Can providers use their Department of Veterans Affairs number in lieu of a Drug Enforcement Agency (DEA) control number for prescriptions?
@@ -221,7 +221,7 @@ category_group:
         faqQuestions:
           - questionid: b74521b0-9ca8-468c-94cb-b4cd4c824853
             question: >
-              Are there any plans to address the use of functionality within the Revenue Cycle application at the Department of Veterans Affairs (VA) Patient Care Locations to select the proper insurance for patients seeking dental appointments? It is noted that not all Veterans have their VA Dental Veterans Health Administration Profile within the Federal Electronic Health Record (EHR)?
+              Are there any plans to address the use of functionality within the Revenue Cycle application at the Department of Veterans Affairs (VA) Patient Care Locations to select the proper insurance for patients seeking dental appointments? It is noted that not all Veterans have their VA Dental Veterans Health Administration Profile within the Federal Electronic Health Record (EHR).
             answer: >
               Proper insurance collection is a standard step in creating an encounter for services. The Federal EHR bases its processing on entering the proper insurance to achieve a billing claim. The absence of this data can result in costs to the Veteran. Procedures and protocols should be available to assist in identifying dental benefits for Veterans. If none exist, please contact Training and Development to assist. To continue the improvement of the Federal EHR, end users should identity gaps in the current approved workflow and recommend improvements or changes for consideration to their local informatics team.
           - questionid: 73a8d6f5-4e9f-4f78-8b28-9d5569faf7ef
@@ -258,7 +258,7 @@ category_group:
         faqQuestions:
           - questionid: aa1202d4-37ed-45a4-8d70-b6db09932d94
             question: >
-              What is the status of the change request to update the Medication Reconciliation Report to track type of visit? End users report that the current report is inaccurate, as it counts nursing visits (e.g., allergy shots, blood pressure checks)—giving a lower provider completion percentage. Also, the report can only be run by facility, not provider, making tracking floats difficult.
+              What is the status of the change request to update the Medication Reconciliation Report to track type of visit? End users report that the current report is inaccurate, as it counts nursing visits (e.g., allergy shots, blood pressure checks), giving a lower provider completion percentage. Also, the report can only be run by facility, not provider, making tracking floats difficult.
             answer: >
               Please submit or provide a ServiceNow ticket identifying the defective report name.
           - questionid: c7f75da4-7ec5-4c90-a68d-fb9a1d331f6d
