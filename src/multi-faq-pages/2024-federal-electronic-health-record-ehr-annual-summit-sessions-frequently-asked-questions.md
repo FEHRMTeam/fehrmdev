@@ -180,7 +180,7 @@ category_group:
             question: >
               How can subscriptions to UpToDate be renewed?
             answer: >
-              The Department of Veterans Affairs (VA) has a national contract for UpToDate that can be accessed via the VA Library Network (VALNET). Go to the VA website to find a link to the Library Network, [https://www.va.gov/LIBRARY/VALNET/index.asp](https://www.va.gov/LIBRARY/VALNET/index.asp), as well as the direct link to the UpToDate site, [https://vacoweb02.dva.va.gov/VALNETCC/UpToDate](https://vacoweb02.dva.va.gov/VALNETCC/UpToDate).
+              The Department of Veterans Affairs (VA) has a national contract for UpToDate that can be accessed via the VA Library Network. Go to the Veterans Health Administration National Desktop Library website, [https://www.va.gov/LIBRARY/index.asp](https://www.va.gov/LIBRARY/index.asp); within the Find a Database drop-down menu, select either UpToDate (off the VA network) or UpToDate (on the VA network). The direct link to UpToDate (off the VA network) is: [https://www.wolterskluwer.com/en/solutions/uptodate](https://www.wolterskluwer.com/en/solutions/uptodate). The direct link to UpToDate (on the VA network) is: [https://www.uptodate.com/contents/search](https://www.uptodate.com/contents/search).
           - questionid: c84a9e1c-af45-46ff-aa05-9a2fea7d0941
             question: >
               Can providers use their Department of Veterans Affairs number in lieu of a Drug Enforcement Agency (DEA) control number for prescriptions?
