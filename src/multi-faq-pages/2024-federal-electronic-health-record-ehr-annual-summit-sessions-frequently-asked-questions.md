@@ -39,7 +39,7 @@ category_group:
               with the system.
             answer: >
               Super users get more detailed training in the Federal Electronic Health Record (EHR) and,
-              over time, gain considerable experience in the Federal EHR. A key characteristic of Super users
+              over time, gain considerable experience in the Federal EHR. A key characteristic of super users
               is that they serve as an ongoing resource for their colleagues and remain
               accessible to address operational questions by providing best-practice guidance
               on how to use the Federal EHR.
@@ -49,7 +49,7 @@ category_group:
         faqQuestions:
           - questionid: 762095f7-bb03-46ed-baef-32e780c4d31d
             question: >
-              At the Captain James A. Lovell Federal Health Care Center (Lovell FHCC), is there a plan in place to retire the Joint Longitudinal Viewer (JLV) once backlog data migrates from Computerized Patient Record Systems (CPRS) and Armed Forces Health Longitudinal Technology Application (AHLTA) into the Federal Electronic Health Record (EHR), or is there an alternate strategy to keep JLV as is?
+              At the Captain James A. Lovell Federal Health Care Center (Lovell FHCC), is there a plan in place to retire the Joint Longitudinal Viewer (JLV) once backlog data migrates from Computerized Patient Record Systems (CPRS) and the Armed Forces Health Longitudinal Technology Application (AHLTA) into the Federal Electronic Health Record (EHR), or is there an alternate strategy to keep JLV as is?
             answer: >
               Currently, CPRS and AHLTA DOD legacy clinical data sites are in the Military Health System Information Platform. The front-facing applications are JLV and the Health Information Archive, which are currently being built out. There are no immediate plans set to phase out JLV.
   - category_name: "Panel Discussion: The Life of a Ticket"
@@ -65,7 +65,7 @@ category_group:
             question: >
               Is there an opportunity to standardize the data required to effectively assess and respond to tickets submitted, thereby avoiding the return of tickets to the site for further clarification? Sites report that tickets are often returned and deemed as training issues.
             answer: >
-              No, DOD and VA have separate Global Support Center/ServiceNow ticketing systems. The Jazz tool used to coordinate DOD- and VA-sourced tickets is separate.
+              No, the Department of Defense (DOD) and Department of Veterans Affairs (VA) have separate Global Support Center/ServiceNow ticketing systems. The Jazz tool used to coordinate DOD- and VA-sourced tickets is separate.
           - questionid: 808bfa54-a10d-46c4-a19b-108d734ac4e1
             question: >
               Is the Jazz system equivalent to the Department of Veterans Affairs ServiceNow ticketing system?
@@ -84,7 +84,7 @@ category_group:
             question: >
               Users in the Disease Management Department report having to chart
               under the Case Management role. This causes confusion among staff
-              and patients as these users feel that there are too many ways to
+              and patients, as these users feel that there are too many ways to
               complete a single task. What insights can assist Disease
               Management Department users in streamlining their workflow within
               the system?
@@ -108,7 +108,7 @@ category_group:
             question: >
               Can functionality be created to review the refill history?
             answer: >
-              That functionality currently exists. Within Medication Manager Retail, a history action will allow the end user to review dispense history (also known as refill history). Within PowerChart, the end user now sees the Last Filled date displayed, when selecting the patient’s Medication List, within the Details tab. The end user can also right-click on the order and select Order Information, then the History tab, and then Dispense History to view complete refill information.
+              That functionality currently exists. Within Medication Manager Retail, a history action will allow the end user to review dispense history (also known as refill history). Within PowerChart, the end user now sees the Last Filled date displayed when selecting the patient’s Medication List within the Details tab. The end user can also right-click on the order and select Order Information, then the History tab, and then Dispense History to view complete refill information.
       - category_subheading: Inpatient/Outpatient Nurses and Medical Support Assistants
         faqQuestions:
           - questionid: 511b6439-4625-4421-8b0c-b450353ff923
@@ -161,9 +161,9 @@ category_group:
               Due to the excessive number of CPT codes (more than 10,000), the number of preference cards per site is not sustainable; therefore, end users should default to AORN for now.
           - questionid: df7c91ed-91a6-4046-b7d8-a6a695e0504e
             question: >
-              Within the Department of Defense (DOD) Patient Care Location (PCL), is the Scheduling Appointment Book used to schedule procedures/surgeries?
+              Within the Department of Defense (DOD) Patient Care Location (PCL), is the Scheduling Appointment Book used to schedule procedures and surgeries?
             answer: >
-              Yes, the Scheduling Appointment Book is used to schedule procedures/surgeries within the DOD PCL.
+              Yes, the Scheduling Appointment Book is used to schedule procedures and surgeries within the DOD PCL.
           - questionid: d6b5e972-5b0f-4cfd-916b-ec7ee41f76f7
             question: >
               Are there any plans to have specialty considered in Federal Electronic Health Record (EHR) preference cards to reflect specific Association of periOperative Registered Nurses procedures?
