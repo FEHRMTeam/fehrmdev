@@ -93,21 +93,13 @@ navMenuItems:
     newTab: false
     sideNavOnly: false
     subMenuItems:
-      - label: Congressional Reports
-        linkType: internal
-        linkUrl: /congressional-reports
-        newTab: false
       - label: Congressional Committees
         linkType: internal
         linkUrl: /congressional-committees
         newTab: false
-      - label: Senate Testimony
+      - label: Congressional Reporting
         linkType: internal
-        linkUrl: /senate-testimony
-        newTab: false
-      - label: House Testimony
-        linkType: internal
-        linkUrl: /house-testimony
+        linkUrl: /congressional-reporting
         newTab: false
   - label: Media
     linkType: internal
@@ -127,10 +119,10 @@ navMenuItems:
         linkType: internal
         linkUrl: /press-releases
         newTab: false
-      - label: Publications
+      - newTab: false
+        label: Publications
         linkType: internal
         linkUrl: /publications
-        newTab: false
   - label: Events/Conferences
     linkType: internal
     linkUrl: /events
@@ -141,13 +133,9 @@ navMenuItems:
         linkType: internal
         linkUrl: /federal-ehr-annual-summit
         newTab: false
-      - label: FEHRM Industry Roundtable
+      - label: The State of the Federal EHR
         linkType: internal
-        linkUrl: /fehrm-industry-interoperability-roundtable
-        newTab: false
-      - label: FEHRM Town Hall
-        linkType: internal
-        linkUrl: /fehrm-town-hall
+        linkUrl: /the-state-of-the-federal-ehr
         newTab: false
       - label: DHITS Sessions
         linkType: internal
@@ -161,10 +149,10 @@ navMenuItems:
         linkType: internal
         linkUrl: /hl7-government-birds-of-a-feather
         newTab: false
-      - newTab: false
-        label: Submit a Speaker Request
+      - label: Submit a Speaker Request
         linkType: internal
         linkUrl: /speaker-request
+        newTab: false
   - label: Frequently Asked Questions
     linkType: internal
     linkUrl: /faq
