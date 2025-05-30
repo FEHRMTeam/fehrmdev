@@ -12,7 +12,7 @@ const Sidenav = ({ content, currentPage }) => {
 
   return (
   <aside className="usa-layout-docs-sidenav desktop:grid-col-3 padding-bottom-4">
-    <nav>
+    <nav aria-label="Side Navigation">
       <ul className="usa-sidenav">
         <li className="usa-sidenav__item">
           {content.linkUrl != '/' ? (

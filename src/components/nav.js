@@ -8,7 +8,7 @@ const Nav = ({ navMenuItems, secondaryLinks }) => {
   const { basePath } = useSiteMetadata();
 
   return(
-  <nav role="navigation" className="usa-nav">
+  <nav role="navigation" className="usa-nav" aria-label="Main Navigation">
     <div className="usa-nav__inner">
       <button className="usa-nav__close">
         <img src={close} alt="close" />
