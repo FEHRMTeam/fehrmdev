@@ -7,8 +7,6 @@ backend:
   preview_context: pages/build
 
 media_folder: static/images
-media_library:
-  max_file_size: 2048000
 public_folder: images
 logo_url: https://pages.cloud.gov/assets/images/federalist-logo.png
 
@@ -67,7 +65,7 @@ collections:
         fields:
           - { label: 'Question', name: 'question', widget: 'markdown' }
           - { label: 'Answer', name: 'answer', widget: 'markdown' }
-          - { label: 'Unique Identifier', name: 'questionid', widget: 'uuid', allow_regenerate: false }
+          - { label: 'Unique Identifier', name: 'questionid', widget: 'uuid' }
 
   - name: multitopicfaqpages
     label: Multi Topic FAQ Pages
@@ -80,7 +78,7 @@ collections:
     public_folder: ../images
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Sidenav', name: 'sidenav', widget: 'boolean' }
+      - { label: 'Sidenav', name: 'sidenav', widget: 'boolean', required: false }
       - { label: 'Parent', name: 'parent', widget: 'string', hint: 'Enter parent page name. Used to display the appropriate side navigation' }
       - label: 'Category'
         name: 'category_group'
@@ -93,7 +91,7 @@ collections:
         fields:
           - { label: 'Category Name', name: 'category_name', widget: 'string' }
           - label: 'Subcategory'
-            name: 'subcategory'
+            name: 'subcategory_group'
             min: 0
             allow_add: true
             add_to_top: true
@@ -113,7 +111,7 @@ collections:
                 fields:
                   - { label: 'Question', name: 'question', widget: 'markdown' }
                   - { label: 'Answer', name: 'answer', widget: 'markdown' }
-                  - { label: 'Unique Identifier', name: 'questionid', widget: 'uuid', allow_regenerate: false }
+                  - { label: 'Unique Identifier', name: 'questionid', widget: 'uuid' }
 
   - name: surveyPages
     label: Survey Pages
