@@ -5,6 +5,7 @@ import Layout from '../components/layout';
 import SEO from '../components/seo';
 import Sidenav from '../components/sidenav';
 import CardsInternal from '../components/cards-internal';
+import MarkdownContent from '../components/markdown';
 
 /*
   This template is for top level navigation landing pages and allowing content creators to manage it from the CMS
@@ -36,7 +37,7 @@ const CardPage = ({ data }) => {
               >
                 <div className={"usa-prose"}>
                   <h1 dangerouslySetInnerHTML={{ __html: frontmatter.title }} /> 
-                  <div dangerouslySetInnerHTML={{ __html: frontmatter.intro }} />
+                  <MarkdownContent content={frontmatter.intro} />
                 </div> 
                 <CardsInternal cardsContent={frontmatter.highlightCards} />
                 <div className={"usa-prose fullwidth"} dangerouslySetInnerHTML={{ __html: html }} />
