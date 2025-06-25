@@ -32,7 +32,10 @@ faqQuestions:
       The FEHRM is operationalizing by evolving itself to become the single provider of the Federal Electronic Health Record (EHR), providing a common set of capabilities across the health care industry.
 
 
-      The FEHRM focuses on convergence by figuring out how to converge EHR workflows and configurations to streamline the patient experience. While the Department of Defense (DOD), Department of Veterans Affairs (VA), Department of Homeland Security's U.S. Coast Guard (USCG), and Department of Commerce's National Oceanic and Atmospheric Administration (NOAA) have unique clinical and business issues that differ based on their missions, the FEHRM focuses on converging DOD, VA, USCG, and NOAA clinical and business capabilities where appropriate. The FEHRM oversees configuration and content changes to the Federal EHR that are agreed on by the Departments through a joint FEHRM-facilitated decision-making process. The goal is that DOD, VA, USCG, and NOAA providers in the same roles will have a common user experience with the Federal EHR defined by evidence-based best practice. Providers won't need to relearn things depending on where they provide care. From the patient perspective, this means health care will be delivered the same way regardless of where they get care. They have a consistent patient care experience. Convergence ultimately helps enable more standard workflows and practices to enhance clinical decision-making and health care. Workflows are the series of tasks required to complete a health care function (for example, ordering a medication). Standard workflows are considered best practices because they guide compliance with clinical best-care guidelines. Convergence helps determine the best workflow solutions that are safe, effective, and efficient.
+      The FEHRM focuses on convergence by figuring out how to converge EHR workflows and configurations to streamline the patient experience. While the Department of Defense (DOD), Department of Veterans Affairs (VA), Department of Homeland Security's U.S. Coast Guard (USCG), and Department of Commerce's National Oceanic and Atmospheric Administration (NOAA) have unique clinical and business issues that differ based on their missions, the FEHRM focuses on converging DOD, VA, USCG, and NOAA clinical and business capabilities where appropriate. The FEHRM oversees configuration and content changes to the Federal EHR that are agreed on by the Departments through a joint FEHRM-facilitated decision-making process. 
+
+
+      The goal is that DOD, VA, USCG, and NOAA providers in the same roles will have a common user experience with the Federal EHR defined by evidence-based best practice. Providers won't need to relearn things depending on where they provide care. From the patient perspective, this means health care will be delivered the same way regardless of where they get care. They have a consistent patient care experience. Convergence ultimately helps enable more standard workflows and practices to enhance clinical decision-making and health care. Workflows are the series of tasks required to complete a health care function (for example, ordering a medication). Standard workflows are considered best practices because they guide compliance with clinical best-care guidelines. Convergence helps determine the best workflow solutions that are safe, effective, and efficient.
 
 
       The FEHRM also prioritizes joint sharing sites (JSS), which are sites where DOD and VA share resources (like staff and facilities). Leading the deployment of the EHR JSS, the FEHRM has the potential to enable DOD and VA health care systems to work together in new ways to deliver health care to Service members, Veterans, and their families.
@@ -81,18 +84,18 @@ faqQuestions:
       How can industry support the Federal Electronic Health Record
       Modernization (FEHRM) office?
     answer: >
-      The FEHRM continue to look to industry for partnerships, for relationships
-      that can help shape the path moving forward. It highly values the
-      innovative ideas vendors bring to the table and relies on those steadfast
-      partnerships, such as those with the Leidos Partnership for Defense Health
-      for the Department of Defense and between the Department of Veterans
-      Affairs and Oracle Health.
+      The FEHRM continues to look to industry for partnerships, for
+      relationships that can help shape the path moving forward. It highly
+      values the innovative ideas vendors bring to the table and relies on those
+      steadfast partnerships, such as those with the Leidos Partnership for
+      Defense Health for the Department of Defense and between the Department of
+      Veterans Affairs and Oracle Health.
 
 
-      There are a lot of other relationships and partnerships being developed as the FEHRM looks toward new technologies and available capabilities.
+      There are many other relationships and partnerships being developed as the FEHRM looks toward new technologies and available capabilities.
 
 
-      In navigating the future, the FEHRM looks for innovative ideas for improving the patient experience and enhancing the quality of care delivery during this time. For example, how does the FEHRM implement the electronic health record (EHR) and train end users with the social distancing precautions in place during the pandemic? Or, how does the office deliver technology at the frontlines of care—whether it’s in theater, in rural America or while a patient is being transported?
+      In navigating the future, the FEHRM looks for innovative ideas for improving the patient experience and enhancing the quality of care delivery during this time. For example, how does the FEHRM implement the electronic health record (EHR) and deliver technology at the frontlines of care—whether it’s in theater, in rural America, or while a patient is being transported?
 
 
       Also, the Federal EHR and joint health information exchange means providers now have access to more information about their patients than ever before to make the best care decisions. The FEHRM needs to make sure this data is usable and built into provider workflows. It needs vendor engagement to do this.

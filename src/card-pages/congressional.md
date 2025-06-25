@@ -3,9 +3,11 @@ title: Congressional Information
 sidenav: false
 parent: Congressional Information
 intro: >
-  Several congressional committees share oversight of the FEHRM. The
-  FEHRM  prepares and submits progress reports to Congress and tracks related
-  congressional testimony.
+  The Congressional Affairs Team serves as the liaison for all FEHRM engagement
+  and interaction with Members of Congress, Committees of jurisdiction, and
+  their offices, while maintaining responsive and effective communications.
+  Below, you will find resources with Congressional partners on areas of
+  interest within the FEHRM.
 highlightCards:
   - heading: Congressional Reporting
     description: null

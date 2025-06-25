@@ -3,66 +3,46 @@ title: DHITS Sessions
 sidenav: true
 parent: Events/Conferences
 ---
-# Defense Health Information Technology Symposium (DHITS) Sessions
+# Defense Health Information Technology Symposium Sessions
 
-We presented at the 2022 Defense Health Information Technology Symposium (DHITS). DHITS presentations will be available on [the 2022 DHITS website.](https://web.cvent.com/event/87e381cd-9ded-471b-b9d2-af8b44d1d361/summary)
+The Federal Electronic Health Record Modernization (FEHRM) office presented and exhibited at the 2024 Defense Health Information Technology Symposium (DHITS) from August 20 to 22 in Dallas, Texas.
 
 ## Presentations
 
-### Plenary – Transforming Health Care Delivery Together
+### Plenary – The Federal EHR: What’s Next
 
-*Bill Tinston, Holly Joers and Dr. Leslie Sofocleous*
+**Thursday, August 22, 2 to 3 p.m. | Landmark Ballroom, Hyatt Regency Dallas**
 
-The FEHRM is leading the DOD, VA and U.S. Coast Guard in implementing a single, common federal EHR that enhances patient care and provider effectiveness, wherever care is provided. A panel of FEHRM, DOD, VA and USCG leaders talked about this federal journey toward EHR modernization including getting to convergence on shared EHR configurations; implementing joint data and security standards; and driving other joint federal solutions.
+_Mr. Bill Tinston, FEHRM Director; Dr. Yvette Weber, Program Executive Officer, Program Executive Office, Defense Healthcare Management Systems, Department of Defense (DOD); and Dr. Neil Evans, Acting Program Executive Director, Electronic Health Record Modernization Integration Office, Department of Veterans Affairs (VA); and Ms. Cori Hughes (moderator), FEHRM Program Integration Director_
 
-### Plenary – Mr. John Windom
+The Federal Electronic Health Record (EHR) is deployed to all DOD health care sites and the Captain James A. Lovell Federal Health Care Center (Lovell FHCC)─the most complex joint sharing site involving DOD and VA. So, what’s next? The FEHRM works with DOD, VA, the Department of Homeland Security's U.S. Coast Guard, and Department of Commerce's National Oceanic and Atmospheric Administration to continue deploying the single, common Federal EHR across federal health care sites. This effort enhances patient care and provider effectiveness, wherever care is provided. This session’s panel of FEHRM, DOD, and VA leaders talked about this federal journey toward EHR modernization, including how the federal sector drives change across the health care enterprise, the importance of interoperability, and how the Federal EHR enhances the health care experience of providers and patients across the country.
 
-*John Windom and Cori Hughes*
+### Breakout Session – Interface Development within the MHS Information Portal
 
-An interview with a DOD and VA beneficiary and leader who can speak to the firsthand benefits of a single, common federal EHR.
+**Tuesday, August 20, 3:15 to 4:15 p.m. | Reunion BC, Hyatt Regency Dallas**
 
-### Unified Patient Experience: A Technical Perspective
+_Mr. John Dempsey, FEHRM Partner Integration Director_
 
-*Brian F Bertrand and Lance Scott*
+During this session, Mr. Dempsey and DOD leaders defined several Military Health System Information Platform (MIP) application programming interfaces (APIs) in use and why they are mapped to the Common Data Model, elaborated on how the MIP APIs change the way the MIP serves data, explained the historical background of the API development effort, elaborated on the importance of Common Data Model normalized datasets to the MIP API strategy, and discussed the direction of MIP health surveillance and what is to come.
 
-Discussed the patient portal of unified patient experience from the perspective of the federal EHR. Addressed technical options and controls to satisfy those requirements, and ensure a positive, secure patient experience when accessing their health.
+### Breakout Session – Remove Barriers, Build One Truth: Unified Incident Reporting
 
-### Federal EHR - Cybersecurity and the Way Ahead
+**Wednesday, August 21, 12:30 to 1:30 p.m. | Reunion BC, Hyatt Regency Dallas**
 
-*Rogelio Raymond and Jeffrey Eyink*
+_Mr. Lance Scott, FEHRM Chief Technology Officer; Dr. Valerie Seabaugh, FEHRM Acting Deputy Chief Health Informatics Officer; and Ms. Kim Hranowsky (moderator), FEHRM Deputy Chief Technology Officer_
 
-Discussed how the FEHRM, DOD, VA and USCG are mitigating risk to the federal EHR through layers of cybersecurity protections in the Federal Enclave, across the networks, at the sites and with pre-conditions for access to the EHR.
+As DOD and VA move onto a single Federal EHR, cross-departmental communication becomes essential. This session opened with the challenges to how incidents are tracked, triaged, and communicated (e.g., service interruptions at Lovell FHCC); discussed the current support measures put into place (e.g., code upgrades, cloud hosting); and closed with the desired future end state to create a single record of truth for system performance.
 
-### Environmental and Occupational Exposures: Using Data to Understand their Clinical Effects
+### Breakout Session – Federal EHR Advancements in Population Health
 
-*Dr. Norman Stone, Steven Jones, Dr. John Barrett and Devon Matthew*
+**Wednesday, August 21, 2 to 3 p.m. | Reunion A, Hyatt Regency Dallas**
 
-Developing electronic exposure-related reports has been challenging due to disparate information systems, paper records and electronic records. With advances in technology and access to data, ILER compiles, distills and presents relevant exposure data specific to an individual based on location, date and time. This session demonstrated how ILER can inform clinical decision-making and advance research for individuals with toxic exposures.
+_Ms. Crystal Baum, FEHRM Data Exchange Director_ 
 
-### Integrated Data Management
+In this session, Ms. Baum discussed federal Departments' activities in advancing population health management using the HealtheIntent platform. She highlighted Registries and its ability to identify gaps in patient care and how Health Analytics provides aggregation of data to offer different levels of reporting. She also explained in further detail how Health Record provides a complete view of the longitudinal record.
 
-*Dr. Meredith Josephs, Dr. James Ellzy, Dr. David Alt and Andy Anderson*
+## Other FEHRM Activities
 
-Managing data is recognized as central to the success of any organization. This is especially true in the health care sector given the volume and sensitive nature of health data. The FEHRM, in collaboration with DOD and VA, recognize the value of data and strive to leverage that value. This session provided a high-level view of the relationship between the Departments and how data is managed as a strategic asset in the Federal Enclave.
+Attendees witnessed the complete patient journey through the Federal EHR at the **PEO DHMS/FEHRM Booth #509** in the Exhibit Hall in the Marsalis Ballroom. Also, they visited the **FEHRM Kiosk #3** in the MHS Pavilion DHITS Booth in the Exhibit Hall to register and share feedback for the FEHRM’s [Federal EHR Annual Summit](https://www.fehrm.gov/federal-ehr-annual-summit/).
 
-### Bringing Health Data from the Frontline
-
-*Dr. Meredith Josephs, David Norley and Chris Nichols*
-
-This joint panel focused on EIDS, FEHRM and JOMIS collaborative efforts highlighting health data convergence forward for operational medicine practitioners. With JOMIS modernizations, EIDS MHS Information Platform and Operational Medicine Data Service data availability, PEO DHMS will better deliver health care data to the Warfighters.
-
-### HealtheIntent: Strategy for Greater EHR Data Integration
-
-*John Dempsey, Dr. James Ellzy, LtCol Peter Easter and Lance Scott*
-
-Take a look at DHA's strategy for expanding Enterprise Clinical Registries via HealtheIntent (HeI) to derive meaningful clinical relationships and improve outcomes. We discussed the active clinical registries, current plans to consolidate within MHS GENESIS, future state clinician workflows and prioritization of new Enterprise Registries investments. Our HeI focus is how research, cross domain condition commonalities and scoring will catalyze change.
-
-### Interoperability: A Global Perspective
-
-*Lance Scott, Chris Nichols and Crystal Baum*
-
-A panel of FEHRM and DOD leaders discussed the vision for data sharing between the federal health care system and community partners. They provided an update on achieving and independently assessing interoperability across this ecosystem including expanding joint HIE; reporting immunization data; and enhancing patient and population health management through HealtheRegistries, natural language processing and large scale bio-surveillance.
-
-## FEHRM Booth
-
-The FEHRM also had a booth displaying handouts and showcasing the joint health information exchange and HealtheRegistries.
+***New in 2024!*** The FEHRM had an onsite videographer to record videos of leaders, end users, Service members, and Veterans sharing why the Federal EHR matters and what it means to them.

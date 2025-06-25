@@ -17,7 +17,7 @@ faqQuestions:
       work.
 
 
-      The joint HIE is a secure gateway used to connect to participating provider organizations across the United States who agree to securely share clinical information with the DOD, VA, Department of Homeland Security’s U.S. Coast Guard (USCG), and Department of Commerce's National Oceanic and Atmospheric Administration (NOAA) providers. Participating provider organizations include single-physician offices to multi-hospital systems outside the federal health care systems (for example, DOD, VA, USCG, and NOAA) that participate in the joint HIE. W﻿hile the Federal Electronic Health Record is the federal source for a patient's health history, the joint HIE links the EHR information with participating provider organizations.
+      The joint HIE is a secure gateway used to connect to participating provider organizations across the United States who agree to securely share clinical information with the DOD, VA, Department of Homeland Security’s U.S. Coast Guard (USCG), and Department of Commerce's National Oceanic and Atmospheric Administration (NOAA) providers. Participating provider organizations include single-physician offices to multi-hospital systems outside the federal health care systems (for example, DOD, VA, USCG, and NOAA) that participate in the joint HIE. W﻿hile the Federal Electronic Health Record (EHR) is the federal source for a patient's health history, the joint HIE links the EHR information with participating provider organizations.
 
 
       The joint HIE enhances the ability of DOD, VA, USCG, and NOAA providers to access patient electronic health information quickly and securely from participating provider organizations and vice versa. Participating provider organizations now have a single point of entry to request and access DOD, VA, USCG, and NOAA patient information to support the continuity of care for Service members, Veterans, and other beneficiaries.
@@ -58,15 +58,18 @@ faqQuestions:
 
       This means the providers have access to even more information about their patients to make the best care decisions. Learn more about the benefits of the joint HIE to [providers](/join-the-joint-hie) and to [patients](/learn-about-the-joint-hie).
     questionid: 8fc038d4-dbdc-477c-bbb6-0f5cb5146ae8
-  - question: How do I share my DOD or VA medical records with an outside provider?
+  - question: >
+      How do I share my Department of Defense (DOD) or Department of Veterans
+      Affairs (VA) medical records with an outside provider?
     answer: >
       Medical records should be visible in the [MHS GENESIS patient
       portal](https://myaccess.dmdc.osd.mil/identitymanagement/app/login) or [My
       HealtheVet patient
       portal](https://www.myhealth.va.gov/mhv-portal-web/home). Additionally, if
       the outside provider is a member of either the CommonWell or eHealth
-      Exchange network, they have the ability to retrieve DOD, VA, USCG, and/or
-      NOAA records.
+      Exchange network, they have the ability to retrieve DOD, VA, Department of
+      Homeland Security's U.S. Coast Guard (USCG), and/or Department of
+      Commerce's National Oceanic and Atmosperic Administration (NOAA) records.
 
 
       These networks, comprised of 100,000 members ranging from single-physician offices to multi-hospital systems, participate in the joint health information exchange (HIE). The joint HIE is a secure gateway that connects Federal EHR information with EHR information from participating provider organizations that provide care outside of DOD, VA, USCG, or NOAA.

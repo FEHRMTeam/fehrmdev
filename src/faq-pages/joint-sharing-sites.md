@@ -50,12 +50,13 @@ faqQuestions:
       deployment of the Federal Electronic Health Record (EHR) across both
       Departments?
     answer: >
-      Department of Defense and Department of Veterans Affairs (VA) Federal EHR
+      Department of Defense and Department of Veterans Affairs Federal EHR
       deployment timelines are not always synchronized for joint sharing sites.
       Consequently, the asynchronous nature of the deployments may result in
       some level of risk and impact to required workflows and service offerings
-      that are managed by the FEHRM to ensure continued health care. The FEHRM’s
-      focus is on the gap created by the asynchronous deployment.
+      that are managed by the Federal Electronic Health Record Modernization
+      (FEHRM) office to ensure continued health care. The FEHRM’s focus is on
+      the gap created by the asynchronous deployment.
     questionid: 82beb636-941c-4ced-b8c2-a9342c46982f
   - question: >
       What does the Federal Electronic Health Record (EHR) deployment process
@@ -65,26 +66,26 @@ faqQuestions:
       asynchronous deployment of the Federal EHR as occurring through sequential
       phases. In most instances, the Department of Defense (DOD) will deploy
       ahead of the Department of Veterans Affairs (VA). The first DOD deployment
-      will bring the joint sharing site to an interim state or transition state,
-      in which DOD is on the Federal EHR and VA is on the legacy EHR. The joint
-      sharing site is at its end state when DOD and VA are on the same Federal
-      EHR.
+      will bring the joint sharing site to an interim state, or transition
+      state, in which DOD is on the Federal EHR and VA is on the legacy EHR. The
+      joint sharing site is at its end state when DOD and VA are on the same
+      Federal EHR.
     questionid: 83d31f7b-7b41-442d-be56-b765d2afcaf1
   - question: >
       What are the lessons learned from previous Federal Electronic Health
       Record (EHR) deployments at joint sharing sites?
     answer: >+
       There have been multiple successful Department of Defense (DOD) EHR
-      deployments at joint sharing sites to date. The first VA deployment at a
-      joint sharing site occurred in March 2024. The Federal Electronic Health
-      Record Modernization (FEHRM) office, DOD, and Department of Veterans
-      Affairs (VA) continue to refine their approach to address lessons learned,
+      deployments at joint sharing sites to date. The first Department of
+      Veterans Affairs (VA) deployment at a joint sharing site occurred in March
+      2024. The Federal Electronic Health Record Modernization (FEHRM) office,
+      DOD, and VA continue to refine their approach to address lessons learned,
       including the following:
 
 
       - Early identification of VA users at joint sharing sites impacted by DOD deployment who will require access to the Federal EHR prior to VA deployment
 
-      - Development and application of new-user provisioning scenarios to be leveraged by the program management offices based on standard business rules
+      - Development and application of new-user provisioning scenarios to be leveraged by the program management offices, based on standard business rules
 
       - Development and deployment of Federal EHR access tip sheets to support end users
 

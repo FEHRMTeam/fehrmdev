@@ -6,7 +6,8 @@ category: Lovell FHCC EHR Implementation
 sortOrder: 6
 faqImage:
   image: ../images/FAQs06_LovellFHCC_EHRImp_Landing Page Images_010625_v2-34.png
-  alt: A group of people holding up a sign that says "The Federal Electronic Health Record is Live At Lovell FHCC!"
+  alt: A group of people holding up a sign that says "The Federal Electronic
+    Health Record is Live At Lovell FHCC!"
 faqQuestions:
   - question: >
       Who is involved with the deployment of the Federal Electronic Health
@@ -79,12 +80,12 @@ faqQuestions:
       PCL hierarchies correspond to physical locations of patients receiving health care services, with facilities at the top level of the hierarchy followed by buildings, nursing units, rooms, and beds. Lovell FHCC will use two PCL hierarchies—one for each Department, in their respective facilities. All other DOD and VA facilities currently use either a DOD or VA PCL (not both) when they implement the Federal EHR. Because PCLs are associated with either DOD or VA locations at Lovell FHCC, they can be leveraged as the basis for user role assignment, workflow (1DOD or 1VA), interface, configuration, and end-user training. Using both DOD and VA PCL hierarchies at Lovell FHCC allows each Department the ability to satisfy their respective statutory requirements regarding eligible beneficiaries and encounter charging.
 
 
-      While a single PCL was the preferred option, existing legal and business barriers presented the need for a near-term solution to avoid significant schedule risks for the Lovell FHCC Federal EHR implementation. Ultimately, DOD and VA could use this dual PCL configuration to provide Lovell FHCC with the existing DOD and VA enterprise configurations, without having to maintain a Lovell-FHCC-specific configuration. Further, orders portability was maintained, as orders can be associated (or “flexed”) to the correct PCL and service resource location within the Federal EHR.
+      While a single PCL was the preferred option, existing legal and business barriers presented the need for a near-term solution to avoid significant schedule risks for the Lovell FHCC Federal EHR implementation. Ultimately, DOD and VA could use this dual PCL configuration to provide Lovell FHCC with the existing DOD and VA enterprise configurations, without having to maintain a configuration that is specific to Lovell FHCC. Further, orders portability was maintained, as orders can be associated (or “flexed”) to the correct PCL and service resource location within the Federal EHR.
     questionid: 36b448fc-f0f8-41fa-a783-06f3e52d4b6d
   - question: >
       How do the patient portals work compared to other Department of Defense
       (DOD) and Department of Veterans Affairs (VA) sites? Specifically, what is
-      the experience for dual- eligible patients?
+      the experience for dual-eligible patients?
     answer: >
       The Captain James A. Lovell Federal Health Care Center (Lovell FHCC) uses
       both DOD and VA patient portals. DOD beneficiaries use the DOD patient
@@ -104,7 +105,7 @@ faqQuestions:
       The process to log in to the patient portal also differs by Department:
 
 
-      - There are two ways to access the [MHS GENESIS Patient Portal](https://health.mil/news/in-the-spotlight/mhs-genesis): 1. Use a Common  Access Card reader, or 2. Create a DS Logon account.
+      - There are two ways to access the [MHS GENESIS Patient Portal](https://health.mil/Military-Health-Topics/Technology/MHS-GENESIS): 1. Use a Common  Access Card reader, or 2. Create a DS Logon account.
 
       - A direct link to VA’s patient portal is sent to Veterans. The portal is accessible through [MyHealtheVet](https://www.myhealth.va.gov/mhv-portal-web/home) and [VA.gov](https://www.va.gov/)    .
 
@@ -120,7 +121,7 @@ faqQuestions:
       single, common Federal Electronic Health Record (EHR) synchronously at
       Lovell FHCC in March 2024. Lovell FHCC was the only exception to the
       full-stop of VA deployment activities. VA pivoted resources to ensure the
-      Lovell FHCC deployment was a success. Since Lovell FHCC is a jointly run
+      Lovell FHCC deployment was a success. Because Lovell FHCC is a jointly run
       DOD and VA facility, the deployment continued as planned to ensure that
       all beneficiaries who visit the facility were covered by one Federal EHR.
       To ensure success, Lovell FHCC continued to benefit from a multi-agency
@@ -150,12 +151,12 @@ faqQuestions:
       It’s also worth noting the Federal EHR exceeds industry standards for protecting patient information, satisfying DOD standards for cybersecurity, and DOD and VA agreed-to standards of privacy.
     questionid: 93b77883-782f-49bb-91b5-79d74791a10f
   - question: >
-      How will deploying the Federal Electronic Health Record (EHR) at the
-      Captain James A. Lovell Federal Health Care Center (Lovell FHCC) lead the
+      How has deploying the Federal Electronic Health Record (EHR) at the
+      Captain James A. Lovell Federal Health Care Center (Lovell FHCC) led the
       way for other health care systems?
     answer: >
       Lovell FHCC is a perfect example of true jointness. The deployment of the
-      Federal EHR at Lovell FHCC will lead the way for how two large health care
+      Federal EHR at Lovell FHCC leads the way for how two large health care
       systems work together to make the best care decisions without technology
       being a barrier. The FEHRM converged configurations, where appropriate, to
       integrate processes and harmonize workflows between Department of Defense

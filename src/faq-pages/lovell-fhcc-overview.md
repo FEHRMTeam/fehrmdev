@@ -6,7 +6,8 @@ category: Lovell FHCC Overview
 sortOrder: 7
 faqImage:
   image: ../images/FAQs07_LovellFHCCOverview_Landing Page Images_010625_v2-35.png
-  alt: Photo of individuals giving a speech at the opening of the Captain James A. Lovell Federal Health Care Center
+  alt: Photo of individuals giving a speech at the opening of the Captain James A.
+    Lovell Federal Health Care Center
 faqQuestions:
   - question: >
       What is the Captain James A. Lovell Federal Health Care Center (Lovell
@@ -55,7 +56,7 @@ faqQuestions:
     questionid: ad6b3591-942c-494e-a9a0-d1ed4add92d2
   - question: >
       What is the reporting structure of the Captain James A. Lovell Federal
-      Health Care Center (Lovell FHCC) reporting structure?
+      Health Care Center (Lovell FHCC)?
     answer: >
       Lovell FHCC operates under an integrated governance structure and a single
       line of authority to manage Department of Defense (DOD) and Department of
