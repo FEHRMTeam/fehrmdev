@@ -39,10 +39,10 @@
   "devDependencies": {
     "eslint-config-react-app": "^7.0.1",
     "prettier": "^3.6.1",
-    "rimraf": "^5.0.10"
+    "rimraf": "^6.0.1"
   },
   "engines": {
-    "node": "18.x.x",
-    "npm": "9.x.x"
+    "node": "20.x.x",
+    "npm": "10.x.x"
   }
 }
