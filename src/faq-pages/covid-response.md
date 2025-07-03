@@ -8,6 +8,23 @@ faqImage:
   image: ../images/FAQs02_Covid_Updated Media Landing Page Images_010625_v2-30.png
   alt: Closeup of a patient receiving a vaccine
 faqQuestions:
+  - questionid: DTeXshG6PImzTIaIw6hMK
+    question: What is this **Frequently Asked Question?**
+    answer: >-
+      The answer is *[obvious](https://www.fehrm.gov/)*.
+
+
+      Read about these:
+
+
+      * One
+
+      * Two 
+
+      * Three
+
+
+      Maybe this response is really, really, really too long. No one will take time to read the answer, and then no one would know how to respond.
   - question: >
       How has the data gained from the Federal Electronic Health Record (EHR)
       and joint health information exchange (HIE) been used to enhance health
