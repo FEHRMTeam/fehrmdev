@@ -3,14 +3,14 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
-  - publicationDate: May 2, yyyy
+  - publicationDate: August 1, yyyy
     label: "TEST: IT Excellence: Lessons From the VA, the Air Force and Abroad"
     linkUrl: https://www.nextgov.com/ideas/2025/07/it-excellence-lessons-va-air-force-and-abroad/406506/?oref=ng-homepage-river
     publisher: Nextgov/FCW
-  - publicationDate: May 16, 2025
-    publisher: GovCIO Media & Research
-    linkUrl: https://govciomedia.com/va-plans-to-rollout-its-ehr-in-waves-program-chief-says/
-    label: VA Plans to Rollout Its EHR in ‘Waves,’ Program Chief Says
+  - publicationDate: May 2, yyyy
+    publisher: GovCIO Test Test
+    linkUrl: https://govciomedia.com/5-takeaways-from-himss-2025/
+    label: "TEST: Can I Change This Title"
   - label: VA Hopes to Use Next Year’s EHR Rollouts to Gain Momentum for Faster
       Deployments
     linkUrl: https://www.nextgov.com/modernization/2025/05/va-hopes-use-next-years-ehr-rollouts-gain-momentum-faster-deployments/405364/
