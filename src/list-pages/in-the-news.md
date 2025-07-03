@@ -3,10 +3,10 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
-  - label: FEHRM CTO Targets Two-Year Cloud Migration for Federal EHR
-    linkUrl: https://govciomedia.com/fehrm-cto-targets-two-year-cloud-migration-for-federal-ehr/
-    publisher: GovCIO Media & Research
-    publicationDate: June 18, 2025
+  - publicationDate: May 2, yyyy
+    label: "TEST: IT Excellence: Lessons From the VA, the Air Force and Abroad"
+    linkUrl: https://www.nextgov.com/ideas/2025/07/it-excellence-lessons-va-air-force-and-abroad/406506/?oref=ng-homepage-river
+    publisher: Nextgov/FCW
   - publicationDate: May 16, 2025
     publisher: GovCIO Media & Research
     linkUrl: https://govciomedia.com/va-plans-to-rollout-its-ehr-in-waves-program-chief-says/
