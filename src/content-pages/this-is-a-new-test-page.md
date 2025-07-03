@@ -1,7 +1,7 @@
 ---
 title: This Is a New Test Page
 sidenav: true
-parent: about
+parent: About
 ---
 This is a test to create a new page. This is the content for this page, and it's all about the Federal Electronic Health Record (EHR). 
 
