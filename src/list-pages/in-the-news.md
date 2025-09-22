@@ -3,11 +3,15 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
-  - publicationDate: August 1, yyyy
+  - publicationDate: September 1, 2025
+    label: Test
+    linkUrl: https://google.com
+    publisher: test
+  - publicationDate: August 5, 2025
     label: "TEST: IT Excellence: Lessons From the VA, the Air Force and Abroad"
     linkUrl: https://www.nextgov.com/ideas/2025/07/it-excellence-lessons-va-air-force-and-abroad/406506/?oref=ng-homepage-river
     publisher: Nextgov/FCW
-  - publicationDate: May 2, yyyy
+  - publicationDate: September 4, 2025
     publisher: GovCIO Test Test
     linkUrl: https://govciomedia.com/5-takeaways-from-himss-2025/
     label: "TEST: Can I Change This Title"
