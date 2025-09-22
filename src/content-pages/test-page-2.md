@@ -1,7 +1,7 @@
 ---
 title: TEST PAGE 2
 sidenav: true
-parent: home
+parent: About
 ---
 This is a test page. 
 
