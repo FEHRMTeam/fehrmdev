@@ -3,7 +3,11 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
-  - publicationDate: September 1, 2025
+  - publicationDate: September 22, 2025
+    label: Test2
+    linkUrl: https://fehrm.gov
+    publisher: test
+  - publicationDate: September 24, 2025
     label: Test
     linkUrl: https://google.com
     publisher: test
