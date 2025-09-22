@@ -3,6 +3,10 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - publicationDate: September 15, 2025
+    label: Test 3
+    linkUrl: https://google.com
+    publisher: test
   - publicationDate: September 22, 2025
     label: Test2
     linkUrl: https://fehrm.gov
@@ -67,7 +71,7 @@ newsItems:
   - label: MHS GENESIS Celebrates Full Deployment
     linkUrl: https://www.dvidshub.net/news/483461/mhs-genesis-celebrates-full-deployment
     publisher: DVIDS
-    publicationDate: October 18, 2024
+    publicationDate: October 17, 2024
   - label: "DHA Official: Optimization is ‘Future’ of Federal EHR"
     linkUrl: https://govciomedia.com/dha-after-migration-next-steps-in-electronic-health-records/
     publisher: GovCIO Media & Research
