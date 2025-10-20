@@ -3,6 +3,10 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - publicationDate: October 20, 2025
+    label: Test 10/20
+    linkUrl: https://google.com
+    publisher: Google
   - publicationDate: September 25, 2025
     label: TEST 5 - VA to Resume Oracle Health EHR Rollout in Waves
     linkUrl: https://www.beckershospitalreview.com/healthcare-information-technology/ehrs/va-to-resume-oracle-health-ehr-rollout-in-waves/
