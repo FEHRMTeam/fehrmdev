@@ -171,9 +171,17 @@ collections:
                 media_library:
                   config:
                     multiple: false
+      
+  - label: News Pages
+    name: newsPages
+    extension: md
+    editor:
+      preview: false
+    public_folder: ../images
+    files:
       - label: In the News
         name: inTheNews
-        file: src/list-pages/in-the-news.md
+        file: src/news-pages/in-the-news.md
         fields:
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Sidenav', name: 'sidenav', widget: 'boolean', required: false }

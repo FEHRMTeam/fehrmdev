@@ -169,6 +169,13 @@ module.exports = {
         path: `${__dirname}/src/homepage`,
       },
     },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `news-pages`,
+        path: `${__dirname}/src/news-pages`,
+      },
+    },
     `gatsby-transformer-remark`,
     {
       resolve: `gatsby-plugin-manifest`,
