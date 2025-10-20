@@ -3,6 +3,11 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - publicationDate: October 17, 2025
+    label: "Unstructured Data Crisis: How AI Solves Healthcare’s Biggest
+      Interoperability Challenge - TEST"
+    linkUrl: https://hitconsultant.net/2025/10/17/unstructured-data-crisis-how-ai-solves-healthcares-biggest-interoperability-challenge/
+    publisher: HIT Consultant - TEST
   - publicationDate: October 20, 2025
     label: Test 10/20
     linkUrl: https://google.com
