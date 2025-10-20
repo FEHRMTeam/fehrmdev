@@ -3,6 +3,10 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - publicationDate: January 01, 2024
+    linkUrl: https://news.va.gov/127475/best-of-2023-top-veteran-resources-of-the-year/
+    label: "Best of 2023: Top Veteran Resources of the Year"
+    publisher: Department of Veterans Affairs
   - publicationDate: October 17, 2025
     label: "Unstructured Data Crisis: How AI Solves Healthcare’s Biggest
       Interoperability Challenge - TEST"
