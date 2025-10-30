@@ -78,7 +78,7 @@ const NewsPage = ({ data }) => {
                     
                     return (
                       <div key={year}>
-                        <h2 className="usa-accordion__heading">
+                        <h2 className="usa-accordion__heading" style={{ marginTop: '0.5rem' }}>
                           <button 
                             type="button" 
                             className="usa-accordion__button" 
