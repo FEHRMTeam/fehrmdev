@@ -71,7 +71,7 @@ const NewsPage = ({ data }) => {
               <div className="usa-prose" dangerouslySetInnerHTML={{ __html: html }} />
               
               {frontmatter.newsItems && frontmatter.newsItems.length > 0 && (
-                <div className="usa-accordion usa-accordion--bordered" data-allow-multiple>
+                <div className="usa-accordion usa-accordion--bordered" data-allow-multiple style={{ marginTop: '2rem' }}>
                   {sortedYears.map(year => {
                     const isExpanded = expandedYears[year];
                     const contentId = `news-year-${year}`;
