@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { graphql } from 'gatsby';
 
 import Layout from '../components/layout';
@@ -7,7 +7,7 @@ import Sidenav from '../components/sidenav';
 import NewsItem from '../components/newsItem.js';
 
 /*
-  This template is for a news page that groups news items by year in descending chronological order.
+  This template is for a news page that displays news items by year in associated accordions in descending chronological order.
 */
 
 const NewsPage = ({ data }) => {
@@ -42,6 +42,16 @@ const NewsPage = ({ data }) => {
 
   const newsItemsByYear = groupNewsByYear(frontmatter.newsItems);
   const sortedYears = Object.keys(newsItemsByYear).sort((a, b) => b - a); // Descending order
+  
+  // State to manage which year accordions are expanded
+  const [expandedYears, setExpandedYears] = useState(() => {
+    // Initialize with only the first (most recent) year expanded
+    const initialState = {};
+    sortedYears.forEach((year, index) => {
+      initialState[year] = index === 0; // Only first year is expanded
+    });
+    return initialState;
+  });
 
   return (
     <Layout
@@ -61,17 +71,37 @@ const NewsPage = ({ data }) => {
               <div className="usa-prose" dangerouslySetInnerHTML={{ __html: html }} />
               
               {frontmatter.newsItems && frontmatter.newsItems.length > 0 && (
-                <div className="usa-prose">
-                  {sortedYears.map(year => (
-                    <div key={year}>
-                      <h2>{year}</h2>
-                      <ul>
-                        {newsItemsByYear[year].map(item => (
-                          <NewsItem key={`${item.label}-${item.publicationDate}`} item={item} />
-                        ))}
-                      </ul>
-                    </div>
-                  ))}
+                <div className="usa-accordion usa-accordion--bordered" data-allow-multiple>
+                  {sortedYears.map(year => {
+                    const isExpanded = expandedYears[year];
+                    const contentId = `news-year-${year}`;
+                    
+                    return (
+                      <div key={year}>
+                        <h2 className="usa-accordion__heading">
+                          <button 
+                            type="button" 
+                            className="usa-accordion__button" 
+                            aria-expanded={isExpanded} 
+                            aria-controls={contentId}
+                          >
+                            {year}
+                          </button>
+                        </h2>
+                        <div 
+                          id={contentId} 
+                          className="usa-accordion__content usa-prose" 
+                          hidden={!isExpanded}
+                        >
+                          <ul>
+                            {newsItemsByYear[year].map(item => (
+                              <NewsItem key={`${item.label}-${item.publicationDate}`} item={item} />
+                            ))}
+                          </ul>
+                        </div>
+                      </div>
+                    );
+                  })}
                 </div>
               )}
             </main>
