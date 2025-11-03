@@ -10,9 +10,13 @@ faqImage:
   alt: A doctor uses a stethoscope to listen to a patient's heart and lungs.
 faqQuestions:
   - questionid: 1Ms9BPt-sgShk8W0gQivM
-    question: How do patients share their medical records with facilities outside of
+    question: >-
+      How do patients share their medical records with facilities outside of
       Department of Defense (DOD) or Department of Veterans Affairs (VA) and
       vice versa?
+
+
+      Test edit
     answer: The joint health information exchange (HIE) enables the Federal
       Electronic Health Record (EHR) to bidirectionally exchange clinical
       documents with the private sector. To confirm whether an HIE, hospital,
