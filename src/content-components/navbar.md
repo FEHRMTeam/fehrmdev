@@ -183,4 +183,8 @@ navMenuItems:
         linkType: internal
         linkUrl: /lovell-fhcc-overview
         newTab: false
+      - label: For Patients
+        linkType: internal
+        linkUrl: /for-patients-faqs
+        newTab: false
 ---
