@@ -5,9 +5,9 @@ parent: Frequently Asked Questions
 category: For Patients
 sortOrder: 8
 faqImage:
-  image: ../images/ForPatients01_EnhancingYourCare_Patients_Landing Page
-    Images_010625_v2-13.png
-  alt: A doctor uses a stethoscope to listen to a patient's heart and lungs.
+  image: ../images/ForPatients1LandingPageImages.png
+  alt: A doctor uses a stethoscope to listen to a child's heart and lungs while
+    the child is held by another adult.
 faqQuestions:
   - questionid: 1Ms9BPt-sgShk8W0gQivM
     question: How do patients share their medical records with facilities outside of
