@@ -167,6 +167,10 @@ navMenuItems:
         linkType: internal
         linkUrl: /fehrm-future
         newTab: false
+      - label: For Patients
+        linkType: internal
+        linkUrl: /for-patients-faqs
+        newTab: false
       - label: Joint Health Information Exchange
         linkType: internal
         linkUrl: /joint-health-information-exchange
@@ -182,9 +186,5 @@ navMenuItems:
       - label: Lovell FHCC Overview
         linkType: internal
         linkUrl: /lovell-fhcc-overview
-        newTab: false
-      - label: For Patients
-        linkType: internal
-        linkUrl: /for-patients-faqs
         newTab: false
 ---
