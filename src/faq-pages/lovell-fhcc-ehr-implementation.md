@@ -3,7 +3,7 @@ title: Lovell FHCC EHR Implementation
 sidenav: true
 parent: Frequently Asked Questions
 category: Lovell FHCC EHR Implementation
-sortOrder: 6
+sortOrder: 7
 faqImage:
   image: ../images/FAQs06_LovellFHCC_EHRImp_Landing Page Images_010625_v2-34.png
   alt: A group of people holding up a sign that says "The Federal Electronic
