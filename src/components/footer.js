@@ -22,6 +22,7 @@ const Footer = ({ footerContent }) => {
           <a
             href={footerLink.linkUrl}
             target="_blank"
+            aria-label={`${footerLink.label} (Opens in new tab)`}
             rel="noreferrer noopener">{footerLink.label}</a>
         ) : (
           <a href={footerLink.linkUrl}>{footerLink.label}</a>
