@@ -35,8 +35,8 @@ const SearchForm = ({ navigation, secondaryLinks }) => {
   };
 
   return (
-    <form className="usa-search usa-search--small" onSubmit={handleSubmit}>
-      <div role="search">
+    <form className="usa-search usa-search--small" onSubmit={handleSubmit} role="search">
+      <div>
         <label className="usa-sr-only" htmlFor="extended-search-field-small">
           Search small
         </label>

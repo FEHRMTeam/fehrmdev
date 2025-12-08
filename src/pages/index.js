@@ -23,9 +23,9 @@ const IndexPage = ({ data }) => {
       <main id="main-content">
         <Hero heroCallout={frontmatter.heroCallout} />
         <Cards cardsContent={frontmatter.highlightCards} />
-        <Tagline taglineContent={frontmatter.tagline} />
-        <Highlights callToActions={frontmatter.callToActions} />
       </main>
+      <Tagline taglineContent={frontmatter.tagline} />
+      <Highlights callToActions={frontmatter.callToActions} />
     </Layout>
   );
 };
