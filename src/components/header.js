@@ -9,7 +9,7 @@ const Header = ({ children, siteTitle = `` }) => {
     <div className="usa-navbar">
       <div className="usa-logo" id="extended-logo">
         <em className="usa-logo__text">
-          <Link to="/" title="Home" aria-label="Home" role="heading">
+          <Link to="/" title="Home" aria-label="Home">
             {siteTitle}
           </Link>
         </em>
