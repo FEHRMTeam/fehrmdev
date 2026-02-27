@@ -16,6 +16,7 @@ The common capabilities the FEHRM delivers in support of the Federal EHR refer t
 * Leading analysis and integration of deployment activities at joint sharing sites where DOD and VA resources are shared
 * Overseeing configuration and content changes to the EHR that are agreed on by the Departments through a joint decision-making process facilitated by the FEHRM
 * Providing software upgrades and solutions to optimize EHR performance
+* Test
 * Tracking joint risks, issues, and opportunities as well as lessons learned regarding EHR implementation to inform continuous improvement
 * Testing, testing.... 
 * Maintaining an integrated master schedule to help coordinate EHR activities
