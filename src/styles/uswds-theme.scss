@@ -6,6 +6,9 @@
     $theme-image-path: '../../node_modules/@uswds/uswds/dist/img',
     $theme-font-path: '../../node_modules/@uswds/uswds/dist/fonts',
 
+    // Disable notifications
+    $theme-show-notifications: false,
+
     /*
     The url for the hero image in the source file is not currently prefixed by
     the $theme-image-path above.
