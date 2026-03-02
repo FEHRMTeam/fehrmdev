@@ -5,8 +5,10 @@
   "scripts": {
     "clean": "rimraf .cache public _site",
     "build": "gatsby build",
+    "build:no-deprecation": "set NODE_OPTIONS=--no-deprecation && gatsby build",
     "reset": "npx rimraf .git",
     "develop": "gatsby develop",
+    "develop:no-deprecation": "set NODE_OPTIONS=--no-deprecation && gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
@@ -16,33 +18,32 @@
   },
   "dependencies": {
     "@uswds/uswds": "^3.13.0",
-    "decap-cms-app": "^3.6.4",
-    "gatsby": "^5.15.0",
+    "decap-cms-app": "^3.10.1",
+    "gatsby": "^5.16.1",
     "gatsby-awesome-pagination": "^0.3.8",
-    "gatsby-plugin-decap-cms": "^4.0.4",
-    "gatsby-plugin-manifest": "^5.15.0",
-    "gatsby-plugin-offline": "^6.15.0",
-    "gatsby-plugin-react-helmet": "^6.15.0",
+    "gatsby-plugin-manifest": "^5.16.0",
+    "gatsby-plugin-offline": "^6.16.0",
+    "gatsby-plugin-react-helmet": "^6.16.0",
     "gatsby-plugin-robots-txt": "^1.8.0",
-    "gatsby-plugin-sass": "^6.15.0",
-    "gatsby-plugin-sitemap": "^6.15.0",
-    "gatsby-source-filesystem": "^5.15.0",
-    "gatsby-transformer-remark": "^6.15.0",
+    "gatsby-plugin-sass": "^6.16.0",
+    "gatsby-plugin-sitemap": "^6.16.0",
+    "gatsby-source-filesystem": "^5.16.0",
+    "gatsby-transformer-remark": "^6.16.0",
     "nanoid": "^5.1.6",
     "prop-types": "^15.8.1",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
     "react-helmet": "^6.1.0",
-    "sass": "^1.93.0",
+    "sass": "^1.97.3",
     "showdown": "^2.1.0"
   },
   "devDependencies": {
     "eslint-config-react-app": "^7.0.1",
-    "prettier": "^3.6.2",
-    "rimraf": "^6.0.1"
+    "prettier": "^3.8.1",
+    "rimraf": "^6.1.3"
   },
   "engines": {
-    "node": "20.x.x",
+    "node": "22.x.x",
     "npm": "10.x.x"
   }
 }
