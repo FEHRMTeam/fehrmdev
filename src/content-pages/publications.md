@@ -9,6 +9,7 @@ parent: Media
 
 The Federal Electronic Health Record Modernization (FEHRM) office, in collaboration with the Department of Defense (DOD) and Department of Veterans Affairs (VA), developed these materials to share information about the Federal Electronic Health Record (EHR):
 
+* [Capability Block 14 Fact Sheet](/images/capability-block-14_20260220_508ed.pdf)
 * [FEHRM Fact Sheet](/images/FEHRM_Fact_Sheet_04072025_508_v1.pdf)
 * [Capability Block 12 Informational Placemat](/images/Capability_Block_12_022025_508ed.pdf)
 * [Capability Block 11 Informational Placemat](/images/FEHR-Enhancements-in-Capability-Block-11_081924_508ed.pdf)
@@ -44,7 +45,7 @@ Follow the FEHRM on [LinkedIn](https://www.linkedin.com/company/fehrm/) and [X](
 * [How Electronic Health Records Impact Patient Engagement and Satisfaction](https://www.linkedin.com/pulse/how-electronic-health-records-impact-patient-engagement-satisfaction?trackingId=QPeUcL1N54pe3F13DPaQJA%3D%3D)
 * [Unique Approaches to Lovell FHCC Federal EHR Deployment](https://www.linkedin.com/pulse/unique-approaches-lovell-fhcc-federal-ehr-deployment-fehrm?trackingId=PLu2%2FBnP8efexedzAsI9vA%3D%3D)
 * [The FEHRM Makes Strides with Lovell FHCC Federal EHR Implementation](https://www.linkedin.com/pulse/fehrm-makes-strides-lovell-fhcc-federal-ehr-implementation-fehrm?trackingId=Wp%2F%2BHMZCEO8mHNl9Dh8cdQ%3D%3D)
-* [Functional, Physical and Process Domains](https://www.linkedin.com/pulse/functional-physical-process-domains-fehrm?trackingId=Y7VHDbd8mSQe%2Faa%2FI3zyNQ%3D%3D)[](https://www.linkedin.com/pulse/customer-domain-fehrm?trackingId=pEDe4fyVtgZzNtSUzguR1g%3D%3D)
+* [Functional, Physical and Process Domains](https://www.linkedin.com/pulse/functional-physical-process-domains-fehrm?trackingId=Y7VHDbd8mSQe%2Faa%2FI3zyNQ%3D%3D)
 * [Understanding Common Product Design](https://www.linkedin.com/pulse/understanding-common-product-design-fehrm?trackingId=i1o2EKEcrS%2B20Bgz3uBHjw%3D%3D)
 * [TEST: This is a new link too.](https://www.linkedin.com/pulse/understanding-common-product-design-fehrm?trackingId=i1o2EKEcrS%2B20Bgz3uBHjw%3D%3D)
 * [Federal EHR Patient Safety Outperforms Legacy, Per Industry Standards](https://www.health.mil/News/Articles/2023/03/07/Federal-EHR-Patient-Safety-Outperforms-Legacy-Per-Industry-Standards)
