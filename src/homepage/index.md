@@ -13,16 +13,15 @@ heroCallout:
   callToActionBtnText: Learn more
   callToActionUrl: /about-fehrm
 highlightCards:
-  - heading: We Were at DHITS
-    description: We presented at the 2022 Defense Health Information Technology
-      Symposium (DHITS).
+  - heading: Capability Block 14 is live!
+    description: Capability Block 14 enhances Federal EHR capabilities with new
+      software code and other updates.
     button:
-      text: Learn more
-      url: /dhits-sessions
+      text: Read
+      url: /images/capability-block-14_20260220_508ed.pdf
     cardImage:
-      image: images/DHITS-homepage.png
-      alt: Snapshot of the 2022 Defense Health Information Technology Symposium
-        (DHITS) homepage.
+      image: images/Cap_Block_12_Release_Updated_Media_Landing_Page_Images_012125.png
+      alt: Placeholder - CB12 graphic (CB 14 graphic is in development.)
   - heading: Federal EHR Deployment
     description: We are deploying the federal EHR at a joint sharing site that will
       lead the way for health care.
