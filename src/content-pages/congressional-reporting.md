@@ -9,6 +9,5 @@ The FEHRM's Congressional Reports are submitted to inform Congress about the pro
 
 **Annual Reports**
 
-
-[2023 Annual Report](../images/microsoft-word-tab-a_fehrm-cy2023-annual-report_508ed.pdf)
-
+* [2024 Annual Report](/images/fehrm-cy2024-annual-report-final.pdf)
+* [2023 Annual Report](../images/microsoft-word-tab-a_fehrm-cy2023-annual-report_508ed.pdf)
