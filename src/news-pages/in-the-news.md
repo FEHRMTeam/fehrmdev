@@ -3,6 +3,10 @@ title: In the News
 sidenav: true
 parent: Media
 newsItems:
+  - publicationDate: February 12, 2026
+    label: FEHRM CTO Voices Confidence as VA Prepares to Restart EHR Rollout in April
+    linkUrl: https://meritalk.com/articles/fehrm-cto-voices-confidence-as-va-prepares-to-restart-ehr-rollout-in-april/
+    publisher: MeriTalk
   - publicationDate: January 01, 2024
     linkUrl: https://news.va.gov/127475/best-of-2023-top-veteran-resources-of-the-year/
     label: "Best of 2023: Top Veteran Resources of the Year"
