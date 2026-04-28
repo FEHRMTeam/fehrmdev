@@ -34,6 +34,8 @@ const SurveyPage = ({ data }) => {
             <main id="main-content"
               className={"usa-layout-docs__main desktop:grid-col-9 usa-prose " + (frontmatter.title === "Leadership" ? "profile-images" : "")}>
                 <div className={"usa-prose fullwidth"} dangerouslySetInnerHTML={{ __html: html }} />
+                {/* These fields are optional and may be undefined when no survey pages exist.
+                    Gatsby schema customization in gatsby-node.js keeps this query stable. */}
                 <SurveyForm scriptSrc={frontmatter.surveyLink} formId={frontmatter.surveyId} />
             </main>
           </div>

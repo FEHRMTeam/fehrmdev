@@ -51,12 +51,4 @@ highlightCards:
     cardImage:
       image: ../images/events03_dhits_-landing-page-images_010625_v2.png
       alt: DHA Defense Health Agency
-  - heading: Submit a Speaker Request
-    description: null
-    button:
-      text: Learn more
-      url: /speaker-request/
-    cardImage:
-      image: ../images/events06_speakers_landing-page-images_010625_v2-26.png
-      alt: Illustration of a calendar page with the number 15
 ---

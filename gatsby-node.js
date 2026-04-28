@@ -32,6 +32,19 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
   });
 };
 
+// Keep optional survey frontmatter fields in the schema even when
+// there are currently no markdown files in src/survey-pages.
+exports.createSchemaCustomization = ({ actions }) => {
+  const { createTypes } = actions;
+
+  createTypes(`
+    type MarkdownRemarkFrontmatter {
+      surveyLink: String
+      surveyId: String
+    }
+  `);
+};
+
 exports.createPages = async ({ actions, graphql }) => {
   const { createPage } = actions;
 
