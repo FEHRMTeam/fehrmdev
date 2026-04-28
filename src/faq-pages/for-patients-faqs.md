@@ -44,7 +44,7 @@ faqQuestions:
       management teams. Additionally, authorship of patient note modifications
       within the Federal EHR are electronically authenticated and auditable.
       Contact VA's Electronic Health Record Modernization Integration Office at
-      [EHRMCommunications@va.gov](mailto:EHRMCommunications@va.gov) or the DOD
+      [dha.ncr.peo-ipo.mbx.fehrm@health.mil](mailto:dha.ncr.peo-ipo.mbx.fehrm@health.mil) or the DOD
       Program Executive Office, Defense Healthcare Management Systems'
       Communications Team at
       [dha.ncr.peo-ipo.mbx.peo-dhms-communications@health.mil](mailto:dha.ncr.peo-ipo.mbx.peo-dhms-communications@health.mil)
@@ -54,7 +54,7 @@ faqQuestions:
       receive, including the Federal EHR, during their health care experience?
     answer: Yes, please reach out to the VA’s Electronic Health Record Modernization
       Integration Office at
-      [EHRMCommunications@va.gov](mailto:EHRMCommunications@va.gov) or the or
+      [dha.ncr.peo-ipo.mbx.fehrm@health.mil](mailto:dha.ncr.peo-ipo.mbx.fehrm@health.mil) or the or
       the DOD Program Executive Office, Defense Healthcare Management Systems'
       Communications Team at
       [dha.ncr.peo-ipo.mbx.peo-dhms-communications@health.mil](mailto:dha.ncr.peo-ipo.mbx.peo-dhms-communications@health.mil).

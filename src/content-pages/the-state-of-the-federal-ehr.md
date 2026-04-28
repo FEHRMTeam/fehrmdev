@@ -11,4 +11,4 @@ The Federal Electronic Health Record Modernization (FEHRM) office hosted this bi
 
 This biannual event is held virtually via Microsoft Teams and is open to the public. The FEHRM invites active participation from individuals who possess relevant, broad-based knowledge and experience.
 
-If you have any questions about this event, please send an email to [FEHRMcommunications@va.gov](mailto:FEHRMcommunications@va.gov)and include “The State of the Federal EHR” in the subject line.
+If you have any questions about this event, please send an email to [dha.ncr.peo-ipo.mbx.fehrm@health.mil](mailto:dha.ncr.peo-ipo.mbx.fehrm@health.mil) and include “The State of the Federal EHR” in the subject line.

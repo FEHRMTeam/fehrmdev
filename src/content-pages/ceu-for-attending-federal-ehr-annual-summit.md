@@ -9,8 +9,8 @@ Thank you for attending the Federal EHR Annual Summit! Please find below guidanc
 
 ### Department of Veterans Affairs (VA) Individuals
 
-You will receive an email from VA Talent Management System (TMS) with instructions on how to get your CEUs. If you do not receive an email, check your spam folder first before emailing [FederalEHRAnnualsummit@va.gov](mailto:FederalEHRAnnualsummit@va.gov).
+You will receive an email from VA Talent Management System (TMS) with instructions on how to get your CEUs. If you do not receive an email, check your spam folder first before emailing [dha.ncr.peo-ipo.mbx.fehrm@health.mil](mailto:dha.ncr.peo-ipo.mbx.fehrm@health.mil).
 
 ### Non-VA Individuals
 
-You will need to [create an account](images/how_to_create_an_account_in_vha_train_v2.pdf) in the Veterans Health Administration Employee Education System and then [complete a brief course](images/how-to-complete-courses-and-access-certifcates-vha-train-3.0.pdf) about the summit to get your CEUs. If you need additional guidance, email [FederalEHRAnnualsummit@va.gov](mailto:FederalEHRAnnualsummit@va.gov).
+You will need to [create an account](images/how_to_create_an_account_in_vha_train_v2.pdf) in the Veterans Health Administration Employee Education System and then [complete a brief course](images/how-to-complete-courses-and-access-certifcates-vha-train-3.0.pdf) about the summit to get your CEUs. If you need additional guidance, email [dha.ncr.peo-ipo.mbx.fehrm@health.mil](mailto:dha.ncr.peo-ipo.mbx.fehrm@health.mil).
