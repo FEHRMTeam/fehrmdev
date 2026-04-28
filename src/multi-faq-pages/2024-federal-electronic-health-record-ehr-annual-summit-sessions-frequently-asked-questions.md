@@ -11,7 +11,7 @@ category_group:
           - questionid: dad3db28-05a7-47d2-9745-b3ad555a0429
             answer: >
               Yes, there is a plan to revisit early DOD sites to update the
-              build to the enterprise standards. For additional information, please email [federalehrannualsummit@va.gov](mailto:federalehrannualsummit@va.gov).
+              build to the enterprise standards. For additional information, please email [dha.ncr.peo-ipo.mbx.fehrm@health.mil](mailto:dha.ncr.peo-ipo.mbx.fehrm@health.mil).
             question: >
               How were the Defense Health Agency enterprise standards
               determined? Is there a plan to revisit early Department of Defense
