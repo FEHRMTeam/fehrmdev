@@ -5,12 +5,13 @@ parent: N/A
 ---
 ## Get Continuing Education Units for Attending the Federal EHR Annual Summit
 
-Thank you for attending the Federal EHR Annual Summit! Please find below guidance on how to receive your continuing education units (CEUs) for attending the summit.
+Thank you for registering for the Federal EHR Annual Summit! Please find below guidance on receiving your continuing education units (CEUs) for attending the summit. Please find your appropriate section below:
 
-### Department of Veterans Affairs (VA) Individuals
+1. [Department of Veterans Affairs (VA) Individuals](https://www.fehrm.gov/department-of-veterans-affairs-va-individuals-1)
 
-You will receive an email from VA Talent Management System (TMS) with instructions on how to get your CEUs. If you do not receive an email, check your spam folder first before emailing [dha.ncr.peo-ipo.mbx.fehrm@health.mil](mailto:dha.ncr.peo-ipo.mbx.fehrm@health.mil).
+2. [Non-VA Individuals](https://www.fehrm.gov/department-of-veterans-affairs-va-individuals)
 
-### Non-VA Individuals
 
-You will need to [create an account](images/how_to_create_an_account_in_vha_train_v2.pdf) in the Veterans Health Administration Employee Education System and then [complete a brief course](images/how-to-complete-courses-and-access-certifcates-vha-train-3.0.pdf) about the summit to get your CEUs. If you need additional guidance, email [dha.ncr.peo-ipo.mbx.fehrm@health.mil](mailto:dha.ncr.peo-ipo.mbx.fehrm@health.mil).
+
+
+
