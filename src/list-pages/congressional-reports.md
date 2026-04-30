@@ -28,4 +28,4 @@ _“This effort is about much more than new software. It represents the opportun
 
 The Federal Electronic Health Record Modernization (FEHRM) office is a congressionally mandated organization subject to legislation, such as the annual National Defense Authorization Act, the annual spending bill, and other legislation governing the federal health care information technology enterprise.
 
-The FEHRM submits several reports to Congress as mandated by legislation. For more information about congressional reports, reach out to the FEHRM Communications Team at [dha.ncr.peo-ipo.mbx.fehrm@health.mil](mailto:dha.ncr.peo-ipo.mbx.fehrm@health.mil). 
+The FEHRM submits several reports to Congress as mandated by legislation. For more information about congressional reports, reach out to the FEHRM Communications Team at [Dha.ncr.peo-ipo.mbx.FEHRM-strategic-coordination@health.mil](mailto:Dha.ncr.peo-ipo.mbx.FEHRM-strategic-coordination@health.mil). 

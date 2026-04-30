@@ -13,6 +13,6 @@ Suite 2350
 
 Arlington, VA 22209
 
-[dha.ncr.peo-ipo.mbx.fehrm@health.mil](mailto:dha.ncr.peo-ipo.mbx.fehrm@health.mil)
+[Dha.ncr.peo-ipo.mbx.FEHRM-strategic-coordination@health.mil](mailto:Dha.ncr.peo-ipo.mbx.FEHRM-strategic-coordination@health.mil)
 
 [www.linkedin.com/company/fehrm](http://www.linkedin.com/company/fehrm)

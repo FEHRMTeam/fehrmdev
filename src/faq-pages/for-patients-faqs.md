@@ -76,5 +76,5 @@ faqQuestions:
       The Federal Electronic Health Record Modernization office reviewed issues related to the  [noreply@ehr.gov](mailto:noreply@ehr.gov) email notifications and is pleased to report the issue is resolved. Erroneous portal notification emails should no longer occur. 
 
 
-      Please reach out to [dha.ncr.peo-ipo.mbx.fehrm@health.mil ](mailto:dha.ncr.peo-ipo.mbx.fehrm@health.mil)with any questions or additional issues regarding erroneous portal notifications.
+      Please reach out to [Dha.ncr.peo-ipo.mbx.FEHRM-strategic-coordination@health.mil ](mailto:Dha.ncr.peo-ipo.mbx.FEHRM-strategic-coordination@health.mil)with any questions or additional issues regarding erroneous portal notifications.
 ---

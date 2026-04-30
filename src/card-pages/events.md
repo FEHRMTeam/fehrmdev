@@ -8,7 +8,7 @@ intro: >-
   Learn more about each event by clicking below.
 
 
-  **Event Inquiries**: For event inquiries, please email FEHRM Communications, at [dha.ncr.peo-ipo.mbx.fehrm@health.mil](mailto:dha.ncr.peo-ipo.mbx.fehrm@health.mil).
+  **Event Inquiries**: For event inquiries, please email FEHRM Communications, at [Dha.ncr.peo-ipo.mbx.FEHRM-strategic-coordination@health.mil](mailto:Dha.ncr.peo-ipo.mbx.FEHRM-strategic-coordination@health.mil).
 highlightCards:
   - heading: Federal EHR Annual Summit
     description: null
